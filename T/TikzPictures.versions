@@ -97,3 +97,10 @@ LaTeXStrings
 51f2a5ca1bdf1fb9eaaccb969f10b5a56c25dce0
 julia 0.4
 LaTeXStrings
+
+0.3.4
+-----
+768aa876269b20b03ce75d38acff6284dc29b5f0
+julia 0.4
+LaTeXStrings
+Compat 0.8.0

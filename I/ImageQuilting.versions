@@ -129,3 +129,12 @@ Combinatorics
 StatsBase
 Images
 LightGraphs 0.5.2
+
+0.3.2
+-----
+5c0a418846631b815472e1d91bbf96075894f0a6
+julia 0.4
+Combinatorics
+StatsBase
+Images
+LightGraphs 0.6.1

@@ -3,17 +3,20 @@ git://github.com/gusl/BSplines.jl.git
 0.0.0
 -----
 e65c43033d0dfe2bf82400eafc55b06bbae7d99d
+julia 0.0 0.5
 
 0.0.1
 -----
 c5c7379ea6dd4b7fe5787dce9522f699320544a3
+julia 0.0 0.5
 
 0.0.2
 -----
 c53892b3f2f1a8e107674e35083c44a8898375e9
+julia 0.0 0.5
 Winston
 
 0.0.3
 -----
 4fdaec1667c0b5ac05ee251519f6887a117168f3
-julia 0.2
+julia 0.2 0.5

@@ -1,4 +1,4 @@
-git://github.com/JuliaLang/Graphs.jl.git
+git://github.com/JuliaArchive/Graphs.jl.git
 
 0.0.0
 -----
@@ -142,3 +142,10 @@ Compat 0.4.0
 julia 0.3
 DataStructures 0.3.8
 Compat 0.4.0
+
+0.7.0
+-----
+f3462013e14ef3c482abebc26095304934dd25fc
+julia 0.4
+DataStructures 0.3.8
+Compat 0.7.16

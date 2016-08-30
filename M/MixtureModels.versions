@@ -3,7 +3,7 @@ git://github.com/lindahua/MixtureModels.jl.git
 0.1.0
 -----
 7d7cdf9728efaca6c185494d6308d176f8dbd6e8
-julia 0.2-
+julia 0.2- 0.5
 NumericExtensions
 MLBase
 Distributions
@@ -11,7 +11,7 @@ Distributions
 0.1.1
 -----
 d04f7e5838d83a787e8e76d602e315f206c7a644
-julia 0.2-
+julia 0.2- 0.5
 NumericExtensions
 MLBase
 Distributions
@@ -20,6 +20,6 @@ Distributions
 -----
 fe97a56189aeeadc8603d4fc3e2b9a23922c53c9
 Distributions
-julia 0.2.0-
+julia 0.2.0- 0.5
 MLBase
 NumericExtensions

@@ -3,5 +3,6 @@ git://github.com/aviks/Mongrel2.jl.git
 0.0.0
 -----
 a6047a01682db0bdf5a873fbe2781bbc2e8fed86
-ZMQ
+julia 0.0 0.5
+ZMQ 0.0.0 0.1.0
 JSON

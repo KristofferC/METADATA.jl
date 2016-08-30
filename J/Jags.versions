@@ -74,3 +74,10 @@ fa2b9e3efaa437aaa363c393aad6ad35cf20857a
 julia 0.3
 DataArrays
 Mamba
+
+1.0.0
+-----
+7eadc344326feb81ac46ae8305231b6d9f77a527
+julia 0.5-
+DataArrays
+Mamba 0.10.0

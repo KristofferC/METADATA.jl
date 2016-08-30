@@ -431,3 +431,14 @@ Clustering 0.4
 Distributions
 GraphMatrices
 MatrixDepot
+
+0.7.0
+-----
+991de1a99893283637a9235908a50ea56a3b0bc1
+julia 0.5-
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Distributions
+StatsBase

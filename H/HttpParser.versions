@@ -104,3 +104,11 @@ Compat
 julia 0.4-
 HttpCommon
 BinDeps
+
+0.2.0
+-----
+fcc85783d1d55ab8591bdcb949392ed194d17bfd
+julia 0.4
+HttpCommon
+BinDeps
+Compat 0.7.20

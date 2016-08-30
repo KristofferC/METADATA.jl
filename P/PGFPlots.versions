@@ -174,3 +174,16 @@ Colors
 ColorBrewer
 Contour 0.0.0 0.2-
 ImageMagick
+
+1.3.6
+-----
+b2bc6f39636b154ab9bc418f297028f129b17dda
+julia 0.4
+TikzPictures 0.3.4
+Images
+Compat 0.8.0
+Colors
+ColorBrewer
+Contour 0.2.0
+ImageMagick
+Discretizers

@@ -3,13 +3,15 @@ git://github.com/lendle/KernSmooth.jl.git
 0.0.1
 -----
 5dd1100c24ef3ffd777144dd4d6cd14c69c44699
+julia 0.0 0.5
 
 0.0.2
 -----
 52cb9c915d299eae374493a9fd36269aba40ed50
+julia 0.0 0.5
 
 0.0.3
 -----
 e882f75890e606c1f4916497f271e0c086e1250d
-julia 0.3-
+julia 0.3- 0.5
 RDatasets

@@ -97,3 +97,14 @@ Requires
 julia 0.3
 Compat 0.4
 Requires
+
+0.1.0
+-----
+183fc41ef76750d7c122ab289f24c9d1b1846b31
+julia 0.4
+
+0.1.1
+-----
+bbd0371b4a881951e60f148137b39ac208d491d8
+julia 0.4
+Compat 0.7.18
