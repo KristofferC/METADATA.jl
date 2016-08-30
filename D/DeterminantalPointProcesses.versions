@@ -1,0 +1,9 @@
+git://github.com/alshedivat/DeterminantalPointProcesses.jl.git
+
+0.0.1
+-----
+3ba50f8052abb264c62329fde29ec335d748b215
+julia 0.4
+FactCheck 0.4.3
+Iterators 0.1.8
+Combinatorics 0.2.0

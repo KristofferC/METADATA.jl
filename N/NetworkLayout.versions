@@ -1,0 +1,9 @@
+git://github.com/JuliaGraphs/NetworkLayout.jl.git
+
+0.0.1
+-----
+b2cf7f313c42a3147c16a6ed41b4ac9645e8fe4b
+julia 0.4
+GeometryTypes
+Compat 0.8.6
+FixedSizeArrays
