@@ -1,5 +1,0 @@
-julia 0.3-
-Color
-BinDeps
-@osx Homebrew
-@windows WinRPM

@@ -1,7 +1,0 @@
-julia 0.4
-Calculus
-Lazy
-DataStructures
-MathProgBase
-NaNMath 0.2.1
-ForwardDiff 0.2 0.3

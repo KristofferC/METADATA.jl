@@ -1,7 +1,0 @@
-julia 0.3-
-Distributions
-StatsBase
-Datetime
-TimeSeries
-NLopt
-Optim 0.0 0.5

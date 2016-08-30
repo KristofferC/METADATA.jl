@@ -1,7 +1,0 @@
-julia 0.4
-BinDeps
-LightXML
-Requests
-JSON
-URIParser
-@windows WinRPM

@@ -1,7 +1,0 @@
-julia 0.1 0.4
-DataFrames
-Rmath
-StatsBase
-Distributions
-Winston
-GLM

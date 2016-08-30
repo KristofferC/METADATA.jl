@@ -1,5 +1,0 @@
-OpenGL
-BinDeps
-@osx Homebrew
-@windows WinRPM
-julia 0.2-

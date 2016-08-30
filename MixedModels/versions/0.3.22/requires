@@ -1,9 +1,0 @@
-julia 0.3-
-Compat
-DataFrames 0.6-
-Distributions 0.6-
-Docile 0.4-
-NLopt 0.2-
-PDMats 0.3-
-Showoff
-StatsBase 0 0.8.0

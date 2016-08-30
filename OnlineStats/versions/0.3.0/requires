@@ -1,8 +1,0 @@
-julia 0.4-
-Docile
-Compat
-Reexport
-StatsBase
-Distributions
-MultivariateStats
-Dates

@@ -1,8 +1,0 @@
-julia 0.3
-DualNumbers
-FITSIO
-WCSLIB
-DataFrames
-Docile
-Grid
-GaussianMixtures

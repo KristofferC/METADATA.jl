@@ -1,5 +1,0 @@
-julia 0.4
-PyCall 1.6.2
-Colors
-LaTeXStrings
-Compat 0.8.0
