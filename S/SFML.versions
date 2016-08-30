@@ -1,0 +1,56 @@
+git://github.com/zyedidia/SFML.jl.git
+
+0.0.1
+-----
+f9eb111954459c7fafb337524c5aa8e30d1e56dc
+julia 0.4-
+
+0.0.2
+-----
+9e37c18a03cb438729fbaaf3eedf564d4f84a2a6
+julia 0.4-
+
+0.0.3
+-----
+54e9a90bd5b5737358a327fda70abc37809d7161
+julia 0.4-
+
+0.0.4
+-----
+6a28cdb3757463f83d36fec5d01ec0cf1189d3e0
+julia 0.4-
+
+0.0.5
+-----
+e6ebe0b3ce77b6911b42714ad2dbd7ba14a40833
+julia 0.4-
+
+0.0.6
+-----
+a493c5470820e86a1ecec8cbfcb2298b733112f7
+julia 0.4-
+@windows WinRPM
+
+0.0.7
+-----
+2d4d3ced56eb345a890e8083c44b1b4ca3a2d724
+julia 0.4-
+@windows WinRPM
+
+0.0.8
+-----
+957925524e3fb67d20a28277673ea95e7b62e731
+julia 0.4-
+@windows WinRPM
+
+0.0.9
+-----
+9d1febd0ad911e25706ee728aa3e425b14feb816
+julia 0.4-
+@windows WinRPM
+
+0.1.0
+-----
+5f4188289d0aa6b782ad6ab94720198edaab0d46
+julia 0.4-
+@windows WinRPM

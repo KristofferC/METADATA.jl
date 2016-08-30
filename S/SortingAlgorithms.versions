@@ -1,0 +1,42 @@
+git://github.com/JuliaLang/SortingAlgorithms.jl.git
+
+0.0.0
+-----
+bf1e0f40b7581bff75223dbf45a89a32a8064eaf
+
+0.0.1
+-----
+bf1e0f40b7581bff75223dbf45a89a32a8064eaf
+
+0.0.2
+-----
+f1d03f88da605d1f820ff47dda0b7fc5485e21c2
+
+0.0.3
+-----
+ef81d90faa962b756624df33ff736fca120dc8c8
+julia 0.3
+
+0.0.4
+-----
+089bac6693ebae82ada460b76ceb82c088c3e29f
+julia 0.3
+Compat
+
+0.0.5
+-----
+43fc48346355cc61f7ff550625edfe5a7a5cdf00
+julia 0.3
+Compat
+
+0.0.6
+-----
+3e666ecbc2d835a2f2d9ac80b93edb538ef7e907
+julia 0.3
+Compat
+
+0.1.0
+-----
+daf91266f9219402e4d4a026d624d3ab445711b9
+julia 0.4
+Compat 0.8.4

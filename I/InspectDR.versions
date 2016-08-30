@@ -1,0 +1,54 @@
+git://github.com/ma-laforge/InspectDR.jl.git
+
+0.0.1
+-----
+50c35d17cefdd265dd2293f9ff8b783ae51a6ee9
+julia 0.4
+Colors
+Gtk
+
+0.0.2
+-----
+08e12da6d0721ab0847c0db38273c78f21bef4ad
+julia 0.4
+Colors
+Gtk
+Graphics
+Cairo
+
+0.0.3
+-----
+e50c621bec0ab63e32075035bcb2a6efdb8673fb
+julia 0.4
+Colors
+Gtk
+Graphics
+Cairo
+
+0.0.4
+-----
+9d35ffa916e5ee83fe0dfe9bcaa02c0a331ff287
+julia 0.4
+Colors
+Gtk
+Graphics
+Cairo
+
+0.0.5
+-----
+54d942cef7e4c5b136d356170c344aad73d02f1c
+julia 0.4
+Colors
+Gtk
+Graphics
+Cairo
+
+0.0.6
+-----
+1ec1c4fd9ef6aeba62088957fb8cfc6165ae24ee
+julia 0.4
+Colors
+Gtk
+Graphics
+Cairo
+NumericIO

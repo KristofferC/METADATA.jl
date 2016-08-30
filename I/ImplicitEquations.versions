@@ -1,0 +1,32 @@
+git://github.com/jverzani/ImplicitEquations.jl.git
+
+0.0.1
+-----
+20cd91a5b5e64a45bb252b40c2f2dc40a587e209
+ValidatedNumerics 0.0.3
+Requires
+Docile
+Compat
+
+0.0.3
+-----
+dff8dd24993f93de5f6b28c3da556e72006acff6
+julia 0.3
+ValidatedNumerics 0.1.0
+Requires
+Compat
+
+0.1.0
+-----
+0eb64b21374d95c1d21b9cfe853c94b52c464861
+julia 0.4
+ValidatedNumerics 0.1.0
+Plots 0.5.0 0.5.1
+
+0.2.0
+-----
+d6f9cdba441d3554836cd8259777e69818d658cf
+julia 0.4
+ValidatedNumerics 0.1.0
+RecipesBase 0.0.6
+Compat

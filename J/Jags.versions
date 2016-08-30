@@ -1,0 +1,76 @@
+git://github.com/goedman/Jags.jl.git
+
+0.0.1
+-----
+89fd37046b16118376d42f65dfe42deba5e9477f
+julia 0.3-
+DataArrays 0.2.0-
+Gadfly 0.3.5-
+Cairo 0.2.16
+
+0.0.2
+-----
+2535ea6fe6cee4ab8b92ffa710eaa4650a82b176
+julia 0.3-
+DataArrays 0.2.0-
+
+0.0.3
+-----
+33751eb95c628799b8e1b0919554d6e8dce26f6f
+julia 0.3-
+DataArrays 0.2.0-
+
+0.0.4
+-----
+4251140343a1b82b63a9ce787d600ccdcd00ad48
+julia 0.3 0.4
+DataArrays 0.2.1
+
+0.1.0
+-----
+eeca5caef02ba30268965fbcdcb11cb2bce20fae
+julia 0.3 0.4-
+DataArrays
+Mamba
+
+0.1.1
+-----
+52b14e7dae6d507e2f7b974f521035fbf7b15c3a
+julia 0.3 0.4-
+DataArrays
+Mamba
+
+0.1.2
+-----
+d6ebcd7331d6bb12eddacbc2a297c4927aa30f47
+julia 0.3 0.4-
+DataArrays
+Mamba
+
+0.1.3
+-----
+c9de916bd6835a0f9460229193e999fe9a619940
+julia 0.3
+DataArrays
+Mamba
+
+0.1.4
+-----
+da0e492e30a111f120c2bd757297f84b994f9ec1
+julia 0.3
+DataArrays
+Mamba
+
+0.1.5
+-----
+090a73a0499030a7e9149e5f09ae7e59fa8a55a1
+julia 0.3
+DataArrays
+Mamba
+
+0.2.0
+-----
+fa2b9e3efaa437aaa363c393aad6ad35cf20857a
+julia 0.3
+DataArrays
+Mamba

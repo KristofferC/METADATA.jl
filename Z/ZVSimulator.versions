@@ -1,0 +1,8 @@
+git://github.com/scidom/ZVSimulator.jl.git
+
+0.0.0
+-----
+7d5122378785cb661791bd9c2cf6ff060113c828
+julia 0.3-
+Distributions 0.4.7
+MCMC 0.0.6

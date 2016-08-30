@@ -1,0 +1,67 @@
+git://github.com/dcjones/Zlib.jl.git
+
+0.0.0
+-----
+4c8a63d2d7a2c6ae25aad7b5616f8137b88cc0a1
+
+0.1.0
+-----
+2531b9db47fec051efafab08504b6d2070be7e13
+
+0.1.1
+-----
+7a6612616acc3b5b070d30ed3159d96c537ade32
+
+0.1.10
+------
+168b89b192bd6b5e9153e2d383144ed605929714
+julia 0.3
+Compat
+
+0.1.11
+------
+90952ee71db21d8210698f784219bf025b408406
+julia 0.3
+Compat
+
+0.1.12
+------
+3adea2475aafa351b70d746af06516182ca3e433
+julia 0.3
+Compat
+
+0.1.2
+-----
+a073de1ff0fbf2c7c3821ef137fd3b17007de916
+
+0.1.3
+-----
+67d7aa8ed7ec603882db0414e9ca380c2a780239
+
+0.1.4
+-----
+04f04bf36f1903e72a66ed8f08aac19a35084c67
+
+0.1.5
+-----
+9f72c4ec5bc7e65a1b7a77467d7b5d814e5db457
+
+0.1.6
+-----
+637da9f566db4f325a07db87c0ca56cde5c6f0bd
+julia 0.3-
+
+0.1.7
+-----
+08946ee7eb15bc530fb5818e388f12f3ffbfb6e3
+julia 0.3-
+
+0.1.8
+-----
+af54f9a2ae0c489c4edded1b8c822fadb8c47271
+julia 0.3-
+
+0.1.9
+-----
+4b976dd921bf81891eadf2eee6531390a857dc49
+julia 0.3-

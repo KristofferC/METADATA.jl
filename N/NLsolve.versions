@@ -1,0 +1,159 @@
+git://github.com/EconForge/NLsolve.jl.git
+
+0.1.0
+-----
+22e2f64ada4b112bb121ab529157a4c27e7f7fd3
+julia 0.2-
+Optim 0.0 0.5
+Calculus
+
+0.1.1
+-----
+b472f3cec1310888484d8f07ab4d671a172bf3b8
+julia 0.2-
+Optim 0.0 0.5
+Calculus
+
+0.1.2
+-----
+3fbd6057c01bad8d0cef46f0a9f1430749c19fb2
+julia 0.2-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+
+0.1.3
+-----
+e093d67a5402dd48f7a5fa45282167f78f86bc71
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+
+0.1.4
+-----
+acf07d94269fa9c343cf195771dfb4ed01012033
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+
+0.2.0
+-----
+29ea6f1d9f3526620313ecc6f13de10297b8b648
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+
+0.3.0
+-----
+7cf6e27751281151c8815a322f1c0bf2df622c06
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+
+0.3.1
+-----
+e4d058335c91a87bbffe0c1c3e3c1f4f430a0915
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+Compat
+
+0.3.2
+-----
+38433892ba8eab583c3807749d0bd429dfdedb90
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+Compat
+
+0.3.3
+-----
+3e837b7d3f14cde60b12dffb28225231497172aa
+julia 0.3-
+Optim 0.0 0.5
+Calculus
+DualNumbers
+Compat
+
+0.4.0
+-----
+4a68f84a8fc8caf3022a02063f3f93616c08196d
+julia 0.3
+Optim 0.0 0.5
+Calculus
+DualNumbers
+Compat
+Distances
+
+0.5.0
+-----
+40b8bdffb6728d152427519568727d53e0aa5ff3
+julia 0.3
+Optim 0.0 0.5
+Calculus
+DualNumbers
+Compat
+Distances
+
+0.6.0
+-----
+6492f5e4e96199022e254b96fa24e47e80d8865b
+julia 0.4
+Optim 0.0 0.5
+Calculus
+ForwardDiff
+Distances
+
+0.6.1
+-----
+ff78c8e1323c0038db8a95a20ce8250bf3b9f86b
+julia 0.4
+Optim 0.0 0.5
+Calculus
+ForwardDiff
+Distances
+
+0.7.0
+-----
+014e9b74e3e8c8fe482b0ddfe200548237555c0a
+julia 0.4
+Optim 0.0 0.5
+Calculus
+ForwardDiff 0.1.4 0.2
+Distances
+
+0.7.1
+-----
+65d120594f39260a64f2daa7bf4df5b2ec1413ea
+julia 0.4
+Optim
+Calculus
+ForwardDiff 0.1.4 0.2
+Distances
+Compat 0.7.16
+
+0.7.2
+-----
+bc5bbedf0d9ce67b39dc584221a2767452422f6a
+julia 0.4
+Optim
+Calculus
+Distances
+ForwardDiff 0.2.0
+Compat 0.8.0
+
+0.7.3
+-----
+796135225237dca6e3e7b4c294ea26773ce05321
+julia 0.4
+Optim
+Calculus
+Distances
+ForwardDiff 0.2.0
+Compat 0.8.0

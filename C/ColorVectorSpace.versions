@@ -1,0 +1,97 @@
+git://github.com/JuliaGraphics/ColorVectorSpace.jl.git
+
+0.0.1
+-----
+838cc3847e0b2856536c9f7de5e335db3a3429aa
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat
+
+0.0.2
+-----
+eaaa67bb50004eff939d192bf5acf2895cc72b0c
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat
+
+0.0.3
+-----
+303ca0f8da7af1be8aa8cdddcea95d8efa52fa98
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat
+
+0.0.4
+-----
+547aa84437765434e9168d798cafb85a7082c789
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat
+
+0.0.5
+-----
+3e561ecd023aeecefb2a8f56691f0e8acc49ea7e
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat
+
+0.1.0
+-----
+4b98a5d61e1e52af1befbecfa37a5239a7179128
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.1
+-----
+5a1788d8dee48336e405b65f11d8841930067aba
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.2
+-----
+9fc96bf5baf87d01e6f69bcb2300965400c28719
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.3
+-----
+3224e6795e4d69a59722bb3765defc0ab9071242
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.4
+-----
+009a4fc2a6ecbdcb3517ee8d7145798947a9b630
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.5
+-----
+550b26e28d4b0224b3d3ee1d97b9efd4a0f8e249
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.6
+-----
+5a45895ef8f2b8460d4ccfa108579f577a79d2b1
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+
+0.1.7
+-----
+a1821f2d24db092a8c324d1c35c8c2bb90a1d7a0
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1

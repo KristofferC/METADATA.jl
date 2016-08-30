@@ -1,0 +1,9 @@
+git://github.com/BioJulia/FMIndexes.jl.git
+
+0.0.1
+-----
+ea497eae30e9f94ff61a6b16edbfc4f67aa9fbe8
+julia 0.4-
+SuffixArrays
+WaveletMatrices
+IndexableBitVectors

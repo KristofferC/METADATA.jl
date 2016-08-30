@@ -1,0 +1,13 @@
+git://github.com/dehann/IncrementalInference.jl.git
+
+0.0.1
+-----
+a9e7fb0ee3b8ef265b866303d326cd23849d14f9
+julia 0.4
+Graphs
+GraphViz
+Gadfly
+Colors
+NLsolve
+Distributions
+KernelDensityEstimate

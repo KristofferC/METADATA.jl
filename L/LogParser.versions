@@ -1,0 +1,30 @@
+git://github.com/randyzwitch/LogParser.jl.git
+
+0.1.0
+-----
+bf8ee5f7abf5d6afa4f0a60aa2ac4562f846cd7e
+julia 0.3-
+DataFrames
+GZip
+
+0.2.0
+-----
+d0b9b8804a0336f1a7dfa2f5bf0b29d09c3936f7
+julia 0.4-
+DataFrames
+GZip
+
+0.2.1
+-----
+aee7a824d12eb4f5001c72d4eb164cce6d0a27c9
+julia 0.4
+DataFrames
+GZip
+
+0.3.0
+-----
+1d38131a4df81bdcb386a01ce790ed0a42c55fef
+julia 0.5.0-rc0
+DataFrames
+GZip
+Compat

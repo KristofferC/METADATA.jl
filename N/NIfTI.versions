@@ -1,0 +1,41 @@
+git://github.com/simonster/NIfTI.jl.git
+
+0.0.0
+-----
+2bed894013191a95324d062460424344c3014ed8
+julia 0.2-
+StrPack
+
+0.0.1
+-----
+9a298654d93762af5071f97ea9dda82e2b2446fc
+StrPack
+
+0.0.2
+-----
+24b87cca77240cfeaf1cfc8c671daf3299c452bc
+StrPack
+
+0.0.3
+-----
+78f761b0655b3e2150ce156dae3c75058615d36a
+StrPack
+GZip
+
+0.0.4
+-----
+ef10a0fe197c02bc589819c3fbac8162e058b049
+StrPack
+GZip
+
+0.1.0
+-----
+f2f9652eb882fa475d9182c85febc5261a5370cf
+julia 0.4
+GZip
+
+0.1.1
+-----
+2f217aac10d0e48e77eeb437e82a11c203dc2255
+julia 0.4
+GZip

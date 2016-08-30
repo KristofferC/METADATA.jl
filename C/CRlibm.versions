@@ -1,0 +1,29 @@
+git://github.com/dpsanders/CRlibm.jl.git
+
+0.1.0
+-----
+59ed4392dba891393646d109fdee1f50c5a65bbd
+julia 0.4-
+BinDeps
+
+0.2.0
+-----
+8e3984ebbc219fe52b0a3951f186bec226db8f17
+julia 0.4
+
+0.2.1
+-----
+811ed7d7891d494bcf3f659fe1c2baf1e5f5e4d6
+julia 0.4
+
+0.2.2
+-----
+efa7f03a5467189b58bec892c14d59dbe9839bda
+julia 0.4
+Compat 0.7.11
+
+0.2.3
+-----
+67574177f25b6041c9047eb4479412b9a659ca5d
+julia 0.4
+Compat 0.7.11

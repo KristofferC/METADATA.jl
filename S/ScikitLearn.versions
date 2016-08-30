@@ -1,0 +1,72 @@
+git://github.com/cstjean/ScikitLearn.jl.git
+
+0.0.1
+-----
+575fb8b3231674cf464ac3781c4c4445aff78931
+julia 0.4
+PyCall 1.4.0
+SymDict 0.0.2
+Parameters 0.3.0
+ScikitLearnBase 0.0.1
+
+0.0.2
+-----
+6bfea3156cf3b8cf80f83e0f09fc059584ad7cc3
+julia 0.4
+PyCall 1.4.0
+SymDict 0.0.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+ScikitLearnBase 0.0.1
+
+0.0.3
+-----
+d182cf4870d0281502e35351f617121f02634ca3
+julia 0.4
+PyCall 1.4.0
+SymDict 0.0.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.1
+
+0.0.4
+-----
+536ae0e69636d348f71acca8908a66986d12108f
+julia 0.4
+PyCall 1.4.0
+SymDict 0.0.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.4
+StatsBase 0.8.0
+
+0.1.0
+-----
+b62ad32ae96c83489a7880b25e6aa62c8fdfe571
+julia 0.4
+PyCall 1.6.2
+SymDict 0.0.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+
+0.1.1
+-----
+ce048508b9513b69bb35f0bdde37ff62f8bdafc0
+julia 0.4
+PyCall 1.6.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+Iterators 0.1.9

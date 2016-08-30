@@ -1,0 +1,8 @@
+git://github.com/bcbi/XMLconvert.jl.git
+
+0.0.1
+-----
+c2b7602f9125710831a7f75b5d3e6580e7b587ac
+julia 0.4
+LightXML 0.2.1
+DataStructures 0.4.4

@@ -1,0 +1,93 @@
+git://github.com/jipolanco/WriteVTK.jl.git
+
+0.0.1
+-----
+274049a1ff289e0af180f7e49de6ffe3223b31c7
+Compat 0.3.5
+LightXML 0.1.10
+Zlib 0.1.7
+
+0.1.0
+-----
+978fe83eb74264c929c19de5a593f4139aae2077
+julia 0.3 0.4  # version must be 0.3.*
+Compat 0.3.5
+LightXML 0.1.10
+Zlib 0.1.7
+
+0.2.0
+-----
+834ea4946bc96942a796181d16b17af27b2d4f49
+Compat 0.3.5
+LightXML 0.1.10
+Zlib 0.1.7
+
+0.2.1
+-----
+c50f0f04de3b7f17fd4ff1bfc55edde8ca4d7c17
+Compat 0.3.5
+LightXML 0.1.10
+Zlib 0.1.7
+
+0.2.2
+-----
+0b30123e0abe5744b6e95055e0bff3ba389b2ccd
+julia 0.3
+Compat 0.3.5
+LightXML 0.2
+Zlib 0.1.7
+
+0.3.0
+-----
+a822184abd5a032e13139fd328d3a05621275bfd
+julia 0.4-
+LightXML 0.2
+Libz 0.0.1
+
+0.3.1
+-----
+335725db8e7ab838596aa414de224dc5ee32e1d6
+julia 0.4
+LightXML 0.2
+Libz 0.0.1
+
+0.3.2
+-----
+15aea7dc1ffbd0a7d7b29b7aaea5aa06a3620349
+julia 0.4
+LightXML 0.2
+Libz 0.0.1
+BufferedStreams 0.0.3
+
+0.3.3
+-----
+d0416ebe01c7c74aa936bdcff344478d617573f3
+julia 0.4
+LightXML 0.2.1
+Libz 0.1.1
+BufferedStreams 0.1.1
+
+0.3.4
+-----
+f0e032139a9924dde1e8ff0fa3f6c0962015d000
+julia 0.4
+LightXML 0.2.1
+Libz 0.1.1
+BufferedStreams 0.1.1
+
+0.3.5
+-----
+88bb0b3fc624755e784acfa09ad95e71b94e36ef
+julia 0.4
+LightXML 0.2.1
+Libz 0.1.1
+BufferedStreams 0.1.1
+
+0.3.6
+-----
+e361c83d199c05d746b8dcce01c7095e709968b3
+julia 0.4
+LightXML 0.2.1
+Libz 0.1.1
+BufferedStreams 0.1.1
+Compat 0.7.15

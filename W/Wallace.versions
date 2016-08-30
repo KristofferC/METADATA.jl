@@ -1,0 +1,9 @@
+git://github.com/ChrisTimperley/Wallace.jl.git
+
+0.0.1
+-----
+92690d8bfbcd9b761706200a9926c69c6d043f5d
+julia 0.3-
+StatsBase 0.6.15-
+DataStructures 0.3.8-
+YAML 0.1.8-

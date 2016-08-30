@@ -1,0 +1,52 @@
+git://github.com/JuliaWeb/HTTPClient.jl.git
+
+0.0.0
+-----
+9592f780c08fc24fad9e6db037d6387bca1561af
+julia 0.2-
+LibCURL
+
+0.1.0
+-----
+9592f780c08fc24fad9e6db037d6387bca1561af
+julia 0.2-
+LibCURL
+
+0.1.1
+-----
+06075bdad21f964044ea7f6780cd5e5e7f886c7d
+julia 0.3-
+LibCURL
+
+0.1.3
+-----
+17f87c84dacd75bca9c873ea72998978f6c18c01
+julia 0.3-
+LibCURL
+
+0.1.4
+-----
+b92c3d632a2270e5baae9cdffae0a902084584ae
+julia 0.3-
+LibCURL
+
+0.1.5
+-----
+8f0445acd8dd50474c38e47b8b75524e2e3fd250
+julia 0.3
+Compat
+LibCURL
+
+0.1.6
+-----
+70a34c3bddc3f74d177c9a19e983eb5a4ab4f560
+julia 0.4-
+Compat
+LibCURL
+
+0.2.0
+-----
+e5de2602479f17c628f854223c6ba7baea6ecab6
+julia 0.4
+Compat
+LibCURL

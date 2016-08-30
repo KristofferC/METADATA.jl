@@ -1,0 +1,57 @@
+git://github.com/sjkelly/SerialPorts.jl.git
+
+0.0.1
+-----
+fc17544bf90f97b8262d2799bfdf4f3931c55900
+PyCall
+
+0.0.2
+-----
+625f0767b64d6e4a7966042e7882b80e0b215e1e
+julia 0.3
+BinDeps
+PyCall
+Compat
+
+0.0.3
+-----
+e9f5ba6dddc213ce308e6f5db496e06029dafa60
+julia 0.3
+Compat
+Conda
+Docile
+PyCall
+
+0.0.4
+-----
+82f2bdc78a0a95200531c8b7abc3af6f76d92cc6
+julia 0.4-
+Compat
+Conda
+PyCall
+
+0.0.5
+-----
+2fc2f7577e9cbbe959b546ba82b58f2681b4f6d8
+julia 0.4-
+Compat
+Conda
+PyCall
+
+0.0.6
+-----
+a87144762d037bb28fe05be0c242f4f77965061f
+julia 0.3
+Compat
+Conda
+Docile
+PyCall
+
+0.0.7
+-----
+b3262b29b4440478c3176ec5f3a43e5bded28b28
+julia 0.3
+Compat
+Conda
+Docile
+PyCall

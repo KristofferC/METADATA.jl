@@ -1,0 +1,56 @@
+git://github.com/JuliaWeb/JuliaWebAPI.jl.git
+
+0.0.1
+-----
+d9a5d49da577ab0f1d1a33c4a8162f90a35f7799
+julia 0.3
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat
+
+0.0.2
+-----
+47e9b3729c04b05a3b3c63d99634422925107cda
+julia 0.3
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat
+
+0.0.3
+-----
+ec63f7ab23b1573c921e5569e52f3ed01276e31a
+julia 0.3
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat
+
+0.0.5
+-----
+9df6ad8fe3d9b05382db68d3af375bdfd8edd0b0
+julia 0.3
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat
+
+0.0.6
+-----
+bd94a992d40d2e535abe751f9566e28b0cdad07a
+julia 0.3
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat

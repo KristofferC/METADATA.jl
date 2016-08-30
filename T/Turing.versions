@@ -1,0 +1,15 @@
+git://github.com/yebai/Turing.jl.git
+
+0.0.1
+-----
+d3e1cf4e141edbc78fb32a94e75bd1ae9d153c5c
+julia 0.4
+Distributions
+ConjugatePriors
+
+0.0.2
+-----
+79fcaf79c8324486d41d3ddeb0a627fd9d5dd56b
+julia 0.4
+Distributions
+ConjugatePriors

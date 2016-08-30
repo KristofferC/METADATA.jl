@@ -1,0 +1,20 @@
+git://github.com/Keno/REPL.jl.git
+
+0.0.0
+-----
+bad8864c980477042e9ca011d66c0c8a97bbac71
+julia 0.2- 0.3
+LineEdit
+
+0.0.1
+-----
+7afd79df5a2544e77b614d236d5706fa735d43a1
+julia 0.2- 0.3
+LineEdit
+REPLCompletions
+
+0.0.2
+-----
+0a26277531b1a8b50bb407d96779b28746dde0f3julia 0.2- 0.3
+LineEdit
+REPLCompletions

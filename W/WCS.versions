@@ -1,0 +1,27 @@
+git://github.com/JuliaAstro/WCS.jl.git
+
+0.1.0
+-----
+3e6b36cad77a8810ad10b4933b78838dd2f11053
+julia 0.4
+BinDeps
+
+0.1.1
+-----
+44eca22eeacfd784e83b34212d835bd5d5b35718
+julia 0.4
+BinDeps
+
+0.1.2
+-----
+88bff825e6413674c15ca1a215c0c6192e92b98b
+julia 0.4
+BinDeps 0.4.1
+Compat 0.8.6
+
+0.1.3
+-----
+23246fe5a9d6a293e000d72c0221483ea8c21035
+julia 0.4
+BinDeps 0.4.1
+Compat 0.8.6

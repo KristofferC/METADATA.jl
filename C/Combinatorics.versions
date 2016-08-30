@@ -1,0 +1,63 @@
+git://github.com/JuliaLang/Combinatorics.jl.git
+
+0.0.1
+-----
+2fd2dcd6cc09052e9799096a96dc14845aa587f7
+julia 0.2-
+Polynomial
+
+0.1.0
+-----
+956a6f5d82945085e0216fd565a188b1b8685d9d
+julia 0.3
+Polynomial
+
+0.1.1
+-----
+5a7b050bcbf0ef1db878aa57d274342f72de02eb
+julia 0.3
+Compat
+Polynomial
+
+0.1.2
+-----
+5e3d1b34adac5c7dfc2bd45d5515b34c87d6c9b0
+julia 0.3
+Compat
+Polynomial
+
+0.2.0
+-----
+9188f5a941223e29a4b0718069d0b02dc399b41d
+julia 0.4
+Compat
+Polynomials
+Iterators
+
+0.2.1
+-----
+69265d09ef038907d6fd86ef595933d9b1097ea4
+julia 0.4
+Polynomials
+Iterators
+
+0.3.0
+-----
+d1b68720d0109c76c39b795216b95e47c46e6b4d
+julia 0.5-
+Polynomials
+Iterators
+
+0.3.1
+-----
+3c08c9af9ebeaa54589e939c0cf2e652ef4ca6a0
+julia 0.5-
+Polynomials
+Iterators
+
+0.3.2
+-----
+15a86147542c1e5246cd9d15814e9ae31b8ea2cc
+julia 0.5-
+Polynomials
+Iterators

@@ -1,0 +1,170 @@
+git://github.com/JuliaWeb/GitHub.jl.git
+
+0.0.1
+-----
+a0cc0edf8fa429b042ed451276ada626a517099e
+julia 0.2-
+Requests
+JSON
+HttpCommon
+
+0.0.2
+-----
+21ef9c926af6217d6fe91638be22e7efe64608f5
+julia 0.2-
+Requests
+JSON
+HttpCommon
+
+0.0.3
+-----
+bc4ac30c82ab6d82d9cdc9d4c85e21ba560b7e7c
+julia 0.2-
+Requests
+JSON
+HttpCommon
+
+0.0.4
+-----
+cad4b096f71c666ef81e87fa894fcae105bcd3ed
+julia 0.2-
+Requests
+JSON
+HttpCommon
+
+0.0.5
+-----
+a615b9e31cd44bd75241f15f36bc3a62aab9b101
+julia 0.2-
+JSON
+Dates
+HttpCommon
+Requests
+
+0.0.6
+-----
+4aa574375ffa69528dfaa3ff31c060cda9d6c08c
+julia 0.2-
+JSON
+Dates
+HttpCommon
+Requests
+
+1.0.0
+-----
+6a177bc3de9f1c4c0fe503d760c748be3b89efff
+julia 0.3
+JSON
+Dates
+HttpCommon
+Requests
+Compat
+
+1.0.1
+-----
+ef182c0a235d3433f3d1414b2d9b886eee0e2636
+julia 0.3
+JSON
+Dates
+HttpCommon
+Requests
+Compat
+
+1.0.2
+-----
+80fbffea5653c0c61e8e14dbbb229d5d3b9d0548
+julia 0.3
+JSON
+Dates
+HttpCommon
+Requests
+Compat
+
+1.0.3
+-----
+d2d5c0c2ff5ae9b2e813e25ab01cfe6cf515138e
+julia 0.3
+JSON
+Dates
+HttpCommon
+Requests
+Compat
+
+2.0.0
+-----
+168393de5954fee006be6581a3dad2ccd1ca3d5e
+julia 0.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.0.1
+-----
+d069993b320c57b2ba27336406f6ec3a9ae39375
+julia 0.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.0.2
+-----
+b36e91f84e68a21a052076661513bf4a01c64173
+julia 0.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.0.3
+-----
+05cf7719ab3946de1cf0a54a8a15ba977fe31ef6
+julia 0.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.0.4
+-----
+eab14e1ab7b4de848ef6390101b6d40b489d5d08
+julia 0.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.1.0
+-----
+adaa80b5b1115f2b420ed7e40f773feed2ad0688
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.1.1
+-----
+74aedaab2f0c1a64e396b6ff0442dbcfd0f037ab
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests

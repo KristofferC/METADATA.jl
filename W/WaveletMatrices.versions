@@ -1,0 +1,15 @@
+git://github.com/BioJulia/WaveletMatrices.jl.git
+
+0.0.1
+-----
+f4a85f173ef45a87580a44c61d84b9369320a845
+julia 0.4-
+IntArrays
+IndexableBitVectors
+
+0.1.0
+-----
+ed62a02f0d5b2fc8eaed23b93af9535bc6324ba9
+julia 0.4-
+IntArrays
+IndexableBitVectors

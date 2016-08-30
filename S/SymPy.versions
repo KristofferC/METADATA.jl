@@ -1,0 +1,346 @@
+git://github.com/jverzani/SymPy.jl.git
+
+0.2.0
+-----
+8334191bbb0bd180c8ff9269e8fa7d37f1f21414
+julia 0.2-
+PyCall
+Gadfly
+
+0.2.1
+-----
+e1886923101594fd4359e4e353887dfc20de44cc
+julia 0.2-
+PyCall
+
+0.2.10
+------
+629345756ad693f97eddfc7d84e679f32e4a2504
+julia 0.2
+PyCall
+
+0.2.11
+------
+9fcec5204035bec3baee71c04f8149c6acf24aed
+julia 0.2
+PyCall
+
+0.2.12
+------
+37bae9645678556a28757e3282e85daa8dce0a25
+julia 0.2
+PyCall
+
+0.2.13
+------
+0fd8b9302efd0d45932dd3bf40d9b87526c21ea9
+julia 0.2
+PyCall
+
+0.2.14
+------
+b181d7d0ee62d4ebbb519c83e5a3b3aea8b603ab
+julia 0.2
+PyCall
+
+0.2.15
+------
+bda104e8a68a4ce52182017ec6ced7c0d0c61866
+julia 0.2
+PyCall
+
+0.2.16
+------
+b279c6fa15a9e62921e46e9d284cd29ec7f8c7ee
+julia 0.2
+PyCall
+
+0.2.17
+------
+3908b0e18c283abc4b022a076787a96877cfd827
+julia 0.2
+PyCall
+
+0.2.18
+------
+3f42e11b50cbc21953682b730cdaa0c0a76b14d1
+julia 0.2
+PyCall
+
+0.2.19
+------
+5baf86de868757b6c11c5609dc71206180b19df9
+julia 0.2
+PyCall
+
+0.2.2
+-----
+8ca6627441ec491f62d2c5a5eac3f4d36227f5fd
+julia 0.2-
+PyCall
+DataFrames
+Gadfly
+
+0.2.20
+------
+7d679f114e4ca518bcb2ad39fd379003363f0cde
+julia 0.2
+PyCall
+
+0.2.21
+------
+22f7f0531c9a56be65655c3fcaa7d687f57cca9b
+julia 0.3
+PyCall
+Jewel
+
+0.2.22
+------
+24a5215b9fd78578feede7e812557634d08fc508
+julia 0.3
+PyCall
+Docile 0.4
+Requires
+
+0.2.23
+------
+73978df1adf10caf665763e7af41f7d2bc3a20d3
+julia 0.3
+PyCall
+Docile 0.4
+Requires
+
+0.2.24
+------
+4953df8e878b778d56ffed513d3b39d494d34d26
+julia 0.3
+PyCall
+Docile 0.4
+Requires
+
+0.2.25
+------
+c2d21b243e7da7c53a93c993e2e38011a9811cd3
+julia 0.3
+PyCall
+Docile 0.4
+Requires
+
+0.2.26
+------
+726458472b781be7b4eed350afe816d3046c792f
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Docile 0.4
+Requires
+Compat 0.4
+
+0.2.27
+------
+b70722eb0eda4c53939d235c307ba13a1722e6e6
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Docile 0.4
+Requires
+
+0.2.28
+------
+91047e0f63695f22d87dd7bb6c084a31f08fbf8d
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Docile 0.4
+Requires
+
+0.2.29
+------
+a98c818a204a7542e720422c4e0bee0dd6e27ab5
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots 0.4.0
+
+0.2.3
+-----
+8ca6627441ec491f62d2c5a5eac3f4d36227f5fd
+julia 0.2-
+PyCall
+DataFrames
+Gadfly
+
+0.2.30
+------
+636655aaea00b17f042d04256c24e69265203bae
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots 0.4.0
+
+0.2.31
+------
+f648bb9cd63ed36394be6743761873fa8d9c7c11
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.32
+------
+11109e34baffe463ee79b168bc152f4997428b6b
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.33
+------
+a00046a9bd5d64a7c81874d71e603d830a3e38c0
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.34
+------
+74b92d73dd99d47dad3f3ba771049ac6858407fe
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.35
+------
+089edf2fe4afc0122d1fb3b1247a3f46f784aee0
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.36
+------
+de15bc181f16b83584c1d159239eeeea314634f3
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.37
+------
+915e4015d06d9f5ffcea32a6f88ad3ae32bd1e5e
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.38
+------
+dd3aaa69e44b920aa0bdd62ee751943921b2a79f
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.39
+------
+fd5149aa4b1e8f30a0fb5f50f454b27d57edbbf3
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.4
+-----
+dd21733a8349592ddb289b44ab83e59409d59df7
+julia 0.2
+PyCall
+
+0.2.40
+------
+d2f08e9d35f1fa84cfb5dc9427a31a4b19d51996
+julia 0.3
+Compat 0.4
+PyCall 0.8.0
+Conda
+Docile 0.4
+Requires
+Plots
+
+0.2.5
+-----
+05a2e855e42d6dcd44425aa9d357868924c5a165
+julia 0.2
+PyCall
+
+0.2.6
+-----
+6c18da58e4fe0c7c5c6d8d6f2a23ae072abaeec3
+julia 0.2
+PyCall
+
+0.2.7
+-----
+18109d7306be598b8f1ed887e06db578ca30ae87
+julia 0.2
+PyCall
+
+0.2.8
+-----
+fea5666973c3f64fc42a6f01618bd2234f4ccd62
+julia 0.2
+PyCall
+
+0.2.9
+-----
+31df1fc83277ac181a1786121ee6b89c83e08025
+julia 0.2
+PyCall
+
+0.3.0
+-----
+eff671d155f54a44fc993c1e34530575c7972f08
+julia 0.4
+Compat 0.7.18
+PyCall 1.6.0
+
+0.3.1
+-----
+58b0bdb8be1cde150cdd9374156d886a39645022
+julia 0.4
+Compat 0.7.18
+PyCall 1.6.0
+RecipesBase

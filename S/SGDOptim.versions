@@ -1,0 +1,52 @@
+git://github.com/lindahua/SGDOptim.jl.git
+
+0.0.1
+-----
+29028abbe7503ad456e4f9a059f1ccfa7f203669
+julia 0.3
+Compat
+ArrayViews
+DualNumbers
+
+0.0.2
+-----
+1b7074c2b78f46c1a47b6b9334aee9a70ebf5797
+julia 0.3
+Compat
+ArrayViews
+DualNumbers
+
+0.1.0
+-----
+7f1ea6ec4dae352404b929582edf9909e1653fb6
+julia 0.3
+Compat
+ArrayViews
+DualNumbers
+
+0.2.0
+-----
+056898d1a3f1a2f2d3f0a603e51d53243820947f
+julia 0.3
+Compat
+Reexport
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.1
+
+0.2.1
+-----
+4714b648b6aa142df6af16a9cc0782f31b01bb85
+julia 0.3
+Compat
+Reexport
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.1
+
+0.2.2
+-----
+ffad5891682aaead26b676576e49c50acb4cd986
+julia 0.3
+Compat
+Reexport
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.2

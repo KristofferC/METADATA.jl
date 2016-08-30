@@ -1,0 +1,120 @@
+git://github.com/JuliaLang/FactCheck.jl.git
+
+0.0.0
+-----
+7be923d65981ce3780b6cd39bd94256f95a4c1ad
+
+0.0.1
+-----
+0967bf14517d1f829de0e3563d5742a817199e93
+
+0.0.2
+-----
+7aa92673e7af4e2903566aa415641f3574480aae
+
+0.1.0
+-----
+4a01a024f9924cb24e0b4a5a05f7f6363ea88f6d
+
+0.1.1
+-----
+a0421f2ddadd2a5c059e11034b5f5653e660d1e1
+julia 0.2.0-
+
+0.1.2
+-----
+c7f6b6391146288a7e783098409316f51405e4f1
+julia 0.2.0-
+
+0.2.0
+-----
+78a2ecf6add3cfd20e6eaf455ccd144fde992442
+julia 0.3
+
+0.2.1
+-----
+eeb190ce96c520632d79e15725da25290fa36b43
+julia 0.3
+
+0.2.2
+-----
+9f4440eb69cae92972ad34e30807d171bc0429df
+julia 0.3
+
+0.2.3
+-----
+ece6319b574d2d8961baa0e850ffefae16049dd4
+julia 0.3
+Compat
+
+0.2.4
+-----
+4244f1195e3e3ab5c5b3bde4f4a4200761a77387
+julia 0.3
+Compat
+
+0.2.5
+-----
+d2255d7197b6514a3f7e033881f67c8cf5ea4e83
+julia 0.3
+Compat
+
+0.2.6
+-----
+f729a7e95083f6b69872a794edfbd7f65f461739
+julia 0.3
+Compat
+
+0.2.7
+-----
+e1e2cacd2922351f11e141e301e92421ce054894
+julia 0.3
+Compat
+
+0.2.8
+-----
+e3caf3143b13d4ce9bc576579d5ed9cd4aaefb11
+julia 0.3
+Compat
+
+0.2.9
+-----
+63bb2001a7361af2542e2e61d2ce6bdb6eef3656
+julia 0.3
+Compat
+
+0.3.0
+-----
+e17fdccfbdf3baf59025c03154dbf0b765034f30
+julia 0.3
+Compat
+
+0.3.1
+-----
+37e1f35418b2dbc99f8412478b205a03c98ad7d2
+julia 0.3
+Compat
+
+0.4.0
+-----
+fadb498cba20600092290ff300d7f59e7a529d6b
+julia 0.3
+Compat
+
+0.4.1
+-----
+a020ad428a4270c1ebd6d8cb024fb40ea24af76e
+julia 0.3
+Compat
+
+0.4.2
+-----
+e3739d5fdf0e54bc1e74957c060c693cd8ce9cd6
+julia 0.3
+Compat
+
+0.4.3
+-----
+66fc925bd99b50aacfa0f9cd2c324f80ec4947f3
+julia 0.3
+Compat 0.7.18

@@ -1,0 +1,53 @@
+git://github.com/chezou/MeCab.jl.git
+
+0.0.1
+-----
+2e1d098d0892e05748cecdd10a08f4ace165f352
+
+0.1.0
+-----
+c8db872dc22df9e55bc2923d4c1ea06bad38f6e6
+BinDeps
+
+0.1.1
+-----
+c4f3cbfd7207ed2fc7e6064b9a220b94d398f92e
+BinDeps
+
+0.1.2
+-----
+0cbcbe431182e920a4f67ae048946e82cec34df6
+BinDeps
+
+0.1.3
+-----
+2476ad9d88e6aed688433b7aa6fc8223f20ef392
+BinDeps
+
+0.1.4
+-----
+852d3b7b7315697c16ae3ef2aa12e2965ac57541
+julia 0.3
+BinDeps
+Compat
+
+0.1.5
+-----
+852d3b7b7315697c16ae3ef2aa12e2965ac57541
+julia 0.3
+BinDeps
+Compat
+
+0.1.6
+-----
+0698ba9653afe97a00d1af07f80494f430460fec
+julia 0.3
+BinDeps
+Compat
+
+0.1.7
+-----
+ce7b61aabebbba2ad1c3dbce209634c5d8996014
+julia 0.3
+BinDeps
+Compat

@@ -1,0 +1,14 @@
+git://github.com/joehuchette/BARON.jl.git
+
+0.1.0
+-----
+776ba1047a43a9b646d5b1fcbebefbb26161ba7d
+julia 0.4
+MathProgBase 0.4 0.5
+
+0.1.1
+-----
+2c8319c512c1123a39ffcacf2bf14f2a9cc30670
+julia 0.4
+MathProgBase 0.4 0.5
+Compat 0.8

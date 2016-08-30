@@ -1,0 +1,22 @@
+git://github.com/JuliaGeometry/GeometricalPredicates.jl.git
+
+0.0.1
+-----
+51ee147fd2a0d052d42e3c2bdcc3d88d0654a7b4
+
+0.0.2
+-----
+5df9c565d91b0a630f16bbc546ce24762cb3baa8
+
+0.0.3
+-----
+08554f837b2f6f426749f4051f9e44d0b996d07a
+
+0.0.4
+-----
+0ec56826dc4eee301e0fe237af1fecef5c4febbb
+0.0.5
+-----
+916081fd59a2690bd3fb9e55506111e2ae8fa338
+julia 0.4
+Compat

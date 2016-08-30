@@ -1,0 +1,18 @@
+git://github.com/PoisotLab/EcologicalNetwork.jl.git
+
+1.0.0
+-----
+4de8f7d71484a7c168fcc2293285bdb2e5aa96ac
+StatsBase
+Cairo
+Docile
+Lexicon
+
+1.0.1
+-----
+6fe373c613eccec5f939f0a031480fce43b6d58a
+julia 0.3
+StatsBase
+Cairo
+Lexicon
+Logging

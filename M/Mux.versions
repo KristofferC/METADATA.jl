@@ -1,0 +1,55 @@
+git://github.com/JuliaWeb/Mux.jl.git
+
+0.0.0
+-----
+9cd0513887e17da635aa173e29d9be96c5fb26f3
+Lazy
+Hiccup
+HttpServer
+URIParser
+
+0.1.0
+-----
+2da77702131031adeaf564df973a81e8fadfe8e2
+julia 0.3
+Compat
+Lazy
+Hiccup
+HttpCommon
+HttpServer
+URIParser
+WebSockets
+
+0.1.1
+-----
+fb96d9555ff9b3b02bbd4bcef6b2a17a626520a6
+julia 0.3
+Compat
+Lazy
+Hiccup
+HttpCommon
+HttpServer
+URIParser
+WebSockets
+
+0.2.0
+-----
+c1476b200b90b694a82fa28c6c1b863c7a51e0cd
+julia 0.4
+Lazy
+Hiccup
+HttpCommon
+HttpServer
+URIParser
+WebSockets
+
+0.2.1
+-----
+f3880909e62bb8606873418e253968236a6cacb2
+julia 0.4
+Lazy
+Hiccup
+HttpCommon
+HttpServer
+URIParser
+WebSockets

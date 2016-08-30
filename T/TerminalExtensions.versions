@@ -1,0 +1,23 @@
+git://github.com/Keno/TerminalExtensions.jl.git
+
+0.0.1
+-----
+4221eae10fe4bba7a8da5184106643c5900f83c7
+julia 0.3-
+
+0.0.2
+-----
+08f1107efaa568bca1b4b1f0560930ce4fdcbf5d
+julia 0.3-
+
+0.0.3
+-----
+3b942d4b7a7a54139bd89b890d3acf01ef16136a
+julia 0.4-
+Compat
+
+0.1.0
+-----
+140294719fb4b03bf83a969157d198193987ecba
+julia 0.5-
+Compat

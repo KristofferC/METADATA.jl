@@ -1,0 +1,36 @@
+git://github.com/JuliaArchive/UUID.jl.git
+
+0.0.0
+-----
+f3c5b1e7b173881b4d1abdf6398c7d0ca3131fe8
+
+0.0.1
+-----
+864d7ef00a260c1919088d21d70e906a517a15f3
+
+0.0.2
+-----
+69e3f39afed966a2482f910446e509669e3c8116
+julia 0.2-
+
+0.0.3
+-----
+8e1195dca6cad02bf2bdb365b58376964f0fce56
+julia 0.4-
+
+0.0.4
+-----
+b281cdb688cf57ca3e287bfbc472d94aaea64602
+julia 0.4-
+
+0.0.5
+-----
+7ed534034bf6c54e75c1c22a077142f2ee22e615
+julia 0.3
+Compat 0.4
+
+0.1.0
+-----
+4841d0ac1a2bbb68f2e1341992f7d6777e7144b8
+julia 0.3
+Compat 0.4

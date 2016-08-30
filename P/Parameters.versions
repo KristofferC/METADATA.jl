@@ -1,0 +1,53 @@
+git://github.com/mauro3/Parameters.jl.git
+
+0.0.1
+-----
+e0a840d5356c2167bb7961f77883c764df2b4ebe
+julia 0.3
+Docile
+DataStructures
+Compat
+
+0.1.0
+-----
+36d893413fbc5422415e99cbda34532848ea9433
+julia 0.3
+Docile
+DataStructures
+Compat
+
+0.1.1
+-----
+eb0bcaab994bd65aedd815eaf53156e51848e35a
+julia 0.3
+Docile
+DataStructures
+Compat
+
+0.2.0
+-----
+2cd9fe6f400fe0d3b9c39c29cb77c70951585080
+julia 0.3
+DataStructures
+Compat
+
+0.2.1
+-----
+a1c8e301610db5cdb3d45a054f449ca69fe33d8b
+julia 0.3
+DataStructures
+Compat
+
+0.3.0
+-----
+78727be19ef204a5dfaa8a2c177047a9903322f3
+julia 0.4
+DataStructures
+Compat
+
+0.3.1
+-----
+57c9960db1b56df3f6734bad7b238311e48e8236
+julia 0.4
+DataStructures
+Compat

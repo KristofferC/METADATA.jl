@@ -1,0 +1,17 @@
+https://github.com/Keno/VT100.jl.git
+
+0.0.1
+-----
+1aef752bad3219f5a624a6549fb71cd6280d23de
+julia 0.4
+Colors
+Compat
+FixedPointNumbers
+
+0.0.2
+-----
+f7a02f318e70343671e901fc248e834f11610b47
+julia 0.4
+Colors
+Compat 0.7.15
+FixedPointNumbers

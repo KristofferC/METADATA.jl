@@ -1,0 +1,65 @@
+git://github.com/JuliaLang/Yeppp.jl.git
+
+0.0.1
+-----
+d97c98aad086de0c70960e288bc48b84a5a07b0f
+
+0.0.10
+------
+c30002d493bb58592e9957f28c77b6f8b47f6b4f
+julia 0.3
+Compat
+BinDeps
+
+0.0.2
+-----
+003ef2292775c965ef24e85d0fb9170e5ad28331
+
+0.0.3
+-----
+44c7da775d51e1b021ec76ccae0d4621648b8390
+
+0.0.4
+-----
+e608e4ea818d00cd029ea0bc5c5b78ce32a6068a
+julia 0.3-
+Compat
+
+0.0.5
+-----
+74902502cecd0f2b98413f63816e78e8c1ac3132
+julia 0.3-
+Compat
+
+0.0.6
+-----
+ca2b16e44ed6c700e9c76acffeb3dc381324ecc5
+julia 0.3-
+Compat
+
+0.0.7
+-----
+ef008ae4d1cec972c38bb433532c2a6c3edd5212
+julia 0.3
+Compat
+
+0.0.8
+-----
+9273ad1bb15c35c1b8620c79f93411a79db72008
+julia 0.3
+Compat
+BinDeps
+
+0.0.9
+-----
+1d52680d93782c8fdb80fe07732b06149a44fa26
+julia 0.3
+Compat
+BinDeps
+
+0.1.0
+-----
+c1d6b12ed5a1c030b9dc9c80ed55e74b59a96bc7
+julia 0.3
+Compat 0.7.20
+BinDeps

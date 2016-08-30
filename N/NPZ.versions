@@ -1,0 +1,18 @@
+git://github.com/fhs/NPZ.jl.git
+
+0.0.0
+-----
+687319ba98ade627f5e7d6f8866bc67b05d649ee
+ZipFile 0.1.0-
+
+0.0.1
+-----
+693c4979cdaf9f2e44b407f1392ddb6d6f509089
+ZipFile 0.2.0-
+
+0.1.0
+-----
+9931a344268ddffd8416ff070799d21d819ece91
+julia 0.3
+ZipFile 0.2.0-
+Compat 0.2

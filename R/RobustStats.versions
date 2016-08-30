@@ -1,0 +1,24 @@
+git://github.com/mrxiaohe/RobustStats.jl.git
+
+0.0.0
+-----
+2667bc6020f38058570f493a961e28b598d47dd9
+julia 0.1 0.4
+DataFrames
+Rmath
+StatsBase
+Distributions
+Winston
+GLM
+
+0.0.1
+-----
+e1cb6d9d0fba718b1e496907971381c183148328
+julia 0.3- 0.4
+DataFrames 0.5-
+DataArrays
+Rmath
+StatsBase 0.3.7-
+Distributions 0.4-
+Winston
+GLM

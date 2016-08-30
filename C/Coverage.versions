@@ -1,0 +1,132 @@
+git://github.com/JuliaCI/Coverage.jl.git
+
+0.0.1
+-----
+55660276c717e335ee46874eaf73c3b8c50189bc
+julia 0.3-
+JSON
+Requests
+
+0.0.2
+-----
+56011df34141cd8bdcba570ac05a65a72c9d2614
+julia 0.3-
+JSON
+Requests
+
+0.0.3
+-----
+c7e9934e3f6f7a76338d0e4b7325ee1223fba457
+julia 0.3-
+JSON
+Requests
+
+0.0.4
+-----
+8074660593ac535e260a31c766996f2199698c1d
+julia 0.3-
+JSON
+Requests
+
+0.0.5
+-----
+4057b79cc56b74c0d7415072816197e02096f04c
+julia 0.3-
+JSON
+Requests
+JuliaParser
+Compat
+
+0.0.6
+-----
+c79db3a61d4cb3f699e673a52d55d31de4cc4491
+julia 0.3-
+JSON
+Requests
+JuliaParser
+Compat
+
+0.0.7
+-----
+473386e5281a1179c24578e674891d0bd8a1578c
+julia 0.3-
+JSON
+Requests
+JuliaParser
+Compat
+
+0.0.8
+-----
+fb2155d85b0510af580723690376d81de6ff027e
+julia 0.3-
+JSON
+Requests
+JuliaParser
+Compat
+
+0.1.0
+-----
+1825a8b2b5e03ef5ad7b4ad55546aad7793f0437
+julia 0.3
+JSON
+Requests
+JuliaParser
+Compat
+
+0.1.1
+-----
+213dccc70f372bf55009faf032624ec5a20afece
+julia 0.3
+JSON
+Requests
+JuliaParser
+Compat
+
+0.2.0
+-----
+d047768f91ac5053244ad38fadfa78579b16096c
+julia 0.3
+JSON
+Requests
+JuliaParser 0.6.0 0.6.3
+Compat
+
+0.2.1
+-----
+cc82e0d742386cc6624e9150007f44707d646add
+julia 0.4-
+JSON
+Requests
+Compat
+
+0.2.2
+-----
+301d5ae6fffb2e5fffcc0dee107489c6e5ae820c
+julia 0.4-
+JSON
+Requests
+Compat
+
+0.2.3
+-----
+91013c528f2c0ac6414936c385d2cb710119453b
+julia 0.4-
+JSON
+Requests
+Compat
+
+0.3.0
+-----
+18ae966154118060341c297c3185a86db87bb928
+julia 0.4
+JSON
+Requests
+
+0.3.1
+-----
+42717d813ec977d7e6008e2156f52102a01eead1
+julia 0.4
+JSON
+Requests
+Git
+Compat 0.8

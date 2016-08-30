@@ -1,0 +1,34 @@
+git://github.com/benhamner/MachineLearning.jl.git
+
+0.0.1
+-----
+a94d5fefca761fad8c9dc884bec22a9f7c1b5cb8
+DataFrames
+Devectorize
+Distributions
+Gadfly
+Optim 0.0 0.5
+RDatasets
+StatsBase
+
+0.0.2
+-----
+6b4d3c3eeb25a5eeab874f34c3cf3cf2900a0c4c
+DataFrames
+Devectorize
+Distributions
+Gadfly
+Optim 0.0 0.5
+RDatasets
+StatsBase
+
+0.0.3
+-----
+04ba9ccaad69e4eadbcc6dc15936f21f1dbd9a1d
+DataFrames
+Devectorize
+Distributions
+Gadfly
+Optim 0.0 0.5
+RDatasets
+StatsBase

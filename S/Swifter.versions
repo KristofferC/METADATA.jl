@@ -1,0 +1,58 @@
+git://github.com/wookay/Swifter.jl.git
+
+0.0.1
+-----
+aa13e71f4e7dfa58adbfdbd317e2d90f48a353f7
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.2
+-----
+4e72704ae579cf6145d568efce25bab9d9df9019
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.3
+-----
+19a28e0cbfeabe131a399922a8abe3e7647a0183
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.4
+-----
+e103de4add967a64da436e76d1ce29ea1752169d
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.5
+-----
+7160dd797477ab4d15ebc7bf8fdc591d6c6c57ac
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.6
+-----
+400e027c0901c73a1bdff8c1189c70512879fecd
+julia 0.4
+Requests
+JSON 0.0 0.6
+
+0.0.7
+-----
+794b015f55e41047b51cbc9c6017c292e6bd31d6
+julia 0.4
+Requests
+JSON
+
+0.0.8
+-----
+aebf6f0a4e706629097650dbdcc8a15abb7e3f29
+julia 0.4
+Requests
+JSON
+Compat

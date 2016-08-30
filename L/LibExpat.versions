@@ -1,0 +1,81 @@
+git://github.com/amitmurthy/LibExpat.jl.git
+
+0.0.0
+-----
+9fc5d94af1cf94888a7c0f3d2e0e015d08b334fe
+julia 0.2-
+
+0.0.1
+-----
+9fc5d94af1cf94888a7c0f3d2e0e015d08b334fe
+
+0.0.2
+-----
+85e2aea808743ec2142cb0d96bb93522366f2ac6
+
+0.0.3
+-----
+cd84e769ff82a34290edcc984629cc9fedd96395
+
+0.0.4
+-----
+3ee8e669b055c595e1d2d9273b66d73106422c13
+
+0.0.5
+-----
+b56994181a56fbb80131845830cddd7c66e14e35
+julia 0.4-
+
+0.0.6
+-----
+edec8148acfdcabedff954728f4c901ddbb6b27d
+julia 0.3
+Compat
+
+0.0.7
+-----
+a58191109e4c28a9c9c692c2077e52bcd6fb6218
+julia 0.3
+Compat 0.4.0
+
+0.0.8
+-----
+a0a991c2abd426081c15353fed5b88b4b4a1d0bb
+julia 0.3
+Compat 0.4.0
+
+0.1.0
+-----
+fd56c41f88fb6a60259d8adb9f922f77664c6eff
+julia 0.3
+Compat 0.7.1
+
+0.1.1
+-----
+4d95949bb89f340a89f907d831c6628803732aa2
+julia 0.3
+Compat 0.7.1
+
+0.1.2
+-----
+40df7b78d72a785f03ad3fc54d6b58ff1ff23166
+julia 0.3
+Compat 0.7.1
+
+0.1.3
+-----
+54ae5d9f209381b1324a296e0843c17ba4232c05
+julia 0.3
+Compat 0.8.0
+
+0.1.4
+-----
+10c84a114393f6d863ff3bbdabdd96c0b411ad59
+julia 0.3
+Compat 0.8.0
+
+0.2.0
+-----
+882d8fc8e8ac899aaffa85b8022a849651c6fd77
+julia 0.4
+Compat 0.8.0

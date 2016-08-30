@@ -1,0 +1,30 @@
+git://github.com/davidssmith/DCEMRI.jl.git
+
+0.1.0
+-----
+7bedb7091e28ed821af4c2cf622861c73599d917
+julia 0.3-
+ArgParse
+Calculus
+MAT
+Color 0.3.6 0.3.7
+PyPlot
+
+0.1.1
+-----
+679101713ec88f3b8edbb6f5f9cedd0a6b0de124
+julia 0.3-
+ArgParse
+Calculus
+MAT
+Color 0.3.6 0.3.7
+PyPlot
+
+0.1.2
+-----
+b39078af7dcbf6d01cf13d725a29901bea047c22
+julia 0.4
+ArgParse
+Calculus
+MAT
+PyPlot

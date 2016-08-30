@@ -1,0 +1,149 @@
+git://github.com/sisl/BayesNets.jl.git
+
+0.0.1
+-----
+bb0202818ab46d6b9a41333cb0a4632d0a684cca
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+
+0.0.10
+------
+12947f1eb7355776522c5048f314b816cc413e4e
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.2
+-----
+892b9b3c0913272e738812a925ad814ec270feb7
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.3
+-----
+af3aaeb8ab22a8629ce829517a3462b67c2de1d4
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.4
+-----
+8b7a1e3868f524a860b13fd33b86de68ef9f2638
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.5
+-----
+45a150e40267ba17ff535ea5f62cfc764fffe4e0
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.6
+-----
+fbc5761b882720e4b748c9b6bc8364cf4b9425ee
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.7
+-----
+89b9277d12596bbf2d29c6c0cf57da3f09c3a927
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.8
+-----
+9aa44a56e44427f3a18f9e6dfd8ac193ffdc8b14
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.0.9
+-----
+112efe2e3d8b42b0ebf0eb91d625fd172f876525
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.1.0
+-----
+e629408f99f755314b0d68e97efb682553a3e26b
+julia 0.3- 0.5.0-rc0
+Graphs
+DataFrames
+TikzGraphs
+
+0.2.0
+-----
+b90462e293d3c450a154364217bb36ef891db4bc
+julia 0.3
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+
+0.2.1
+-----
+4d154478fd0ebdc2c8af5d374ca68b58bd685d0f
+julia 0.3
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+
+0.3.0
+-----
+6e4eabee4d839f006408adf62e18a98ea56e435a
+julia 0.4
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+
+0.4.0
+-----
+74da7b387784ef4856b9628ba25ea4aada80415c
+julia 0.4
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+Reexport
+
+0.4.1
+-----
+71a93a61bf74d18f03d09712a4bb0e8c79fa2e35
+julia 0.4
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+Reexport
+
+1.0.0
+-----
+789f33a04823f7e472a25fb599d1a97112b2eb0c
+julia 0.4
+Compat
+Distributions
+Discretizers
+Iterators
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+Reexport

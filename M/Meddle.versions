@@ -1,0 +1,39 @@
+git://github.com/JuliaArchive/Meddle.jl.git
+
+0.0.0
+-----
+db36387a1da82cb6824456b0f932faa18e87a373
+julia 0.2 0.5
+HttpServer
+0.0.1
+-----
+f5be87433d6297508150e3b2b050e3786fdbe1d8julia 0.2 0.5
+0.0.2
+-----
+3ebd054c9e96d27202375cfdca1218283892c240
+julia 0.2- 0.5
+HttpServer
+
+0.0.3
+-----
+8b917c7306b2f3f5ad39a695baae348aecfa27eb
+julia 0.2 0.5
+HttpServer 0.0.4-
+
+0.0.4
+-----
+bd17b0aedbed08d544c0d43c8dd42250a28d21ff
+julia 0.2- 0.5
+HttpServer 0.0.4-
+
+0.0.5
+-----
+bfac721d77e79443dfabb4e3936bc5071de3a3f3
+julia 0.2- 0.5
+HttpServer 0.0.4-
+
+0.0.6
+-----
+400d935ae8e8370886a33812bffdf150a77a111d
+julia 0.3 0.5
+HttpServer

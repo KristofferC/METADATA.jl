@@ -1,0 +1,73 @@
+git://github.com/JuliaGL/GLFW.jl.git
+
+0.0.0
+-----
+56b0e4abd08198a1e9276aea30d575fdd07bdd5b
+
+0.0.1
+-----
+db2da36320759c5949c24b9234eaa01af57eea61
+
+1.0.0-alpha
+-----------
+c15ad7ad6ce04bf46d496836c6968090e2eead15
+julia 0.2
+
+1.0.0-alpha.1
+-------------
+75be7e02bf7560373189de0b8006b61c9ef3d0b0
+julia 0.2
+
+1.0.0-alpha.2
+-------------
+7bdd74fe8105109ab2aa942d0d6b6ca4951b6a3e
+julia 0.2
+
+1.0.0-alpha.3
+-------------
+f25b2f8312a3fd0506acf33488fc88b21e56a993
+julia 0.2
+
+1.0.0-alpha.4
+-------------
+91902533dc7a92476c1d72f9e0975a9e7106b0b4
+julia 0.3
+
+1.0.0-alpha.5
+-------------
+9d3f5432cdf3eef4f5a562dd28dbf4cc7b080465
+julia 0.3
+Compat
+
+1.0.0-alpha.6
+-------------
+c9983083c528926e66116ae24729be410d3b7a50
+julia 0.3
+Compat
+
+1.0.0-alpha.7
+-------------
+95407364a4f4bcabbe2b2e9984da7c2fd8f957ff
+julia 0.3
+Compat
+
+1.1.0
+-----
+65ae699fc45f11d981b464d131acfdefdf7e427c
+julia 0.4
+
+1.1.1
+-----
+00531f3bf68df7bdda62e7ecfa6c4eb42c0c2981
+julia 0.4
+
+1.1.2
+-----
+503eae848bbbe56caaa04c5aa03f627ec384a452
+julia 0.4
+
+1.1.3
+-----
+9340ce88c67590276a07f15ef670335feea5dc82
+julia 0.4
+Compat 0.8.4

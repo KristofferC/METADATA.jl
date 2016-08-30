@@ -1,0 +1,17 @@
+git://github.com/juliohm/GeoStats.jl.git
+
+0.0.1
+-----
+90d3d8bc8a70c8bf3a2d65dd10025479a64e3d2f
+julia 0.4-
+
+0.0.2
+-----
+0228639da71297e57bb1ff50ca4110b903b00389
+julia 0.4-
+
+0.0.3
+-----
+c76e1e7dc1880a3d439bad270b144d7ad2fcb11c
+julia 0.4
+Combinatorics

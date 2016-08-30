@@ -1,0 +1,28 @@
+git://github.com/JuliaIO/IniFile.jl.git
+
+0.0.0
+-----
+ee056f891e57abae01a30ba0b5941b2831f8f54d
+
+0.2.1
+-----
+84d01f0a6201613af4265d1d908f48e569e6b918
+
+0.2.2
+-----
+7a1d1fc15d5812eff494fc05b8b70f03fac31bc3
+
+0.2.3
+-----
+507cde1d7c6299582fb7d51e68f82d785c264400
+
+0.2.4
+-----
+8a91a7ed793c91c540ff442113f4fc36be305f43
+julia 0.2
+
+0.2.5
+-----
+2fdadbd18fdea79dc3c8278ba329db840dc10be8
+julia 0.3
+Compat 0.7.4

@@ -1,0 +1,53 @@
+git://github.com/johnmyleswhite/RDatasets.jl.git
+
+0.0.0
+-----
+dc6845df61d2edce93277176d47a6797fd6ccf6d
+DataFrames
+
+0.0.1
+-----
+604e6a848f91f53617f2a59c7f669e51c82bb7de
+julia 0.2-
+DataFrames
+
+0.0.2
+-----
+7e205149d54fc5d86e888f06f7e6d4942baa913f
+julia 0.2-
+DataFrames
+
+0.0.3
+-----
+46458c72f18c38a51b05e8688b3b8025c28e9182
+julia 0.2-
+DataArrays 0.0-
+DataFrames
+
+0.1.0
+-----
+895369038b359c42702d514d0bccdedf3b6d791d
+julia 0.2-
+DataArrays 0.1-
+DataFrames
+
+0.1.1
+-----
+75fb2ce8580feda6971593f2124a19564b5d9379
+julia 0.2-
+DataArrays
+DataFrames
+
+0.1.2
+-----
+c8d30866028d777c55ea3f1846605bb579e810dd
+DataFrames
+Reexport
+
+0.1.3
+-----
+1868811618c5461eba8a5eceb0ef80366a97ce64
+julia 0.3
+DataFrames
+Reexport
+Compat

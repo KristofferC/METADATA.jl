@@ -1,0 +1,53 @@
+git://github.com/SeismicJulia/Seismic.jl.git
+
+0.0.1
+-----
+4de7b71a4788c884e886356a370dbe46ea18ac6c
+
+0.0.2
+-----
+20bdc2696b638f2b4617cce2bf90ea37de551285
+julia 0.3
+PyPlot
+Docile
+Lexicon
+Grid
+
+0.0.3
+-----
+a367107eeef79386e4810c1b50994bbea421868b
+julia 0.3
+PyPlot
+Docile
+Lexicon
+Grid
+
+0.0.4
+-----
+92bb7da758b34327d32b4285dc3114d6f52d5cab
+julia 0.3
+PyPlot
+Docile
+Lexicon
+Grid
+Requires
+
+0.1.0
+-----
+2b9493955b5aa285dab3daf2f938a473450bf714
+julia 0.3
+PyPlot
+Docile
+Lexicon
+Grid
+Requires
+
+0.1.1
+-----
+ac812f72a260aacd19f1785aa1eb39857b2d0647
+julia 0.3
+PyPlot
+Docile
+Lexicon
+Grid
+Requires

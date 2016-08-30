@@ -1,0 +1,87 @@
+git://github.com/spencerlyon2/PlotlyJS.jl.git
+
+0.1.0
+-----
+36cd65a98cd2c4e62ad3cf3adfc78e7823779d15
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.1.1
+-----
+69b79f39b368f67abf0c3c103cfbac8c87827a36
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.1.2
+-----
+6d612d86b73ac1c0c47f6c7ecd69e1539875eaa6
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.1.3
+-----
+4ba01f770aeb5ff68509edc769d9b675236a9ae9
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.1.4
+-----
+7cf9d2c3d3f9dcbd81583e5479018d921dee790e
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.2.0
+-----
+6c182a1113813f28a08725bfa910c24f494767a3
+julia 0.4
+JSON 0.0 0.6
+Blink 0.3.3
+Colors
+
+0.3.0
+-----
+ae074cfa9e0cec49f317658c74d773fb6956fac4
+julia 0.4
+JSON 0.6
+Blink 0.3.3
+Colors
+Compat 0.7.16
+
+0.3.1
+-----
+0677d77954ebcc129aa6271c77877d50c4b0f012
+julia 0.4
+JSON
+Blink 0.3.3
+Colors
+Compat 0.7.16
+
+0.3.2
+-----
+6f5dc18733c3d54bdfccbf9aff17c50edc480a3c
+julia 0.4
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.7.16
+LaTeXStrings
+
+0.3.3
+-----
+793b361452244259c653e2c02fd9a0ca19a96e95
+julia 0.4
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.7.16
+LaTeXStrings

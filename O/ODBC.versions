@@ -1,0 +1,132 @@
+git://github.com/JuliaDB/ODBC.jl.git
+
+0.1.0
+-----
+9c4b67c31d7469c0587f6b6470411cea482a32cf
+julia 0.1- 0.2-
+DataFrames v0.1.0
+
+0.2.0
+-----
+f450a51e6674c864be9e73530882d250d8e2264bDataFrames v0.2.0
+Datetime
+ProgressMeter
+julia 0.2-
+
+0.2.1
+-----
+3dc859a49fcb89bdce160f77db5e8740f3944541DataFrames v0.2.0
+Datetime
+ProgressMeter
+julia 0.2-
+
+0.3.0
+-----
+c48347ff45bc7496e994eeb3cba81cc3d7af8510DataFrames v0.2.0
+Datetime
+UTF16
+julia 0.2-
+
+0.3.1
+-----
+8fb00af72d4357d64d2b6d68238d73031e63711bDataFrames 0.3-
+Datetime 0.1-
+UTF16
+julia 0.2-
+
+0.3.10
+------
+65ed481c112a79f342fcf4618aa8a51b23bc095dDataFrames 0.5.2
+Dates 0.3.1-
+julia 0.3-
+
+0.3.11
+------
+244a17944a29c2798d563751374d59d34f2db18d
+DataFrames v0.6.10
+Dates 
+julia 0.3 0.5-
+
+0.3.2
+-----
+0d2144638d34a8cd98022abbec89e29725285a0cDataFrames 0.4-
+Datetime 0.1-
+julia 0.3-
+
+0.3.3
+-----
+d79b72f8a951d6a19e96336f8c9ee83ab99b0467DataFrames 0.4-
+Datetime 0.1-
+julia 0.3-
+
+0.3.4
+-----
+837c361c91564e6108df8f77861ee2ae1df91229DataFrames 0.4-
+Datetime 0.1-
+julia 0.3-
+
+0.3.5
+-----
+e30fa4c60d7e71b86facea775f71b9a7b447bd67DataFrames 0.4-
+Datetime 0.1-
+julia 0.3-
+
+0.3.6
+-----
+90d2f4392056dc22cb4053c18e5dd34a85f95281
+DataFrames v0.5.2
+Datetime v0.1.2
+julia 0.3-
+
+0.3.7
+-----
+820d07d8d57c88c0cdfc9e33cbdda1018864155f
+DataFrames v0.5.2
+Datetime v0.1.2
+julia 0.3-
+
+0.3.8
+-----
+f614eb01596a5fc517c277e6460132eaccc49806DataFrames 0.5.2
+Datetime 0.1.2
+julia 0.3-
+
+0.3.9
+-----
+7bc22671adbc51660c99083ee7560d4c6ddb6d08DataFrames 0.5.2
+Dates 0.3.1-
+julia 0.3-
+
+0.4.0
+-----
+7ae7ebfac60ed3ffb1ccefd552993a3073f8b77b
+julia 0.4
+Compat
+NullableArrays
+DataStreams
+CSV
+SQLite
+DecFP
+
+0.4.1
+-----
+7ae7ebfac60ed3ffb1ccefd552993a3073f8b77b
+julia 0.4
+Compat
+NullableArrays
+DataStreams
+CSV
+SQLite
+DecFP
+
+0.4.2
+-----
+e194699064fad016ee2b6ace5780e59f85670701
+julia 0.4.1
+SQLite
+CSV
+DataStreams
+DataFrames
+NullableArrays
+WeakRefStrings
+DecFP

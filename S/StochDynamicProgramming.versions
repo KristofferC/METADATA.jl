@@ -1,0 +1,47 @@
+git://github.com/JuliaOpt/StochDynamicProgramming.jl.git
+
+0.1.0
+-----
+4d5b34d9922dd3f3657c9e83980f5657ca86f3eb
+julia 0.4
+MathProgBase
+Clp
+Distributions
+JuMP
+FactCheck
+ProgressMeter
+Interpolations
+Iterators
+
+0.1.1
+-----
+c035625b1b1946e4551dab9f5b30d1cedcddb1f1
+julia 0.4
+MathProgBase
+Clp
+Distributions
+JuMP
+FactCheck
+ProgressMeter
+Interpolations
+Iterators
+
+0.1.2
+-----
+8b492759b8081c484c34d9aa382f8671d385370e
+julia 0.4
+JuMP 0.13
+Distributions
+ProgressMeter
+Interpolations
+Iterators
+
+0.1.3
+-----
+e0e58fed3ccf393f50aad0d4e97bca5fd44f65ff
+julia 0.4
+JuMP 0.13
+Distributions
+ProgressMeter
+Interpolations
+Iterators

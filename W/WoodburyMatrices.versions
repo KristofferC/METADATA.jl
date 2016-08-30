@@ -1,0 +1,51 @@
+git://github.com/timholy/WoodburyMatrices.jl.git
+
+0.0.1
+-----
+c9fa159797c9cf806c2730661d9bb94a0dfb0632
+
+0.0.2
+-----
+4caff4b593fc84dcb30120bb7e6538310d8b772c
+
+0.1.0
+-----
+2592d74d20997b5417cc8bd5bb5c16450412faeb
+Docile
+
+0.1.1
+-----
+8a8d61266b942b368f7884e21f2d19eb1214b4d7
+Docile
+
+0.1.2
+-----
+fbba515a92277cfd4d7618586a17b26593699e0b
+julia 0.3
+Docile
+
+0.1.3
+-----
+be3a69617846f2ed84c15e12bd88441994b7d3dc
+julia 0.4
+Docile
+
+0.1.4
+-----
+02e7067a69866751151cb639a9e8b51871e63d77
+julia 0.3
+Docile
+Compat
+
+0.1.5
+-----
+5cc1eb4dbd04a1792a1e7b4c8f504e8fed442faa
+julia 0.3
+Docile
+Compat
+
+0.2.0
+-----
+1a1ec7d5046cbc684ecd55eefa8872e956eb2c74
+julia 0.4
+Compat

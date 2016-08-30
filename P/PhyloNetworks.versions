@@ -1,0 +1,41 @@
+git://github.com/crsl4/PhyloNetworks.jl.git
+
+0.0.1
+-----
+d2c8b0ad22e978018a7d52b14bfbddb1fff4ede2
+julia 0.3
+Compat
+DataFrames
+NLopt
+GraphViz
+
+0.0.2
+-----
+76d2e5c6d48c94669c6de882afe09b41243f4fab
+julia 0.4
+Compat
+DataFrames
+NLopt
+GraphViz
+
+0.0.3
+-----
+37ce1810bdc2d7381ec5445cf93c841b85742e67
+julia 0.4
+Compat
+DataFrames
+NLopt
+Gadfly
+GLM
+
+0.1.0
+-----
+a3d30ad857b6bbc5a51c734a133d6b3a811cbddb
+julia 0.4
+Compat
+StatsBase
+DataFrames
+NLopt
+ColorTypes
+Gadfly
+GLM

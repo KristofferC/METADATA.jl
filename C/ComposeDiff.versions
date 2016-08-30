@@ -1,0 +1,11 @@
+git://github.com/shashi/ComposeDiff.jl.git
+
+0.0.1
+-----
+ad430da18e7f4c1e5c705c2ea9e15fa014980f07
+julia 0.4
+Colors
+Requires
+Compose 0.4.2
+Reactive 0.3
+Patchwork 0.1.9

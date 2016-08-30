@@ -1,0 +1,7 @@
+git://github.com/invenia/DateParser.jl.git
+
+0.1.0
+-----
+07f3d094bab070cb3bbe35901b46395021d1e846
+julia 0.4
+TimeZones

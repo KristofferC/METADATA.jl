@@ -1,0 +1,24 @@
+git://github.com/mlubin/Pajarito.jl.git
+
+0.1.0
+-----
+0e4d69b21af19b3ef456d1ae73bf19d5c6612cde
+julia 0.4
+MathProgBase
+ConicNonlinearBridge
+
+0.1.1
+-----
+940cb3df3667319eb2be399b5cfd90aaff19e9d1
+julia 0.4
+MathProgBase 0.4 0.6
+JuMP 0.13
+ConicNonlinearBridge
+
+0.2.0
+-----
+157dbda1291f4a04301c83f65572c0e05ec05bf2
+julia 0.4
+MathProgBase 0.4 0.6
+JuMP 0.13
+ConicNonlinearBridge

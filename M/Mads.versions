@@ -1,0 +1,645 @@
+git://github.com/madsjulia/Mads.jl.git
+
+0.1.0
+-----
+c898a14d7cd3081904950c442f6890d94b18eab3
+julia 0.4-
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+Lora 0.4.4
+HDF5
+Optim 0.0 0.5
+NLopt
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+Sundials
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+
+0.1.1
+-----
+69699c198934957647bff0abb2ed8d5910641987
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+Lora 0.4.4
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+Sundials
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Lexicon
+
+0.1.10
+------
+9261d79e3091b06c51aab46d326b7d28633ef92b
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.11
+------
+a3edeff689514e298640a5740e823c0dac1d72a4
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+NMF
+JuMP
+Ipopt
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.12
+------
+493b9eed78de6a9e10c3765b7bbc8ae9b5fd68be
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall 1.4.0-
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.13
+------
+5c083cef1ee3837e359195eefefead73e6a4019a
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora
+HDF5
+Optim 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall 1.6.2
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.14
+------
+8825bee8ea8c96406526c1b67345f42ff5be7f43
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+HDF5
+YAML
+JSON
+JLD
+LightXML
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+ForwardDiff
+ODE
+Lora
+Optim
+BlackBoxOptim
+Docile
+Lexicon
+
+0.1.15
+------
+0ece093182627991004754b21799e99a6c7a352d
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+ODE
+Lora
+Optim
+BlackBoxOptim
+Docile
+Lexicon
+
+0.1.16
+------
+ced775fb2e9f76ec4cce1b379b5eed60bbdf8f93
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+ODE
+Lora
+Optim
+BlackBoxOptim
+Docile
+Lexicon
+
+0.1.17
+------
+18f8d4f13ab844c17f6b27544502a53cfab773e1
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+ODE
+Lora
+Optim
+BlackBoxOptim
+Docile
+Lexicon
+
+0.1.18
+------
+58fcdea9092236f18fdcb15fe9ad14f75b302620
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
+
+0.1.2
+-----
+5a46e13bbd1ebf78e83fe030236e42aa2d5fc05f
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.4.4
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+Sundials
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Lexicon
+
+0.1.3
+-----
+06f54d76a483d12543e97aba1a720b39c7f6a527
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+Sundials
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Lexicon
+
+0.1.4
+-----
+90760f55f08a253c7a05cdf9086d418c1c24b21e
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+Sundials
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Lexicon
+
+0.1.5
+-----
+4680ca7b42d1cdb8ab8e702dc30a2f52f0f22d48
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.6
+-----
+8b46867fec672360a62fc7e055929dff9103883e
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.7
+-----
+349b2665673e9c6522092a6b193f1c9a7ea9992a
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.8
+-----
+5c78da0e190760e49b927d1f08d5f99cc84913ab
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.1.9
+-----
+5019998ad297292a60727e2bcf2550b7577aab0f
+julia 0.4
+Anasol
+ReusableFunctions
+MetaProgTools
+BIGUQ
+RobustPmap
+Lora 0.5
+HDF5
+Optim 0.0 0.5
+BlackBoxOptim
+Distributions
+DataStructures
+ForwardDiff
+ODE
+ProgressMeter
+LightXML
+Conda
+PyCall
+PyPlot
+YAML
+JSON
+JLD
+Gadfly
+DataFrames
+Docile
+Lexicon
+
+0.2.0
+-----
+e36e8746d1bb024450321b3a15d67043ac41a771
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
+
+0.2.1
+-----
+177d9fa01897ba77b775dd9e825de2dc45cd5d99
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
+
+0.2.2
+-----
+caae69cd519007fbbae7389cff3613a7b4c016cd
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon

@@ -1,0 +1,9 @@
+git://github.com/nassarhuda/MatrixNetworks.jl.git
+
+0.0.1
+-----
+5716410758b731acb3b79ab9b53173a7d838f1db
+julia 0.3
+Compat
+Docile
+#Lint

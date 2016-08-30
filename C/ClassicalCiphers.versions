@@ -1,0 +1,12 @@
+git://github.com/Smaug123/ClassicalCiphers.jl.git
+
+0.0.1
+-----
+b47fa7d5992f2965a4afc482432a088d5093cb35
+julia 0.4
+
+0.2.0
+-----
+aebd353646bc7efe35e598b7b9625cd80c03ebe0
+julia 0.4
+Iterators

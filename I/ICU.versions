@@ -1,0 +1,120 @@
+git://github.com/nolta/ICU.jl.git
+
+0.0.0
+-----
+1282c5411356bb7ba7b7898b2451a9294cc5af38
+julia 0.2- 0.3-
+UTF16
+
+0.0.1
+-----
+85935ad58552916b95ca37c26d8c1484a7a4f711
+julia 0.2- 0.3-
+UTF16
+BinDeps
+@windows WinRPM
+
+0.0.2
+-----
+56f2994825cec0a18b3baff673a991c1c445becd
+julia 0.2- 0.3-
+UTF16
+BinDeps
+@windows WinRPM
+
+0.0.3
+-----
+cf771a3ddebb980e83235a9da0690364a9f66e70
+julia 0.2- 0.3-
+UTF16
+BinDeps
+@windows WinRPM
+
+0.0.4
+-----
+4f5e79622b7bad1c6b3165798818cead1ac6e5e7
+julia 0.2- 0.3-
+UTF16
+BinDeps
+@windows WinRPM
+
+0.1.0
+-----
+bf29746cad4e1301d307413f54e2da0cafac02d2
+julia 0.3-
+
+0.1.1
+-----
+36112edc444d2f2cf7f3e2cf21cfda757f719af5
+julia 0.3-
+
+0.2.0
+-----
+a735b88818acbf34d35655810e108daff58fc154
+julia 0.3-
+
+0.2.1
+-----
+4d3807b02f9c091e8560664bff4188c69a55c18c
+julia 0.3-
+
+0.2.2
+-----
+73be96a1b816b82a9fad11ee5adf0377cb971ac2
+julia 0.3-
+BinDeps
+
+0.2.3
+-----
+41846a16705f47c05be577770bd06676367429c3
+julia 0.3-
+BinDeps
+
+0.3.0
+-----
+6cca2fc5a2b26b47bd67aad8588cfaf7209d6ac8
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.3.1
+-----
+ea6da5228ce93ddb72ed81023e5007ec559b709e
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.4.0
+-----
+7fc0d93c15b8a71461a542ae95188a86ac852c02
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.4.1
+-----
+0cc11e20b0389ba98fa8dc834c7604c469b37b75
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.4.2
+-----
+ca42fc0f42cd23ec9462d4a0e0900c5b3ae6ab99
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.4.3
+-----
+81476c1a5dbf384b42c8fb57dc61fae53c2ca1a9
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.4.4
+-----
+00846d95895a454633f7e3d59b39c549c8124ba6
+julia 0.3-
+BinDeps
+@windows WinRPM

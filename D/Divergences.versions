@@ -1,0 +1,10 @@
+git://github.com/gragusa/Divergences.jl.git
+
+0.0.3
+-----
+e1f30f3e96039ef3fbc4774d10db961aefb2db58
+julia 0.4
+ArrayViews
+Distances
+StatsFuns
+Calculus

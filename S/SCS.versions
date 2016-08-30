@@ -1,0 +1,156 @@
+git://github.com/JuliaOpt/SCS.jl.git
+
+0.0.1
+-----
+aaed5685886d3c1b15ee3df70bf259363a1c9167
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+
+0.0.2
+-----
+e883e020d86ea8faea60e7a22b387f3297961337
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.3
+-----
+141a80287abcfca62f2cbe1eecd4c83c65f84855
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.4
+-----
+476e1d7c60f99468d24d1344d298daf7a5c9e0f3
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.5
+-----
+ecac0a80ae0e1e2560766df5c7963158d7ff8690
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.6
+-----
+da189d88f8af70417337351c969861adb42cf75d
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.7
+-----
+d2ad83d0dead18c852e8d2968fc7a87ed822b147
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.8
+-----
+2ba4b944682578f54796e87644b88f08a1a7cdf8
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.0.9
+-----
+215152263a6eb7aa5232054c6710760f291e22d9
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.1.0
+-----
+227eb636039a68b1d888cf57e9f49a55409e7637
+julia 0.4.0-rc4
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.1.1
+-----
+0be16a91ea654cf3155957baa8ba75c61fee78b5
+julia 0.4.0-rc4
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+Compat
+
+0.1.2
+-----
+6223de6002c18bac284e09b4a1b02f5598045b0f
+julia 0.4.0
+MathProgBase 0.3.8 0.4.0-
+BinDeps
+@osx Homebrew
+
+0.2.0
+-----
+db6e87a2c151bb3d23edaae809148307255c0259
+julia 0.4.0
+MathProgBase 0.4 0.5.0-
+BinDeps
+@osx Homebrew
+
+0.2.1
+-----
+b1aae45aa8dbb2c84bf073ef2b4c19a43bc95ccd
+julia 0.4.0
+MathProgBase 0.4 0.5.0-
+BinDeps
+@osx Homebrew
+
+0.2.2
+-----
+5a16bb1dc2297e5e369f8375ab85685746011a6e
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+@osx Homebrew
+
+0.2.3
+-----
+00c4bf4b87ce9235ec462303ff6f3e3c8da14ff1
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+@osx Homebrew
+
+0.2.4
+-----
+6affbb7535b3f763dbb8307456daa9976412ded7
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+@osx Homebrew
+
+0.2.5
+-----
+aa1ee95eb6bde721195808b8ff9ef8820fa9ed19
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+Compat 0.8.6
+@osx Homebrew

@@ -1,0 +1,22 @@
+git://github.com/JuliaGeometry/VoronoiDelaunay.jl.git
+
+0.0.1
+-----
+2223cbac2e30970608e499a3bdd29659832e254e
+GeometricalPredicates 0.0.3
+
+0.0.2
+-----
+9d1b88f998c842e8ebb75182e11e90821d8043df
+julia 0.3
+GeometricalPredicates 0.0.4
+Colors
+Compat
+
+0.0.3
+-----
+6c0ec6f0f1cf18db076e77f387c8959cacba2338
+julia 0.4
+GeometricalPredicates 0.0.5
+Colors
+Compat

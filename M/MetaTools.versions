@@ -1,0 +1,7 @@
+git://github.com/burrowsa/MetaTools.jl.git
+
+0.0.1
+-----
+5cb8cd41fc2966afbce12fcb1c9647c2cf36f594
+julia 0.2- 0.4
+RunTests 0.0.2

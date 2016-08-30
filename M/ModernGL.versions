@@ -1,0 +1,42 @@
+git://github.com/JuliaGL/ModernGL.jl.git
+
+0.0.1
+-----
+cdd0fd498b2292985a6b57ddd37b152cd9d58945
+
+0.0.2
+-----
+2d98ea61b894531d73c549de52bfaad07a6b5711
+
+0.0.3
+-----
+be2e865da7c35970927c58444c99b5d360236136
+julia 0.3-
+
+0.0.4
+-----
+60f53efa72e0349a9f3f2d666415239693fcd34c
+julia 0.3-
+
+0.0.5
+-----
+096433a3b90ca044ac0141b387472c4339e0d7da
+julia 0.3-
+
+0.0.6
+-----
+8e3d72e57b5d9ccf060230360d8e4e04fecb3439
+julia 0.3
+Compat
+
+0.0.7
+-----
+ea0f7b8250c50ccbda2e0daabedd621a2672eebb
+julia 0.3
+Compat
+
+0.0.8
+-----
+0f30e235138e2e70171c3bfec889e2f0461f4f74
+julia 0.3
+Compat 0.7.15

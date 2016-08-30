@@ -1,0 +1,104 @@
+git://github.com/codles/EEG.jl.git
+
+0.0.1
+-----
+3bbe14f1f287b147b8713768dcf0269608e7e61f
+julia 0.3
+AWS
+DSP # Requires master for filter coeffients to be exported
+BDF
+DataFrames
+SIUnits # Requires master
+ProgressMeter
+Distributions
+MAT
+NumericExtensions
+Distances
+Logging
+Docile
+Winston
+Gadfly
+Synchrony
+
+0.0.2
+-----
+eb110a6c7d11ec72ea06e9db9292d33be6248c95
+julia 0.4
+AWS
+DSP # Requires master for filter coeffients to be exported
+BDF
+DataFrames
+SIUnits # Requires master
+ProgressMeter
+Distributions
+MAT
+NumericExtensions
+Distances
+Logging
+Docile
+Winston
+Gadfly
+Synchrony
+FileFind
+Images
+
+0.0.3
+-----
+e24530c6b9336db73f78892afada86ea28050990
+julia 0.4
+AWS
+DSP # Requires master for filter coeffients to be exported
+BDF
+DataFrames
+SIUnits # Requires master
+ProgressMeter
+Distributions
+MAT
+NumericExtensions
+Distances
+Logging
+Docile
+Synchrony
+FileFind
+Images
+Conda
+Plots 0.0 0.7
+PyCall
+
+0.0.4
+-----
+e67911284461ce885f16c428113da8da4e35873f
+julia 0.4 0.5-
+AWS
+DSP 0.0.9
+BDF
+DataFrames
+SIUnits 0.0.6
+ProgressMeter
+Distributions
+NumericExtensions
+Distances
+Logging
+FileFind
+Images
+MAT
+Plots 0.8.0 0.9.0
+
+0.1.0
+-----
+e67911284461ce885f16c428113da8da4e35873f
+julia 0.4 0.5-
+AWS
+DSP 0.0.9
+BDF
+DataFrames
+SIUnits 0.0.6
+ProgressMeter
+Distributions
+NumericExtensions
+Distances
+Logging
+FileFind
+Images
+MAT
+Plots 0.8.0 0.9.0

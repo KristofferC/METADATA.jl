@@ -1,0 +1,55 @@
+git://github.com/JuliaDiff/TaylorSeries.jl.git
+
+0.0.1
+-----
+ace985d7bfbf5fcb0d7f8cda4de24921b54f2ad7
+julia 0.3-
+
+0.0.2
+-----
+fa77209cd0151ff2964dc4318ccbeb3ceef3f255
+julia 0.3
+
+0.0.3
+-----
+0b48b5f34bb5d68dcb0134afb539eaa74eef0bb8
+julia 0.3
+Compat
+
+0.1.0
+-----
+3a7d69453be74f9cd50e631ebb0cc93777a1b917
+julia 0.3
+Compat
+Docile
+FactCheck
+
+0.1.1
+-----
+1c1b36244f84228101720080c390724d7c3568ba
+julia 0.3
+Compat 0.6
+Docile
+FactCheck 0.3.0
+
+0.1.2
+-----
+79fa3caf8e77f7d5bdb680f328fe6dd8e5b1d809
+julia 0.3
+Compat 0.6
+Docile
+FactCheck 0.3.0
+
+0.1.3
+-----
+de86b7d311a0d46f4531d92bbbc57fa8ee73a08f
+julia 0.4
+Compat 0.6
+FactCheck 0.4.2
+
+0.2.0
+-----
+de86b7d311a0d46f4531d92bbbc57fa8ee73a08f
+julia 0.4
+Compat 0.6
+FactCheck 0.4.2

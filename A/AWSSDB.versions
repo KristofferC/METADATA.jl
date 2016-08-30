@@ -1,0 +1,19 @@
+git://github.com/samoconnor/AWSSDB.jl.git
+
+0.0.1
+-----
+8dbae1073a4ac4d58f9a6b5bc99809020476601e
+julia 0.4
+
+0.0.2
+-----
+1920313a8315d3b95528dafe61b65ee18a8fb02b
+julia 0.4
+AWSCore
+
+0.0.3
+-----
+92220d67fd25b1b22ee8c0d2df5a99ced0eb0bfc
+julia 0.4
+AWSCore
+SymDict

@@ -1,0 +1,46 @@
+git://github.com/JuliaOpt/AmplNLWriter.jl.git
+
+0.0.1
+-----
+e251cc9671ab431e94cb78078d22781f07ef946c
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+Compat 0.4.0
+
+0.0.2
+-----
+ac10e30c96d1fe2c2c8c7ac253e00f531887c21d
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+Compat 0.4.0
+
+0.0.3
+-----
+e1badd61bf5446c5017fee86b1bc450ed9e54ecc
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+Compat 0.4.0
+
+0.1.0
+-----
+df7ec3891eef9c7e35bd4bffd24ab93645f429b0
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.2.0
+-----
+9fac3650ed5c4aea7f18fc0ddf85f9e1a955d927
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.2.1
+-----
+507a1b13e288e70b31d09768baa0c42e421447fb
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.2.2
+-----
+103910d01c4a9a2b6ee48f9c81b35f9e341dfdcb
+julia 0.4
+MathProgBase 0.5 0.6

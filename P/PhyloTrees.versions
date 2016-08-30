@@ -1,0 +1,39 @@
+git://github.com/jangevaare/PhyloTrees.jl.git
+
+0.0.1
+-----
+de8ec3772ce39d28fe2fe11dcc6e4ca6ea573947
+julia 0.4.3
+Distributions 0.8.10
+
+0.1.0
+-----
+71e45a4a8fd3c8bf1867ba9afb5cfce71fe9b046
+julia 0.4
+Distributions
+
+0.2.0
+-----
+bb98191a2b24794f8de417a6b40022a9eb265ea8
+julia 0.4
+Distributions
+
+0.2.1
+-----
+85eb331bec3d349ff4e147f3c1e649475b79bd80
+julia 0.4
+Distributions
+
+0.3.0
+-----
+94b20ed71931418ac7edad12019d30c3c8c43d4b
+julia 0.4
+Distributions
+Requires
+
+0.4.0
+-----
+e508085a2339cb272652d3cf35e693d7db9d0666
+julia 0.4
+Distributions
+RecipesBase

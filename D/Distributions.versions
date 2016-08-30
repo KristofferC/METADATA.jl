@@ -1,0 +1,694 @@
+git://github.com/JuliaStats/Distributions.jl.git
+
+0.0.0
+-----
+40c606880e671aa8248c802203d655b41a243c4a
+julia 0.1- 0.2-
+
+0.1.0
+-----
+dbc3b8131ead50c48e3f77491e00756de9879723
+julia 0.2- 0.3
+
+0.10.0
+------
+a71f7b48d2feb554459491039d4ca7da3384252e
+julia 0.4
+PDMats 0.4.2 0.5
+StatsFuns 0.3.0
+Calculus
+StatsBase 0.8.3
+Compat 0.8.4
+
+0.10.1
+------
+b4c303e4409380846f652a7a1cf1cb815985811e
+julia 0.4
+PDMats 0.4.2 0.5
+StatsFuns 0.3.0
+Calculus
+StatsBase 0.8.3
+Compat 0.8.4
+
+0.10.2
+------
+f0b12936bcd3d34f9de6659ab372af75e81ca273
+julia 0.4
+PDMats 0.4.2 0.5
+StatsFuns 0.3.0
+Calculus
+StatsBase 0.8.3
+Compat 0.8.4
+
+0.1.1
+-----
+c5b2af54a1465695fcac959549abeccd64884a27
+julia 0.2- 0.3
+
+0.1.2
+-----
+9c2eb72f9ff8e29df90379a07da95f8a9b3afac7
+julia 0.2- 0.3
+
+0.1.3
+-----
+164c8437034bead41829f4b2ebc6f010876505ed
+julia 0.2- 0.3
+StatsBase
+
+0.1.4
+-----
+b51725416725c18990f099abc9397e14d81e7fe9
+julia 0.2- 0.3
+StatsBase
+
+0.2.0
+-----
+13a5626906f53da34082c8509e2d8bdb8430a86f
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.1
+-----
+2459733d3e9b3005645d3682aa6a9e8715892e23
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.10
+------
+34cb37c1913eda0dbadbb087cfe4b6fdff9a344a
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.11
+------
+1115ff2755eb18c356abd84f0aa119b7f5ee0aab
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.12
+------
+a88451827ddb79a0a9765bae72bf521056e1e389
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.13
+------
+2f8fd98ea64f873bb7cc3b1c396e0e8fb892c417
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.2
+-----
+712e054ff657f31bfa4bf432630cba84bebd9b53
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.3
+-----
+c29f5b202a6abf90dc240efd542a7ca27917df03
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.4
+-----
+cfcd8dc5432100d745187138c455898650cac425
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.5
+-----
+6d7c8e5352b8e19a04b44ff07728929fbdef1b17
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.6
+-----
+1056c4761cf4c871af9132c018161c7fe133c145
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.7
+-----
+a8d84af34b11ef517fb965a692a2aeba3ff7ae20
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.8
+-----
+013643b7334974a1d9c2ed9ad7d54f7af2bcb2b5
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.2.9
+-----
+8c09df6651d251faa2d746b8d73181cd99d76662
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.3.0
+-----
+c5035db48973bb8f2271ed5d2c25608fb3b51a30
+julia 0.2- 0.3
+NumericExtensions
+StatsBase
+
+0.3.1
+-----
+ecbb1b2e2d0e6ff9158d6a389d4fe7e29176a22d
+julia 0.3- 0.3
+NumericExtensions 0.4-
+StatsBase 0.3-
+
+0.3.2
+-----
+f7ca4f727486647345b4ce014969524df8e5f419
+julia 0.3- 0.3
+NumericExtensions 0.4-
+StatsBase 0.3-
+
+0.3.3
+-----
+e1daab247a4ebace7cbdafd5bf06510e4f2df9fe
+julia 0.3- 0.3
+NumericExtensions 0.4-
+StatsBase 0.3-
+
+0.3.4
+-----
+d4c6b0c20b38342a64c384f3cb2ca4f0729060d2
+julia 0.3- 0.3
+NumericExtensions 0.4-
+StatsBase 0.3-
+
+0.4.0
+-----
+6bfeee60f147faf1be31893d993a081b641e020f
+julia 0.3- 0.3
+NumericExtensions 0.5-
+PDMats 0.1- 0.4
+StatsBase 0.3-
+
+0.4.1
+-----
+1e54508ca62215f245043c62f1cabd96f9973ca2
+julia 0.3- 0.3
+NumericExtensions 0.5-
+PDMats 0.1- 0.4
+StatsBase 0.3-
+
+0.4.10
+------
+77a3dad53f4539d79b69f1249011ae8aab48b881
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.5-
+
+0.4.11
+------
+e3c71bd8da3f705d0093e3ca1a0e12b02ba91698
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.5-
+
+0.4.2
+-----
+17e2fbb12226465f0113058b5280539a86c6ea6f
+julia 0.3- 0.3
+NumericExtensions 0.5-
+PDMats 0.1- 0.4
+StatsBase 0.3-
+
+0.4.3
+-----
+edc11f87bca326ed1a6e3e46b8c6eaa0af58cae1
+julia 0.3- 0.3
+NumericExtensions 0.6-
+NumericFuns 0.2.2-
+PDMats 0.1.2- 0.4
+StatsBase 0.3-
+
+0.4.4
+-----
+19abd04601d36cf96bd21e008407d0ea666a04cf
+julia 0.3- 0.3
+ArrayViews 0.4.3
+NumericExtensions 0.6-
+NumericFuns 0.2.2
+PDMats 0.1.2- 0.4
+StatsBase 0.3.9+
+
+0.4.5
+-----
+244c27c025df48a8c64c3a79f0eaba6e818ae82e
+julia 0.3- 0.3
+ArrayViews 0.4.3
+NumericExtensions 0.6-
+NumericFuns 0.2.2
+PDMats 0.1.2- 0.4
+StatsBase 0.3.9+
+
+0.4.6
+-----
+4e6e475fbce40225039b64e354136e5dc48cd04e
+julia 0.3- 0.3
+ArrayViews 0.4.3
+NumericExtensions 0.6-
+NumericFuns 0.2.2
+PDMats 0.1.2- 0.4
+StatsBase 0.3.9+
+
+0.4.7
+-----
+0062789673c13fab97bce10579467526370a53e2
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.4-
+
+0.4.8
+-----
+084559e6db9eb0ad520358a3f4f49bb2a7f70039
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+Sampling
+StatsBase 0.5-
+
+0.4.9
+-----
+8445048e5de88c019a3c63ded38ca77bc6baeba3
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+Sampling
+StatsBase 0.5-
+
+0.5.0
+-----
+15173b842917940a8cea55847460e72f4c6640d7
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.5-
+
+0.5.1
+-----
+837e2ee671e7c0fc02474bba8f6652e64a0a3fd9
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.5-
+
+0.5.10
+------
+3fa849ccfc7bb58fa27e2f1c45342f2fbb86a673
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.11
+------
+7518365e6b88ad433dadaf11352b3beecebc7d42
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.12
+------
+8dc6124c362997fa2a8b97434d79b92154c68dce
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.13
+------
+95cee4da9c23ed902e6759a110847cffc1a1b389
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.14
+------
+896718847f589e82a5b50183b484cdb76b4c94bd
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.15
+------
+67d5eae452714319a00e7c0bb094c2680c12a145
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.5.2
+-----
+e200dc936cb7f7f136ea6ecbf18a52dee6021232
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.1.3- 0.4
+StatsBase 0.5.1-
+
+0.5.3
+-----
+a903c0de753ce7b525be282d7a0a0d35852dd685
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.2.2- 0.4
+StatsBase 0.5.1-
+
+0.5.4
+-----
+2c1e638e272f08734641d1c479ecf20153169447
+julia 0.3- 0.3
+ArrayViews 0.4.3-
+PDMats 0.2.2- 0.4
+StatsBase 0.5.1-
+
+0.5.5
+-----
+86ba79783fa6a52bcec8c1946b114ddf803d1de2
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.2.2- 0.4
+StatsBase 0.5.1-
+
+0.5.6
+-----
+fc69f2b1558dd294599445ffa1e38ca5cc55e329
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.2.2- 0.4
+StatsBase 0.5.1-
+
+0.5.7
+-----
+d9fd2c4156ae95af2b069615f099b864acced58e
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3- 0.4
+StatsBase 0.6.9-
+
+0.5.8
+-----
+ffe7de4ec86d07fcdae35b309e2f538acdfc9d03
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3- 0.4
+StatsBase 0.6.9-
+
+0.5.9
+-----
+776fb0661d60cb2fd9c51200e4a47e935ab45e26
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.6.0
+-----
+b7cf213f95a2ad1cb6c895b24cc4317a66841518
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.6.1
+-----
+707e66306237f2aa3b31561360dc4cba95fedcf2
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+
+0.6.2
+-----
+5b1ead6fad531a4598e3f655142773812b471834
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+JSON
+Compat 0.2.4
+
+0.6.3
+-----
+1db799f5cacc8083c9603a8f7ad47010e46d63c0
+julia 0.3- 0.3
+ArrayViews 0.4.8-
+PDMats 0.3.1- 0.4
+StatsBase 0.6.10-
+JSON
+Compat 0.2.4
+
+0.6.4
+-----
+8355bc6da5fcf0a741aa929b25f2581e1006777a
+julia 0.3
+ArrayViews 0.4.8
+PDMats 0.3.1 0.4
+StatsBase 0.6.10
+Compat 0.2.4
+StatsFuns 0.0.0 0.3.0
+
+0.6.5
+-----
+041315226c919c1a6c7dae8437bddd61907bc73b
+julia 0.3
+ArrayViews 0.4.9
+PDMats 0.3.1 0.4
+StatsBase 0.6.10
+Compat 0.3.1
+StatsFuns 0.0.0 0.3.0
+
+0.6.6
+-----
+9b7d0658219ab751e78489ceb5b7407fab7faf1f
+julia 0.3
+ArrayViews 0.4.10
+PDMats 0.3.1 0.4
+StatsBase 0.6.13
+Compat 0.3.2
+StatsFuns 0.0.0 0.3.0
+
+0.6.7
+-----
+ed60e8f47e2867adc4c134fe0f90e8b95e42f743
+julia 0.3
+ArrayViews 0.4.10
+PDMats 0.3.1 0.4
+StatsBase 0.6.13
+Compat 0.3.2
+StatsFuns 0.0.0 0.3.0
+
+0.7.0
+-----
+673cabd469ee4605d3aa43a0484b55af3c10b811
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.1
+-----
+2348a545765d3d9f78957987b3b2c7745316d7fb
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.2
+-----
+8e617b29ee7e16477c44a8dfa493da640c49ea9f
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.3
+-----
+6b428e65e4766e34ed622e23b020b44faeba4e45
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.4
+-----
+bc1255204e9871cf6d76d58be24660aa2a51b24a
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.5
+-----
+d144c2ff50f9ffac088b068a653e978f9c47e5dc
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.7.6
+-----
+f9cb2e6f5bcce2952b7b90fa51e434adb17654ae
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsBase 0.6.14
+Compat 0.4.0
+StatsFuns 0.0.0 0.3.0
+
+0.8.0
+-----
+953aa820551a0c5bbffa51eb6150815448d7cf80
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.1
+-----
+caa65cd977d5acd564c99662b61ac33ffdf676cd
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.10
+------
+77eea93ca943a98ca7f0f66302a5385e34e35eef
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.4 0.5
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.2
+-----
+8740a30e0c5b04b61624453d54d8b4b601eafb4b
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.3
+-----
+fe4cba0efdf63c82f85e82fc8885d27d0d5dc24f
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.4
+-----
+a4568d75baa797498983ded6a1e8f0442e326b7a
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.5
+-----
+e55560e7298fc1ee0e72cf239fdc1ece6708e0b5
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.6
+-----
+e4b7704eb9f78db3e5deebf68c7979c22c6313f8
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.7
+-----
+3bf11d14fcc3953c90ccf59ea8f7f3839782a1db
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.8
+-----
+4303d591f5c53a067a46c94298e78604a13754c2
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.8.9
+-----
+367255408e1b506f038a2c8a4358c3ca2fd5f8f9
+julia 0.3
+ArrayViews 0.4.12
+PDMats 0.3.2 0.4
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.4.0
+
+0.9.0
+-----
+d1f0b34da0a7e7325c5325b579de42a118b918e5
+julia 0.4
+PDMats 0.4.1 0.5
+StatsFuns 0.1.1 0.3.0
+StatsBase 0.7.0
+Compat 0.2.17

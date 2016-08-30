@@ -1,0 +1,384 @@
+git://github.com/mlubin/ReverseDiffSparse.jl.git
+
+0.0.1
+-----
+4ac5ec73b65f55eb1719c4873feaee72b2836587
+julia 0.2
+DualNumbers
+Graphs
+
+0.0.2
+-----
+d3e7ecb9b37b6b1e8dc569a010811ef7f03978bf
+julia 0.2
+DualNumbers
+Graphs
+
+0.0.3
+-----
+09e6eed8c9c7497d7bd238d4e2381ac77330eebb
+julia 0.2
+DualNumbers
+Graphs
+
+0.0.4
+-----
+b20b2f3cbf77cdca1ba59a12e4150f42d83e6f02
+julia 0.2
+DualNumbers
+Graphs
+
+0.0.5
+-----
+1bc89101ca6c04ed84da7636165c22cb6736688d
+julia 0.2
+DualNumbers
+Graphs
+
+0.1.0
+-----
+62e8d4418ae6343edb92a3999b03a8a3f7880242
+julia 0.2
+DualNumbers
+Graphs
+
+0.1.1
+-----
+fcdbc847e87ea59d3840d8ba68de673e0aded6ec
+julia 0.2
+DualNumbers
+Graphs
+
+0.1.10
+------
+f127de50a60676adeb2f760ad5b30092cb34c785
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+
+0.1.11
+------
+40b3d109e3c1612e162c0c36a1b55d1a3d48c86d
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.1.12
+------
+d64315492ae3b0cbd6c50f7f9eb668518c2d33d9
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.1.13
+------
+e1d34328f23bdba98a3f4dad2c78928e732007fb
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.1.2
+-----
+99ecc5e41824d3cd5e8ab3cd50d962bcf1ab9421
+julia 0.2
+DualNumbers
+Graphs
+
+0.1.3
+-----
+61f08d60149ad988a5f792acf91e793b583cdba9
+julia 0.3
+DualNumbers
+Graphs
+
+0.1.4
+-----
+87024ee41924135ff4c4851d5fff2ca16ae77d53
+julia 0.3
+DualNumbers
+Graphs
+
+0.1.5
+-----
+ec708f3329b38fe2a886ed31e72344c0eecfb33d
+julia 0.3
+DualNumbers
+Graphs
+
+0.1.6
+-----
+606026f55106e1a833986f9587b02e3ef017c0ac
+julia 0.3
+DualNumbers
+Graphs
+
+0.1.7
+-----
+5cc7d9abe0e41e8c93fe4824220a1612bf6a4963
+julia 0.3
+DualNumbers
+Graphs
+
+0.1.8
+-----
+67fd26573826e6fee7e5bd83a1a232d05dd6b6d1
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+
+0.1.9
+-----
+ba5daca777cec76b453d4180263131979dd78e88
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+
+0.2.0
+-----
+c223483bf878c6f760629204d768b32d745bd393
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.1
+-----
+bd2432c61548f86ac3c0653b87fdef00eb5d285c
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.10
+------
+c9d5210534648dc6d58687d531e08ce5b7632739
+julia 0.3
+DualNumbers 0.1.3
+NaNMath
+Compat 0.4.0
+DataStructures
+
+0.2.11
+------
+6ba2fe8295803f8d7f3e3c888716a898fdf7f06d
+julia 0.3
+DualNumbers 0.1.3
+NaNMath
+Compat 0.4.0
+DataStructures
+ArrayViews
+
+0.2.2
+-----
+7dd71d9668a8727acccca2515a77baf722c9fc97
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.3
+-----
+6588faecf9a1097791406709cb4aad3b3315eae3
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.4
+-----
+0e5a939bfce99b1a6bb25791e72031948aae66b0
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.5
+-----
+7b2a72c4e2d40bd6c56aa93273efa30b268774e7
+julia 0.3
+DualNumbers
+NaNMath
+Graphs
+Compat
+
+0.2.6
+-----
+200b06316501c3ad3f5adea08f45634a0f40cf16
+julia 0.3
+DualNumbers
+NaNMath
+Compat
+DataStructures
+
+0.2.7
+-----
+3148de776bbc5c649e3a994f543039bedf87d766
+julia 0.3
+DualNumbers 0.1.3
+NaNMath
+Compat 0.4.0
+DataStructures
+
+0.2.8
+-----
+37b26dbf9e847018a717d957fd0a26a0e2e83bc7
+julia 0.3
+DualNumbers 0.1.3
+NaNMath
+Compat 0.4.0
+DataStructures
+
+0.2.9
+-----
+290493303d3df2f6593778cba1e766d63bd51063
+julia 0.3
+DualNumbers 0.1.3
+NaNMath
+Compat 0.4.0
+DataStructures
+
+0.3.0
+-----
+c18fb1de6a156c5639d73524172ec8988baaba0d
+julia 0.4
+DualNumbers 0.1.3
+NaNMath
+DataStructures
+ArrayViews
+
+0.4.0
+-----
+c660af3cee4fbe3db3aa0386d8a87b6e9a5bce55
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+DualNumbers
+NaNMath
+
+0.4.1
+-----
+e5f252ee7fc8ed084a3711a4aa999d9b43688809
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+DualNumbers
+NaNMath
+
+0.5.0
+-----
+1928e729792a18b0ca84dc1479454fc2bbea7524
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+DualNumbers
+NaNMath
+ForwardDiff 0.1 0.2
+
+0.5.1
+-----
+d81abf0e5d459a8554e0f031cd1f520ee98e1eef
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath
+ForwardDiff 0.1 0.2
+
+0.5.2
+-----
+3374f7525fab63b92e716593c011dbd877333db0
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath
+ForwardDiff 0.1 0.2
+
+0.5.3
+-----
+e6db18f304729c830abea65f183370337e732c49
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath
+ForwardDiff 0.1 0.2
+
+0.5.4
+-----
+ef85883cbe54d5ecc3470907db182ae326938cd5
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath
+ForwardDiff 0.1 0.2
+
+0.5.5
+-----
+95031df65c575c2218d59ba8ff9591c9bd9cf47c
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath 0.2.1
+ForwardDiff 0.1 0.2
+
+0.5.6
+-----
+758f0daa96a64bf26f2a25253915e4c26d51c7bc
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath 0.2.1
+ForwardDiff 0.1 0.2
+
+0.5.7
+-----
+84094904310f7f59e4071659c4bf84de237ce5da
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath 0.2.1
+ForwardDiff 0.2 0.3
+
+0.5.8
+-----
+823f920c523369ace7da58972605a73584eafa53
+julia 0.4
+Calculus
+Lazy
+DataStructures
+MathProgBase
+NaNMath 0.2.1
+ForwardDiff 0.2 0.3
+Compat 0.8.6

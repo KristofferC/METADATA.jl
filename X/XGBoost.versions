@@ -1,0 +1,20 @@
+git://github.com/dmlc/XGBoost.jl.git
+
+0.0.1
+-----
+87ee4dfdb99a2ff80e5f498d71f959932475dfbf
+julia 0.3-
+BinDeps 0.3.5-
+
+0.1.0
+-----
+7d0f5a4d5892f51ead88f425115c6c568df7e32f
+julia 0.3-
+BinDeps 0.3.5-
+
+0.2.0
+-----
+3c4630ff6b4e4ca13ccf0db33b6118446fba3222
+julia 0.4
+BinDeps 0.3.5-
+Compat

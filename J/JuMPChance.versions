@@ -1,0 +1,44 @@
+git://github.com/mlubin/JuMPChance.jl.git
+
+0.1.0
+-----
+5366565f92fd4e2ceaf383fb3e97896dfb8703ab
+julia 0.3
+JuMP
+ECOS
+
+0.1.1
+-----
+3a94d4b13eb78de235ff42d51f9272c509c3cb49
+julia 0.3
+JuMP
+ECOS
+
+0.2.0
+-----
+78295d9e33d8e1f17daaff761aabd0e1d45b511c
+julia 0.3
+JuMP 0.9.0
+ECOS
+
+0.2.1
+-----
+bb3eeae00e3ea76bd3208be0eb9ab81509b17e28
+julia 0.3
+JuMP 0.10
+ECOS
+
+0.2.2
+-----
+e18c69520e7c7ece521a15f84dfdda007df8f2df
+julia 0.3
+JuMP 0.10
+ECOS
+
+0.3.0
+-----
+3e0c362b4bf0bbdb3f0092f8538764ba2f08f449
+julia 0.4
+JuMP 0.14
+ECOS
+Distributions

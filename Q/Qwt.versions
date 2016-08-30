@@ -1,0 +1,9 @@
+git://github.com/tbreloff/Qwt.jl.git
+
+0.0.1
+-----
+ffa639dff1957616b84e098e0a53cb4dffc0b373
+julia 0.4
+PyCall
+ImmutableArrays
+Colors

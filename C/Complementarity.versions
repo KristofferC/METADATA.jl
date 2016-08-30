@@ -1,0 +1,37 @@
+git://github.com/chkwon/Complementarity.jl.git
+
+0.0.1
+-----
+1b4191994c134ee26766c9d8a17be679c337b089
+julia 0.4
+JuMP
+PATHSolver
+
+0.0.2
+-----
+eb1e5008aba4f8b18dfefc4b662dd31481a174c1
+julia 0.4
+JuMP
+PATHSolver
+
+0.0.3
+-----
+a4cadbeb8a65bbd0953cb4878975f49ace4e029b
+julia 0.4
+JuMP
+PATHSolver
+
+0.0.4
+-----
+6a44d5bec978480ad9ff9370ee658e5d6d2b921f
+julia 0.4
+JuMP 0.13.0
+PATHSolver 0.0.3
+
+0.0.5
+-----
+c15d8bf4a9337b939f71fb83032fe1f4af1be507
+julia 0.4
+JuMP 0.13.0
+PATHSolver 0.0.3
+NLsolve 0.7

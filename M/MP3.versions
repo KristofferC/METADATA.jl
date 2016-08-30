@@ -1,0 +1,12 @@
+git://github.com/jongwook/MP3.jl.git
+
+0.0.1
+-----
+5d9ca167fc29ea77a26b7aaa424d385fba8be7cb
+julia 0.4
+BinDeps
+FileIO
+FixedPointNumbers
+SampledSignals
+SIUnits
+@osx Homebrew

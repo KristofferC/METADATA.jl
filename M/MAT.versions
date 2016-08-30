@@ -1,0 +1,118 @@
+git://github.com/simonster/MAT.jl.git
+
+0.0.0
+-----
+160d28eac55440ef2aae6dd226368c948ce3550a
+HDF5
+
+0.1.0
+-----
+32a35273d9444c4f9a25d50a38c722f59121c7ac
+julia 0.1- 0.2-
+HDF5
+
+0.2.0
+-----
+73b74309b587180506a408af7f77e7f9506e1c14
+julia 0.2-
+HDF5
+Zlib
+
+0.2.1
+-----
+eed86c0b9476bbdcf6be0fe3441d09e554673748
+julia 0.2-
+HDF5
+Zlib
+
+0.2.10
+------
+aca9b261c1f73caf4f2ec9330148659a52f3a347
+julia 0.3-
+HDF5
+Zlib
+Compat
+
+0.2.11
+------
+334c8741b5e6063dd3b2009b8288da0acfaec725
+julia 0.3-
+HDF5
+Zlib
+Compat
+
+0.2.12
+------
+6c29c889df3bb726bed7bc745a89f595c5da8c84
+julia 0.3-
+HDF5
+Zlib
+Compat
+
+0.2.13
+------
+6e4701bf0378320132053fce9d717a92f636dfe1
+julia 0.3
+HDF5
+Zlib
+Compat
+
+0.2.14
+------
+82021f0f3c1de9224296ab703ffa3706adec965c
+julia 0.3
+HDF5
+Zlib
+Compat
+
+0.2.2
+-----
+79c0fb50719c50f1c28df93943ebfdff9d5cdb52
+HDF5
+Zlib
+
+0.2.3
+-----
+fb6e5ae33c38117ffe5c213c88f114c6eb06ce3c
+HDF5
+Zlib
+
+0.2.4
+-----
+2d64b13757b8ef12e744770240124bac5be74097
+HDF5
+Zlib
+
+0.2.5
+-----
+825cdb2b3eeff42c4b47c2258ac1fda822a2b460
+HDF5
+Zlib
+
+0.2.6
+-----
+9d32665a7c1a2848025f6fa9a0b93db4123ed822
+HDF5
+Zlib
+
+0.2.7
+-----
+6a2ba2cfb05eaa3c9e31499707b0eb5f64d57a1e
+julia 0.3-
+HDF5
+Zlib
+
+0.2.8
+-----
+67ea0cb71b091d2ee769cbcfd212b7499bc0a775
+julia 0.3-
+HDF5
+Zlib
+
+0.2.9
+-----
+13f042f0749068db3e36d0b9edf0ebb2749bf5fe
+julia 0.3-
+HDF5
+Zlib
+Compat

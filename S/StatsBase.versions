@@ -1,0 +1,360 @@
+git://github.com/JuliaStats/StatsBase.jl.git
+
+0.0.0
+-----
+a06a39096901fe692a46e3b79c52f255c3fd0508
+
+0.1.0
+-----
+a06a39096901fe692a46e3b79c52f255c3fd0508
+julia 0.1- 0.2-
+
+0.2.0
+-----
+3fc1b86595e96b2c098e91bb2fe56a8c5bbec05e
+julia 0.2-
+
+0.2.1
+-----
+c5677e95c9f737eecac254041cab718596cee5cf
+julia 0.2-
+
+0.2.10
+------
+6e1c6a9006964a1ed6e841eafa7d3d43e56e8778
+julia 0.2- 0.3-
+
+0.2.3
+-----
+e21b766cad2440e60ce56144a0aa776bd5a7cdf3
+julia 0.2-
+
+0.2.4
+-----
+85b46d15d6ba14d1ef8703bb16223b0f5684abb4
+julia 0.2-
+NumericExtensions
+
+0.2.5
+-----
+1fd0983b0af4174a0fd42026ff68333015924089
+
+0.2.6
+-----
+dd16c108438a39fcb9d0968ea8d83171036df484
+
+0.2.7
+-----
+47c198b1dc0a1f9a6af822bb66ef6ce219e966eb
+
+0.2.8
+-----
+87d1c8d890962dfcfd0b45b82907464787ac7c64
+
+0.2.9
+-----
+78f5810a78fa8bee684137d703d21eca3b1d8c78
+
+0.3.0
+-----
+926f0a395a0c2ca3853d16af480b4e7e475b52d0
+julia 0.3-
+
+0.3.1
+-----
+553a8ce28aec3ef4c49c4c1728ddd7d375e7fec9
+julia 0.3-
+
+0.3.10
+------
+b249317c3f2969fa5b8f7d1ff1347521309ad62a
+julia 0.3-
+
+0.3.11
+------
+fca1ba5720da85e054801f9e5ca7fb06d029bd47
+julia 0.3-
+
+0.3.12
+------
+075908cbb07b4a65aba4bb549f39367c02b16eb4
+julia 0.3-
+
+0.3.13
+------
+1c964a9f1f5e3211d66bb6796ec314b0dd8843e8
+julia 0.3-
+
+0.3.2
+-----
+0efba512a2bf8faa21e61c9568222ae1ae96acbb
+julia 0.3-
+
+0.3.3
+-----
+1239eb0522827c640ab317aa967ba23bf04efc87
+julia 0.3-
+
+0.3.4
+-----
+dbc39a54ee7b7174802c1f97fc7091c5c6d792f7
+julia 0.3-
+
+0.3.5
+-----
+1f820915e96c9b5d784fe467f071c00236a60ee1
+julia 0.3-
+
+0.3.6
+-----
+b2b5dee86eaef5745e05ecd0de9045bd92f703b3
+
+0.3.7
+-----
+e906bcb386a70a13bdd95571ccace23ecfdfd0d1
+
+0.3.8
+-----
+8d5b84498e134de9e70bf4d47a0058086c241671
+
+0.3.9
+-----
+1f529345823583ac85f5b5bfbe52de668071887d
+julia 0.3-
+0.4.0
+-----
+aaa2476723b941a6e2d7c84debd94da98acc31aa
+julia 0.3-
+
+0.4.1
+-----
+506c8964de782d022689f625840a6704a46224bb
+julia 0.3-
+
+0.4.2
+-----
+b976eacf46c4e18d6f2fcce7cf77c897315027cc
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.4.3
+-----
+716745a39b8bde8f8b48abe87a7ecb300022a0bb
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.4.4
+-----
+cfe55fff535df4f70c71d23af0f304a637732d68
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.5.0
+-----
+cfe55fff535df4f70c71d23af0f304a637732d68
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.5.1
+-----
+576b07bc0fc3a56b7d0018b4d87c77a4eb85d847
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.5.2
+-----
+3ac64e65a26a44fbbfd82eaf37e9e084c40b2cc0
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.5.3
+-----
+b0974403b8e00945345fea9a4b5943b824a59e21
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.0
+-----
+cdadfc5ea72d6330a0f60f3cf46f51a4d775c98d
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.1
+-----
+d2fb04edde3a8afa376d32b38381c86921f8c5f3
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.10
+------
+03700097a864588019abf743f3534c1d4e568e83
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.6.11
+------
+2668b50a37ea968619a10e061b954a7240782d3b
+julia 0.3-
+ArrayViews 0.4.8-
+Compat 0.2.11-
+
+0.6.12
+------
+e6411b644c02d470036d44fe25a49cdf89a15fff
+julia 0.3-
+ArrayViews 0.4.8-
+Compat 0.2.11-
+
+0.6.13
+------
+204195b17725056ceb6dd640560bc56ea7e59c68
+julia 0.3-
+ArrayViews 0.4.10
+Compat 0.3.2
+
+0.6.14
+------
+801f23f5fd1c36af011c91938a623187d1e8ddee
+julia 0.3-
+ArrayViews 0.4.12
+Compat 0.4.0
+
+0.6.15
+------
+23b36af460cfd6c147efef9074a76a4e8cf13dae
+julia 0.3-
+ArrayViews 0.4.12
+Compat 0.4.0
+
+0.6.16
+------
+d241266328c17f4c588f6a66985d4e02f2741c01
+julia 0.3-
+ArrayViews 0.4.12
+Compat 0.4.0
+
+0.6.2
+-----
+3885542a93d2de71a1102da030c798cd51749481
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.3
+-----
+a2ba466f0b1ba82ed45f35918a9c5804ccc11d6b
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.4
+-----
+6353c322e60a54db8cdd296c6379ffec9473ea2a
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.5
+-----
+ae435d118a9fbd09f528c1b3c0d7a142890e8278
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.6
+-----
+dede3150b1fbb04fd0c53018685140c1d9d33c15
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.7
+-----
+74e8095dbdf55d6ed8322ae52d2910bfef52dc10
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.8
+-----
+d6b524c383b71024538fd68efa571f8f1ca9f944
+julia 0.3-
+ArrayViews 0.4.6-
+
+0.6.9
+-----
+bf8e7752f8541e5f0f7ead514b0a3055ad0bce23
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.7.0
+-----
+727c5271f0774a2a98de1daa8e182fd9dbaa9e36
+julia 0.3-
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.7.1
+-----
+7003962de11031e1df182045e9391f6120a85f3e
+julia 0.3
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.7.2
+-----
+743727f04402e6004f21159a4ab9894e4a2e53ad
+julia 0.3
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.7.3
+-----
+340d32e1bfff30edf060cad08ee5612295cf7a4e
+julia 0.3
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.7.4
+-----
+cf943919e9033b84ad1591307ddec5e5a6e451da
+julia 0.3
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.8.0
+-----
+afa33d6fff1cb50e5aa54b0e90613d1b481133a0
+julia 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.8.1
+-----
+46876036307915040844a27b5103a91ec9295812
+julia 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.8.2
+-----
+90c68e116258c36493618833bfbf7d5c46cd9c48
+julia 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+StatsFuns 0.1.0
+
+0.8.3
+-----
+4f34598291e9eb5a976479f15a0ae33bd298ed6c
+julia 0.4
+Compat 0.8.4
+StatsFuns 0.1.0
+
+0.9.0
+-----
+30356e3001a12969b4b2d57029de294faa49c59f
+julia 0.4
+Compat 0.8.4
+StatsFuns 0.3.0

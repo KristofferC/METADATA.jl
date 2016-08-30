@@ -1,0 +1,13 @@
+git://github.com/JuliaStats/Stats.jl.git
+
+0.0.1
+-----
+5113ce6044fc554b350ea16f92502f8d6e077a62
+julia 0.2-
+StatsBase 0.3-
+
+0.1.0
+-----
+8208e29af9f80ef633e50884ffb17cb25a9f5113
+julia 0.2-
+StatsBase

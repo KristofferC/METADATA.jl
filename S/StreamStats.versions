@@ -1,0 +1,15 @@
+git://github.com/johnmyleswhite/StreamStats.jl.git
+
+0.0.1
+-----
+c190a5cc1aebb6102ae7914d43ddaae6875a300f
+julia 0.3-
+StatsBase
+Distributions
+
+0.0.2
+-----
+cdf44058cdba9eca3e923f04d1ea97d819882f29
+julia 0.3-
+StatsBase
+Distributions

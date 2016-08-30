@@ -1,0 +1,27 @@
+git://github.com/sawcordwell/MDPs.jl.git
+
+0.0.1
+-----
+dd969865b25a3c38cf1b3fc7da0c6fb64f69b864
+julia 0.3-
+Docile
+
+0.0.2
+-----
+0d6a6efc32608e05bf0fb7ba6c4a9e44d99576f8
+julia 0.3-
+Docile
+
+0.1.0
+-----
+d5fbe4e4c5ca5064fb7c32fd50373c9c230a957e
+julia 0.3-
+Compat
+Docile
+
+0.1.1
+-----
+9be1d10eed4e0ffd3d9b8c7d5157220bf50c34cf
+julia 0.3-
+Compat
+Docile

@@ -1,0 +1,35 @@
+git://github.com/jbn/RouletteWheels.jl.git
+
+0.0.1
+-----
+22104ce82cdd9ba8e1bef7310e52e3dc18f5beb5
+julia 0.3
+
+0.0.2
+-----
+f29e45becfd8be3c125c9a19e0244c6836939168
+julia 0.3
+
+0.0.3
+-----
+df2ddc41ba6b598ee7f296b856d74f759fa1c4e2
+julia 0.3
+Compat
+
+0.0.4
+-----
+39f8dc6d3d4d0dda97603e35b6bf38a36baf5deb
+julia 0.3
+Compat
+
+0.0.5
+-----
+5711c331b02640ad6e9c7219eda108570eda0ca6
+julia 0.3
+Compat
+
+0.0.6
+-----
+edac048b32a4ac1795c49b5daf0ed19dce9e3f65
+julia 0.3
+Compat

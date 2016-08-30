@@ -1,0 +1,34 @@
+git://github.com/JuliaLang/Formatting.jl.git
+
+0.1.0
+-----
+6751d03af4cbb75b858586ee408737488c9b07b5
+julia 0.2-
+
+0.1.1
+-----
+e47ba2ab9fabc3fed8298efbd999a2c1808124c2
+julia 0.2-
+
+0.1.2
+-----
+a59a762a0310e536cda8a5bd24ee072bb83cfab1
+julia 0.2-
+
+0.1.3
+-----
+eb903be4ed5140fdb5fccba15fb04289a9f639a2
+julia 0.3-
+Compat
+
+0.1.4
+-----
+024233bf2c536eaf2f720d5e32f9567221fc9e1b
+julia 0.3
+Compat
+
+0.1.5
+-----
+16446b171fcb350951de853af6c7d95a4d16d2a6
+julia 0.3
+Compat

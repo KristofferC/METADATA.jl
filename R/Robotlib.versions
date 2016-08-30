@@ -1,0 +1,24 @@
+git://github.com/baggepinnen/Robotlib.jl.git
+
+0.0.1
+-----
+7b4895f65ac772b21c36ece001843d6d3f6fafdf
+julia 0.4
+MAT
+DataFrames
+DataArrays
+Plots
+StatsBase
+Quaternions
+PyPlot
+
+0.0.2
+-----
+aa45504c8a4478112f2a0e6ecb88957e04fda643
+julia 0.4
+MAT
+DataFrames
+DataArrays
+Plots
+StatsBase
+Quaternions

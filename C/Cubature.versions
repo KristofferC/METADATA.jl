@@ -1,0 +1,113 @@
+git://github.com/stevengj/Cubature.jl.git
+
+0.0.0
+-----
+16f9b3d8ff7894592191becde4232f4231fa254e
+BinDeps
+
+0.1.0
+-----
+ad8c06b75e6ed5d12a38880b4b6529b3f922cdd9
+BinDeps
+julia 0.2-
+
+0.1.1
+-----
+c2343c7c66c4566a530377ed8258961fb6b2da5c
+BinDeps
+julia 0.2-
+
+0.1.2
+-----
+749fb9e60926e82eced46731772fdc28c882cba6
+BinDeps
+julia 0.2-
+
+1.0.0
+-----
+a35f31eae117f7e29f4179fb9485052aeb4e6c61
+BinDeps
+julia 0.2-
+
+1.0.1
+-----
+3a57cb6fb52c58a5ad0e3277408f7eabf99943f6
+BinDeps
+julia 0.2-
+
+1.0.10
+------
+e30d4ebb823a255bdb31ad2af35171cb6ca0a4aa
+BinDeps
+julia 0.3
+Compat 0.7
+
+1.0.2
+-----
+eb0b5655eb1d463260e7e8ac2c0d9c2bff082821
+BinDeps
+julia 0.2-
+Compat 0.2
+
+1.0.3
+-----
+5a9244850920d20ce180d71f9715ec84a2bdcdf7
+BinDeps
+julia 0.2-
+Compat 0.2
+
+1.0.4
+-----
+93c4dc0ca1e499b6ac4071ecfe999527379bc8da
+BinDeps
+julia 0.2-
+Compat 0.2
+
+1.0.5
+-----
+e100a64c53c9505526e1f7aade2ba10b44e4e17d
+BinDeps
+julia 0.2-
+Compat 0.2
+
+1.0.6
+-----
+0e6c1444dcda40a75343432875eb85d4e1e75dda
+BinDeps
+julia 0.3
+Compat 0.2
+
+1.0.7
+-----
+2f5561cdc9a39f01c1db9241a263f22ac5544523
+BinDeps
+julia 0.3
+Compat 0.2
+
+1.0.8
+-----
+90ccf9977eca52440a7acc41a2d47a572782bda4
+BinDeps
+julia 0.3
+Compat 0.2
+
+1.0.9
+-----
+af215d9d144fb9296b86f85925ee3cd1068e0c34
+BinDeps
+julia 0.3
+Compat 0.7
+
+1.1.0
+-----
+49031b030467db59866a93ffdd5edc0435e5a05e
+BinDeps
+julia 0.3
+Compat 0.7
+
+1.2.0
+-----
+8dfbdaa990927020c203e5689dc59a1b2a1de44c
+BinDeps
+julia 0.4
+Compat 0.8

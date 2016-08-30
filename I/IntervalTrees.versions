@@ -1,0 +1,36 @@
+git://github.com/BioJulia/IntervalTrees.jl.git
+
+0.0.1
+-----
+92e7e28e50de9ad1a4683b9b438a36a3b90c00e6
+julia 0.3-
+
+0.0.2
+-----
+804413e772b0cadf86cd5782ac72f54d65283cbd
+julia 0.3-
+
+0.0.3
+-----
+af6ff52706d70273abc3345352cd5828fac68c45
+julia 0.3-
+Docile
+
+0.0.4
+-----
+9137e7d78c309594f49d158e33eeb2a2cdcac820
+julia 0.3-
+Docile
+
+0.0.5
+-----
+f4884e0f9428035791584552f803abdc3b55dc68
+julia 0.3
+Docile
+Compat
+
+0.1.0
+-----
+f4b0e3023f66213f68df210ba81f2cd2f7a43cbe
+julia 0.4
+Compat

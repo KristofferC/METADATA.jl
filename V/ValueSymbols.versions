@@ -1,0 +1,7 @@
+git://github.com/eschnett/ValueSymbols.jl.git
+
+1.0.0
+-----
+7fd0f512c5ca8a4bd23943ee7a72ac1ad6bda252
+julia 0.4
+Compat 0.7.15

@@ -1,0 +1,34 @@
+git://github.com/sisl/TikzGraphs.jl.git
+
+0.0.1
+-----
+b8c9ebf508f178bb91405244c28ce4cd8b85d571
+julia 0.3-
+TikzPictures
+Graphs
+
+0.0.2
+-----
+4797788f9fb4ee6c7883e50b6be392bdadaa9fee
+julia 0.3
+TikzPictures
+Graphs
+LightGraphs
+
+0.1.0
+-----
+22f7cfe50cc1848ae3309843319aa5629e381ab7
+julia 0.3
+TikzPictures
+Graphs
+LightGraphs
+Compat
+
+0.1.1
+-----
+25ba4446c06a66b7678f882fbc0f7ace6358249a
+julia 0.3
+TikzPictures
+Graphs
+LightGraphs
+Compat

@@ -1,0 +1,25 @@
+git://github.com/kshyatt/CUSOLVER.jl.git
+
+0.0.1
+-----
+a5fc072f2d6a047d19b518efc6e4e1da4149942b
+julia 0.4-
+CUDArt
+CUBLAS
+CUSPARSE
+
+0.0.2
+-----
+6351f628976d3266a96d1557d5e64e0b0d829b93
+julia 0.4
+CUDArt
+CUBLAS
+CUSPARSE
+
+0.1.0
+-----
+6351f628976d3266a96d1557d5e64e0b0d829b93
+julia 0.4
+CUDArt
+CUBLAS
+CUSPARSE

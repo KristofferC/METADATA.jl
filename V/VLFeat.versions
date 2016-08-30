@@ -1,0 +1,60 @@
+git://github.com/IHPSystems/VLFeat.jl.git
+
+0.0.1
+-----
+380b5a3cb995800c08a8b060ea51f3c40779d7ec
+julia 0.3 0.4
+BinDeps
+Compat
+Images
+
+0.0.2
+-----
+8d283e2dc831568fd503350503e8a4e9b0b0de50
+julia 0.3 0.4
+BinDeps
+Compat
+Images
+
+0.0.3
+-----
+1e63ac24fda2748429272a7e699ffe6fec3edd57
+julia 0.3
+BinDeps
+Compat
+Images
+FactCheck
+TestImages
+
+0.0.4
+-----
+5550184d986d57f7e819aa17f9755a8f6f4a3b65
+julia 0.3
+BinDeps
+Compat
+Images
+Colors
+FactCheck
+TestImages
+
+0.0.5
+-----
+f811d5fca13579698ff99853eeb0b9bfc3a681f6
+julia 0.3
+BinDeps
+Compat
+Images
+Colors
+FactCheck
+TestImages
+
+0.0.6
+-----
+16764c37f82e108cd0359374e270d1d3a0b62e08
+julia 0.3
+BinDeps
+Compat
+Images
+Colors
+FactCheck
+TestImages

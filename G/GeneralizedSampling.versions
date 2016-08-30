@@ -1,0 +1,11 @@
+https://github.com/robertdj/GeneralizedSampling.jl.git
+
+0.0.4
+-----
+f8bcf69f08f99ece4e5ee5b6d784993d1f06d253
+julia 0.4
+NFFT 0.1.1
+Wavelets 0.4.1
+ArrayViews 0.6.4
+VoronoiCells 0.1.1
+IntervalWavelets

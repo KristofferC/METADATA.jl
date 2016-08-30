@@ -1,0 +1,117 @@
+git://github.com/BenLauwens/SimJulia.jl.git
+
+0.0.0
+-----
+6860e4ceb466e20857aa545a5ff379fdc8e797b0
+
+0.1.0
+-----
+6eb67fcbfe0add3e641e55f8d7057fdb68768f73
+
+0.1.1
+-----
+749a07c38d4947814dfa3d0843b890c8b606144d
+
+0.1.2
+-----
+f4dfae54fc14c19cda3f0d99e9ab6800af997cbd
+
+0.2.0
+-----
+320778928dfa0afbbc096759a5b3e9c6f727d165
+julia 0.3-
+
+0.2.1
+-----
+cbd775e35a445e497d3b9157977b971fbfc5d846
+julia 0.3
+
+0.3.0
+-----
+9eee82a7515922beb13c5efb0a060ca5cbf59027
+julia 0.3
+Compat 0.4.0
+
+0.3.1
+-----
+65283644adf66caa94450fb3ad9928994d776176
+julia 0.3
+Compat 0.4.0
+
+0.3.10
+------
+1f3cf80245f0a692193eea3c850dab07c32abe9c
+julia 0.3
+Compat
+
+0.3.11
+------
+af25eaf5c8f1fbc02dd1a3fabc2c89447b0fa079
+julia 0.3
+Compat
+
+0.3.12
+------
+7e688575206f212eecd0e7f2673f9124a0725442
+julia 0.3
+Compat
+
+0.3.13
+------
+155814371666e2c030654b4974e15195cdf1f2c7
+julia 0.3
+Compat
+
+0.3.14
+------
+d0e2abe932d0adfb96fdaddb4ff7cf82301ec02b
+julia 0.3
+Compat
+
+0.3.2
+-----
+2bfc0bfc82fc5413023e45ae1de1cb9ab762583f
+julia 0.3
+Compat 0.4.0
+
+0.3.3
+-----
+125333d1693de41c1dd8f3911a52529e8435bf4f
+julia 0.3
+Compat
+
+0.3.4
+-----
+b1bad08b8a1e0af92a4ad4077a1a0851ca342160
+julia 0.3
+Compat
+
+0.3.5
+-----
+2153535b95dffb43c424923d471572a34e88bda1
+julia 0.3
+Compat
+
+0.3.6
+-----
+0ac40a8004b7a295d240f4af276c1ae176370323
+julia 0.3
+Compat
+
+0.3.7
+-----
+0ac40a8004b7a295d240f4af276c1ae176370323
+julia 0.3
+Compat
+
+0.3.8
+-----
+e545bfb42f1320403c559b2d762d6e3592f3d5d9
+julia 0.3
+Compat
+
+0.3.9
+-----
+d1cfd1d2891d389bd683346334bb14981b5c5cad
+julia 0.3
+Compat

@@ -1,0 +1,8 @@
+git://github.com/esproff/TopicModelsVB.jl.git
+
+0.0.1
+-----
+574472d492c0d6e22a0455b0c6f942c5b6e0f4c1
+julia 0.4
+Distributions
+OpenCL

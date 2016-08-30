@@ -1,0 +1,13 @@
+git://github.com/bfredl/Neovim.jl.git
+
+0.0.1
+-----
+50e5fc623a60dbf94bb8bc0938c4e8322b8e5247
+Compat
+MsgPack 0.0.2-
+
+0.0.2
+-----
+4ea71c4f5e17b1cedf87ab8ac79c0e9fcf92ac86
+Compat
+MsgPack 0.0.4-

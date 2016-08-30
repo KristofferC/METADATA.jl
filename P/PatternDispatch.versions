@@ -1,0 +1,25 @@
+git://github.com/toivoh/PatternDispatch.jl.git
+
+0.0.0
+-----
+9c0ffb214e42897144197302240e50312179dd34
+
+0.0.1
+-----
+8430bfc5ca4915be14b19dacf8dfd88f22826b2e
+julia 0.2-
+
+0.0.2
+-----
+888626bc13c672e1789f1e1a1a473b2d05360939
+julia 0.2
+
+0.1.0
+-----
+bb795f20ec207d2c14936af17b22c604af5d52b1
+julia 0.3
+
+0.2.0
+-----
+58ae7e552af55f9dac6ff3180e1c489f2b2a20a4
+julia 0.4

@@ -1,0 +1,83 @@
+git://github.com/STOR-i/GaussianProcesses.jl.git
+
+0.1.0
+-----
+2750ec4bcca6795946f36bbe4af15f93821a2f38
+julia 0.3-
+Optim 0.3 0.5
+Docile 0.4.5-
+
+0.1.1
+-----
+6f916cf4e9caec7e043f3de7007f0dbae3346b51
+julia 0.3-
+Optim 0.3 0.5
+Docile 0.4.5-
+
+0.1.2
+-----
+e7185bd53d204b7dc8892eb987d91305949b3126
+julia 0.3-
+Optim 0.3 0.5
+PDMats 0.3-
+Docile 0.4.5-
+
+0.1.3
+-----
+2f67c42efcd1a4ea16677198909dc13fcf866547
+julia 0.3
+Optim 0.3 0.5
+PDMats 0.3-
+Docile 0.4.5-
+Distances 0.2-
+ArrayViews 0.6-
+
+0.1.4
+-----
+4ceb4dd9241e9e4f3f003ee041923f46797587a9
+julia 0.3
+Optim 0.3 0.5
+PDMats 0.3-
+Docile 0.4.5-
+Distances 0.2-
+ArrayViews 0.6-
+
+0.2.0
+-----
+c716f3d971be8ba446a43f09fd873b68d9259606
+julia 0.4
+Optim 0.3 0.5
+PDMats 0.3-
+Distances 0.2-
+ArrayViews 0.6-
+ScikitLearnBase 0.0.1
+
+0.2.1
+-----
+0ee4432e2491ea083026076854e4a57b1af84a82
+julia 0.4
+Optim 0.3-
+PDMats 0.3-
+Distances 0.2-
+ArrayViews 0.6-
+ScikitLearnBase 0.0.1
+
+0.3.0
+-----
+65e18df1d1ac2db99e7651ee69529704656f06b5
+julia 0.4
+Optim 0.5-
+PDMats 0.3-
+Distances 0.2-
+ArrayViews 0.6-
+ScikitLearnBase 0.0.1
+
+0.3.1
+-----
+cec1adba45bf6e53814d6fa3a5bdd06ae16c0fce
+julia 0.4
+Optim 0.5-
+PDMats 0.3-
+Distances 0.2-
+ArrayViews 0.6-
+ScikitLearnBase 0.0.1

@@ -1,0 +1,51 @@
+git://github.com/JuliaMatrices/BandedMatrices.jl.git
+
+0.0.1
+-----
+0b053a1510d89c84c8aea281d8029edc99c1236a
+julia 0.4
+
+0.0.2
+-----
+6fcf7ecbc2e697afb3c693d5d0c673fa956ab543
+julia 0.4
+
+0.0.3
+-----
+b0b130b7e3500739f53b021c8105f0f2108d69fe
+julia 0.4
+
+0.0.4
+-----
+4f9c640b44cce0c8f626053bd66ce5f8ba29d1f9
+julia 0.4
+
+0.0.5
+-----
+c0adb5eb73037b1102cebd54034dba964d6a2f7d
+julia 0.4
+Compat 0.8.4
+
+0.0.6
+-----
+3f6d82e4b342c5fd1d39c957e5ce00f36fd84aa5
+julia 0.4
+Compat 0.8.4
+
+0.0.7
+-----
+f956a8084ad01b573068a8cc292b99d3869cc468
+julia 0.4
+Compat 0.8.4
+
+0.0.8
+-----
+adb5b4cce047d1e2145ac6d9698c8016840bfc2b
+julia 0.4
+Compat 0.8.4
+
+0.0.9
+-----
+49027d7a529435afed8caeaf7655dcf952d08af0
+julia 0.4
+Compat 0.8.4

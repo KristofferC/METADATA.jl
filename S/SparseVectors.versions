@@ -1,0 +1,99 @@
+git://github.com/JuliaSparse/SparseVectors.jl.git
+
+0.0.1
+-----
+4f328d2b2fc8d7766a0d91104b8c84ecc7dea7a4
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.0.2
+-----
+62ab3ebdb57cc2167f43a551d363716eb1a11695
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.0.3
+-----
+f84e1fc4bd871949de9ce9c8890d4cb506c07798
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.1.0
+-----
+c90590155a46b7c112aeebef2556598244127d8c
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.1.1
+-----
+229f2b02618169e4fdd98fc10a1764a6ddd5f872
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.2.0
+-----
+a66a85c544d7bf8a1f25f0b4d58d12bc39e34293
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.3.0
+-----
+ce0f21d5a7e37e917717b5da872e5ff1c0de93da
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.3.1
+-----
+c2807a502c93420fa08471d3c0bb698dfc2dcd02
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.3.2
+-----
+b9ab8cc01921d48240117a571199fc9c3854560c
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.3.3
+-----
+c01042fddd85117884df1220135ad59dffec79f3
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.3.4
+-----
+7bc9e6dc77d92a8bb0a6bfda4d7a6b72d85a45bd
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.4.0
+-----
+b167e4b26937612e1ee9bf135420f077119bdccd
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.4.1
+-----
+7b4e85c01f5be7986baf1a0efc7f217ab3a65b68
+julia 0.3
+Compat 0.4
+ArrayViews 0.6
+
+0.4.2
+-----
+654636195f971ee9d79a502d1167f03551f96e4c
+julia 0.3
+Compat 0.4
+ArrayViews 0.6

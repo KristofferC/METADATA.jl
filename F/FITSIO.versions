@@ -1,0 +1,95 @@
+git://github.com/JuliaAstro/FITSIO.jl.git
+
+0.0.0
+-----
+85b6fa53caf18f570ab3194fa3346a195b6c5541
+
+0.1.0
+-----
+920b0a402f6eaba7ea7b60334087bdbdce582eb6
+julia 0.2
+
+0.2.0
+-----
+c2420ce928255b432e322a2e88cb2a4b849ed2f9
+julia 0.2
+
+0.3.0
+-----
+b21e27290b4be3901b8c996a2c6496962547056c
+julia 0.2
+BinDeps
+
+0.4.0
+-----
+718e4ed171caae99fd9f299eb99e1eda48913235
+julia 0.2
+BinDeps
+
+0.5.0
+-----
+8c51c739b70cf751cad50c689ce0913cf1be589a
+julia 0.2
+BinDeps
+
+0.5.1
+-----
+7316d4ba541cc967925714e669589e6204bf58d9
+julia 0.2
+BinDeps
+
+0.5.2
+-----
+3001911efef010c799eee125f484082ba8d3e5a2
+julia 0.2
+BinDeps
+Compat
+
+0.6.0
+-----
+793cda8429685538274791eeb365f254f13fc04c
+julia 0.3
+BinDeps
+Compat 0.4.1
+
+0.7.0
+-----
+eaa7ceac0a7a6ebf6c2d9e2262322c7d398d07e7
+julia 0.3
+BinDeps
+Compat 0.4.1
+
+0.8.0
+-----
+87484f6b1c81f889f0d1ebdeeb203da3e066bf5e
+julia 0.3
+BinDeps 0.3.12
+Compat 0.4.1
+
+0.8.1
+-----
+231378e980fb0cf0d0eca99d79d517f7582bd6a8
+julia 0.3
+BinDeps 0.3.12
+Compat 0.4.1
+
+0.8.2
+-----
+1bd337ce570f4827b1852eb419a3c478bedceb84
+julia 0.3
+BinDeps 0.3.12
+Compat 0.4.1
+
+0.8.3
+-----
+c8d75dcf86125dbdd623a1b07f246971c5fde08c
+julia 0.3
+BinDeps 0.3.12
+Compat 0.4.1
+
+0.8.4
+-----
+990aacb09c87c78159aeee12faf47934189a7d4b
+julia 0.3
+BinDeps 0.3.12
+Compat 0.8.6

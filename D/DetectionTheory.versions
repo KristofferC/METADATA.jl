@@ -1,0 +1,30 @@
+git://github.com/sam81/DetectionTheory.jl.git
+
+0.0.1
+-----
+8c87545785ac377681f8ed89734f172d40235e10
+HDF5
+Distributions
+Docile
+Roots
+julia 0.4
+
+0.0.2
+-----
+c013e4707119f71e2ca9504cfc70c3d40e7d27ad
+julia 0.4
+Compat 0.7.18
+Distributions
+Docile
+HDF5
+Roots
+
+0.0.3
+-----
+ac6204b5920170c87098a422860c8d922f2cd328
+julia 0.4
+Compat 0.7.18
+Distributions
+Docile
+HDF5
+Roots

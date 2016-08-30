@@ -1,0 +1,37 @@
+git://github.com/lindahua/Devectorize.jl.git
+
+0.0.0
+-----
+f22b7d7418ad923144ab83a5f48ab9309ddea6a6
+
+0.2.0
+-----
+f970ff635016d0dfa367599a38ee89f3af5d8471
+julia 0.2-
+
+0.2.1
+-----
+12df0ca8b76e6e6d3aecb824e2c1913f466eb393
+julia 0.2-
+
+0.3.0
+-----
+9084f21b510df4fee19027a54c40c8072b79049d
+julia 0.2-
+
+0.4.0
+-----
+ed4f7df2944fc51c4a2aab4aa49c396eb5277ac3
+julia 0.3-
+
+0.4.1
+-----
+46bc6f8107eb09e3b9433a334d742b2fcdaeee13
+julia 0.3
+Compat 0.4.0
+
+0.4.2
+-----
+754cc06c169a300df975ce3cf228263d84ea0ffa
+julia 0.3
+Compat 0.7.1

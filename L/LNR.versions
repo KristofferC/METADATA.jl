@@ -1,0 +1,17 @@
+git://github.com/JunoLab/LNR.jl.git
+
+0.0.0
+-----
+7a8e1939764117942a7decf05d2ab98f91d2be12
+
+0.0.1
+-----
+22625e0f25ce299b7bab9b1fb20d0a8dd2266ecf
+Lazy
+
+0.0.2
+-----
+8d0d48e069437a351fb29e5c323c3f1de13f8c56
+Lazy
+Compat
+julia 0.4

@@ -1,0 +1,49 @@
+git://github.com/JuliaStats/Distances.jl.git
+
+0.1.0
+-----
+1fb4b0f46d352389882569f7545f91be66e4caf0
+julia 0.3-
+ArrayViews 0.4-
+
+0.1.1
+-----
+c93e6f8f2605132dff9aa00a862f6cea44298dfc
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.0
+-----
+53ea6589568896d57e9f392e0d3596b8d0938941
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.2.1
+-----
+777aca51c264b7c0ab788cd38abd28bafc4a2ca8
+julia 0.3
+ArrayViews 0.4.8-
+Compat
+
+0.2.2
+-----
+3dec24cdd3d92892bc9b9abf9fe4570cae2aead4
+julia 0.3
+ArrayViews 0.4.8-
+Compat
+
+0.3.0
+-----
+187257392096a88ff6c74d456e228ea6bcce0938
+julia 0.4
+
+0.3.1
+-----
+b608c83906ad766d28b3b141d7fe6d6fb1772e3b
+julia 0.4
+
+0.3.2
+-----
+3877ea49196fbc583b40353f45e506b13f42b860
+julia 0.4
+Compat 0.8.4

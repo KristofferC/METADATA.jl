@@ -1,0 +1,89 @@
+git://github.com/JuliaOpt/KNITRO.jl.git
+
+0.0.1
+-----
+6465707e35897ad91ffa06b8a7a01b6eb3a580b3
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.10
+------
+3a252462d6f3e409166893d02e184b8c45b53ece
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.2
+-----
+df364a8ac38a8132cc2c9d47a1dcd1ba9f25cea6
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.3
+-----
+0bc38d0327c5806185b955f37e14e53f3ada22e8
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.4
+-----
+516b42bb8c659b7a32cf64d77cd64bf096e9f08f
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.5
+-----
+68b726d2f2869e8bdf32ca872db987f59adaaeef
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.6
+-----
+8db86ed8f2ba174f072e6bcb8809dd45fafd9152
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.7
+-----
+0c8a83466ff1758be993e4f48000bc58360ab17a
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.8
+-----
+afe73f0bd3c60910dc0cf4f58a851a4689aee793
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.0.9
+-----
+cccfcace2951c6feb050425345de64e07a779642
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Docile
+
+0.1.0
+-----
+aad1670b508152b58b56e82c649a3c04fa0b56d5
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.1.1
+-----
+856f88f8fd157225e2a230676edda9a10d93b575
+julia 0.4
+MathProgBase 0.5 0.6
+
+0.2.0
+-----
+e181c519c32742421d4061078240a38e6fe1777c
+julia 0.4
+MathProgBase 0.5 0.6

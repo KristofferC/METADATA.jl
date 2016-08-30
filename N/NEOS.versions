@@ -1,0 +1,22 @@
+git://github.com/odow/NEOS.jl.git
+
+0.0.1
+-----
+963a51e1954502e79f28e9e9b21e71df6a368310
+julia 0.3
+Codecs
+FactCheck
+LightXML
+MathProgBase
+Requests
+GZip
+
+0.1.0
+-----
+00a31b3c49acae0eeb74965409e30ef01109a51c
+julia 0.4
+Codecs
+LightXML
+MathProgBase 0.4 0.6
+Requests
+Libz

@@ -1,0 +1,8 @@
+git://github.com/JuliaText/CoreNLP.jl.git
+
+0.1.0
+-----
+b8a8acc8f6937ef31972f7e4af307b1d4b348623
+julia 0.2-
+PyCall
+JSON

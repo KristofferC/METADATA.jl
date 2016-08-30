@@ -1,0 +1,204 @@
+git://github.com/MichaelHatherly/Lexicon.jl.git
+
+0.0.1
+-----
+617ededa3b4f2c360ce61bbc4c662f63d78a7ddf
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.2
+-----
+dcefe7a8821081adcb30378041e141f14e8475c2
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.3
+-----
+5c6bda26d740e306a48f01b16254af323f4e9d01
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.4
+-----
+9ab8cf6563f45517166ce1b2fdc3a21ee0e2ad57
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.5
+-----
+0452230cf7474092af87e6b3a11d090ccf995461
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.6
+-----
+95d2912500ab4aa96442f805f8dbb0691b3d2243
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.0.7
+-----
+f0f4943933390379b43dc46b95d24c847c9b2eae
+julia 0.3
+AnsiColor
+Docile
+Markdown
+
+0.1.0
+-----
+2d54864a2824c252d05c276638ca3fc8ab5c26e4
+julia 0.3
+AnsiColor
+Docile
+Markdown
+FactCheck
+
+0.1.1
+-----
+505308f7c51f6ba2b12e1bf94d0f0862cc3bdba0
+julia 0.3
+AnsiColor
+Docile
+Markdown
+FactCheck
+
+0.1.10
+------
+fd040edb6a566c32268ec82c57520ea577e825cd
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.11
+------
+813c1bdfae9f34e807232214fb9b712fbe0796a6
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.12
+------
+39dcaef147541716ca65c633b5fc7e8f7587ed4c
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.13
+------
+47d688601ef723fcb5532fce65b1dd2775fb08c1
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.14
+------
+06b2adb28f2eabe4ec00891ab83e0b48b2b99254
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.15
+------
+a1a329e305a5c2d2593b95caf7a25ca8f64aa0ec
+julia 0.3
+Compat 0.3.5
+Docile
+
+0.1.16
+------
+7d535e233fd384f4bbdb455d290f8acfe244de9b
+julia 0.3
+Compat 0.7.1
+Docile
+
+0.1.17
+------
+bafd72ff5a283a5f494d921b23599c45894f9d9c
+julia 0.3
+Compat 0.7.1
+Docile
+
+0.1.18
+------
+6a3e9cfb3324af4ac1a32e57f8014fa8412a520d
+julia 0.3
+Compat 0.7.1
+Docile
+
+0.1.2
+-----
+7b5762fb2d81018e6696d4dce4b0bcd2218e9d4f
+julia 0.3
+AnsiColor
+Docile
+Markdown
+FactCheck
+
+0.1.3
+-----
+3c730fcd987a845cbd364b201682434482dc64b9
+julia 0.3
+AnsiColor
+Docile
+Markdown
+FactCheck
+
+0.1.4
+-----
+2f104c7e693199de4d1f6636b6b9931ef75bf7d3
+julia 0.3
+AnsiColor
+Docile
+Markdown
+FactCheck
+
+0.1.5
+-----
+25c942e15d2d8f30e6814c4d66695f87eadea054
+julia 0.3
+Compat
+Docile
+Markdown
+
+0.1.6
+-----
+3ca10e759a19946a63e448dd5aee5cadea06726c
+julia 0.3
+Compat
+Docile
+Markdown
+
+0.1.7
+-----
+1c05e5eea70119af648cbd10c66a54fe6b5cd246
+julia 0.3
+Compat
+Docile
+Markdown
+
+0.1.8
+-----
+794a1ac0107c7c709559de372aa5b7c2fbb7036c
+julia 0.3
+Compat
+Docile
+Markdown
+
+0.1.9
+-----
+a7353d2e6e0732eed102b771a34188fa6fd04013
+julia 0.3
+Compat 0.3.5
+Docile

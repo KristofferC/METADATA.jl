@@ -1,0 +1,41 @@
+git://github.com/JuliaLang/Options.jl.git
+
+0.1.0
+-----
+1845a0d6f6567fe436ef903b5af2f9c76ef4337e
+julia 0.1- 0.2-
+
+0.2.0
+-----
+fddc9f77f0522b2a916b7ee4aa7a0aa5df95d0a6
+julia 0.2- 0.4-
+
+0.2.1
+-----
+f1417b80ec7f3338275b2b692f7dc33289e50935
+julia 0.2- 0.4-
+
+0.2.2
+-----
+753597e92d9336ee3197afe53815487a34839ebf
+julia 0.2- 0.4-
+
+0.2.3
+-----
+a05c7cccf98cbaaf8ec6f593ad2f4c920d5f1a4b
+julia 0.2-
+
+0.2.4
+-----
+a05c7cccf98cbaaf8ec6f593ad2f4c920d5f1a4b
+julia 0.2-
+
+0.2.5
+-----
+916ab45715c40eccd75279d64817119dd3f58525
+julia 0.2
+
+0.2.6
+-----
+9637b20845e5a23d1ed8d140da6e777f4fb273d7
+julia 0.3

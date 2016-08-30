@@ -1,0 +1,32 @@
+git://github.com/JuliaLang/IterativeSolvers.jl.git
+
+0.0.1
+-----
+e0bd5e1c91010836657579e3b72b71bc337129ae
+julia 0.3
+Docile
+Compat
+
+0.1.0
+-----
+a215666bf709c2e66f3801edf6eea5449c42d2f8
+Compat
+julia 0.4-
+
+0.2.0
+-----
+fbc8eabec826f7325db19a0a6bb8496ecb9645d2
+Compat
+julia 0.4-
+
+0.2.1
+-----
+2b1834126cdea58de22a420bf59f7b43da190689
+Compat
+julia 0.4-
+
+0.2.2
+-----
+4558f41f71fa03fa0a331f58b6aa0e4658fc232d
+Compat
+julia 0.4

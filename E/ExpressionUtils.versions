@@ -1,0 +1,16 @@
+git://github.com/gdziadkiewicz/ExpressionUtils.jl.git
+
+0.0.0
+-----
+6a1e06e623e12e18c2fd516cbda189050f74badf
+julia 0.1 0.4
+
+0.0.1
+-----
+0958bbd361fee95a7932e3dbd2fb587494e05023
+julia 0.4
+
+0.1.0
+-----
+9fa6878260d22942f4fe513d8d146f9cfb63c728julia 0.4
+Compat

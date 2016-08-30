@@ -1,0 +1,70 @@
+git://github.com/JuliaOpt/Convex.jl.git
+
+0.0.1
+-----
+f814370085eee19267db46170d5ca708a6d19b26
+julia 0.3
+MathProgBase 0.3.1 0.4
+ECOS
+
+0.0.2
+-----
+161bde61fb4bdf05728ba7f5e442bcd030505aec
+julia 0.3
+MathProgBase 0.3.8 0.4
+ECOS 0.4.1
+
+0.0.3
+-----
+2f35966bd35c8e6e89b36992d3eaaecb77b6684a
+julia 0.3
+MathProgBase 0.3.8 0.4
+
+0.0.4
+-----
+e54a8ced508e435a4a06cfdc0050dc3289223798
+julia 0.3
+MathProgBase 0.3.8 0.4
+
+0.0.5
+-----
+90eda1177b2b13eb891753b55bd54f939747b920
+julia 0.3
+MathProgBase 0.3.8 0.4
+Compat 0.4.4
+
+0.0.6
+-----
+19f0a599b39e68a84d3ba001d97ac0a6f65a5f0b
+julia 0.3
+MathProgBase 0.3.8 0.4
+Compat 0.4.4
+
+0.1.0
+-----
+bd20920a1823f8488f99fa1d7f782325acaf3b5f
+julia 0.3
+MathProgBase 0.3.8 0.4
+Compat 0.4.4
+DataStructures
+
+0.2.0
+-----
+ad07cf45f0ea922572861c0e810cdc54547e55b4
+julia 0.4
+MathProgBase 0.4.0 0.5-
+DataStructures
+
+0.3.0
+-----
+ebd1acb80eb97875550b6b64222da3d0675319fb
+julia 0.4
+MathProgBase 0.5 0.6
+DataStructures
+
+0.4.0
+-----
+31960219657a17d2b4d826282c00935a9f2f8e97
+julia 0.4
+MathProgBase 0.5 0.6
+DataStructures

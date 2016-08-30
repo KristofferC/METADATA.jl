@@ -1,0 +1,110 @@
+git://github.com/bensadeghi/DecisionTree.jl.git
+
+0.0.0
+-----
+3c0804395101354c42687056f978b2a5e6c7eabd
+julia 0.1-
+
+0.1.0
+-----
+398fdf19e4856d50e5729f80dc6342210f2260c4
+julia v0.2-
+
+0.2.0
+-----
+1b25af332c318ed17d94fd27d516b4711b0a278a
+julia v0.2-
+
+0.2.1
+-----
+2a22974364b83229600362d0a668a5e90f28a65f
+julia v0.2-
+
+0.3.0
+-----
+05419b8fddbd8666a670799debd886851c5269a4
+julia v0.2-
+
+0.3.1
+-----
+e52b425f0d96e68d5f1da21612f6960207065f3a
+julia v0.2-
+
+0.3.10
+------
+2cb50b0292b02c0e65d5bf2704dda12b301be373
+julia 0.3
+Compat
+
+0.3.11
+------
+19f6da9109474cf21628e97b7a712ebca9bbd87b
+julia 0.3
+Compat
+
+0.3.12
+------
+341c5cf761168d5061ffa83d2bcaf97b15078e31
+julia 0.3
+Compat
+
+0.3.2
+-----
+21cb20157508514bca0349b79d46035afc8fb3cf
+julia v0.2-
+
+0.3.3
+-----
+6a5169e632ac729cacfbcfd384c2e35675430e8b
+julia v0.2-
+
+0.3.4
+-----
+2aea471a4fd0c1073958670507152d6810458ffb
+julia v0.2-
+
+0.3.5
+-----
+df7ac51976d6f16e9d2465e48393a28de6ef4e54
+julia v0.2-
+
+0.3.6
+-----
+0b82f5159a8b69708e868ab2ab95574783f3ea17
+julia v0.2-
+
+0.3.7
+-----
+a40ae9145df85ee168cf7a5dd7ed5c95cafad068
+julia v0.2-
+
+0.3.8
+-----
+83765089feb5b2d30d72046ab78ca044841c827d
+julia v0.2-
+
+0.3.9
+-----
+2d25e118870cf46b8a3cc299d4e22d358a825076
+julia v0.2-
+
+0.4.0
+-----
+075079947bbb227ed2f4998f4267d8496d31b0b4
+julia 0.3
+ScikitLearnBase 0.0.4
+Compat
+
+0.4.1
+-----
+60a47e70c2afe5881525b3a8472a47d0aa6a4636
+julia 0.3
+ScikitLearnBase 0.0.4
+Compat
+
+0.4.2
+-----
+80538a00fbd585ff4bd0be0f4a2cc9e8f7de2554
+julia 0.3
+ScikitLearnBase 0.0.4
+Compat

@@ -1,0 +1,125 @@
+git://github.com/JuliaGraphics/Immerse.jl.git
+
+0.0.1
+-----
+c5637219405c914deaa3ad0eaee624293a671326
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.10
+------
+fd3b9b7f6c6a193eb91ef4cb70667d0f9924dc9e
+julia 0.4
+Gadfly
+Compose 0.3.19
+Measures
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.11
+------
+4543b2a37702373d024171b5a6d37f26c7268531
+julia 0.4
+Gadfly
+Compose 0.3.19
+Measures
+Colors
+Gtk
+GtkUtilities 0.0.8
+Reexport
+
+0.0.2
+-----
+2f3aa049d09e58af44790d83e65752eddc121caf
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.3
+-----
+bd2b12fc1a1bd163aa7aef962f25d89ea6b78623
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.4
+-----
+0aa92320286ac7f4d9cb5a021472a9910f35be49
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.5
+-----
+435c7d78df6c3f0b16f046de09455260dc3130c5
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.6
+-----
+370526dcedcf0e4615f55b9e3ed77bc1670c7aee
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.7
+-----
+166eccd5a3295fd2920706586e0bde4e00ae532a
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.8
+-----
+eb58d4892dfd417b3d615488e4a4cb4d34cc9354
+julia 0.4-
+Gadfly 0.3.16 0.3.17
+Compose
+Colors
+Gtk
+GtkUtilities
+Reexport
+
+0.0.9
+-----
+1a684001fa87b690ba57fbe1d5b28f2407006dff
+julia 0.4
+Gadfly
+Compose 0.4.0
+Measures
+Colors
+Gtk
+GtkUtilities
+Reexport

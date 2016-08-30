@@ -1,0 +1,28 @@
+git://github.com/IainNZ/Humanize.jl.git
+
+0.1.0
+-----
+56f44a5bb8928e0a9e106dca1b3877e7609b31fe
+julia 0.3
+
+0.2.0
+-----
+11b07e546ac3b0e81bdc7cd98d3374a792e1cacf
+julia 0.3
+Dates
+
+0.2.1
+-----
+9e405cb6b822a5e15a49a7d8bf49d73106f4be66julia 0.3
+Dates
+
+0.3.0
+-----
+510afd73fd86f5b609a3b0df713da663feacd18d
+julia 0.3
+Dates
+
+0.4.0
+-----
+cc9e937195573b7254dd92ba1bf0b9dd3856636d
+julia 0.4-

@@ -1,0 +1,25 @@
+git://github.com/BioJulia/IndexableBitVectors.jl.git
+
+0.0.1
+-----
+d5c179fa1de6554fa8c1f4ce7d4be609736a147b
+julia v0.4-
+Compat
+Switch
+
+0.0.2
+-----
+6c22844596cd1063a596df7ea166382f1dbdd5c6
+julia v0.4-
+Switch
+
+0.1.0
+-----
+d0d96b9695b0fd6faaf72c68244eb41fa8f5555c
+julia v0.4-
+Switch
+
+0.1.1
+-----
+1ce6e0847ecdb3d63faf9b2b8330a392c75e7a1a
+julia v0.4

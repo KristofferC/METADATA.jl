@@ -1,0 +1,50 @@
+git://github.com/JuliaParallel/Blocks.jl.git
+
+0.0.0
+-----
+35a194e428d4b711c3d69ea23bc50c1947f3d7ea
+julia 0.2-
+
+0.0.1
+-----
+b1cc796726eee536b713b4ea0b0e04a0f70afa2c
+julia 0.2-
+
+0.0.2
+-----
+06e2c3aadb775959ed94597ce807112bb15c8494
+julia 0.2-
+
+0.0.3
+-----
+6574847d536ea996937dfc1603d7aed992520e5c
+julia 0.2-
+
+0.0.4
+-----
+8aae36a44dcd11ab529407e83d947b7ba3c67995
+julia 0.2-
+
+0.0.5
+-----
+67afefc0c38ad8e1960bda2a3cf6061747f563c6
+julia 0.3-
+Compat
+
+0.0.6
+-----
+3e88906af47b5e7b0321ec8c1d94ac6e049c7eae
+julia 0.3-
+Compat
+
+0.0.7
+-----
+a3dd36dae7d6294f28b5c7a509d8d0e46a8811a6
+julia 0.4-rc1
+Compat
+
+0.1.0
+-----
+6893554f6cd1ba979f438dc8d84bd6345f38f13c
+julia 0.4-rc1
+Compat

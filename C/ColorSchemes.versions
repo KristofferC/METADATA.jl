@@ -1,0 +1,45 @@
+git://github.com/cormullion/ColorSchemes.jl.git
+
+0.0.1
+-----
+d69b8254d6b39f4a63e7dc1e3c07cbf8505c7da2
+julia 0.4
+Images
+Colors
+Clustering
+
+0.0.2
+-----
+9d1c7c72dec24612ba162cc6445705fc0588ead4
+julia 0.4
+Images
+Colors
+Clustering
+FileIO
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
+
+0.0.3
+-----
+9d1c7c72dec24612ba162cc6445705fc0588ead4
+julia 0.4
+Images
+Colors
+Clustering
+FileIO
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
+
+1.0.0
+-----
+9d1c7c72dec24612ba162cc6445705fc0588ead4
+julia 0.4
+Images
+Colors
+Clustering
+FileIO
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO

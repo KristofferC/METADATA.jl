@@ -1,0 +1,129 @@
+git://github.com/goedman/Stan.jl.git
+
+0.0.1
+-----
+08756431f041274dbb66059c52ae6158feea4f44
+julia 0.3-
+DataFrames 0.5.6-
+StatsBase 0.5.3-
+
+0.0.2
+-----
+b91efd406949fb9a0a944ff7b59f799b3f441b2a
+julia 0.3-
+
+0.0.3
+-----
+a8ebb7ed0868ba8e159d975af1a1c56f8bada77b
+julia 0.3-
+
+0.1.0
+-----
+2e5431136ab6acd8208f272e372967f60b5b7a5e
+julia 0.3 0.4-
+Compat
+Gadfly
+Mamba
+
+0.1.1
+-----
+12a014cf4efe898048a2250a1b3c57f906dba430
+julia 0.3 0.4-
+Compat
+Gadfly
+Mamba
+
+0.1.2
+-----
+129f3054354d8c0df3699fa18567b3ae0aa59fe8
+julia 0.3 0.4-
+Compat
+Gadfly
+Mamba
+
+0.1.3
+-----
+f8c72aafff6ed413ca3ec3afb932090f0efa9a1c
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.1.4
+-----
+55fb329b5c87e2f74217dd9c6a3b550c857646f1
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.1.5
+-----
+577a3aafad0ab643b138782153ef4e9a101fc31a
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.1.6
+-----
+24bae56138d4e04910316844a35d6a98b8251383
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.1.7
+-----
+b6a18cae9b043455994501e64aa5898c263deb94
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.2.0
+-----
+dfa7217432cff8e4541381cca3a83b37ac4341d6
+julia 0.3
+Compat
+Gadfly
+Mamba
+
+0.2.1
+-----
+cf3ee0fa92dc93fdee09f7ee320fa6222a429da5
+julia 0.4-
+Mamba
+Gadfly
+
+0.3.0
+-----
+f8633bee1baf85a591d29078c2d802e28be37b1c
+julia 0.4- 0.5-
+Mamba
+Gadfly
+
+0.3.1
+-----
+d281bf6e44ede838c7a79589a23bdba9e0b2dfbb
+julia 0.4- 0.5-
+Mamba
+Gadfly
+
+0.3.2
+-----
+64223061c67187c16235f4b8bd96129e6832a239
+julia 0.4
+Mamba
+Gadfly
+BinDeps
+@osx Homebrew
+
+1.0.0
+-----
+c7ba6a63909faee647a75e1ca8d79a42fd498d21
+julia 0.5-
+Mamba 0.10
+Gadfly 0.4.3
+BinDeps 0.4.3
+@osx Homebrew

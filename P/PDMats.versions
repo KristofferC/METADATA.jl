@@ -1,0 +1,115 @@
+git://github.com/JuliaStats/PDMats.jl.git
+
+0.1.0
+-----
+5d12b541f458e44ee598f986970c8989e183e063
+julia 0.3-
+NumericExtensions 0.5-
+
+0.1.1
+-----
+55cb2b42845198603dc30234e623fd359ab14931
+julia 0.3-
+NumericExtensions 0.5-
+
+0.1.2
+-----
+13bae6a657243742705af5c48fc4f8604a9e33f1
+julia 0.3-
+NumericExtensions 0.5-
+
+0.2.0
+-----
+770ba3eb3eec1f9eb8251eb6f3948bd041c4dfaf
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.1
+-----
+b961e141b95e6adec92a25bb48c6db891291a99b
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.2
+-----
+234e27215fb1d41d931335df63915fd32330dfd3
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.3
+-----
+ed96aec2ccdf953711442c5a2c7b49eacb401d79
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.4
+-----
+99d3b8cec23314293d477ba5ddeca5dfd81dce08
+julia 0.3-
+ArrayViews 0.4-
+
+0.2.5
+-----
+6449f5fb7eb957180f2cbc557f654d425e2e1982
+julia 0.3-
+ArrayViews 0.4-
+
+0.3.0
+-----
+1d86dd4355a82b508cc655ae1adba5d2d6afdf63
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.3.1
+-----
+b832fb5efd551d218ed45d0a9ae11a33d8ee8720
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.3.2
+-----
+a1e8a94461b3d969479a3663de304065a55522a2
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.3.3
+-----
+10a586b39375d73cee18bd7bf8dcee366cb9c5fc
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.3.4
+-----
+7c04e6abccd7814d4650cf3d623e38438d7ea431
+julia 0.3-
+ArrayViews 0.4.8-
+
+0.3.5
+-----
+9adc92cf3252611b8aa8f3a14e712901e68ffbc9
+julia 0.3
+ArrayViews 0.4.8-
+
+0.3.6
+-----
+44a1b678e38272f94d7bdb872c0a09759e55abd6
+julia 0.3
+ArrayViews 0.4.8-
+
+0.4.0
+-----
+3b6bf6142bd3b93d21a6afb1f6a22775b0cede67
+julia 0.3
+Compat 0.7.7
+
+0.4.1
+-----
+8fa302c7106f552971253573b24b3d9d8b39a8a7
+julia 0.3
+Compat 0.7.7
+
+0.4.2
+-----
+b9d9f9597f18528e2ce5620ce7a1f25217d24083
+julia 0.3
+Compat 0.7.7

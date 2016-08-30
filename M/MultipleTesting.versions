@@ -1,0 +1,13 @@
+git://github.com/juliangehring/MultipleTesting.jl.git
+
+0.0.1
+-----
+dcca6ab58c3976a29029f9d52c18d8efeabb7f23
+julia 0.4
+StatsBase
+
+0.0.2
+-----
+355bd0e5dcee6701c7cf63992997c01736bf49f0
+julia 0.4
+StatsBase

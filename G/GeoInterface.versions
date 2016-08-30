@@ -1,0 +1,12 @@
+git://github.com/JuliaGeo/GeoInterface.jl.git
+
+0.0.1
+-----
+de85338afedc8df759483cbab11d7843e27c41fd
+julia 0.3
+
+0.1.0
+-----
+964d7cf5790130a83cd267180df609ec377e2f34
+julia 0.4
+Compat 0.8

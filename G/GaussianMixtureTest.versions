@@ -1,0 +1,27 @@
+git://github.com/panlanfeng/GaussianMixtureTest.jl.git
+
+0.0.1
+-----
+26e11e95f3b6302e2abc762fdf79e9e3a6a0531e
+julia 0.4
+StatsFuns
+StatsBase
+Distributions
+
+0.0.2
+-----
+9b0106df5d2120cf311d3f29d999daa0acd67b08
+julia 0.4
+StatsFuns
+StatsBase
+Distributions
+Yeppp
+
+0.0.3
+-----
+0ffcee0aa36146fc0589f876c87df4fdc1df96ed
+julia 0.4
+StatsFuns
+StatsBase
+Distributions
+Yeppp

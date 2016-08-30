@@ -1,0 +1,9 @@
+git://github.com/staticfloat/Ogg.jl.git
+
+0.0.1
+-----
+b740f2fb658be0b85ef4649d012a27e4610e3503
+julia 0.4
+@osx Homebrew
+BinDeps
+FileIO

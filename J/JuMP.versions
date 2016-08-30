@@ -1,0 +1,382 @@
+git://github.com/JuliaOpt/JuMP.jl.git
+
+0.10.0
+------
+79edba67c9f37d1a96c03721f7da2ddafaab02e2
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+Calculus
+
+0.10.1
+------
+c17fa78e7bf870083afc38c5063c0daa04ee85cf
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+Calculus
+
+0.10.2
+------
+926cf81e7a638b9f20273df6d14aab1d99ce07f3
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.7.1
+Calculus
+
+0.10.3
+------
+89b86940ea3e72fb1543deba54a3318f2923e452
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.7.1
+Calculus
+
+0.1.1
+-----
+7339ce0c4ee1eaa109ad9a5918a1f1fa8eeea4e3
+julia 0.2-
+MathProgBase 0.0.0 0.3.0-
+
+0.11.0
+------
+b66346fb8a0270a59e70466bf0d5d6608293b266
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Calculus
+
+0.11.1
+------
+feeaba3e037b4f6e4e075424ddf8b962bd60bfe9
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Calculus
+
+0.11.2
+------
+a5823e2f110d993004e640a74aa8a11e3fc1e185
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.3 0.4
+ArrayViews 0.4.12
+Calculus
+
+0.11.3
+------
+7718d91136af80ba4364cb3ce98e3f4b81e8cc7e
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.3 0.4
+ArrayViews 0.4.12
+Calculus
+
+0.1.2
+-----
+83f689098cb0d9feb7e85d8b6356443975c329b2
+julia 0.2-
+MathProgBase 0.0.0 0.3.0-
+
+0.12.0
+------
+508345e32a9382f6b1e95895536ca200da6855e0
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+
+0.12.1
+------
+e90c0179cef843d8d5f81321b9e5a1a009a192b9
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+
+0.12.2
+------
+6567b154b9de5c95953c41885f55faa9267a0775
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+
+0.13.0
+------
+1e0228abc6f9e968d5c03f21d914f713bd7d334a
+julia 0.4
+MathProgBase 0.4.3 0.5.0-
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+Compat
+
+0.13.1
+------
+47175560a50cb19697d2f9c48dc83fbef90a00c5
+julia 0.4
+MathProgBase 0.4.3 0.5.0-
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+Compat
+
+0.13.2
+------
+1ea87816135d76a05d8cae09164eb150d0e61d52
+julia 0.4
+MathProgBase 0.5 0.6
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.1 0.2
+Calculus
+Compat
+
+0.14.0
+------
+8b3074af0c51cdb12c9411e9a71175614bfe2866
+julia 0.4
+MathProgBase 0.5.1 0.6
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.2 0.3
+Calculus
+Compat 0.8.6
+
+0.2.0
+-----
+c35353c0a16a906aa57ecfa26076a13d224d1a23
+julia 0.2-
+MathProgBase 0.0.0 0.3.0-
+
+0.3.0
+-----
+6a6f5a4e3a526b5f1eac46ca4796d69c5a0f065f
+julia 0.2-
+MathProgBase 0.0.0 0.3.0-
+
+0.3.1
+-----
+d478da4d14ebb117a28a6eade3b659c9997a3ed9
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+
+0.3.2
+-----
+174fe2ee83a43fd02c38f854dfce4070ddb95e97
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+
+0.4.0
+-----
+275953dd514740475518b7217263b800ad59c2e3
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+
+0.4.1
+-----
+4e1ce4523a9235a23fc1898a029e646bc1e7e3a9
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+
+0.5.0
+-----
+1337c90f9051e2841575ba8f470a0b89c1dcc612
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.1
+-----
+cc3e0900cff48804f118721ac91184b38b2fa825
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.2
+-----
+8f165fd72f46ac9438cd53d141379e3263a3efaf
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.3
+-----
+1f7793a6f05858448ff57516a4085cc8d9248670
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.4
+-----
+a2cb72e125115b44a7157182d24234557227065e
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.5
+-----
+ae7295c9f1fcab4edcf95bc9f9eb93a6909ca14a
+julia 0.2
+MathProgBase 0.0.0 0.3.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.6
+-----
+882feeac840a7736163b19c29628f6d2d1ff65c3
+julia 0.2
+MathProgBase 0.3.0- 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.7
+-----
+a306e58b666b330f449b91a8e70e6077edc09c8d
+julia 0.2
+MathProgBase 0.3.0- 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.5.8
+-----
+b4c79f4ce63f422349ed6aef851d05f78c79c17d
+julia 0.2
+MathProgBase 0.3.0- 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.6.0
+-----
+db50d155418ba76d1322f16777a00d1396a989a6
+julia 0.3
+MathProgBase 0.3.0- 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.6.1
+-----
+daf8de0c2a1a4a8679e5fab9df63b8f8f327bb40
+julia 0.3
+MathProgBase 0.3.0- 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.6.2
+-----
+44682ab7335a46eedec87c6ee1aacbbdada07396
+julia 0.3
+MathProgBase 0.3.1 0.4.0-
+ReverseDiffSparse 0.1 0.4
+
+0.6.3
+-----
+dc01be5a899b1ca6291b20f5f3f6a2466a7f29df
+julia 0.3
+MathProgBase 0.3.1 0.4.0-
+ReverseDiffSparse 0.1 0.4
+ArrayViews
+
+0.7.0
+-----
+e38332ab6b5f11b60f51decfa7aeb75e10a6d38d
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.1 0.4
+ArrayViews
+Compat
+
+0.7.1
+-----
+a22bf7f208fe23fba79ce902d755d53f887b427c
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.1 0.4
+ArrayViews
+Compat
+
+0.7.2
+-----
+db1fda6c265fd30a3f5d4bd36d69979f3159d865
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.1 0.4
+ArrayViews
+Compat
+Calculus
+
+0.7.3
+-----
+a242e44d05f1b0baf27b6f6226778e03512bd146
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.1 0.4
+ArrayViews
+Compat
+Calculus
+
+0.7.4
+-----
+94e41c722064eb47c1e507ff8da8a9cd340ca817
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.1.11-
+ArrayViews
+Compat
+Calculus
+
+0.8.0
+-----
+c94fd708613230110f1177b551580914ebaf2163
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.1
+ArrayViews
+Compat
+Calculus
+
+0.9.0
+-----
+2c9e9c11dc6d4b807ce3158ce5996af3de02035a
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews
+Compat 0.4.0
+Calculus
+
+0.9.1
+-----
+b78e1ce0142296d918bf75cb8bdd0b195403ec77
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+Calculus
+
+0.9.2
+-----
+b97da743992307ad12e86b7f7d377a8bc01ad8f0
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+Calculus
+
+0.9.3
+-----
+74307cb45b3dd582bd457744b808a47027e5cb32
+julia 0.3
+MathProgBase 0.3.8 0.4.0-
+ReverseDiffSparse 0.2.2 0.4
+ArrayViews 0.4.12
+Compat 0.4.0
+Calculus

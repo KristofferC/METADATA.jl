@@ -1,0 +1,43 @@
+git://github.com/dfdx/FaceDatasets.jl.git
+
+0.1.0
+-----
+5d34b184b98480708fac2dc7628c4f64d5eb8ca3
+Images 0.4
+MAT 0.2
+
+0.1.1
+-----
+c49f4e6a28157cd3ec2fc12652bb7a0537aac660
+Images 0.4
+MAT 0.2
+
+0.1.2
+-----
+0e9793698d14a84b44a98ef84bd0dcbf208e5ef2
+julia 0.3
+Images 0.4
+MAT 0.2
+
+0.1.3
+-----
+53e1cdca15293d3d1131a2bf241fb86fa42e7b15
+Images 0.4
+Colors
+MAT 0.2
+
+0.1.4
+-----
+e7dd404cf3f01b80d5b24373b22e80010cbb4782
+Images 0.4
+Colors
+MAT 0.2
+
+0.2.0
+-----
+1da7c729641bb8350869a5167512362b1a88afd3
+julia 0.4
+Images 0.4
+ImageMagick
+Colors
+MAT 0.2

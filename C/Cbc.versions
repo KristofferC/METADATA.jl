@@ -1,0 +1,154 @@
+git://github.com/JuliaOpt/Cbc.jl.git
+
+0.0.5
+-----
+bf89a611a5e8bda5e388edebe70bd7fac7b6b3dd
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.0.6
+-----
+e149a32b78c7a5570da1674f1fd1d4447eefdc49
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.0.7
+-----
+bdd97f465b4b4fc90ef5e0e8af671ec7efbc0594
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.0.8
+-----
+60070eb4af0786d9cc8f70e11a3f9803bb2856a4
+julia 0.2
+BinDeps
+MathProgBase 0.3.0-dev1 0.4.0-
+@osx Homebrew
+
+0.1.0
+-----
+3ab43a281ad7b4c318917638ff281e9dba656c06
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.1
+-----
+58d67088ff816a29b63c12721613f1a2d0f82383
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.2
+-----
+248c7f8ead35887e86df4a9b428622742e7265fb
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.3
+-----
+f1311654f9d8ae8de3aaaa65de7f25cefbcde773
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.4
+-----
+df1e048d5c2bef92a6e16d3456d0df75ae006fc2
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.5
+-----
+3209edebbee4da2e11c9e47835df650a3fe0562a
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.6
+-----
+ce1c474d96611056a50b00c162389a50db26532b
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.7
+-----
+a48fb728ce8674afd86da4d0ad3b0bbfca5ad9c6
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+Compat
+
+0.1.8
+-----
+f08e61fe1af6c1caddf1b8cffd6aa65fa7edefd0
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+@osx Homebrew
+@windows WinRPM
+Compat
+
+0.2.0
+-----
+75cee0b50433edc4319459546aa2423c6fd0aed2
+julia 0.4
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+@osx Homebrew
+@windows WinRPM
+
+0.2.1
+-----
+456175aa56d087e975805ef0eed82569f6659e8a
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+@osx Homebrew
+@windows WinRPM
+
+0.2.2
+-----
+b525002623f42733142d08a766dd7c6a1edfa7a7
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+Compat 0.8.6
+@osx Homebrew
+@windows WinRPM
+
+0.2.3
+-----
+b1cd3e1f4931e3fd9a0249ddaf981f8ccb992aff
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+Compat 0.8.6
+@osx Homebrew
+@windows WinRPM

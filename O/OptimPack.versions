@@ -1,0 +1,25 @@
+git://github.com/emmt/OptimPack.jl.git
+
+0.1.0
+-----
+8c731e29ef5fc45be68b61bb07486e78d8fe05bd
+julia 0.3-
+BinDeps 0.3-
+
+0.1.1
+-----
+83c014c5211eacfda4f08a5c960cda31dcf7a84a
+julia 0.3-
+BinDeps 0.3-
+
+0.1.2
+-----
+1c031f37cd37dbd6d93c420756a08ce44871d4dd
+julia 0.3-
+BinDeps 0.3-
+
+0.2.0
+-----
+6b9d28e01b487ac2ad04d61efe39e1bd12a60dd0
+julia 0.4-
+BinDeps 0.3-

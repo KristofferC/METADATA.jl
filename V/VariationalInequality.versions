@@ -1,0 +1,29 @@
+git://github.com/chkwon/VariationalInequality.jl.git
+
+0.0.1
+-----
+53f7012f0f8a97f3eef0200ec2e4a56b2ac7f9c8
+julia 0.4
+JuMP 0.12
+Ipopt
+
+0.0.2
+-----
+598d15b86568782a4b84a81fcb5980baa18163f0
+julia 0.4
+JuMP 0.12
+Ipopt
+
+0.0.3
+-----
+87007181deeff517b65ae25795c289fadc3c54df
+julia 0.4
+JuMP 0.12
+Ipopt
+
+0.0.4
+-----
+f095ae62682902b8d3cedf85652529a0818e135a
+julia 0.4
+JuMP 0.13.0
+Ipopt

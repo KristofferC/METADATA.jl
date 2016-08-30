@@ -1,0 +1,57 @@
+git://github.com/rennis250/SDL.jl.git
+
+0.0.0
+-----
+f774972661a396cabd1ca4452b5055376b693cd4
+GetC
+OpenGL
+
+0.1.0
+-----
+ed78a5fc21bb1daea8e6e43e1c95f1c44011e6b0
+OpenGL
+
+0.1.1
+-----
+12d00cc26398da13061e606de664c6e34f8369fc
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.1.2
+-----
+0905ded159535069cd74ac10bfdfaacaa496da94
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.1.3
+-----
+ef125ecc781927f38ed26df568fc28dd66d75ef7
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.1.4
+-----
+0c535e781acbd68da92a3456a1f8aac8b3fac5e9
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.1.5
+-----
+9443fcd3cabdb27727c36e1eabacb3c15d852033
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-

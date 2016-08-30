@@ -1,0 +1,33 @@
+git://github.com/stevengj/Hadamard.jl.git
+
+0.0.0
+-----
+347871726b2a572075bc4cae3f4acf01a2d72742
+
+0.0.1
+-----
+0014201d45ffaa6b66ee842a08e57d701be89a8b
+julia 0.2-
+
+0.1.0
+-----
+79fc27c7d4ce88cb4e5ccbe04fa454961a888fe0
+julia 0.2-
+
+0.1.1
+-----
+cc9fb67a5d0dc1d69b05d5b2b73312c1fa0469d7
+julia 0.2-
+Compat 0.2
+
+0.1.2
+-----
+dddc094e1ec054f478b065b64d6180aa34182301
+julia 0.2-
+Compat 0.2
+
+0.2.0
+-----
+62245fad1b3cfc78fd83e14b5ccc89250d0c2028
+julia 0.4
+Compat 0.2

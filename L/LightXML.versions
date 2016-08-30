@@ -1,0 +1,114 @@
+git://github.com/JuliaIO/LightXML.jl.git
+
+0.1.0
+-----
+0d987a8df6f2d3ccacb25988d8000ae5c8e91455
+
+0.1.1
+-----
+0d987a8df6f2d3ccacb25988d8000ae5c8e91455
+
+0.1.10
+------
+fa863e054faee6cd4acebc3108b115742e1d3cf8
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.1.11
+------
+b7149bd73084b2e05e2c14e135b1eccdcd46dcf6
+julia 0.3-
+BinDeps
+Compat
+@windows WinRPM
+
+0.1.12
+------
+e1a059eeff593d04817786c79d0b71cc1a901cd7
+julia 0.3
+Compat
+@windows WinRPM
+
+0.1.13
+------
+a8e8b85e7e839c36a3f89ff50c41037cde07bbd8
+julia 0.3
+Compat
+@windows WinRPM
+
+0.1.14
+------
+bd448e97d046e3a806f4d0f73c60b5fedcd4d7df
+julia 0.3
+Compat
+@windows WinRPM
+
+0.1.2
+-----
+8bdd8d24f5561ef420fb6e67bc742087af68a200
+julia 0.2-
+
+0.1.3
+-----
+417c5da51cd2d1db7019b743d1844a16cb5e528e
+julia 0.2-
+
+0.1.4
+-----
+5872c3a35cb88f712b8caf6c1293e1416241a234
+julia 0.2-
+
+0.1.5
+-----
+87e6762c8612b03e097351cd96c981a2cdab5558
+julia 0.2-
+
+0.1.6
+-----
+435301f18bc08e8a58bb0ec3dfc3393f40059d99
+julia 0.2-
+@windows BinDeps
+@windows WinRPM
+
+0.1.7
+-----
+154fefc9766b84bd506860916a3b8ef60198e9aa
+julia 0.2-
+@windows BinDeps
+@windows WinRPM
+
+0.1.8
+-----
+11b3852f75a73f7bc7ed722e7be879e884c06d55
+julia 0.3-
+@windows BinDeps
+@windows WinRPM
+
+0.1.9
+-----
+1138cabafaceb577661d0b191f72aaa98beb02e9
+julia 0.3-
+BinDeps
+@windows WinRPM
+
+0.2.0
+-----
+1b555888c92392e9b3861065950aabf369befb4d
+julia 0.3
+Compat
+@windows WinRPM
+
+0.2.1
+-----
+2cbe95517d4bc742689a7605c489c920e6b30b1d
+julia 0.3
+Compat
+@windows WinRPM
+
+0.3.0
+-----
+7467163eb0152880009808eff5a3b56dae14e912
+julia 0.3
+Compat 0.8.3
+@windows WinRPM

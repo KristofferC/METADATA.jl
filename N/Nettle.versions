@@ -1,0 +1,137 @@
+git://github.com/staticfloat/Nettle.jl.git
+
+0.0.0
+-----
+1f926498ca35898d4e7d2eb336b602a204abf299
+julia 0.2-
+BinDeps
+
+0.1.0
+-----
+d06cc37b8a9e1af2936ff83af7bef4c3321e9e86
+julia 0.2-
+BinDeps
+
+0.1.1
+-----
+d06cc37b8a9e1af2936ff83af7bef4c3321e9e86
+
+0.1.10
+------
+34306b6a2a421f9f4276f28380a6b66369f0dcb5
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.1.2
+-----
+724bd8aaffddb3c6e22d4e3a90618207f6a05b47
+julia 0.2-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.3
+-----
+099d101dd1577902c4e55f499a857b8cdf23ade0
+julia 0.2-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.4
+-----
+1eb727b1e18e8e4c5d42b7572972a245f1e270e5
+julia 0.3-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.5
+-----
+cb6013036365e74c98b70d1e32e8efacc0257c1a
+julia 0.3-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.6
+-----
+f2f417d069e3f767eb0d66c0f85a965fcb731a45
+julia 0.3-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.7
+-----
+97268c4764cf4a84b16208628224e36d49a469ec
+julia 0.3-
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.1.8
+-----
+5fa0729cc682d4c8a29ddfc9f45f08eef36e3243
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.1.9
+-----
+bfec54cfb314818c87c58d19cf6e85b49b981661
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.2.0
+-----
+ed4d932486b2bb5490b15f2fa894eb964459fc48
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.2.1
+-----
+9879d943954398ac4c340b2fff67059e822cf49f
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.2.2
+-----
+bcd4f273316886db498aedce052145ad848c00bb
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.2.3
+-----
+37e1c9a59741d791d1678e6767ca5a6a11a284de
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+@windows WinRPM
+
+0.2.4
+-----
+f20cbb3dfc7c31eb0cce3c3f4b05c53f92c58c32
+julia 0.3
+BinDeps
+Compat 0.8.0
+@osx Homebrew
+@windows WinRPM

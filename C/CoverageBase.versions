@@ -1,0 +1,22 @@
+git://github.com/timholy/CoverageBase.jl.git
+
+0.0.1
+-----
+c77855df271f1874439c4cccb3fe8c97ab9f234c
+julia 0.4-
+Coverage
+HDF5
+
+0.0.2
+-----
+e695224f180a7bb9b4a31a711933c2f0eff6ca64
+julia 0.4-
+Coverage
+HDF5
+
+0.0.3
+-----
+28749b2c2e93d9de7535548e279921a5a329a5e9
+julia 0.4-
+Coverage
+HDF5

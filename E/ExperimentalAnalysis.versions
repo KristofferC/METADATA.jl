@@ -1,0 +1,19 @@
+git://github.com/baggepinnen/ExperimentalAnalysis.jl.git
+
+0.0.1
+-----
+7b0ced2732c1197bb8333941725d75e70deece83
+julia 0.4
+DataFrames
+Plots 0.0 0.7
+PyPlot
+GLM
+
+0.0.2
+-----
+4dcf8ee87490b55b67c97b025c88d6051539e1de
+julia 0.4
+DataFrames
+Plots 0.0 0.7
+PyPlot
+GLM

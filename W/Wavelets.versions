@@ -1,0 +1,63 @@
+git://github.com/JuliaDSP/Wavelets.jl.git
+
+0.0.0
+-----
+3fe8d96e7822dd14ee40fe1e28b7ae09d058d0a8
+Reexport
+
+0.1.0
+-----
+8be4c1ca2ced1944354b3c0f7e45c312c9cdd0a8
+Reexport
+julia 0.3-
+
+0.1.1
+-----
+02c17b0c7b7c89a3cd44c942d3ecd6766c3e5b77
+Reexport
+julia 0.3-
+Compat
+
+0.2.0
+-----
+65379cd0115c120aed79b9e2ddff600d0fddca9a
+Reexport
+julia 0.3-
+Compat
+
+0.3.0
+-----
+f68dc9c7c84c350b6ceb13bafc61e2fbdf0b826a
+Reexport
+julia 0.3-
+Compat
+
+0.4.0
+-----
+5b577f900f76e3329a95e51fd0ceab8f3240fa10
+julia 0.3.7
+Reexport
+Compat
+Docile 0.4.11
+
+0.4.1
+-----
+0e2ddea9d6ecb88d9065f324caaa5a81a87cf848
+julia 0.3.7
+Reexport
+Compat
+Docile 0.4.11
+
+0.5.0
+-----
+b79b079e855b19644c344e8808f774c553433f7e
+julia 0.4
+Reexport
+Compat
+
+0.5.1
+-----
+64629321379cc9f4a3a398132a60cec7d06d4073
+julia 0.4
+Reexport
+Compat

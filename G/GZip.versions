@@ -1,0 +1,117 @@
+git://github.com/JuliaIO/GZip.jl.git
+
+0.0.0
+-----
+ad42afce02bddf5b8f6531511ff35fe1a1625d73
+
+0.1.0
+-----
+ad42afce02bddf5b8f6531511ff35fe1a1625d73
+julia 0.1- 0.2-
+
+0.2.0
+-----
+8d49922f059a3296f94181c29a237cebf397f676
+julia 0.2-
+
+0.2.1
+-----
+0d1a5e9c73cfe36932d1613751b7f8e3a5385af0
+julia 0.2-
+
+0.2.10
+------
+af5987a7644c85df983610d86046f08d38fec0c3
+
+0.2.11
+------
+fdd0e4595d23eeeca2769df089f6dada752b4e16
+julia 0.2-
+
+0.2.12
+------
+268a606062d9c3543bbdd4effa6ec74aaa4a47b5
+julia 0.2-
+
+0.2.13
+------
+d2f662589c1beea06276504e48363053488a7e61
+julia 0.2-
+
+0.2.14
+------
+df5704c089a934f237534f244217d246220457da
+julia 0.3
+Compat
+
+0.2.15
+------
+dbd40e5f7d0e829ff53066965e6789117c0d61a1
+julia 0.3
+Compat
+
+0.2.16
+------
+d60ba9f7d4abf06909c471c3d556d229e835b02f
+julia 0.3
+Compat
+
+0.2.17
+------
+b4ff3f452dfeaab12b23036894c8145e44e33d95
+julia 0.3
+Compat 0.4.8
+
+0.2.18
+------
+44ac3390ccf130c4e54bf0ef97273293af7282c6
+julia 0.3
+Compat 0.4.8
+
+0.2.19
+------
+c1e18f53fcdfcc6eb1f4f7486a0ef96f9e54d9fa
+julia 0.3
+Compat 0.7.9
+
+0.2.2
+-----
+061fe75330b70388895a09f8ab66bc1e7c4614f1
+julia 0.2-
+
+0.2.20
+------
+69b6765416cc454a201eab7dc6dd0ae07e45981d
+julia 0.3
+Compat 0.8.0
+
+0.2.3
+-----
+3af7c5ca9f16d7206516f89314d15186430bf9e5
+julia 0.2-
+
+0.2.4
+-----
+65fa1e289700bdb64691f18f0ef2fee7d3d0e1b7
+julia 0.2-
+
+0.2.5
+-----
+75960bb242b13ae24668d73403be47e204efff28
+julia 0.2-
+
+0.2.6
+-----
+fc2419cdaf367041c61cfe9df20f22ead41a15d4
+
+0.2.7
+-----
+595efb8aafd15b692a1bd31f1d186f7152550e9b
+
+0.2.8
+-----
+4d00c3a40bc9506af1804afedcd3781da8d5de6f
+
+0.2.9
+-----
+ed6663119b876c6263e021df31198c89125eb47c

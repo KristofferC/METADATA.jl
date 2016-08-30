@@ -1,0 +1,33 @@
+git://github.com/rohitvarkey/ThreeJS.jl.git
+
+0.1.0
+-----
+a3f2145efe34eaad277aee400c4abb6141f9bfe0
+julia 0.3
+Color
+Compat
+Patchwork
+
+0.1.1
+-----
+d60779a85e2c62d110e6feea7b409cc156ff6669
+julia 0.3
+Colors
+Compat
+Patchwork
+
+0.2.0
+-----
+1a953cb588a38f5eda90d1fe3e235d85538518c8
+julia 0.4
+Colors
+GeometryTypes
+Patchwork
+
+0.2.1
+-----
+da38c5393dd7b39a2a3d7655ccc034138ca42782
+julia 0.4
+Colors
+GeometryTypes
+Patchwork

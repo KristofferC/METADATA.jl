@@ -1,0 +1,56 @@
+git://github.com/samoconnor/AWSS3.jl.git
+
+0.0.1
+-----
+e7137389c95e91ae3878b9d8e7d9c78398914a21
+julia 0.4
+AWSCore
+
+0.0.2
+-----
+5b84f726137d2436484a4a0d637a31741921d5c2
+julia 0.4
+AWSCore
+
+0.0.3
+-----
+11aa6aa5aa72e786a51723bc5894ae488d4120b3
+julia 0.4
+AWSCore
+
+0.0.4
+-----
+40cc5fee921895e5d3381d98dcf6717d2528e288
+julia 0.4
+AWSCore
+
+0.0.5
+-----
+808df8bf43ad729e34886679c56bfea05f6da5e0
+julia 0.4
+AWSCore
+
+0.0.6
+-----
+c48bd8d4c93aed27012f023f23ac9489340ce7fa
+julia 0.4
+AWSCore
+
+0.0.7
+-----
+43862e4ec490f6cfdab9d64e64c9305dea75e54e
+julia 0.4
+AWSCore
+
+0.0.8
+-----
+17c838979a4e1c7b475960e982fea3614c6211fc
+julia 0.4
+AWSCore
+
+0.0.9
+-----
+8096c29d71ce1ff0a3530226c355d9fb4bc225b7
+julia 0.4
+AWSCore
+Compat

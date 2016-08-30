@@ -1,0 +1,23 @@
+git://github.com/simonster/LARS.jl.git
+
+0.0.1
+-----
+2c8e61ec9ec85e940d2867259478553fd0ea8e07
+julia 0.3-
+Distributions
+ArrayViews
+
+0.0.2
+-----
+23ee3a39ad6b6d2cd96c45bb6fbdd4d0d8aee01d
+julia 0.3-
+Distributions
+ArrayViews
+
+0.0.3
+-----
+6fd733ce03c6159ea08137754e68c3f33cbf82c6
+julia 0.3-
+Distributions
+ArrayViews
+Compat

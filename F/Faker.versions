@@ -1,0 +1,22 @@
+git://github.com/codeneomatrix/Faker.jl.git
+
+0.0.1
+-----
+ae858cf645bdf545ca0f3fb899d3fdc5fbb98062
+julia 0.4-
+Dates 
+Nettle
+
+0.0.2
+-----
+30f92248393f76e4417e7c00595868820144dd98
+julia 0.4-
+Dates 
+Nettle 0.2.0
+
+0.0.3
+-----
+a339867dde0d1c54a889a190658af75cda0e4abc
+julia 0.4-
+Dates 
+Nettle 0.2.0

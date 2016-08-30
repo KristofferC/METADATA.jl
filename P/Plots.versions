@@ -1,0 +1,279 @@
+git://github.com/tbreloff/Plots.jl.git
+
+0.0.1
+-----
+3f21d02a0d432549c7ad6167efb98de13bad324b
+julia 0.4-
+Colors
+FactCheck
+
+0.0.2
+-----
+3f21d02a0d432549c7ad6167efb98de13bad324b
+julia 0.4-
+Colors
+FactCheck
+
+0.1.0
+-----
+6ae0912e0e48a657a71a626455288923bc798355
+julia 0.4-
+Colors
+FactCheck
+
+0.1.1
+-----
+8023e15bb97cfc6eaa81ae1ec9c0abaa08669aa2
+julia 0.4-
+Colors
+
+0.1.2
+-----
+ea7867429fdd016004a11c41778b5e4b1c12b92e
+julia 0.4-
+Colors
+
+0.1.3
+-----
+a9062b061125b764483f827c28e240c5125df437
+julia 0.4-
+Colors
+
+0.2.0
+-----
+22fd25b30f48b95bd6dff22b560e9a5554507cfe
+julia 0.4-
+Colors
+Reexport
+
+0.3.0
+-----
+3fc5f873881119256ef9f5f982a7347a9b7d2944
+julia 0.4-
+Colors
+Reexport
+
+0.4.0
+-----
+1115ff83bb559735344be6cbab9ff76d19e1f5ee
+julia 0.3
+Colors
+Reexport
+Compat
+
+0.4.1
+-----
+894928d7ca2f14c4bf5aa4fe97b581736f4264c1
+julia 0.3
+Colors
+Reexport
+Compat
+
+0.4.2
+-----
+42c3827ded3d898db2f0459adf2834869c0b2aa2
+julia 0.3
+Colors
+Reexport
+Compat
+
+0.5.0
+-----
+3bd9e70fa91de1e27ea6a190ff3e7aaa41230259
+julia 0.4
+Colors
+Reexport
+Compat
+
+0.5.1
+-----
+dd7b09552a3a6d8534bfa8b95f603d53a860a405
+julia 0.4
+Colors
+Reexport
+Compat
+
+0.5.2
+-----
+6c6769ca98476a48f18a62c47580622c223a89f1
+julia 0.4
+Colors
+Reexport
+Compat
+Requires
+
+0.5.3
+-----
+fd4dd13270b564c45ff81f0b7928c1db66465733
+julia 0.4
+Colors
+Reexport
+Compat
+Requires
+FixedSizeArrays
+
+0.5.4
+-----
+e8ed79a6bbdb88279c9a7134cd39bd418c7b1079
+julia 0.4
+Colors
+Reexport
+Compat
+Requires
+FixedSizeArrays
+
+0.6.0
+-----
+00f3d450f92b793318433e59484426e53786523a
+julia 0.4
+Colors
+Reexport
+Compat
+Requires
+FixedSizeArrays
+
+0.6.1
+-----
+3c09921cbd4da44b36fb5a6ed03e0a528d0e38f8
+julia 0.4
+Colors
+Reexport
+Compat
+Requires
+FixedSizeArrays
+
+0.6.2
+-----
+65e18a8669612c998905d0ced3ee638fc6a26635
+julia 0.4
+RecipesBase 0.0.1 0.0.2
+Colors
+Reexport
+Compat
+Requires
+FixedSizeArrays
+
+0.7.0
+-----
+40cbddab29edf946a76f65ea443131be1a9814bd
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.7.1
+-----
+c4bdc5b856dccfec5d9c322397880750120d8de8
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.7.2
+-----
+f3544dc82672a836f81520bddfbc40d5d836350f
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.7.3
+-----
+558627e7a9ab001c3c7bdd16de67837762d05ffd
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.7.4
+-----
+de6e3d46ec1d72e41e89a109e2135b3a4287bcfe
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.7.5
+-----
+120f861a271e4e1eb059f637111c30ca8223173a
+julia 0.4
+RecipesBase
+Colors
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.8.0
+-----
+dcab8e3ac29460c4ee0ddd04c2ccf48e3a5ccd14
+julia 0.4
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+
+0.8.1
+-----
+73af635be61602d90a63aee67c3072754a3a1827
+julia 0.4
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+Showoff
+
+0.8.2
+-----
+01b9cc92fdeccb99f4e9a053bb9263e8e80bd1d9
+julia 0.4
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+Showoff
+
+0.9.0
+-----
+20df4967a4298e97e0b89060affcab551280622f
+julia 0.5-
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+Showoff
+
+0.9.1
+-----
+011f51fbd91a7dac440569426b24766f39aa813f
+julia 0.5-
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+Showoff

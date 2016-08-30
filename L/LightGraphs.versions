@@ -1,0 +1,433 @@
+git://github.com/JuliaGraphs/LightGraphs.jl.git
+
+0.1.0
+-----
+32e021b216ee46bf173c3de2691a40c82262bb3e
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.1
+-----
+32e021b216ee46bf173c3de2691a40c82262bb3e
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.10
+------
+3ae336a6824cd38dc157b4a341bfabb299087c55
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.11
+------
+dd06b61f56fe59921ea9a91372ca3c21fe39dca2
+julia 0.3
+Compat 0.4
+GZip 0.2
+Distributions 0.6.6
+DataStructures 0.3
+LightXML 0.1.10
+StatsBase 0.6 0.9.0
+
+0.1.12
+------
+72fe35132959f41efb2a2b66b13886bb68681c27
+julia 0.3
+Compat 0.4
+GZip 0.2
+Distributions 0.6.6
+DataStructures 0.3
+LightXML 0.1.10
+StatsBase 0.6 0.9.0
+
+0.1.13
+------
+8562e420adfd63188afcfe28c91c6419719fd12d
+julia 0.3
+Compat 0.4
+GZip 0.2
+Distributions 0.6.6
+DataStructures 0.3
+LightXML 0.1.10
+Docile 0.5.3
+StatsBase 0.6 0.9.0
+
+0.1.14
+------
+71e0abc15c8bbabaa049eae0dcf386cad2d82225
+julia 0.3
+Compat 0.4
+GZip 0.2
+Distributions 0.6.6
+DataStructures 0.3
+LightXML 0.1.10
+Docile 0.5.3
+StatsBase 0.6 0.9.0
+
+0.1.15
+------
+522392576745b7439cc5acb2b5c5a750ae10a800
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.1.10
+Docile 0.5.3
+
+0.1.2
+-----
+f93840c4b019680ad7e0aa8e6257c9c4b7ef5b98
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.3
+-----
+a0a320f36e87dc231cf9baefc1faca4fb5ba1df7
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.4
+-----
+088e33b586ff849882abacf43b46721cc7f4e0f6
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.5
+-----
+a7493c72fdb3fad6e317cb30a13d5ad717c63b40
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.6
+-----
+e8d2eb0a8399a7408517131b0e2c819840e28034
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.7
+-----
+192149852d28d7dfd04c88fd530a39db6f3a3434
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.8
+-----
+76775fe72f924f99bab048319e8c0e0da1b7831a
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.1.9
+-----
+0f221895b7190aa5ab3c12e0183d22fdbb1d390a
+julia 0.3
+Compat 0.2.6
+GZip 0.2
+StatsBase 0.6 0.9.0
+DataStructures 0.3
+
+0.2.0
+-----
+d0348dc9af988f4d5954e743a3d2e99dbc43891d
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.1.10
+Docile 0.5.3
+
+0.2.1
+-----
+8f1c0be1b7c71439be2386ca6223875d2f8a710d
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.1.10
+Docile 0.5.3
+
+0.2.2
+-----
+9d47ee186a0c09c926d9975e67ecd8c1d38eb363
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.1.10
+Docile 0.5.3
+
+0.3.0
+-----
+8ed203c10078107d63d7768710cb393a43faa29e
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.6.3
+Docile 0.5.3
+
+0.3.1
+-----
+60f7a40eee035043d2e1956fdf7bff8952095388
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.6.3
+Docile 0.5.3
+
+0.3.2
+-----
+3650afe98466cbeb62b2fcb47d10abe68db46bd5
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.6.3
+Docile 0.5.3
+
+0.3.3
+-----
+26648c5db3e5a0294e26eae383b10edf48ecffa5
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.6.3
+Docile 0.5.3
+
+0.3.4
+-----
+0dc1e27f337fd0159e8cfa680dab55fde15163dd
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.6.3
+Docile 0.5.3
+
+0.3.5
+-----
+bc89cc145d269a54b835bdc36dd4d7c7f951e129
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.7.1
+Docile 0.5.3
+Clustering 0.4
+
+0.3.6
+-----
+ca79aabfc81fa16cb838ccf147369bbfd59d08e7
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.7.1
+Docile 0.5.3
+Clustering 0.4
+
+0.3.7
+-----
+2c4b3b3b4b96fc4da7c28938764eb306b7be9b7d
+julia 0.3
+Compat 0.4.9
+GZip 0.2.16
+StatsBase 0.6.15 0.9.0
+LightXML 0.2.0
+ParserCombinator 1.7.1
+Docile 0.5.3
+Clustering 0.4
+
+0.4.0
+-----
+1823b41a1e14fdb645d3cbe7f563367265caf940
+julia 0.4
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.1
+Docile 0.5.3
+Clustering 0.4
+
+0.4.1
+-----
+6611c6b3e8f260cf8d176c997acf77e515d16dd5
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+
+0.4.2
+-----
+03a4197f5b6583395ee315a34d3af10797ec3efa
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+
+0.5.0
+-----
+44528ed35df7815cc36ff39c91cce20ad2cc1ff8
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+
+0.5.2
+-----
+2fbea52cfd58a278b9eebcfdc0d23f78742bcb66
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+JLD
+
+0.5.3
+-----
+2fbea52cfd58a278b9eebcfdc0d23f78742bcb66
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+
+0.5.4
+-----
+2fbea52cfd58a278b9eebcfdc0d23f78742bcb66
+julia 0.4
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Docile 0.5.3
+Clustering 0.4
+Combinatorics
+
+0.5.5
+-----
+bb49b42b1ef1760e6ea466e21ce13084a39742f2
+julia 0.4 0.5-
+Requires
+GZip 0.2.18
+StatsBase 0.7.4 0.9.0
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Clustering 0.4
+
+0.5.6
+-----
+55d7b6b4831d7f18450ef1e6a468cc7545fc14b3
+julia 0.4 0.5-
+Requires
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Clustering 0.4
+Distributions
+
+0.5.7
+-----
+1f559d453bc98b73b566720421d74ddde70a6db4
+julia 0.4 0.5-
+Requires
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Clustering 0.4
+Distributions
+
+0.6.0
+-----
+0c924e05f7c986b8153f43d63b71903289343602
+julia 0.4 0.5-
+JuMP 0.13.2
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Clustering 0.4
+Distributions
+GraphMatrices
+MatrixDepot
+
+0.6.1
+-----
+414f14d896683bbac8ca60becfa3e811be0ba26c
+julia 0.4 0.5-
+JuMP 0.13.2
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Clustering 0.4
+Distributions
+GraphMatrices
+MatrixDepot

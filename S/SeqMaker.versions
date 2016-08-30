@@ -1,0 +1,15 @@
+git://github.com/OpenGene/SeqMaker.jl.git
+
+0.0.1
+-----
+37e2cafbd2473e097caba66880dfec23083bd960
+julia 0.4
+OpenGene
+JSON
+
+0.1.0
+-----
+883f516a8cac4ce2a69f14f23652011036f8ed55
+julia 0.4
+OpenGene
+JSON

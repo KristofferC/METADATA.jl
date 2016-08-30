@@ -1,0 +1,100 @@
+git://github.com/JuliaWeb/WebSockets.jl.git
+
+0.0.0
+-----
+4828d875165dae41ca33875dda18a84d32111f19
+HttpCommon
+HttpServer
+
+0.0.1
+-----
+fe3b5d13845dd396a392f19626e8f626e33e0c42
+0.0.2
+-----
+fa01c8ad7bea63bcc672bda2fbed9e34adc257ea
+julia 0.2-
+Codecs
+HttpCommon
+HttpServer
+
+0.0.3
+-----
+967d1c13028ba5e78313a0c17c24e4fbbfd8b861
+julia 0.2-
+Codecs
+HttpCommon
+HttpServer
+
+0.0.4
+-----
+94d52ad899de727a281e8e1b5c4c07482e3011a5
+Codecs
+HttpCommon 0.0.3-
+HttpServer 0.0.4-
+
+0.0.5
+-----
+cb075879c7346dc70cfcb16e5147d236b1ca9e91
+julia 0.2-
+HttpCommon 0.0.3-
+HttpServer 0.0.4-
+Codecs
+
+0.0.6
+-----
+59c56f988e783a9da67913ec26286831b4762da0
+julia 0.2-
+HttpCommon 0.0.3-
+HttpServer 0.0.4-
+Codecs
+Nettle
+
+0.1.0
+-----
+a90ec32863e047aacfc66b4d0193497df9e4f80c
+julia 0.3
+Compat
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+Nettle
+
+0.1.1
+-----
+01f49dd9d6cd7f2ce0202584830aebd61e776523
+julia 0.3
+Compat
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+Nettle 0.2.0
+
+0.1.2
+-----
+0cf26031a5b1c270a91507691bcab7ca4c7429f4
+julia 0.3
+Compat
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+Nettle 0.2.0
+
+0.2.0
+-----
+f175982e6469a20ed2133293f4ed4cfbdff39f0e
+julia 0.4
+Compat 0.7.16
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+MbedTLS
+
+0.2.1
+-----
+872977efc0d23c4aaa1e0f7be4efb87baa18cca9
+julia 0.4
+Compat 0.7.16
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+MbedTLS

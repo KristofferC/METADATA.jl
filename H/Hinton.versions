@@ -1,0 +1,16 @@
+git://github.com/ninjin/Hinton.jl.git
+
+0.1.0
+-----
+3d6cc64c24651460503605f2c1049267b1732258
+julia 0.3
+Compose
+Color
+
+0.1.1
+-----
+64e5dec1050dfbe23ce6147fb6e8457a181518e4
+julia 0.3
+Colors
+Compat
+Compose

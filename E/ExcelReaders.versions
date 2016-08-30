@@ -1,0 +1,76 @@
+git://github.com/davidanthoff/ExcelReaders.jl.git
+
+0.1.0
+-----
+664bd6aabc4e6d80bf0caa3dc59cd585b9cd586e
+PyCall
+DataArrays
+DataFrames
+Dates
+
+0.2.0
+-----
+a1336ef08b964bd493d7fd00bc4aff39ea9c964c
+PyCall
+DataArrays
+DataFrames
+Dates
+
+0.3.0
+-----
+f09fc99145143a5a1a816bc18531f8b57f37b937
+julia 0.3
+Compat
+DataArrays
+DataFrames
+Dates
+PyCall
+
+0.3.1
+-----
+b5b29a04be142454e2d2e4ed2743c16fed1f296d
+julia 0.3
+Compat
+DataArrays
+DataFrames
+Dates
+PyCall 1.1
+Conda
+
+0.4.0
+-----
+8aea18cde0a31551013904ea105d44334ef59850
+julia 0.4
+DataArrays
+DataFrames
+Dates
+PyCall 1.1
+Conda
+
+0.4.1
+-----
+3a1c133b9af691d4f2679b504e70e89e3b055843
+julia 0.4
+DataArrays
+DataFrames
+Dates
+PyCall 1.5
+
+0.5.0
+-----
+398738ccdf5111b05782f0f523197b2fd950d429
+julia 0.4
+DataArrays
+DataFrames
+Dates
+PyCall 1.5
+
+0.6.0
+-----
+e8cfbe66649a0ae8dea5538ebf755dae341e3ea0
+julia 0.4
+DataArrays
+DataFrames
+Dates
+PyCall 1.5
+Compat 0.8.6

@@ -1,0 +1,28 @@
+git://github.com/chemfiles/Chemfiles.jl.git
+
+0.4.0
+-----
+bb541bceb2b670f553f487de046b82644add52ce
+julia 0.4
+BinDeps
+Compat
+@unix Conda
+@windows WinRPM
+
+0.5.0
+-----
+5ebd4db513915dd52c6f87dc5630603f26afd719
+julia 0.4
+BinDeps
+Compat
+@unix Conda
+@windows WinRPM
+
+0.6.0
+-----
+980d92c5f67ea6ccf2c745ee49ce5fd30edb86be
+julia 0.4
+BinDeps
+Compat
+@unix Conda 0.2
+@windows WinRPM

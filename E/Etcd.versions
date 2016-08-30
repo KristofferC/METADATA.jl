@@ -1,0 +1,8 @@
+git://github.com/forio/Etcd.jl.git
+
+0.0.1
+-----
+a8829eac75d9ad501d118d2fe0d03a034fe24fca
+julia 0.2- 0.4
+Requests
+Lumberjack

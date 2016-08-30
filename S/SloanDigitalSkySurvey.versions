@@ -1,0 +1,59 @@
+git://github.com/rgiordan/SloanDigitalSkySurvey.jl.git
+
+0.0.1
+-----
+2540a46cb4878ec3718fabb4940c13e532c9c371
+julia 0.3
+DualNumbers
+FITSIO
+WCSLIB
+DataFrames
+Docile
+Grid
+GaussianMixtures
+
+0.0.2
+-----
+66442297d421fa67e908077f5d0560746502bc99
+julia 0.3
+DualNumbers
+FITSIO
+WCSLIB
+DataFrames
+Docile
+Grid
+GaussianMixtures
+
+0.0.3
+-----
+9b85a8041eb53c77c0796fdcf29de1fc5e991b0e
+julia 0.3
+DualNumbers
+FITSIO
+WCSLIB
+DataFrames
+Docile
+Grid
+GaussianMixtures
+
+0.1.0
+-----
+2a36c0ddc881b37711d7a6bee834c801f26d00c4
+julia 0.4
+FITSIO
+WCS 0.1.1
+DataFrames
+Docile
+Grid
+GaussianMixtures
+
+0.1.1
+-----
+6542fc7b35ade0d281011425ee0843f374e5a728
+julia 0.4
+FITSIO
+ForwardDiff
+Optim 0.4.4 0.4.5-
+WCS 0.1.1
+DataFrames
+Grid

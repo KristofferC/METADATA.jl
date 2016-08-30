@@ -1,0 +1,53 @@
+git://github.com/madeleineudell/LowRankModels.jl.git
+
+0.0.1
+-----
+f6e92c116f694803823575694417fa6ff8fd8131
+julia 0.3-
+DataFrames
+ArrayViews
+Optim 0.0 0.5
+
+0.0.2
+-----
+3ef14d97b65452e65bd82db1e11640670c611625
+julia 0.3-
+DataFrames
+ArrayViews
+Optim 0.0 0.5
+Compat
+
+0.1.0
+-----
+5e08e34287bd223e462901661dc41e3c699329db
+julia 0.3-
+DataFrames
+StatsBase
+ArrayViews
+Optim 0.0 0.5
+NMF
+Compat
+
+0.1.1
+-----
+ddc40abd2b292eb993d0cf29b820d25ca66b9248
+julia 0.3
+DataFrames
+StatsBase
+ArrayViews
+Optim 0.0 0.5
+Roots
+NMF
+Compat
+
+0.1.2
+-----
+499726aa4095dea61cb6cc2ed82d15351bf3ffd1
+julia 0.4
+DataFrames
+StatsBase
+ArrayViews
+Optim 0.0 0.5
+Roots
+NMF
+Compat

@@ -1,0 +1,16 @@
+git://github.com/JuliaDB/Hive.jl.git
+
+0.0.1
+-----
+211db353a828fdf6a0747289c23261723c181223
+julia 0.4
+Thrift
+DataFrames
+
+0.0.3
+-----
+9d0600da2577cbf83c8c5635ada58e6220029842
+julia 0.4
+Compat 0.8.0
+Thrift
+DataFrames

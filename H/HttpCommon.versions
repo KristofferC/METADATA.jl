@@ -1,0 +1,146 @@
+git://github.com/JuliaWeb/HttpCommon.jl.git
+
+0.0.0
+-----
+18af787f62b017bb5f33942de1593d4fd7131245
+Calendar
+FactCheck 0.0.1
+
+0.0.1
+-----
+4c410684c32de40c490cc1f1f29743aee43b7e47
+0.0.10
+------
+a6c00ac0a36311d4ba0fc1f9f9461c7068059203
+julia 0.3
+Dates
+
+0.0.11
+------
+132940028fdf1bdb699b33b570bedc5db17285e7
+julia 0.3
+Dates
+
+0.0.12
+------
+0469d901391ad3a991d5652cbad68629b00eace1
+julia 0.3
+Dates
+
+0.0.2
+-----
+4c410684c32de40c490cc1f1f29743aee43b7e47julia 0.2-
+Calendar
+FactCheck 0.0.1
+
+0.0.3
+-----
+e4643053385ad388a32f165776a49ab69cd09cda
+Calendar
+FactCheck 0.1.0-
+
+0.0.4
+-----
+e5bdf22b24122e2c203c5a66936c879b31091412
+julia 0.2-
+Calendar
+FactCheck 0.1.0-
+
+0.0.5
+-----
+44cf656319d438e9124401746396e512b5c51540
+julia 0.2-
+Calendar
+FactCheck 0.1.0-
+
+0.0.6
+-----
+7fe15cc7c152baaf174aed5275f20f29d528ec15
+julia 0.3
+Dates
+
+0.0.7
+-----
+6f25a1d5cc786c641576d79f238dc1368214ac6c
+julia 0.3
+Dates
+
+0.0.8
+-----
+fd061264cfeb5c2ee8beb957d15136bd3408dc97
+julia 0.3
+Dates
+
+0.0.9
+-----
+6edd34596bf7650c16876b76f57c12f419d9e7f1
+julia 0.3
+Dates
+
+0.1.0
+-----
+1b667052430055846a8322efe40c6391bdf1d2f5
+julia 0.3
+Dates
+Compat
+
+0.1.1
+-----
+75f242240d79a3cf0cdb80886a616671785099ce
+julia 0.3
+Dates
+Compat
+
+0.1.2
+-----
+1b86aaa02a4add4d0e27a4d4e6c798ff1d8b799b
+julia 0.3
+Dates
+Compat
+URIParser
+
+0.2.0
+-----
+ea62a572f5dd6fe745bf2c117ba766fddfb1cc36
+julia 0.4-
+Dates
+Compat
+URIParser
+
+0.2.1
+-----
+b6821d860395433cb3db2a3e6880144c18a05399
+julia 0.4-
+URIParser
+
+0.2.2
+-----
+96acf048b0800599eb1a7c51b8c279e79c8d4965
+julia 0.4-
+URIParser
+
+0.2.3
+-----
+101a72f78048f5ee49783d8a4cf7821eefdc483a
+julia 0.4-
+URIParser
+
+0.2.4
+-----
+0628780e68d68fb9d9e2d8ae373517cb07755c98
+julia 0.4-
+URIParser
+
+0.2.5
+-----
+c731d62e886286f6271e360e05c81b02c77653ad
+julia 0.4-
+URIParser
+Compat 0.7.20
+
+0.2.6
+-----
+d5201507b918c3bed8e7eb72c130352b984ebb7a
+julia 0.4
+URIParser
+Compat 0.7.20

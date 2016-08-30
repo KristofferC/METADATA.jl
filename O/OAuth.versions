@@ -1,0 +1,75 @@
+git://github.com/randyzwitch/OAuth.jl.git
+
+0.0.1
+-----
+32b3284890074e6d9dd489d8c237b89784d7e5f3
+julia 0.3
+HttpCommon 
+Requests
+Nettle
+
+0.0.2
+-----
+6fdb7e58e9e5cbc57e4f27e83558a8005a413165
+julia 0.3
+HttpCommon 
+Requests
+Nettle
+
+0.0.3
+-----
+28db434c936ce142476d01a433a4debbfde69b98
+julia 0.3
+HttpCommon 
+Requests
+Nettle
+Compat
+
+0.1.0
+-----
+74232718c66b7bd0718946f81dd1f2026e26ea86
+julia 0.3
+URIParser
+Requests
+Nettle
+Compat
+
+0.2.0
+-----
+b03b5a2024a070f84aee5b1bcdf72c1d62c4533a
+julia 0.3
+Compat
+FactCheck
+Nettle
+Requests
+URIParser
+
+0.3.0
+-----
+d2846df9171cc17be50274df197c76cdafc8dbe3
+julia 0.4-
+Compat
+FactCheck
+Nettle 0.2
+Requests
+URIParser
+
+0.4.0
+-----
+b73a6cf03101fe9378bcefb575be0db6a2e802c4
+julia 0.4
+Compat
+FactCheck
+Nettle 0.2
+Requests
+URIParser
+
+0.4.1
+-----
+31d7664230b01380e151f48ace8dbb0f03e3dcc5
+julia 0.4
+Compat
+FactCheck
+Nettle 0.2
+Requests
+URIParser

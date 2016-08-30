@@ -1,0 +1,179 @@
+git://github.com/QuantEcon/QuantEcon.jl.git
+
+0.0.1
+-----
+97c30dc769563acee932fe9510b7f45d216eabbd
+julia 0.3-
+Distributions 0.5-
+Grid 0.3-
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+
+0.0.2
+-----
+eb078224a2a681325d6d3e7bfaa8898d10f03f56
+julia 0.3-
+Distributions 0.5-
+Grid 0.3-
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+
+0.1.0
+-----
+3ed25fc05de2920e57fa8be59355ca2d2a67902c
+julia 0.3-
+Distributions 0.5-
+Grid 0.3-
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+Graphs
+
+0.1.1
+-----
+93ce49646b1c292dae08c4f3767374622a2c74de
+julia 0.3-
+Distributions 0.5-
+Grid 0.3-
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+Graphs
+IterationManagers
+Docile
+
+0.1.2
+-----
+16a9b81ab76185a0003733a398e99acb19a7b071
+julia 0.3
+Distributions 0.5
+Grid 0.3
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+Graphs
+IterationManagers
+Docile
+
+0.2.0
+-----
+af4a7f85e6b31da0bbd6777c519935457db3260b
+julia 0.3
+Distributions 0.5
+Grid 0.3
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+LightGraphs
+IterationManagers
+Docile
+JLD
+
+0.2.1
+-----
+407d1671f8bc4eace1a9491d60d70a79354a87d4
+julia 0.3
+Distributions 0.5
+Grid 0.3
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+LightGraphs
+IterationManagers
+Docile
+JLD
+
+0.3.0
+-----
+ae41315779013e29643a8bbfd42b7556d5f5866d
+julia 0.3
+Distributions 0.5
+Grid 0.3
+Optim 0.0 0.5
+DSP
+HDF5
+MAT
+FactCheck
+DataStructures
+Compat
+LightGraphs
+IterationManagers
+Docile
+JLD
+
+0.4.0
+-----
+2777e6c731d4e92b619b02cd32db69a24a5ef106
+julia 0.4
+DSP
+Distributions 0.5
+LightGraphs
+Optim 0.0 0.5
+Grid
+
+0.4.1
+-----
+99aded1ccb46ad0111f088aa695fe7eded1a47cb
+julia 0.4
+DSP
+Distributions 0.5
+LightGraphs
+Optim 0.0 0.5
+Grid
+
+0.4.2
+-----
+fe2be6b95b517414b810089c49f295746d93f3eb
+julia 0.4
+DSP
+Distributions 0.8.9
+LightGraphs
+
+0.5.0
+-----
+fae6e19205d1911d03ffb6ebe7ac98eccb6649a9
+julia 0.4
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat
+
+0.5.1
+-----
+79fa677daeef75dd694d1f6e710a44f4244fd197
+julia 0.4
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.8.4
+StatsBase

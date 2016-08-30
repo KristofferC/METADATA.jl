@@ -1,0 +1,40 @@
+git://github.com/JuliaStats/DataFramesMeta.jl.git
+
+0.0.0
+-----
+8f0bb0c6c03af514a8e38e1963e2e84c401dc69e
+julia 0.3-
+DataFrames
+
+0.0.1
+-----
+fa1f50c343c99b4d79b917fe0eaddda8def3dfb5julia 0.3-
+DataFrames
+
+0.1.0
+-----
+386f22eec163b169ffed81157dc763615658eae0
+julia 0.4-
+DataFrames
+Compat
+
+0.1.1
+-----
+9469fc563f603ef214b184bb5ff90e2657089896
+julia 0.4
+DataFrames
+Compat
+
+0.1.2
+-----
+13f1ae0982a3305d4a9c2bad3ceabc887ca5aad6
+julia 0.4
+DataFrames
+Compat
+
+0.1.3
+-----
+6f01dc7bba9cb8a6f6e4d2ecfe1fb3d0b5734a43
+julia 0.4
+DataFrames
+Compat

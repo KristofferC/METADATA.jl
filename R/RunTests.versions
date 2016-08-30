@@ -1,0 +1,19 @@
+git://github.com/burrowsa/RunTests.jl.git
+
+0.0.1
+-----
+549b8e557717b9de918ef5eefc96d438d99e77ca
+julia 0.2- 0.4
+ProgressMeter 0.0.1
+
+0.0.2
+-----
+5e9d57729b3c9bf8313c23f7ac2db1aea8cfccb1
+julia 0.2- 0.4
+ProgressMeter 0.0.1
+
+0.0.3
+-----
+360e0345020c7137a0bf3cf42ea5e6ded3d4e6df
+julia 0.2- 0.4
+ProgressMeter 0.0.1

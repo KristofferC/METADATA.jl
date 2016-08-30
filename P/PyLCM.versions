@@ -1,0 +1,24 @@
+git://github.com/rdeits/PyLCM.jl.git
+
+0.0.1
+-----
+9f63ccfa6c498d061fa87bf9d671e652a755a285
+julia 0.4
+PyCall
+
+0.0.2
+-----
+c86bb565f096a10a476dd3e942e1de64d09b8e15
+julia 0.4
+PyCall
+BinDeps
+@osx Homebrew
+
+0.0.3
+-----
+d90a709cc5b6a12c4de0ed400ceb851ea47394af
+julia 0.4
+PyCall
+BinDeps
+Compat
+@osx Homebrew

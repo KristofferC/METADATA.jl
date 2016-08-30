@@ -1,0 +1,16 @@
+git://github.com/bicycle1885/Snappy.jl.git
+
+0.0.1
+-----
+52da26f0b87dade2ef4865847711bd5d7e0dac60
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.0.2
+-----
+ed7c803e7a3858b34dfa8e5a359143eb6236be77
+julia 0.3
+Compat
+BinDeps
+@osx Homebrew

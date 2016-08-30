@@ -1,0 +1,60 @@
+git://github.com/JuliaPlots/PlotRecipes.jl.git
+
+0.0.1
+-----
+491ed65d967aa1aff6f5df1b79d6483906e7e626
+julia 0.4
+Reexport
+RecipesBase
+Plots
+
+0.0.2
+-----
+85761252b737eb7cb3728e54ba181838bd948234
+julia 0.4
+Reexport
+RecipesBase
+Plots
+
+0.0.3
+-----
+524d6c89f172d8002e1e09aa8ea9c6034b9d5d91
+julia 0.4
+Reexport
+RecipesBase
+Plots
+
+0.0.4
+-----
+81b7f376d2abcf5126cd9c6c4fa162eb999ed267
+julia 0.4
+Reexport
+RecipesBase
+Plots
+
+0.0.5
+-----
+2850fdff017d5e3bb1a3c7234e8f9ee4e6c7fb59
+julia 0.4
+Reexport
+RecipesBase
+Plots
+StatPlots
+
+0.0.6
+-----
+4cb752eb5a0994532b19140ebde453468ec2c49f
+julia 0.4
+Reexport
+RecipesBase
+Plots
+StatPlots
+
+0.1.0
+-----
+20b309d9b103d80b5295f820ee312c72fd115ef9
+julia 0.5-
+Reexport
+RecipesBase
+Plots
+StatPlots

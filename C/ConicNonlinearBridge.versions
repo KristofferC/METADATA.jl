@@ -1,0 +1,22 @@
+git://github.com/mlubin/ConicNonlinearBridge.jl.git
+
+0.0.1
+-----
+ae02684c3a91f120d34619dc99501f83222ec36d
+julia 0.4
+MathProgBase
+JuMP
+
+0.0.2
+-----
+ed466ce00374b04a556fa957d2476ae2c0709f79
+julia 0.4
+MathProgBase 0.4 0.6
+JuMP 0.13
+
+0.0.3
+-----
+4f931c22e485c125a6820f8829213ab9b7310541
+julia 0.4
+MathProgBase 0.4 0.6
+JuMP 0.13

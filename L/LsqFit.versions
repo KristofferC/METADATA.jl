@@ -1,0 +1,17 @@
+git://github.com/JuliaOpt/LsqFit.jl.git
+
+0.0.1
+-----
+ea9d75e56b40eb093e9ebb67a6ae5754db9adba9
+julia 0.2-
+Calculus
+Distributions
+Optim 0.0 0.5
+
+0.0.2
+-----
+9d8837606046f3bee5ed182dd7314c8b2a456a56
+julia 0.3
+Calculus
+Distributions
+Optim

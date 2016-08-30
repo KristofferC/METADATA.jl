@@ -1,0 +1,12 @@
+git://github.com/JuliaGPU/CUBLAS.jl.git
+
+0.0.1
+-----
+d63ddeeddc0054d5d4790a0abfdee20e8b0b11ec
+
+0.0.2
+-----
+b72c32a784731e3b586bbb8285d0900026eca64d
+Compat
+CUDArt
+julia 0.4-

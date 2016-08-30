@@ -1,0 +1,144 @@
+git://github.com/JuliaLang/Graphs.jl.git
+
+0.0.0
+-----
+8c1504f2e5321517659697e9ffbb9dd4867da76f
+DataFrames
+
+0.2.0
+-----
+afc63dd60123805cafcdc443d2a2917e043d300e
+julia 0.2-
+DataStructures
+
+0.2.1
+-----
+55b28dbb809118fa3f44d3eb0d8ca10dead3c57a
+julia 0.2-
+DataStructures
+
+0.2.2
+-----
+dcda1bf06371242fefe5204a5d259c9d5effd969
+julia 0.2-
+DataStructures
+
+0.2.3
+-----
+fdd31d92aaf0fe3ddbb5c1d8ddf60381cba3da67
+julia 0.2-
+DataStructures
+
+0.2.4
+-----
+11f1cb07ca6d591bc70c5c700291b2f8fcfa5a2b
+julia 0.2-
+DataStructures
+
+0.2.5
+-----
+a9a0c00906f42f0ab8e48d194d65490e80d5f15d
+julia 0.2-
+DataStructures
+
+0.3.0
+-----
+29eacd5f391c0ae4448b39525a4933fc16ad38a4
+julia 0.2-
+DataStructures
+
+0.3.1
+-----
+d530e9ab70c8a49bf3e258cf6a705517cc1c0399
+julia 0.2-
+DataStructures
+
+0.3.2
+-----
+73ff7d60446799b2883fdcc07ada800b312bfed4
+julia 0.3-
+DataStructures
+
+0.3.3
+-----
+6fc2016ea84c92f8969824a5d8efeae564e5f6bf
+julia 0.3-
+DataStructures
+
+0.4.0
+-----
+f96e998bb9252d7d9f30c1253e1da10803034539
+julia 0.3-
+DataStructures 0.2.9-
+
+0.4.1
+-----
+ded94af335e4af283b21d791e8dc83e922105177
+julia 0.3-
+DataStructures 0.2.9-
+
+0.4.2
+-----
+035d316543e358d0b2e49d19d606a753385bfd06
+julia 0.3-
+DataStructures 0.2.9-
+
+0.4.3
+-----
+32312611bcc0439c485b9c677debebaeb00135cf
+julia 0.3-
+DataStructures 0.2.9-
+
+0.5.0
+-----
+89aee212d8f5abbf12c8eea745a58efac3fd987c
+julia 0.3
+DataStructures 0.2.9-
+
+0.5.1
+-----
+c9b431737f9992224cac980e6e4e6a5a9923017a
+julia 0.3
+DataStructures 0.2.9-
+
+0.5.2
+-----
+8cc8854cfa74a9be4887215f88861bdad4c71761
+julia 0.3
+DataStructures 0.2.9-
+Compat
+
+0.5.3
+-----
+7ad317207900bebd06c70912ae10521bb7a59545
+julia 0.3
+DataStructures 0.2.9-
+Compat 0.4.0
+
+0.5.4
+-----
+6de2f20dc982c5d0bd4813797d2c2cfb270931e4
+julia 0.3
+DataStructures 0.3.8
+Compat 0.4.0
+
+0.5.5
+-----
+8773b7dde9957a72de3260a6fc4928a8f5650a1c
+julia 0.3
+DataStructures 0.3.8
+Compat 0.4.0
+
+0.5.6
+-----
+410d1190c783c860e3b4d23786e94aa328f33513
+julia 0.3
+DataStructures 0.3.8
+Compat 0.4.0
+
+0.6.0
+-----
+04b198d197f4389f7a6e356a78846159dfda14f9
+julia 0.3
+DataStructures 0.3.8
+Compat 0.4.0

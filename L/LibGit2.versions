@@ -1,0 +1,74 @@
+git://github.com/jakebolewski/LibGit2.jl.git
+
+0.0.1
+-----
+05516b01e22f1d607f2c7ef9afabacfee227b1f3
+julia 0.2-
+BinDeps
+
+0.1.0
+-----
+568ca2a1fe7bb8c4276a31e1dc89b22102a5b99a
+julia 0.2-
+BinDeps
+
+0.2.0
+-----
+84e08f2252ae901cb3fa545a8a9c8529038df5cf
+julia 0.3-
+
+0.2.1
+-----
+814a0b12e951f444e97ed393abf52e8792db20e3
+julia 0.3-
+
+0.2.2
+-----
+77708813e29ff2bf0035fff5f6287b7301aa92fc
+julia 0.3-
+
+0.3.0
+-----
+eded9eb7dfff64043848b3c0a1fe4d7621fc1e78
+julia 0.3-
+
+0.3.1
+-----
+789c16fb19c7b6a9dec2f01720546eb33ce53e63
+julia 0.3-
+
+0.3.2
+-----
+0ac16c748c84fc94a02d6279a367f5842bdc6565
+julia 0.3-
+
+0.3.3
+-----
+8eb26c2d191df226a1fc5eb47d7d187217fabb17
+julia 0.3-
+
+0.3.4
+-----
+3fefb7c0fecdf062e0151ff6ea9541e47e64894a
+julia 0.3-
+
+0.3.5
+-----
+8a44ae3facaea18f7b63084bfc2e56539857f306
+julia 0.3-
+
+0.3.6
+-----
+21a9b017ab31888868c12c7d47667d5c072a7e12
+julia 0.3-
+
+0.3.7
+-----
+7d1f2ea33b2321aa715c7a221468a3ebb658c725
+julia 0.3-
+
+0.3.8
+-----
+f7573d1a62e40d96fb4e3f78ea3c6619c5f2cd8d
+julia 0.3-
+BinDeps

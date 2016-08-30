@@ -1,0 +1,27 @@
+git://github.com/mweastwood/CasaCore.jl.git
+
+0.0.1
+-----
+6fcb5ad9efd2a64b2fae29cfb862e11d5b8a7b4e
+julia 0.4-
+BinDeps
+
+0.0.2
+-----
+5764707ee5ae4cd02ac136be6c2b26880bb38cbc
+julia 0.4-
+
+0.0.3
+-----
+b8d257e9b7591c0cba6b5f86b92c07ff759c44ea
+julia 0.4-
+
+0.0.4
+-----
+68ddce4897dc8fbe9797960b7a2c7be200ba2ff9
+julia 0.4
+
+0.0.5
+-----
+175c7a5a78d1fcf7c601aeb633149256f6de5b2e
+julia 0.4

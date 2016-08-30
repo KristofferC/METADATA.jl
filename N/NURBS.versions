@@ -1,0 +1,7 @@
+git://github.com/TheBB/NURBS.jl.git
+
+0.0.1
+-----
+0e19e9332515b255ba6ed4bead944a2ecd47f585
+julia 0.4-
+Iterators 0.1 0.2-

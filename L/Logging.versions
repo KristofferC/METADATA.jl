@@ -1,0 +1,48 @@
+git://github.com/kmsquire/Logging.jl.git
+
+0.0.0
+-----
+da68f1e27d1e668d4e058ba154a21f843f88a1a7
+julia v0.2-
+
+0.0.1
+-----
+3aa8466db5908adfd4cf8094b61a666feb8b842c
+julia v0.2-
+
+0.0.2
+-----
+53be63961d4f0b5cd95f68c5d0e9516715d4898d
+julia v0.2-
+
+0.0.3
+-----
+15b4618c5834caa96b720fbb61355decea497844
+julia v0.2-
+
+0.0.4
+-----
+55a53fcf3449aec353e1e29938c29e816608e4c4
+julia v0.2-
+
+0.0.5
+-----
+b356860376c85282af829c03b0d263f41d5beeaa
+julia v0.2-
+
+0.1.0
+-----
+c204c42081cfdef64f77ee1160873acb9773b13e
+julia v0.3
+
+0.1.1
+-----
+1893fead5a9c0ade217f2b762ba178566539c839
+julia v0.3
+Compat v0.3.6
+
+0.2.0
+-----
+7cf0274309df1830e29723d4cf5a4ed63028b5d3
+julia 0.3
+Compat 0.3.6

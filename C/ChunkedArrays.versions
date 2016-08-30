@@ -1,0 +1,22 @@
+git://github.com/ChrisRackauckas/ChunkedArrays.jl.git
+
+0.0.1
+-----
+d7e4e80e13f90e05412de294ec80979f0968ee5b
+julia 0.4
+Compat
+EllipsisNotation
+
+0.0.2
+-----
+c645202a0375584a9628febb921d4f609703f321
+julia 0.4
+Compat
+EllipsisNotation
+
+0.1.0
+-----
+624cabb9933435c8f4df41a205e9a46f2688e98b
+julia 0.5-
+Compat
+EllipsisNotation

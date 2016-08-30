@@ -1,0 +1,95 @@
+git://github.com/JuliaDSP/DSP.jl.git
+
+0.0.1
+-----
+682196870d8dae02bb1cd2321ffd0ad6e85f2bbe
+Polynomial
+
+0.0.10
+------
+90aee1147330b96835f247307377e60331345ac8
+julia 0.3
+Polynomials
+Reexport
+Compat
+
+0.0.11
+------
+abe40789d3cc0a36b529520003d97a6d6509b22a
+julia 0.3
+Polynomials
+Reexport
+Compat
+
+0.0.2
+-----
+aa8427e1fd6a248cc8eb698710755b14e17a645e
+Polynomial
+Reexport
+
+0.0.3
+-----
+b0be357ab3c578f6e0fd7f58d857a0586cd5a6e3
+Polynomials
+Reexport
+
+0.0.4
+-----
+d6d30084c8cbb5713bcdad1c7748fdacf50d6ea6
+julia 0.3-
+Polynomials
+Reexport
+
+0.0.5
+-----
+b1f1d920a0f4aedf3a9f5434daa1d6b048969d6b
+julia 0.3-
+Polynomials
+Reexport
+
+0.0.6
+-----
+f6490b171daea0e9553cbd7251846eb15c5efef0
+julia 0.3-
+Polynomials
+Reexport
+
+0.0.7
+-----
+5c5ab91d00f9d11440b5fa583dc493c2a26b5f02
+julia 0.3-
+Polynomials
+Reexport
+Compat
+
+0.0.8
+-----
+bcca68b5ece29e4cfb6906209d00981cabcbfcd9
+julia 0.3-
+Polynomials
+Reexport
+Compat
+
+0.0.9
+-----
+2e994f032310d4c74396d4eb38d4f2d93604d1c8
+julia 0.3-
+Polynomials
+Reexport
+Compat
+
+0.1.0
+-----
+7cfac97beeefa5de0ed98592fc624464a2ed81fd
+julia 0.4
+Polynomials
+Reexport
+Compat 0.7.15
+
+0.1.1
+-----
+8fb5c7cab2293e89fb2b3df6dc02266af965b1c8
+julia 0.4
+Polynomials
+Reexport
+Compat 0.8.4

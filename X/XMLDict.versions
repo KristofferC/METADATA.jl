@@ -1,0 +1,58 @@
+git://github.com/samoconnor/XMLDict.jl.git
+
+0.0.10
+------
+7a7dee38282f94ed7e944dccb959480ba506bc54
+julia 0.4
+LightXML
+DataStructures
+Compat
+
+0.0.3
+-----
+d13f6d77678f8dd0504f56e9832e625a1646ea3e
+julia 0.4
+LightXML
+DataStructures
+
+0.0.4
+-----
+e2047c193905e247a6a2879f999fb396caaffe2c
+julia 0.4
+LightXML
+DataStructures
+
+0.0.5
+-----
+ab815c854be88f1d7885e0bdd86bf5489dab75de
+julia 0.4
+LightXML
+DataStructures
+
+0.0.6
+-----
+a879038980f3683722bee7491bcda78fbb241ef2
+julia 0.4
+LightXML
+DataStructures
+
+0.0.7
+-----
+146af78e7c28e1cbbbd79c1a8794a6c0d4b7fd18
+julia 0.4
+LightXML
+DataStructures
+
+0.0.8
+-----
+d7b63d09f7681919119e20d7032878a96cc83836
+julia 0.4
+LightXML
+DataStructures
+
+0.0.9
+-----
+1c577d36e30cb0b94aecad249687ac3798281670
+julia 0.4
+LightXML
+DataStructures

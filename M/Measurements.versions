@@ -1,0 +1,35 @@
+git://github.com/giordano/Measurements.jl.git
+
+0.0.1
+-----
+d1d98100bde67e5576c7e84ce95756026c3ea2d7
+julia 0.4
+
+0.0.2
+-----
+641fb420d18a905f4d5f131d219c738665a05c46
+julia 0.4
+
+0.1.0
+-----
+8935b73c6b1182eb87bfb6ffe863c18dd29a4f5a
+julia 0.4
+Calculus
+
+0.1.1
+-----
+2d775a71875ade7b5046f557887832e365a3a7cc
+julia 0.4
+Calculus
+
+0.1.2
+-----
+3653592ba191451f8abad2fb5338a258ec637cee
+julia 0.4
+Calculus
+
+0.2.0
+-----
+201d30ec44fecf9428426d72ec11cb1af745a2a3
+julia 0.4
+Calculus

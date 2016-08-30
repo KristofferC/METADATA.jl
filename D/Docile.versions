@@ -1,0 +1,288 @@
+git://github.com/MichaelHatherly/Docile.jl.git
+
+0.0.1
+-----
+c46bce33a83684332e34d3413266291728cb7f88
+julia
+AnsiColor
+Markdown
+
+0.0.2
+-----
+d201b036ebf63afb8d7e3221f4ee869b95943615
+julia
+AnsiColor
+Markdown
+
+0.0.3
+-----
+341ffc1fc3470debd691d6c53e250f2c7288d92c
+julia
+AnsiColor
+Markdown
+
+0.1.0
+-----
+c82675d4a39932d1d378e954844018cefc091858
+julia
+AnsiColor
+Markdown
+
+0.2.0
+-----
+f281fcea9b39b3a323a156b83bf30ac0c0ed2749
+julia 0.3
+
+0.2.1
+-----
+463c48b9a3cb9f5d6ca10caf518b6bf55dad800b
+julia 0.3
+
+0.2.2
+-----
+812d05dd24e1c5546fe6d249b1270f2e8d93446b
+julia 0.3
+
+0.3.0
+-----
+ef16c7eb9bb43322f2267ff0c746f9ff99fd5023
+julia 0.3
+
+0.3.1
+-----
+e618ae6c6747b009223697f6f82128a1518a9784
+julia 0.3
+
+0.3.2
+-----
+063358da8f5de205b732753fd43444a404dc5842
+julia 0.3
+Compat
+
+0.4.0
+-----
+558cc74443c77746dddefebe3a1528b8ec26455d
+julia 0.3
+Compat
+
+0.4.1
+-----
+3fa1c8af8deb8c8f3b5329ca542b25c09a815e7d
+julia 0.3
+Compat
+
+0.4.10
+------
+aab6b17ead9b702b10a6d0f004665c81b7341885
+julia 0.3
+Compat 0.3.3
+
+0.4.11
+------
+15b90baec75200235ddb4f8d6d3bdddc5bf11f9d
+julia 0.3
+Compat 0.3.3
+
+0.4.12
+------
+729b3ce8a074360a25f5fa5440c909ad8b9c5003
+julia 0.3
+Compat 0.3.3
+
+0.4.13
+------
+011c701da41da6f4362be2acdffa8a8f9294c49e
+julia 0.3
+Compat 0.3.3
+
+0.4.2
+-----
+d54cd8d16bc3bd7217ad6010338f6881a0f9fa5a
+julia 0.3
+Compat
+
+0.4.3
+-----
+f93eba33d8703a0db3975aae06f70446398c1897
+julia 0.3
+Compat
+
+0.4.4
+-----
+a94c680c874fc22594573f81d78683de98dc2732
+julia 0.3
+Compat
+
+0.4.5
+-----
+689a10646e38a708b309b35a89bc48211d9960f7
+julia 0.3
+Compat
+
+0.4.6
+-----
+1bfcb60899cfd829357c6e59fe7b2d6c17700748
+julia 0.3
+Compat
+
+0.4.7
+-----
+cb83801d60e992001144b4e13dab296fcd0df370
+julia 0.3
+Compat 0.3.3
+
+0.4.8
+-----
+2da7e26d5b9b5ecc7830eab2d1e874bf415dcf48
+julia 0.3
+Compat 0.3.3
+
+0.4.9
+-----
+9f625d8da99947ea18c66fd32be4e4f2d01a959e
+julia 0.3
+Compat 0.3.3
+
+0.5.0
+-----
+1f1f96024c7d873927a6a3eae1d800ae6f2f14a8
+julia 0.3
+Compat 0.3.5
+
+0.5.1
+-----
+a39a3b00219f6d82fe6aeedc4204b4aea414f0de
+julia 0.3
+Compat 0.3.5
+
+0.5.10
+------
+2c20270bd207664c86821af5de433c771b164356
+julia 0.3
+Compat 0.3.5
+
+0.5.11
+------
+d6c0c549b5a5b4f7b8f58aa54b25e56c59eefca0
+julia 0.3
+Compat 0.3.5
+
+0.5.12
+------
+8eca3fee2aa22c6840eecc1cc3c3be5bf6a7b478
+julia 0.3
+Compat 0.3.5
+
+0.5.13
+------
+c4802cfc31d3a305780bef7793977398fc20a532
+julia 0.3
+Compat 0.3.5
+
+0.5.14
+------
+a67f5f3332ff14e42a342f67be1902ef8fe82586
+julia 0.3
+Compat 0.3.5
+
+0.5.15
+------
+f648849035531255854ad2168f94c37c719a7bf9
+julia 0.3
+Compat 0.3.5
+
+0.5.16
+------
+948223933a4475b68b26554d69ae66b713951174
+julia 0.3
+Compat 0.3.5
+
+0.5.17
+------
+c40b328b82b427774de226a93e6d144a1c9025c1
+julia 0.3
+Compat 0.3.5
+
+0.5.18
+------
+4b64bc2cf26141092a5eebd055b0109ef71b9d7a
+julia 0.3
+Compat 0.3.5
+
+0.5.19
+------
+4c7500aaafbf37c9e6891e3b6a303a2e3a55486b
+julia 0.3
+Compat 0.7.1
+
+0.5.2
+-----
+d16e431760b484cdb62fdcb483b201177766d641
+julia 0.3
+Compat 0.3.5
+
+0.5.20
+------
+e9d005b937741bf351ab90903bd922cbb79c9903
+julia 0.3
+Compat 0.7.1
+
+0.5.21
+------
+58cd5e239cfda51918a37ac5ea61c91509be43e9
+julia 0.3
+Compat 0.7.1
+
+0.5.22
+------
+dec23ce619d2d1386188d1625729bec130f7ee4c
+julia 0.3
+Compat 0.7.1
+
+0.5.23
+------
+c05bba993dfbfd27e1801a07109ac35380c5bb6d
+julia 0.3
+Compat 0.7.1
+
+0.5.3
+-----
+d57fd80c5f15185cfbb67c5baf62dae50f142a9e
+julia 0.3
+Compat 0.3.5
+
+0.5.4
+-----
+c6738990966b0d5d37cefa09b248278f8170ee6a
+julia 0.3
+Compat 0.3.5
+
+0.5.5
+-----
+33304f749ff7f19fa2961c1cea578e0de6069f0c
+julia 0.3
+Compat 0.3.5
+
+0.5.6
+-----
+0e31ef78006b15622c8c8d54bd03fe239447dd50
+julia 0.3
+Compat 0.3.5
+
+0.5.7
+-----
+76ce715ddac29a74015ee8c52376a5fe3144020d
+julia 0.3
+Compat 0.3.5
+
+0.5.8
+-----
+7c344cbd79647256dc16595bb04e0a05f38e2530
+julia 0.3
+Compat 0.3.5
+
+0.5.9
+-----
+1268756ec88c21f75bb1dbc9adf82a969ac73692
+julia 0.3
+Compat 0.3.5

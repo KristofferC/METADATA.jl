@@ -1,0 +1,23 @@
+git://github.com/gdziadkiewicz/TestRunner.jl.git
+
+0.0.1
+-----
+c0b86d78c0a7aef497ba99e935bf0720beaa0963
+julia 0.4
+FactCheck
+JSON
+
+0.0.2
+-----
+07be0bb709676c101c71ba49334172618a3f1888
+julia 0.4
+FactCheck
+JSON
+
+0.0.3
+-----
+19aae7eb8d392adf28c813c0e1a17e60ffed3aeb
+julia 0.4
+Compat
+FactCheck
+JSON

@@ -1,0 +1,82 @@
+git://github.com/kzahedi/Shannon.jl.git
+
+0.0.1
+-----
+e6c68600cddaca859e0f341d63b2e48dad272ba4
+
+0.0.2
+-----
+277136c67374bd74f54dc29a435d7722bcbf278a
+julia 0.3-
+StatsBase 0.3.8-
+
+0.0.3
+-----
+5a3a58fc90144790b5ed9eb7970086056b08b05b
+julia 0.3-
+StatsBase 0.3.8-
+
+0.0.4
+-----
+5a18e703f40476ae80e3eadc2fd214915cd1807a
+julia 0.3-
+StatsBase 0.3.8-
+
+0.1.0
+-----
+f7f4745b4865487483655c7c708c3254ed42d90d
+julia 0.3-
+StatsBase 0.3.8-
+
+0.1.1
+-----
+c91b58ec8927f6af116bfd7a99cc4185b24bfaa4
+julia 0.3-
+StatsBase 0.3.8-
+
+0.1.2
+-----
+f4406462a64b892ad5ee8847a8849fb12c6cebb8
+julia 0.3-
+StatsBase 0.3.8-
+
+0.2.0
+-----
+c162941b134c75bbca1cf84e2eebcef67cf9f3dc
+julia 0.3-
+StatsBase 0.3.8-
+
+0.2.1
+-----
+c162941b134c75bbca1cf84e2eebcef67cf9f3dc
+julia 0.3-
+StatsBase 0.3.8-
+
+0.2.2
+-----
+fc3e477e6fcf7e94d1cc95856e4853c73250d53c
+julia 0.3-
+StatsBase 0.3.8-
+
+0.2.3
+-----
+35118f1470b43efc3fddb6c6280ba3b935186e2e
+StatsBase 0.3.8-
+
+0.2.4
+-----
+b367e86255b36db76459a197205d68332e6eebef
+julia 0.3-
+StatsBase
+
+0.2.5
+-----
+fb2f7dc9c2948d8c0678b48c07d4305284a0b944
+julia 0.3
+StatsBase
+
+0.3.0
+-----
+f9433f11de2f9ec67c65fc03f72fe5226bc6e490
+julia 0.3
+StatsBase

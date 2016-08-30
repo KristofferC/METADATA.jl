@@ -1,0 +1,21 @@
+https://github.com/andyferris/StaticArrays.jl.git
+
+0.0.1
+-----
+cd71bb8cc916c24403232a41874aacd62fce5f90
+julia 0.5-
+
+0.0.2
+-----
+afcb14581431c6b2f53b05a650eeb805a7d546f6
+julia 0.5-
+
+0.0.3
+-----
+c7f25990f58493daad28baf0f86dbb5f323c8c8f
+julia 0.5-
+
+0.0.4
+-----
+ce42f74868d5c25f5236f0a699149f0920fe7a25
+julia 0.5-

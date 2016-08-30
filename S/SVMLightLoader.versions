@@ -1,0 +1,31 @@
+git://github.com/IshitaTakeshi/SVMLightLoader.jl.git
+
+0.1.0
+-----
+66905381730e47e890df764176897acf6ece40f6
+julia 0.3
+
+0.2.0
+-----
+531f751beb9c2a6850a007d876e171108b1b7ba0
+julia 0.4-
+HTTPClient
+
+0.2.1
+-----
+2234bbe8fbd37892084fd46be3e91644d15c13fc
+julia 0.3
+Compat
+HTTPClient
+
+0.3.0
+-----
+1501160b3eec69fe07ecff31ed65e2a1624e6ce1
+julia 0.4
+HTTPClient
+
+0.3.1
+-----
+4a2688fb9f0392b91fdeb91b9c0c9747d77d0cbb
+julia 0.4
+HTTPClient

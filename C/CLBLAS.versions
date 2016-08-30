@@ -1,0 +1,7 @@
+git://github.com/JuliaGPU/CLBLAS.jl.git
+
+0.1.0
+-----
+115ef12d31ee996a04db9ea0cac941d27a1fb8b2
+julia 0.3-
+OpenCL

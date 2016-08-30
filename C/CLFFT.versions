@@ -1,0 +1,39 @@
+git://github.com/JuliaGPU/CLFFT.jl.git
+
+0.0.1
+-----
+6138d0aab58f86f78bc28d865010f354906cc409
+julia 0.2-
+OpenCL
+FactCheck
+
+0.0.2
+-----
+fabeb11a0538ea484a57a165b87aa1ed995f854d
+julia 0.2-
+OpenCL
+FactCheck
+
+0.0.3
+-----
+64d8c1fa224825ed6e6eac942a081e8c53c97505
+julia 0.2-
+OpenCL
+
+0.1.0
+-----
+a9526cd56d25516505f630eb12238c682088b51b
+julia 0.3-
+OpenCL
+
+0.2.0
+-----
+2b9d6cd2c88864da1919b95d42591a63d97a569f
+julia 0.4
+OpenCL
+
+0.2.1
+-----
+d27356ed544fad4f9c979fc2f25dfb5b89798360
+julia 0.4
+OpenCL

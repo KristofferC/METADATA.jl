@@ -1,0 +1,19 @@
+git://github.com/rjagerman/Murmur3.jl.git
+
+0.0.1
+-----
+9ef225e2abca51d2b90f7bdc170d29324b9e58eb
+julia 0.2.0-
+JSON
+
+0.1.0
+-----
+8fc41b9f0ac04fc7f0f82236ea545d37c8625334
+julia 0.2.0-
+Switch
+
+0.2.0
+-----
+7bee6fa872eefc2688c3c81939e81b0d61896b5f
+julia 0.4
+Switch

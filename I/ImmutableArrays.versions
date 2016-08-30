@@ -1,0 +1,64 @@
+git://github.com/JuliaGeometry/ImmutableArrays.jl.git
+
+0.0.0
+-----
+39072a5274b93f0f8002fe8d513addfed2f435a0
+julia 0.2-
+
+0.0.1
+-----
+43f2b280c468d735c4cd06f317526a975ae325ac
+
+0.0.10
+------
+0fbc44fcf1a83b02fca814258ab66d3c9b0d8a51
+julia 0.3
+Compat
+
+0.0.11
+------
+08e1b303a22c141451fcb96567e054ee880484e2
+julia 0.3
+Compat
+
+0.0.12
+------
+5ef3cb7175a58c796c1db708e940c0e64ca27dd9
+julia 0.3
+Compat
+
+0.0.2
+-----
+54c88f408d66cfd346b9fbc235f0f1d1063ed81e
+
+0.0.3
+-----
+a39cb5767729ac5ae36c7486ffe1522df358c241
+
+0.0.4
+-----
+8caab72b8858019eb2c7c95085e7185d28a8828d
+
+0.0.5
+-----
+f785989d512d575537912893668b1104ea1fd212
+
+0.0.6
+-----
+dad0bb800d4945dabbfe1cee4bb2c0ea1b720aa4
+
+0.0.7
+-----
+b89bd0b6cc1275ae001865d37aff4c529e840a31
+
+0.0.8
+-----
+d73c21a615cbefb20b75e87762f334a668e4b449
+julia 0.3
+Compat
+
+0.0.9
+-----
+79ce9ceff25f09d97b3b8c8b41a1676d37060bb5
+julia 0.3
+Compat

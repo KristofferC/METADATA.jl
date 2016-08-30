@@ -1,0 +1,13 @@
+git://github.com/kbarbary/SkyCoords.jl.git
+
+0.1.0
+-----
+9f247e64a30d4e1ccaaf3a6f2e1ffb02a62c9e01
+julia 0.3-
+Compat
+
+0.1.1
+-----
+1d37b5feb53fa39d6dd40dc91139b11005e4c234
+julia 0.3
+Compat

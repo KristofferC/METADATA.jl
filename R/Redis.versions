@@ -1,0 +1,24 @@
+git://github.com/jkaye2012/Redis.jl.git
+
+0.0.1
+-----
+e305e5029f2b9a7f20623b2d9889ddd91f4e12a8
+
+0.0.2
+-----
+b78cf3dc4f7677c224c8c837cc6ef3866008e3ed
+julia 0.3
+Compat 0.4
+Dates
+
+0.1.0
+-----
+98e8e605e299fb5dfc548be86d1f162a390cda94
+julia 0.4
+DataStructures
+
+0.1.1
+-----
+b58c5890a1abc57470fee396727f8a485d10db8b
+julia 0.4
+DataStructures

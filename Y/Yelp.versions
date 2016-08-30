@@ -1,0 +1,8 @@
+git://github.com/quinnj/Yelp.jl.git
+
+0.3.0
+-----
+c1794d6e992e632f21d593d1175a61a44b8fbcdc
+julia 0.3-
+Nettle 0.1.4-
+Requests 0.0.5-

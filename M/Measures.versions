@@ -1,0 +1,17 @@
+git://github.com/dcjones/Measures.jl.git
+
+0.0.1
+-----
+82a6c6c7e5caf8ec5d7fa15baf10527bb79f133b
+julia 0.4
+
+0.0.2
+-----
+db6e95584e7b957e1cc175a800c49c1b24949f25
+julia 0.4
+
+0.0.3
+-----
+82bde724e6937c7f8f9d2c3c281f140bf8ff2772
+julia 0.4
+Compat 0.7.15

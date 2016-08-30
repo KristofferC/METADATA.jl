@@ -1,0 +1,29 @@
+git://github.com/Keno/MachO.jl.git
+
+0.0.1
+-----
+0fed9c0fd31898b3466ba73dd06286b6816280f3
+julia 0.5-
+ObjFileBase
+StructIO
+
+0.0.2
+-----
+e87d90699d13e8bd600600f48c5b380d1ace74cd
+julia 0.5-
+ObjFileBase
+StructIO
+
+0.0.3
+-----
+c9e938f3603d9d856f0cd8e7482d3ae919ef7974
+julia 0.5-
+ObjFileBase
+StructIO
+
+0.0.4
+-----
+865953f718ccb241c6896413c18cfb160e7eb9a0
+julia 0.5-
+ObjFileBase
+StructIO

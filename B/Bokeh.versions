@@ -1,0 +1,25 @@
+git://github.com/bokeh/Bokeh.jl.git
+
+0.0.1
+-----
+01af6a930dec2518256dc051df51a23d7fa36efc
+Mustache
+JSON
+
+0.1.0
+-----
+acdb375d5b5d2e13ed5e01de490ac9360a112371
+julia 0.3
+Mustache
+JSON 0.4
+Dates 0.3.2
+Compat
+
+0.2.0
+-----
+cd0c0399ceb11c3e6ab905852556856b4a724489
+julia 0.3
+Mustache
+JSON 0.4
+Dates 0.3.2
+Compat

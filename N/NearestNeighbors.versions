@@ -1,0 +1,44 @@
+git://github.com/KristofferC/NearestNeighbors.jl.git
+
+0.0.1
+-----
+4be6631978b589fe3a2befbb26a94126933c5416
+julia 0.4
+Devectorize
+Distances
+
+0.0.2
+-----
+755cbf4f5b28bf5aa1924bdb43edf3f1c79abecd
+julia 0.4
+Devectorize
+Distances
+
+0.0.3
+-----
+432bf2b2eb48679e632a8e110d5cbd1666f429d3
+julia 0.4
+Devectorize
+Distances
+
+0.0.4
+-----
+79cbe1343dfd591b33af5209de729024b16cf99c
+julia 0.4
+Distances
+Compat 0.8.4
+
+0.0.5
+-----
+d8e718c0da4bf9c6ecd221d73dcb45e2ad177857
+julia 0.4
+Distances
+Compat 0.8.4
+
+0.1.0
+-----
+815f96af1dc4021537d9ebf9237b60f56df10c7e
+julia 0.5-
+Distances 0.3 0.4
+StaticArrays 0.0.4
+Compat 0.8.4

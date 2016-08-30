@@ -1,0 +1,253 @@
+git://github.com/JuliaMath/Roots.jl.git
+
+0.0.0
+-----
+2b472706f99a4c4eb051dbd707d0c6529a45070c
+julia 0.2- 0.3
+
+0.1.0
+-----
+09e5b3dab36e8d06b159656fec7bfd5dd7871431
+julia 0.2- 0.3
+Polynomial
+
+0.1.1
+-----
+955353228fade205326790450c71a00499361c6d
+julia 0.2- 0.3
+Polynomial
+PowerSeries 0.1-
+
+0.1.10
+------
+719fc2bb9c8fb6e85759d6e2e8208e34f6a5973a
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+ForwardDiff 0.0 0.2
+
+0.1.11
+------
+d916f8a397ea74a1521ece71b9ae611c70de1a65
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+ForwardDiff 0.0 0.2
+
+0.1.12
+------
+8fa4a1738f2f1677ba3551ac018d2cdc47c81321
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+ForwardDiff 0.0 0.2
+
+0.1.13
+------
+28916ace3fba62e7cba75e15c8b6422a0961b621
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+ForwardDiff 0.0 0.2
+
+0.1.14
+------
+4f92cfe8417e694beaa1c5c132ee2ff7df0ba949
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+Compat 0.4
+ForwardDiff 0.0 0.2
+
+0.1.15
+------
+71060d22a965ac2439abe109edda103013a19281
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+Compat 0.4
+ForwardDiff 0.0 0.2
+
+0.1.16
+------
+ed5ae1e803c42105cedea76409a3426b6d351f2b
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+Compat 0.4
+ForwardDiff 0.0 0.2
+
+0.1.17
+------
+ba0be2d29837131c41654407dce7698b71bacdfb
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+Compat 0.4
+ForwardDiff 0.0 0.2
+
+0.1.18
+------
+079fdf92097a49e90e3951e54baa8329fefe9b7f
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1.11
+Docile 0.4
+Compat 0.4
+ForwardDiff 0.0 0.2
+
+0.1.19
+------
+489ec9bdf77af3f0bd31c8ed120874bddb35df7d
+julia 0.3
+Polynomials 0.0.3
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.2
+-----
+4aa750e754c5b42111b674d12b5549634d5e87f9
+julia 0.2- 0.3
+Polynomial
+PowerSeries 0.1-
+
+0.1.20
+------
+a0aa479a3d86ff225b15f7ed438ecc9a72ddee57
+julia 0.3
+Polynomials 0.0.3
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.21
+------
+a603c07b61741b3c60a19d9626d808508bdf7a35
+julia 0.3
+Polynomials 0.0.3
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.22
+------
+63102317c5127bdc335bc495d14d75dcbcfaf194
+julia 0.3
+Polynomials 0.0.3
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.23
+------
+bc453b0fb8e8cd36277730defec1faa326f6295b
+julia 0.3
+Polynomials 0.0.5
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.24
+------
+773cca23bb1fa1257abf2dc5538158decee7777b
+julia 0.3
+Polynomials 0.0.5
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.25
+------
+a9f574762eaedd0bdae1bec2eb4d537d99bac191
+julia 0.3
+Polynomials 0.0.5
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.26
+------
+1f813d2d57aa69f9cd768a8b60caa691c0fb9467
+julia 0.3
+Polynomials 0.0.5
+ForwardDiff 0.0 0.2
+Docile 0.4
+Compat 0.4
+
+0.1.3
+-----
+484156af6102b1520d173989511a57c06cf075da
+julia 0.2- 0.3
+Polynomial
+PowerSeries 0.1-
+
+0.1.4
+-----
+1233d3363b5374d59f209e69d2ef59eee8044d91
+julia 0.2- 0.3
+Polynomial
+PowerSeries 0.1-
+
+0.1.5
+-----
+281e63efbfc94fedeb5eb6f6bd5d93b7fc09a224
+julia 0.2 0.3
+Polynomial
+PowerSeries 0.1-
+
+0.1.6
+-----
+073198ee448c6409124a30e31f3090ba8d8777ca
+julia 0.3- 0.3
+Polynomials
+PowerSeries 0.1
+
+0.1.7
+-----
+58ca6b6c5520f0da6babe629ef65dc3f1a98ef16
+julia 0.3- 0.3
+Polynomials
+PowerSeries 0.1
+
+0.1.8
+-----
+1de938ffcaabdcb1b5c171dc9c3b03cf7b659c1b
+julia 0.3- 0.3
+Polynomials
+PowerSeries 0.1
+
+0.1.9
+-----
+b3aaf19a3a4a6bb759d52d0ee9e94045e6c55829
+julia 0.3
+Polynomials 0.0.3
+PowerSeries 0.1
+ForwardDiff 0.0 0.2
+
+0.2.0
+-----
+fe8c4a53cde3dcc99f9a2f1f077832d5f2332433
+julia 0.4
+Polynomials 0.0.5
+ForwardDiff 0.2.0
+Docile 0.4
+Primes
+Compat 0.4
+
+0.2.1
+-----
+943cf897e9ea6b31ab3ec70238ac4931065d365a
+julia 0.4
+Polynomials 0.0.5
+ForwardDiff 0.2.0
+Primes
+Compat 0.4

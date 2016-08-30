@@ -1,0 +1,14 @@
+git://github.com/daviddelaat/MultiPoly.jl.git
+
+0.0.1
+-----
+e589d07814ad5ebcdd54cdae689c0a63c6980f54
+julia v0.3-
+DataStructures
+
+0.1.0
+-----
+f7e698858b3be0b20bd68f0e75b81181b01e34b0
+julia 0.4
+DataStructures
+Combinatorics

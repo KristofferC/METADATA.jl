@@ -1,0 +1,7 @@
+git://github.com/johnmyleswhite/SmoothingKernels.jl.git
+
+0.0.0
+-----
+ed55452e79e4c14c185246142afb8c0cd0623036
+julia 0.3-
+StatsBase

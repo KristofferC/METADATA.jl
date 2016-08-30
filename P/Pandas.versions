@@ -1,0 +1,22 @@
+git://github.com/malmaud/Pandas.jl.git
+
+0.1.0
+-----
+ae2af070718546bd26c4202f21722b5881bf5fa7
+julia 0.2-
+PyCall
+PyPlot
+
+0.2.0
+-----
+326d838e61fcff26c7008a88e05280b8278c3714
+julia 0.2-
+PyCall
+PyPlot
+
+0.3.0
+-----
+02ce97243873002c2ea2739021e410c1a10fac19
+julia 0.4
+PyCall
+PyPlot

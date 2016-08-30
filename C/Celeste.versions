@@ -1,0 +1,17 @@
+git://github.com/jeff-regier/Celeste.jl.git
+
+0.1.0
+-----
+c89f80bcb253b657963bb03dc63ad9956b72f836
+julia 0.4
+Compat
+DataFrames
+Distributions
+DocOpt
+ForwardDiff 0.0 0.2
+JLD
+Optim 0.0 0.5
+GaussianMixtures
+FITSIO
+WCS
+SloanDigitalSkySurvey 0.1.0

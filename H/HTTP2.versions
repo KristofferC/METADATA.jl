@@ -1,0 +1,21 @@
+git://github.com/sorpaas/HTTP2.jl.git
+
+0.0.1
+-----
+f5b0f8464c086fa7cbe1f44f9b37bc8270f3b921
+julia 0.4
+HPack 0.0.1
+
+0.0.2
+-----
+db197803e48daf3fa12695320d4bfe94372d0d47
+julia 0.4
+HPack 0.0.2
+HttpCommon 0.2.4
+
+0.1.0
+-----
+746d5cc110bf13d6c4c8bff2ca0069879c290d38
+julia 0.4
+HPack 0.1.0
+HttpCommon 0.2.4

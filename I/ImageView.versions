@@ -1,0 +1,418 @@
+git://github.com/timholy/ImageView.jl.git
+
+0.0.0
+-----
+7f21ee2799d7bc722db8ed00ec321763a61648f0
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.1
+-----
+81d6c4dfe329ee2c0b32dadfa2a296168f7ea04d
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.10
+------
+b423648c694000355e31fb243583dc1308082022
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.11
+------
+28d4db394088d583d7b372a9fe49a52138bf36ad
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.12
+------
+77740f2738c23f4a0d091481684f7eb116296040
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.13
+------
+2a5da26befc2b609f4ce6e7641d56dac04bb66b9
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.14
+------
+52f7f261c74052a58731a4c8aab37ef86434b80d
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.15
+------
+1f06a62ae152acd5d7a82cd9cacb1efff8c2553d
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.16
+------
+5c95569aec2c74b89218f861d261723e7dd60459
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.17
+------
+b5992badb70075251ac05f3bb638c46640f65e76
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.18
+------
+2d5237fd7af7cf852b2e1974c8074d6830259e9e
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.19
+------
+9c7ee23a54f5e63a92ee63fcdeff415681e6dff6
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.2
+-----
+fff1d66ab0580d1b421743c875440e586febbace
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.20
+------
+35ce5b4aa9ac5b34daa5adf8c27316c79629d573
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.21
+------
+ff4158006a5512a59bccd92f4b7d9fae03ade3ba
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.22
+------
+9689b261c382807aab9e009812eb8caf2facdb4f
+julia 0.2-
+Images
+Color
+Tk
+Winston
+
+0.0.23
+------
+40dc3523969764e267496a6b95e93f69efdf9f37
+julia 0.2 0.3
+Images
+Color
+Tk
+Winston
+
+0.0.3
+-----
+17cc77dc042cc9cbd9d45183429248bff54c579d
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.4
+-----
+9c7b64a04cb14fae1fcc84b2d7230c01c76e4e6c
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.5
+-----
+f5a5de144ee3e457c62f282a46c80a7aa50028c8
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.6
+-----
+518ed25ba8a9b65cbc01560ce50636f1894ad8de
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.7
+-----
+8647951601846e7287ce83f80eedcb77efccc9a9
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.8
+-----
+364e79ac88bb14e8f0ba023ad3015db648d3b66c
+julia 0.2-
+Tk
+Images
+Winston
+
+0.0.9
+-----
+7655e53e8f4a938ca393ab9b7b66f25213028a1e
+julia 0.2-
+Tk
+Images
+Winston
+
+0.1.0
+-----
+c1c14bb0878cbf3724b46e9d357a5ba0fb2afbd5
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.1
+-----
+b5b1ba39c12b9e328068c4e7ed04a32857c5730d
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.10
+------
+8e1a06093aecbdf5460cd6c85dee7edfd2c36c65
+julia 0.3-
+Images
+Color
+Tk
+Winston
+Compat
+Graphics 0.1
+
+0.1.11
+------
+78c4f8df15067dcf7447f13cac287f30de125ad4
+julia 0.3-
+Images
+Color
+Tk
+Winston
+Compat
+Graphics 0.1
+
+0.1.12
+------
+604ae66a6216faebd440afd6b1a97aaf1db1d47b
+julia 0.3-
+Images
+Color
+Tk
+Winston
+Compat
+Graphics 0.1
+
+0.1.13
+------
+5e3f1091185d09b82fa362a4f742ccbf44c9625e
+julia 0.3
+Compat 0.3.5
+Images 0.4
+Color
+Tk
+Winston
+Graphics 0.1
+
+0.1.14
+------
+487dc05cb007638aaa306fbd38ab3f2c9378bbbb
+julia 0.3
+Compat 0.3.5
+Images 0.4
+Color
+Tk
+Winston
+Graphics 0.1
+
+0.1.15
+------
+4cb34f87f50d8918c300a3396239fa813f9d2033
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Color
+Tk
+Winston
+Graphics 0.1
+
+0.1.16
+------
+a6a1c105e8659409ec864ba371438a25b22e84da
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Colors
+Tk
+Winston
+Graphics 0.1
+
+0.1.17
+------
+d49a4795cf48ff45826ddea35737c0158f10e65a
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Colors
+Tk
+Winston
+Graphics 0.1
+
+0.1.18
+------
+41aa02fc01d7b4d8b0f34d3e70d2ecfb6d0d0591
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Colors
+Tk
+Winston
+Graphics 0.1
+
+0.1.19
+------
+ca9fc0c348465bcaed20d078e010ecaf716f7645
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Colors
+Tk
+Winston
+Graphics 0.1
+
+0.1.2
+-----
+c57e6a61fafef4ae8b26cdc2de979beccb822f55
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.20
+------
+714d4c552e7421a64639e10031e1aeabf5044752
+julia 0.3
+Compat 0.4.6
+Images 0.4
+Colors
+Tk
+Winston
+Graphics 0.1
+
+0.1.3
+-----
+cfb394fd866b93426493dde8cd04fc663a61d84c
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.4
+-----
+1271fe1a838d6b64f4fe37e59b3b476695b9ab4b
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.5
+-----
+4f86054e7d8adcf971abd430fb1c886f6d873f56
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.6
+-----
+95633550302ee97270917619b1782ee35713f53c
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.7
+-----
+8157932ede84c6c239c38e4f0e534b036adbf4c1
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.8
+-----
+16566b74a29f459457c2de39daf3b4c64cbc0b44
+julia 0.3-
+Images
+Color
+Tk
+Winston
+
+0.1.9
+-----
+a666eede913e449bcc3f91ac7a27fe8e67fd99f7
+julia 0.3-
+Images
+Color
+Tk
+Winston
+Compat

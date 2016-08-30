@@ -1,0 +1,105 @@
+git://github.com/aviks/JavaCall.jl.git
+
+0.0.0
+-----
+c21bf4fd15d9c115858babb8626f92646330715c
+
+0.1.0
+-----
+4d5245b48f72ca0decbc94cbdd98dd3bd41cc672
+Memoize
+
+0.1.1
+-----
+f609ee045ad8f47f5da995dc0ebfab24d1da2386
+Memoize
+
+0.1.2
+-----
+a2661c72eef6a687c54ac4fa1bb93f59616885c3
+Memoize
+
+0.2.0
+-----
+bcf31bba466af91d3394240fb49ca1f7b302803f
+Memoize
+
+0.2.1
+-----
+022fe13e4f17184e84da00770e57a2c064d7848c
+Memoize
+
+0.2.2
+-----
+39e2ff935848f95c85817bfd17585563ec344a28
+Memoize
+Compat
+
+0.2.3
+-----
+a185470b73c0f0ff7ae4fa2d56a74fc58f61dc7e
+julia 0.3
+Memoize
+Compat
+
+0.3.0
+-----
+cd8815b28a922d7d89701ea4fdd00ca666be4337
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.3.1
+-----
+06e211b38cd85cb368aefc299771f377ef36f8e2
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.3.2
+-----
+c51dc07dd9c6ff89492ca718372bd41f9cf94c38
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.3.3
+-----
+f8e31f7afaae5a1dd77948b2c0787116ddd1d4ef
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.3.4
+-----
+50fed5f2668140569cfb1ba02ea3a2bbcfbe83d1
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.3.5
+-----
+7a5a7539d6a2f48b36ad0abacbd1dcc589526d62
+julia 0.3
+Memoize
+Compat
+Dates
+
+0.4.0
+-----
+c22a74c8be296704b87eda53bbbcd72e5b69d55e
+julia 0.4
+Compat 0.8.4
+WinReg
+
+0.4.1
+-----
+c014e51b84bf1c17fa36000a8cc3564836139642
+julia 0.4
+Compat 0.8.6
+@windows WinReg

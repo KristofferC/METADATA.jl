@@ -1,0 +1,77 @@
+git://github.com/sam81/BDF.jl.git
+
+0.0.1
+-----
+d70e5e89f665d5f22170df88addaee1d41fa6cee
+
+0.0.2
+-----
+af3bde3bdd619123f34d2529b58ff0d20d340357
+
+0.0.3
+-----
+545ee34537a092cc4884ba29e1093635d899bb7b
+
+0.0.4
+-----
+6d340a676772da2aa6f44245808de1b297b9e2ee
+
+0.0.5
+-----
+e432286807d29d597ed46a192575b633e89d54f6
+Compat
+Docile
+
+0.1.0
+-----
+eb65b08a7ae0ac1163dbfa1a9c67a5c42b965b74
+Compat
+Docile
+julia 0.4-
+
+0.1.1
+-----
+17b86b01a30deae3ae2f80dc2cdb246fd170ca2d
+Compat
+Docile
+julia 0.4-
+
+0.1.2
+-----
+0b342539a674b16dc34fd3e7f1c209f66f3e4f19
+Compat
+Docile
+HDF5
+julia 0.4-
+
+0.1.3
+-----
+eb4ed28bf3bd2fdd8f8a6cfc0ba6323d66ee31e0
+Compat
+Docile
+HDF5
+julia 0.4
+
+0.1.4
+-----
+7ee09437dc3100b10e3f1795f821973c2b9bfb80
+Compat
+Docile
+HDF5
+julia 0.4
+
+0.1.5
+-----
+4ee4e2fa6eda23a19d0a27b4a06c7388699043f6
+Compat
+Docile
+HDF5
+julia 0.4
+
+0.2.0
+-----
+5fe6a0b5e5a90bfc2d22cadf9dea288c122ce0b6
+Compat 0.7.18
+Docile
+HDF5
+julia 0.5-

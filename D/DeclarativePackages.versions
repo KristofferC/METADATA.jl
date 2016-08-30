@@ -1,0 +1,60 @@
+git://github.com/rened/DeclarativePackages.jl.git
+
+0.0.1
+-----
+8c4a01c03764e184f65468ab9fa3a486c09ce7f5
+
+0.0.2
+-----
+b66f42df9cff71c7374b5ab37e9f81a52c27ff5b
+julia 0.3
+
+0.0.3
+-----
+cb03cca942d326489b4db413625d36b5503bcda2
+julia 0.3
+
+0.0.4
+-----
+769d7da40c5d8a05b03e4485bff065681091c48e
+julia 0.3
+
+0.0.5
+-----
+fd26ab86374abe85bb3cca19b3548ad572ce8e31
+julia 0.3
+
+0.0.6
+-----
+f6b57ff4e43229a0f78d8ea4515570875188289b
+julia 0.3
+
+0.0.7
+-----
+3acbe7e2606b14df2232e20e8dc2355d40822447
+julia 0.3
+
+0.0.8
+-----
+7ac4d640505a0e0f5b245cd3a92c8e86c257bcfb
+julia 0.3
+
+0.0.9
+-----
+7388f3f44e8fbb0ef710fc45e27eb3ae6c24dbb8
+julia 0.3
+
+0.1.0
+-----
+e8c2e22f34e21fbf2170180dd89b34bb311d4bb6
+julia 0.4-
+
+0.1.1
+-----
+2115ae6139d8eaa90a834b81a9fdaaad8e582d36
+julia 0.4-
+
+0.1.2
+-----
+e9fe735e4b7227bacf365913f22841dcfe82e7e1
+julia 0.4-

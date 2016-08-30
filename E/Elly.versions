@@ -1,0 +1,73 @@
+git://github.com/JuliaParallel/Elly.jl.git
+
+0.0.1
+-----
+2f4e66921193dd9f93b4e69bfa7de07116c2a588
+julia 0.4-
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.2
+-----
+795849c8a8d7af395052ec91ccf1f9fa9fa33204
+julia 0.4-
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.3
+-----
+e0b4bd9eac9b32fa254f0646d10757aca3b549c5
+julia 0.4-
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.4
+-----
+af2e0008ef8d6e340b6879f380ebba74cf2ecffb
+julia 0.4-
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.5
+-----
+fe9a4b330712c4ca21fd6395d5259858330423b1
+julia 0.4.3
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.6
+-----
+b2378701da6ccb7b8a688a1dec146e32ed22e782
+julia 0.4.3
+Compat
+ProtoBuf
+URIParser
+CRC
+
+0.0.7
+-----
+ef9cda6c655fc45d6ef4724476215f7bc12333b7
+julia 0.4.3
+Compat 0.8.0
+ProtoBuf
+URIParser
+CRC
+
+0.0.8
+-----
+e0013c68bee3395f0307e7db50c977818a52a2b0
+julia 0.4.3
+Compat 0.8.0
+ProtoBuf
+URIParser
+CRC

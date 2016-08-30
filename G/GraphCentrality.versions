@@ -1,0 +1,17 @@
+git://github.com/JuliaGraphs/GraphCentrality.jl.git
+
+0.0.1
+-----
+8ea54c36a00d8f8eba726d2f2a5cf5ae5d5918b9
+Compat
+julia 0.3
+Graphs 0.5
+StatsBase 0.6
+
+0.1.0
+-----
+8ea54c36a00d8f8eba726d2f2a5cf5ae5d5918b9
+Compat
+julia 0.3
+Graphs 0.5
+StatsBase 0.6

@@ -1,0 +1,70 @@
+git://github.com/weijianzhang/EvolvingGraphs.jl.git
+
+0.0.1
+-----
+409a2f8f978a81e8d43104e61497e510bbdaad1e
+julia 0.3
+Compat
+
+0.0.2
+-----
+499b45a85a9e4f0ca6f60fada018c4212cf560aa
+julia 0.3
+Compat
+Docile
+
+0.0.3
+-----
+43dcd2c873726673b06cb216f2eb4e0133cb6963
+julia 0.3
+Compat
+Docile
+
+0.0.4
+-----
+e37eea13f20851fdfeb730f184b9a7b2dcfd94e1
+julia 0.3
+Compat
+Docile
+
+0.0.5
+-----
+6182017778f6f2d9613a25b88988dccdfef7a9bd
+julia 0.3
+Compat
+Docile
+
+0.0.6
+-----
+38cc9ef4f1b64eb38eecdc76c8ef1f9d43bdb0b8
+julia 0.3
+Compat
+Docile
+
+0.0.7
+-----
+25fe2ca27a1059c3526b8f7fffc9ff1f157a62b9
+julia 0.3
+Compat
+Docile
+
+0.0.8
+-----
+8fdb4c74998165e33bacaaf45e4bb5110fe5fe55
+julia 0.3
+Compat
+Docile
+Requires
+
+0.0.9
+-----
+8de7f5e593878ddbbbf99ee54c8acb9eedf7d85d
+julia 0.3
+Compat
+Docile
+Requires
+
+0.1.0
+-----
+2bd0a6a2cee693b415cbbb54281cbd06ef3800a3
+julia 0.4

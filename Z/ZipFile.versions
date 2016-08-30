@@ -1,0 +1,58 @@
+git://github.com/fhs/ZipFile.jl.git
+
+0.0.0
+-----
+96399d15766a361cf6d610bae5d052e371e7f567
+Zlib 0.1.1-
+CRC32
+
+0.1.0
+-----
+e3e4b128f826803204a876717143323f26c0df7a
+Zlib 0.1.1-
+CRC32
+
+0.2.0
+-----
+017a6f50b4c46967a359c09c42bcbba9a93a02d6
+Zlib 0.1.2-
+
+0.2.1
+-----
+0fd319efb060da0187c8d7add07df10fdd92c831
+julia 0.3-
+Zlib 0.1.2-
+
+0.2.2
+-----
+ce19aaa3cb2ee96b3be164c12734c44d161972e6
+julia 0.3-
+Zlib 0.1.2-
+
+0.2.3
+-----
+fed167557aa93ab0d815c09fa2cdb442659e4f69
+julia 0.3-
+Zlib 0.1.2-
+Compat 0.2
+
+0.2.4
+-----
+83278d3c84efd42262d7dbd494c1869e7823e724
+julia 0.3-
+Zlib 0.1.2-
+Compat 0.2
+
+0.2.5
+-----
+e34b753a58f76eb48a430060afaa5bcf66fb66b1
+julia 0.3
+Zlib 0.1.2-
+Compat 0.2
+
+0.2.6
+-----
+d341159861d3ff015a19bbda2c11059cb619feb2
+julia 0.3
+Zlib 0.1.2-
+Compat 0.2

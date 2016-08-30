@@ -1,0 +1,609 @@
+git://github.com/JuliaStats/DataFrames.jl.git
+
+0.0.0
+-----
+a630473527cedd1ce5c3c3b97091766ae2ebf107
+Options
+StatsBase 0.0.0 0.8.3
+
+0.1.0
+-----
+7b1c6be6a7c4921bc66c445009dc2ea51ea11f1e
+julia 0.1- 0.2-
+Options
+StatsBase 0.0.0 0.8.3
+
+0.2.0
+-----
+b5f0fe945459e268939c653dfceafac5c13d393d
+julia 0.2-
+GZip
+Options
+StatsBase 0.0.0 0.8.3
+
+0.2.1
+-----
+8fa9163712796701f208530c6d0b1bc9ed290e59
+julia 0.2-
+GZip
+Options
+StatsBase 0.0.0 0.8.3
+
+0.2.2
+-----
+ec56e4338e595ceca73f7b86837eba9e5f8dec69
+julia 0.2-
+GZip
+Options
+StatsBase 0.0.0 0.8.3
+
+0.2.3
+-----
+b938e7e9431ebb1c91b909e330b86ddeaf18b0db
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.2.4
+-----
+539574ddae8dfe3e841f6482f67d1cbab90e244c
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.2.5
+-----
+93e8d1d3d0e379dbc214f4ffa5830a562a0a500f
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.0
+-----
+664f7928ab8a153e0dd57dda373d9d80f71e6b89
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.1
+-----
+2ddb48c70bbc3319cf1a247446a061d63e259aa1
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.10
+------
+eb391d42900d3a4bf48824efd4862e18e39f973b
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.11
+------
+eb391d42900d3a4bf48824efd4862e18e39f973b
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+Blocks
+
+0.3.12
+------
+d477e24005186e91d673e866a808df039647c181
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+Blocks
+SortingAlgorithms
+
+0.3.13
+------
+8b0d0271dcf75a77c5bd4e42523e91a185015100
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+Blocks
+SortingAlgorithms
+
+0.3.14
+------
+ccf3ae6dea2b49715c969fb6f0a77292c7f1f310
+julia 0.2-
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.3.15
+------
+4c30453fc3068de8d83dd6aa5c52a78b62a0ab30
+julia 0.2-
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.3.16
+------
+8cd2db97dbb218cba9ba03bbf2568ab6dcd29370
+julia 0.2-
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.3.2
+-----
+7f9884743cec05414db89aa4517139e3cc8f8baf
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.3
+-----
+ea792afe3460d99244146e4af0a8d28d8d6669dd
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.4
+-----
+c180737d6ca77e5c9d5378b7382f94e79b38c8ab
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.5
+-----
+9b325f8d4d1bce75e627641df7f6fc9a3efa03bb
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.6
+-----
+69eb3794a55e5fb0e5d2af27f8c44e09336d22f1
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.7
+-----
+3b12acd5c50a511f9e2e010585254bc36ffda4bf
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.8
+-----
+5d59c559f605219df655be1d750a2f96f7b1bac9
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.3.9
+-----
+e7a157dd4651956117a15feb13c3f40a048ddcd4
+julia 0.2-
+GZip
+StatsBase 0.0.0 0.8.3
+
+0.4.0
+-----
+b8121a5b2425f8d93c137efeb7cb4a7709eeaf25
+julia 0.2-
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+DataArrays
+
+0.4.1
+-----
+d24a5e8b7c57ad947db52a7c399bdd9ba74726da
+julia 0.2-
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+DataArrays
+
+0.4.2
+-----
+d24a5e8b7c57ad947db52a7c399bdd9ba74726da
+julia 0.2-
+Stats
+GZip
+Blocks
+SortingAlgorithms
+DataArrays
+
+0.4.3
+-----
+84523937447b336dfcbf1747b123e9d1da1308c6
+julia 0.2- 0.3-
+DataArrays
+StatsBase 0.3.8- 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.5.0
+-----
+e286d986f9bcd6cb7e4f027994e3ccdbd9c663ed
+julia 0.2-
+StatsBase 0.3- 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+DataArrays 0.1-
+
+0.5.1
+-----
+b940206b0832687251b888a52c52342d447fd916
+julia 0.3-
+DataArrays
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.5.10
+------
+6ccf4839529010adc101534468335b442abaa14b
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.11
+------
+211cd659cb7f9035980697f7effa081e29b9bf3e
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.12
+------
+f972ae40d16eb9d49d2b06d14b98dcd3b88826b8
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+
+0.5.2
+-----
+21c0f48180dce4368a7c6b17b0baecabb7199c38
+julia 0.3-
+DataArrays
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.5.3
+-----
+33ef93abc928b137f5e02efb7fd5085bce31e7dd
+julia 0.3-
+DataArrays
+StatsBase 0.0.0 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+
+0.5.4
+-----
+c9973690d3e55e17944aa1176e28fe639e0079f2
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+Blocks
+SortingAlgorithms
+Reexport
+
+0.5.5
+-----
+3cf97fffde38517783d41f431da12714766a51c9
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.6
+-----
+668bec9acfb17f88f5856556bc5f44b4d0df93eb
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.7
+-----
+a8ae618dac7d4e3908b1e1bd1bc4a1c3cab7773a
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.8
+-----
+e386ef15863eaebf4aaede29ddeaf1707ef64f6a
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.5.9
+-----
+a47880541fa3918e150484a330be8f6963b950cd
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+
+0.6.0
+-----
+dbdb59ac5f3ef428c7e7521e23d46452d340995d
+julia 0.3-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+
+0.6.1
+-----
+7c8cd64eab5e263fb5f9d415cb24ebc9c694a651
+julia 0.3.4-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+
+0.6.10
+------
+712e3876507228552ec83a371a5d0e577c75c183
+julia 0.3.4-
+DataArrays 0.2.15
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.11
+------
+3baa3f8f82ca033008bb01270ce3b94880b44934
+julia 0.4
+DataArrays 0.2.15
+StatsBase v0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.12
+Docile
+
+0.6.2
+-----
+41ae997b1851707590cb4e4b4d5542eee4088e55
+julia 0.3.4-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.3
+-----
+febaf87dbbb6474254f2fe6323b3116872ea63e4
+julia 0.3.4-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.4
+-----
+e96635f883a1521308b0ab5832c6364b4d865bf3
+julia 0.3.4-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.5
+-----
+82a12d1e60a5e06d85435a0304b9475febca8849
+julia 0.3.4-
+DataArrays
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.6
+-----
+6289a1604676871b109c3b57061cad99e5a2571f
+julia 0.3.4-
+DataArrays 0.2.15
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.7
+-----
+ea06921248d8f54e0815c4d3f1a273de45422cc6
+julia 0.3.4-
+DataArrays 0.2.15
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.8
+-----
+a6e63137b7ae08ca0958ee99eade7486acffab75
+julia 0.3.4-
+DataArrays 0.2.15
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.6.9
+-----
+3d21f4049701dd0cfb875817d6bf723d3d0fef05
+julia 0.3.4-
+DataArrays 0.2.15
+StatsBase 0.3.9+ 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat
+Docile
+
+0.7.0
+-----
+3baa3f8f82ca033008bb01270ce3b94880b44934
+julia 0.4
+DataArrays 0.2.15
+StatsBase v0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.12
+Docile
+
+0.7.1
+-----
+e975c42a65d376d25144dc33938d2e27c89dc02d
+julia 0.4
+DataArrays 0.2.15
+StatsBase 0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.17
+Docile
+
+0.7.2
+-----
+b774e5ad6c02c9ec6ad7e3c04be143e5299e899a
+julia 0.4
+DataArrays 0.2.15
+StatsBase 0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.17
+Docile
+
+0.7.3
+-----
+fa09067cdf8adec9170384b5883f57ae19ca1219
+julia 0.4
+DataArrays 0.2.15
+StatsBase 0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.19
+Docile
+
+0.7.4
+-----
+5a32b0bcda773476499654a635f9c9414134900d
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.0 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.19
+Docile
+
+0.7.5
+-----
+670372b7496bda2ef82acf85a3619d1876de32d6
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.19
+Docile
+
+0.7.6
+-----
+416795217df0eb77b149a205ef9cb1f3c23828a9
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.7.19
+Docile
+
+0.7.7
+-----
+cd827176818d5f164e6c2a8a12310b78f26d884c
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8
+
+0.7.8
+-----
+084bfa7bff89ac5f52b9f36c41f0adea1df0f1e5
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8

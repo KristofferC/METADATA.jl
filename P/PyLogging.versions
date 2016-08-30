@@ -1,0 +1,7 @@
+git://github.com/colinfang/PyLogging.jl.git
+
+0.0.1
+-----
+e5e0b3ae6585231c7c8e4a53dc9273cceba4185d
+julia 0.4
+PyCall 1.3

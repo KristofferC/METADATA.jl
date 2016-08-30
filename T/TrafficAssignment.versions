@@ -1,0 +1,85 @@
+git://github.com/chkwon/TrafficAssignment.jl.git
+
+0.0.1
+-----
+a4a3069bce44f79a6123f0d872371d600df30857
+julia 0.3-
+Graphs
+Optim 0.0 0.5
+
+0.0.2
+-----
+e09075c7c1f6c31ccad6367a16a7d8d10635de83
+julia 0.3-
+Graphs
+Optim 0.0 0.5
+
+0.0.3
+-----
+271d042a61023c73aba9fef1ad3987f28b9d5e49
+julia 0.3-
+Graphs
+Optim 0.0 0.5
+
+0.0.4
+-----
+2b06c65c0e721c1d40a914eac2700b6428539fb3
+julia 0.3-
+Graphs
+Optim 0.0 0.5
+
+0.0.5
+-----
+f5d8c6d4c3c47860a2fca7740549d800fdfed731
+julia 0.4-
+Graphs
+Optim 0.0 0.5
+
+0.1.0
+-----
+f5d8c6d4c3c47860a2fca7740549d800fdfed731
+julia 0.4-
+Graphs
+Optim 0.0 0.5
+
+0.1.1
+-----
+d31355d288303bd980298c4aa3a3a5fe9c239dd9
+julia 0.4
+Graphs
+Optim 0.0 0.5
+
+0.1.2
+-----
+bdf1df2784dda5bffd421854ef667529db1259f1
+julia 0.4-
+Graphs
+Optim 0.0 0.5
+
+0.2.0
+-----
+2d1a7a583a1c74796d57d743e0bd81570f894cc3
+julia 0.4-
+LightGraphs
+Optim 0.0 0.5
+
+0.2.1
+-----
+e3a852f99ff10125134dcdbc48b43a7fe9c3e029
+julia 0.4-
+LightGraphs
+Optim 0.0 0.5
+
+0.2.2
+-----
+50f20b17f35272446442bf943bc0e93913c368e0
+julia v0.4
+LightGraphs
+Optim 0.0 0.5
+
+0.2.3
+-----
+d9657cd3f52d58831f7932e60b86e16cce7ba322
+julia v0.4
+LightGraphs
+Optim 0.5

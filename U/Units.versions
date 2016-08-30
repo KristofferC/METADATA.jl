@@ -1,0 +1,40 @@
+git://github.com/timholy/Units.jl.git
+
+0.0.0
+-----
+f82740e648432864290e55cc39560ab7d603e728
+
+0.2.0
+-----
+8da17067484e2ec277d99d4f49e601201b91e2a4
+julia 0.2-
+
+0.2.1
+-----
+c727f0eb02e81df3035112407bedb32e94014238
+julia 0.2-
+
+0.2.2
+-----
+6abef74e7332eebcdc4b7e475ca8ac097d714b13
+julia 0.2-
+
+0.2.3
+-----
+57da37796874fbd6a76aded2dea0eec910d96b1e
+julia 0.2-
+
+0.2.4
+-----
+085f1bae3be096858b7dcdeed6bdba81947d0237
+julia 0.2-
+
+0.2.5
+-----
+a7295de641b7492ed803f93386783bc0e4e8c1e1
+julia 0.2-
+
+0.2.6
+-----
+50610d1252154e9cab93afbb42b8ef30c048519d
+julia 0.2 0.3

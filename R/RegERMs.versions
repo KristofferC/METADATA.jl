@@ -1,0 +1,13 @@
+git://github.com/JuliaStats/RegERMs.jl.git
+
+0.0.1
+-----
+dc1bb38a1aca40b1619265a79ce922b30e41fd53
+Optim 0.0 0.5
+
+0.0.2
+-----
+a5ab256d71b6322e779c2a3bd062fafe011c4221
+julia 0.3
+StatsBase 0.6.0
+Optim 0.3.1 0.5

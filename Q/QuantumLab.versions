@@ -1,0 +1,27 @@
+git://github.com/vonDonnerstein/QuantumLab.jl.git
+
+0.0.1
+-----
+8b68e0a9c74c5ea43674a98777dbf044ebda8f2d
+julia 0.4-
+Reexport
+GSL
+ProgressMeter
+
+0.0.2
+-----
+5d09bda0fb0c098e044d7ec6750b8865c2eb954b
+julia 0.4
+Reexport
+GSL
+ProgressMeter
+
+0.0.3
+-----
+b5e3005f3307ae5bb3df0184e674fa3c5c7de1b6
+julia 0.4
+Reexport
+GSL
+ProgressMeter
+TensorOperations
+Requests

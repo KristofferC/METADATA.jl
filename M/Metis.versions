@@ -1,0 +1,88 @@
+git://github.com/JuliaSparse/Metis.jl.git
+
+0.0.0
+-----
+5e18109eec0d49c4c2b4ded4820eb4a279a32de8
+julia 0.2-
+Graphs
+
+0.0.1
+-----
+3cfd24b2fa02801d748c8cb9fadc098b3bb906ad
+julia 0.2-
+Graphs
+
+0.0.10
+------
+9609060e58d8010f2912c60bd21bd2fcc59eb146
+julia 0.3
+Graphs 0.5.5
+BinDeps
+Compat
+LightGraphs
+@windows WinRPM
+
+0.0.2
+-----
+6599bbc5cf86dfab2ab79afc1ed772dfc2647f3b
+julia 0.2-
+Graphs
+
+0.0.3
+-----
+dbde18a1d67964df54933e95b7130e9dd946e974
+julia 0.2-
+Graphs
+
+0.0.4
+-----
+e4a39afc7240706ed8180d0ccd5eca2f44c90445
+julia 0.2-
+Graphs
+
+0.0.5
+-----
+b9da91c4c4fe7ae938a25b7ed9eca919f089dc47
+julia 0.2-
+Graphs
+BinDeps
+@windows WinRPM
+
+0.0.6
+-----
+11cd9b339af5ee6a95da1152c96058cc37787f09
+julia 0.3-
+Graphs
+BinDeps
+Compat
+@windows WinRPM
+
+0.0.7
+-----
+a9fa90452f6493ac87d2f2796289d78b02d099f6
+julia 0.3-
+Graphs 0.5.5
+BinDeps
+Compat
+LightGraphs
+@windows WinRPM
+
+0.0.8
+-----
+2f5d2a2b251c9973c337ce24cc86b0fde35a34d2
+julia 0.3-
+Graphs 0.5.5
+BinDeps
+Compat
+LightGraphs
+@windows WinRPM
+
+0.0.9
+-----
+2f5d2a2b251c9973c337ce24cc86b0fde35a34d2
+julia 0.3
+Graphs 0.5.5
+BinDeps
+Compat
+LightGraphs
+@windows WinRPM

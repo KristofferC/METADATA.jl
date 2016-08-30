@@ -1,0 +1,99 @@
+git://github.com/tlycken/Interpolations.jl.git
+
+0.0.1
+-----
+8c12116117c5687c5609f46ed3362dbad794703c
+julia 0.4-
+WoodburyMatrices
+
+0.0.1-beta
+----------
+d36fe8557454318b36d0f49fb2dd678db8599ee7
+julia 0.4-
+Compat
+WoodburyMatrices
+
+0.0.2
+-----
+563d753bbf4ffbb1a93b7775303f23cf07686250
+julia 0.4-
+WoodburyMatrices
+
+0.1.0
+-----
+b67c920f10c27c90fe54183385ea18f27cb37bb4
+julia 0.4-
+WoodburyMatrices
+
+0.1.1
+-----
+6e02f883872cf37af3f148cc61af5d6b09a92b24
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.2.0
+-----
+906bac2bc3b18c31e92a93376b15b47f2c826da0
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.0
+-----
+7646fe923f4c9e04e23cff2f26222917cbe9b4cb
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.1
+-----
+614f7db7315da3d0cf9ac4d1c11d68dc9784a5ea
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.2
+-----
+716d9b494f63a3c31b6bc4a0262a5a2082eacd25
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.3
+-----
+37fee94f74764f8e02dc33c4cc6639ddcb29647f
+julia 0.4-
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.4
+-----
+5b8c7c48a06b39386f6879b7dd604486dc766a23
+julia 0.4
+WoodburyMatrices 0.1
+Ratios
+AxisAlgorithms
+
+0.3.5
+-----
+b11bdd50b45e3722a1b96bb15ae625c9cc400d2a
+julia 0.4
+WoodburyMatrices 0.1.5
+Ratios
+AxisAlgorithms
+
+0.3.6
+-----
+e8464501689ac1fbdd53c42abde3bbab50196aa2
+julia 0.4
+WoodburyMatrices 0.1.5
+Ratios
+AxisAlgorithms
+Compat 0.8.0

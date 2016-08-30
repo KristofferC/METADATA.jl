@@ -1,0 +1,23 @@
+git://github.com/JuliaFinMetriX/EconDatasets.jl.git
+
+0.0.1
+-----
+88da1a17192aec0e571804ab071c03daef6ede52
+julia 0.4-
+DataArrays 0.2-
+DataFrames 0.5.8-
+Dates 0.4.1-
+Gumbo 0.1.0-
+TimeSeries 0.4.3-
+TimeData 0.4.0-
+
+0.0.2
+-----
+b413ca1225471b204d579c623c7ad5cc34997c22
+julia 0.3.2-
+DataArrays 0.2-
+DataFrames 0.5.8-
+Dates 0.3.2-
+Gumbo 0.1.0-
+TimeSeries 0.4.3-
+TimeData 0.4.0-

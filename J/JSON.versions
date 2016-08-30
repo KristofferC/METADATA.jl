@@ -1,0 +1,169 @@
+git://github.com/JuliaLang/JSON.jl.git
+
+0.0.0
+-----
+47460568f8ec54feb69a68578b3aa19943e3b6b6
+
+0.1.0
+-----
+71763c297d524746136030891d9a6333d3c262a1
+julia 0.2-
+
+0.1.1
+-----
+23b7f1537b0f600bc4a3a9b871e464609486c8e9
+julia 0.2-
+
+0.2.0
+-----
+313ee68d0a2bd013b16f5a6fa1d4cf1220ae92fc
+
+0.2.1
+-----
+5d0ca41c99118c5b5b46bf113a27f14e038f7bad
+
+0.2.2
+-----
+f0b8423c2a29724fca7346315a3653eb469da286
+
+0.2.3
+-----
+9ec3c1a873cb962d684ec375e32630c71ebdef66
+
+0.2.4
+-----
+d4b1a2cc4fa42cec06aec87ee9e34ada76b97ddb
+
+0.3.0
+-----
+e6aef7e5f73d358cf0ca4796d73d1a2a07bb6667
+
+0.3.1
+-----
+c325b6bce06023c92ce4c5d4f4db8316928eeb79
+
+0.3.2
+-----
+36f011da3aa5c2651be8fbab25685dbd52fe9231
+
+0.3.3
+-----
+bed382e706147bdd180e48525f1ff00b5b81d5a8
+
+0.3.4
+-----
+b701ad129d56527ae532e62213413c805dfc46ff
+
+0.3.5
+-----
+72ada7aa839b4d1a341db83ce1315903e02d9193
+
+0.3.6
+-----
+138956c9d12652d64b683488afbcbfe461c42811
+julia 0.2-
+
+0.3.7
+-----
+0f038d90934897bd8c49d661dd4a74b1b9b171d2
+julia 0.2-
+
+0.3.8
+-----
+7e5027766e604721a3e6f94a9b747f4ccd0360e7
+julia 0.2
+
+0.3.9
+-----
+7853e4a6c4a9ddc3f651876c0c101aeecd6a77c5
+julia 0.2
+
+0.4.0
+-----
+3150cff25b0891b1f164781c0a3a23700a43901c
+julia 0.2
+Compat
+
+0.4.1
+-----
+28f07802e0eeea3bdaa58c64e253756d64698b41
+julia 0.3
+Compat
+
+0.4.2
+-----
+20e99bc7dc329915b79d138e10800afa81afe7e4
+julia 0.3
+Compat
+
+0.4.3
+-----
+d00b5ca7d4820fb5ada94107e47e17b3762865e6
+julia 0.3
+Compat
+
+0.4.4
+-----
+0b6e9ec6adf0513b72ff70a818cdda251281c868
+julia 0.3
+Compat
+
+0.4.5
+-----
+14eecd91bccabed3074d92759e17ed38c8cf0ac0
+julia 0.3
+Compat 0.4.12
+
+0.4.6
+-----
+fb33673c338a59ba3f00b0653b262468d60a58d0
+julia 0.3
+Compat 0.7.1
+
+0.5.0
+-----
+eb65870a0842754a3030f709385ff0aee26d9693
+julia 0.3
+Compat 0.7.1
+
+0.5.1
+-----
+6df70b0542a2610ad738156cae344fede25d4ccb
+julia 0.3
+Compat 0.7.16
+
+0.5.2
+-----
+1082e64fef296c7ea5dd474e4d0be7a6145705c2
+julia 0.3
+Compat 0.7.20
+
+0.5.3
+-----
+bec34de0e2da0de58a2fcd681ee32244edb551e0
+julia 0.3
+Compat 0.7.20
+
+0.5.4
+-----
+6df70b0542a2610ad738156cae344fede25d4ccb
+julia 0.3
+Compat 0.7.16
+
+0.6.0
+-----
+1082e64fef296c7ea5dd474e4d0be7a6145705c2
+julia 0.3
+Compat 0.7.20
+
+0.6.1
+-----
+38f4d37479fe227fd00a56a085ecd3a63456a36c
+julia 0.3
+Compat 0.8.4
+
+0.7.0
+-----
+21dcd64409f249efe2254b385616237f00a35b31
+julia 0.4
+Compat 0.8.4

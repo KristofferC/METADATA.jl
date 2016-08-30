@@ -1,0 +1,106 @@
+git://github.com/JuliaWeb/HttpParser.jl.git
+
+0.0.0
+-----
+85174f4b07e4c4092b0cf388a10a9c07fcb64cf4
+HttpCommon
+
+0.0.1
+-----
+11f9874dcdc10523dcde789674e43006d439afdcBinDeps
+HttpCommon
+
+0.0.10
+------
+d9e70711585c98371afe9371664d23c88fa09897
+julia 0.2-
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.0.11
+------
+7d8fcd59e5e9cce65cd23be13f507f28eade9ec9
+julia 0.2-
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.0.12
+------
+bf5ff2df0bdf3ba88de0bc2f80c59b39e58ffd94
+julia 0.3
+HttpCommon
+BinDeps
+Compat
+
+0.0.13
+------
+c394d51c6358000ae347ca95caf12a738885d668
+julia 0.3
+HttpCommon
+BinDeps
+Compat
+
+0.0.2
+-----
+0fe50dfebadf2d3835b7241ac165ad9187122b61
+
+0.0.3
+-----
+0fe50dfebadf2d3835b7241ac165ad9187122b61
+julia 0.2-
+BinDeps 0.2.1-
+HttpCommon
+
+0.0.4
+-----
+0dedebd57d07b5e0e70ce1ef874ea58da372b38f
+julia 0.2-
+BinDeps 0.2.5-
+HttpCommon
+
+0.0.5
+-----
+21ac6f6c08791c9be0d68836f2488ae78828aeaf
+BinDeps 0.2.5-
+HttpCommon 0.0.3-
+
+0.0.6
+-----
+67893fd043721ba553a3e63444ca5e49531970ce
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.0.7
+-----
+62194f37c3e771c9779788a5633dd085f1ff356e
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.0.8
+-----
+3fa9dc641da202eae1029adeaab2e7e374427092
+julia 0.2-
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.0.9
+-----
+0d70e06a26d8146194cd088f8ae5908c029cbdf7
+julia 0.2-
+HttpCommon 0.0.3-
+BinDeps 0.2.5-
+
+0.1.0
+-----
+71164e445680b9c7b05489cfc968a1d113a3c4cd
+julia 0.4-
+HttpCommon
+BinDeps
+Compat
+
+0.1.1
+-----
+21b25857e10481ce47b5fff75482d6e4b4b5e908
+julia 0.4-
+HttpCommon
+BinDeps

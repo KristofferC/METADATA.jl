@@ -1,0 +1,15 @@
+https://github.com/JuliaAudio/SampledSignals.jl.git
+
+0.0.1
+-----
+b6043cd9bab7e5996b1bf128cb348bdac26e8a56
+julia 0.4
+SIUnits
+
+0.1.0
+-----
+62b13b455d16cb540f0f3d7bf913f875c884d350
+julia 0.4
+SIUnits
+FixedPointNumbers
+Compat 0.8.8

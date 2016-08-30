@@ -1,0 +1,22 @@
+git://github.com/jverzani/PySide.jl.git
+
+0.0.0
+-----
+9453df85184dd9742dc1d81fae146e12b9529ad8
+julia 0.2-
+PyCall
+Mustache
+DataFrames
+0.0.1
+-----
+96a7d62bc377f803a40ac4e16acbfde61819e8f6
+PyCall
+Mustache
+DataFrames
+
+0.0.2
+-----
+86a07e9cdf9a855ba44b2869c578a818a874406d
+PyCall
+Mustache
+DataFrames

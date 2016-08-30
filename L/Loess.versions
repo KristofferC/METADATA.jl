@@ -1,0 +1,61 @@
+git://github.com/dcjones/Loess.jl.git
+
+0.0.0
+-----
+475444deef8160ef414011a0135527aca124fa1f
+julia 0.2-
+Distance
+Iterators
+
+0.0.1
+-----
+96c1ba356808ffd1ddc68e1c4e79fe891cb2c638
+julia 0.2-
+Distance
+Iterators
+
+0.0.2
+-----
+702800a031d157db90c5686809bcfee50ef69432
+julia 0.2-
+Distance
+Iterators
+
+0.0.3
+-----
+d59cb4ad534f9a258ee18b401412a2631684acc1
+julia 0.3-
+Distances
+Iterators
+
+0.0.4
+-----
+f53def33e29c565df0747d8aa06cee71ee53fe47
+julia 0.3
+Compat
+Distances
+Iterators
+
+0.0.5
+-----
+ad2e613e3049bc41e4817b3f09b99c512d093a1f
+julia 0.3
+Compat
+Distances
+Iterators
+
+0.0.6
+-----
+19a68e0ecf35d4a19b379ed70de93a33ed61fcd0
+julia 0.3
+Compat
+Distances
+Iterators
+
+0.0.7
+-----
+55e3a3fd32668323174ceda35b1cbb53f35588ac
+julia 0.3
+Compat 0.8.4
+Distances
+Iterators

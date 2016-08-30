@@ -1,0 +1,25 @@
+git://github.com/giordano/LombScargle.jl.git
+
+0.0.1
+-----
+e4c754626d40c5bb91e8a72562cf4e18143d3219
+julia 0.4
+Measurements
+
+0.0.2
+-----
+7b031a6477d4ec3d307ad4934d9f5dfe355b07b5
+julia 0.4
+Measurements 0.2.0
+
+0.1.0
+-----
+db1ca803f1d09bb56fdc2bc40150028890b45b00
+julia 0.4
+Measurements 0.2.0
+
+0.1.1
+-----
+a017c664f5001a1bfe6b911664bb377062aa5113
+julia 0.4
+Measurements 0.2.0

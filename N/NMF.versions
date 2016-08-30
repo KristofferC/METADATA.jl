@@ -1,0 +1,88 @@
+git://github.com/JuliaStats/NMF.jl.git
+
+0.0.1
+-----
+ecfec97e0ef6cd2cbe44d5dd7407836cb4d922c6
+julia 0.3-
+MLBase 0.3-
+
+0.0.2
+-----
+ecfec97e0ef6cd2cbe44d5dd7407836cb4d922c6
+julia 0.3-
+MLBase 0.3-
+
+0.0.3
+-----
+73166660f90e4c072d62b99b5e3a1106ee8905ef
+julia 0.3-
+MLBase 0.3-
+
+0.0.4
+-----
+1174163502bcedaa90453bede5d1573114ff1593
+julia 0.3-
+MLBase 0.3-
+
+0.0.5
+-----
+ce51831af71221cdc77b87ef4dd2fbba3a7ad17b
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.0.6
+-----
+b41d45ee23dd20aad6248583327cec15402ea1cc
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.1.0
+-----
+2717ef64805e79b5764b27535bc700d43e124d17
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.2.0
+-----
+5e9525362870ef533083b421765493cc79fad0ea
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.2.1
+-----
+90cc65e5c87ee63f1ec0de37d89e36ed96068c0e
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.2.2
+-----
+be17e1a4fe1697cdcb82fede926fbdf2a186aa76
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.2.3
+-----
+6ec2cc9744d03ee77273fc47d0aeda1d33e7634f
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.3-
+
+0.2.4
+-----
+0de104910aef49ce98871f415c4ddac460e1a2c1
+julia 0.3-
+MLBase 0.3-
+ArrayViews 0.4.8-
+
+0.2.5
+-----
+bd01b7f0d480153d1734e9dc9d3f7961013f6e93
+julia 0.3
+Compat 0.8.0
+StatsBase

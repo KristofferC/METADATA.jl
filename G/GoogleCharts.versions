@@ -1,0 +1,77 @@
+git://github.com/jverzani/GoogleCharts.jl.git
+
+0.0.0
+-----
+cc8f1d8982449f572ac23fcd5c5ec3b0a144e3a1
+Mustache
+DataFrames
+Calendar 
+JSON
+
+0.0.1
+-----
+2f9b2b8b0ef80e9cb77fb232cbe7015f4f8503fa
+julia 0.2-
+Mustache
+DataFrames
+Datetime
+JSON
+
+0.0.2
+-----
+6ea92b235a15a8cc364360baa2c8857d99fc8e9e
+julia 0.2-
+Mustache
+DataArrays
+DataFrames
+Datetime
+JSON
+
+0.0.3
+-----
+cf50a23c292030f3c3126d11fd3e10cc47bf6091
+julia 0.3-
+Mustache
+DataArrays
+DataFrames
+Datetime
+JSON
+
+0.0.4
+-----
+df97dea5a67e7c00df644398774b44e96963cb4b
+julia 0.4-
+Mustache
+DataArrays
+DataFrames
+JSON
+
+0.0.5
+-----
+b8972cb37b93a77066bc7d0b3b9991d14f5809bc
+julia 0.3
+Mustache
+DataArrays
+DataFrames
+Dates
+JSON
+
+0.0.6
+-----
+5649aa52e7e83f669f81deaf08a271676f4d6f3a
+julia 0.3
+Mustache
+DataArrays
+DataFrames
+Dates
+JSON
+
+0.0.7
+-----
+9036f7d77fe72132a2d0da8fc37fe21db9cf79aa
+julia 0.3
+Mustache
+DataArrays
+DataFrames
+Dates
+JSON

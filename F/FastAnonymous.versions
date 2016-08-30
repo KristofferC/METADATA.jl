@@ -1,0 +1,37 @@
+git://github.com/timholy/FastAnonymous.jl.git
+
+0.0.1
+-----
+37e6338c50e7aef60b7596e3c2576d32a3bbe012
+
+0.1.0
+-----
+a2180d1d5c4c119671430475ebfd37a77e97b046
+julia 0.4-
+Compat
+
+0.2.0
+-----
+b3bc85e70b92379240810289f806effd71122919
+julia 0.4-
+Compat
+
+0.3.0
+-----
+155a23a305918f603dfcd17013f9e43596b3bc94
+julia 0.4-
+Compat
+
+0.3.1
+-----
+a5f00f221d07d9dff6f79d6f8de1c3e623de3ce6
+julia 0.4-
+Compat
+Debug
+
+0.3.2
+-----
+5885e7be9c56d377ec7d5b4b00fbe9fb490b39fa
+julia 0.4-
+Compat
+Debug

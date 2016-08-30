@@ -1,0 +1,72 @@
+git://github.com/tlycken/Contour.jl.git
+
+0.0.1
+-----
+434feba19ab11a66ce5353913c1b01a27b548628
+julia 0.2
+ImmutableArrays
+
+0.0.2
+-----
+eb004be4d82f77e3eff7e47d4dda50843e4da04e
+julia 0.2
+ImmutableArrays
+
+0.0.3
+-----
+db84d92922cf82ca5f422bc3ebfeb11444972042
+julia 0.2 0.3
+ImmutableArrays
+
+0.0.4
+-----
+3a47822df995024d72daab1a26df820c47985cc3
+julia 0.3-
+ImmutableArrays
+
+0.0.5
+-----
+a84f3dbf93758275c1ca49933b9d39c9b2831b41
+julia 0.3-
+ImmutableArrays
+
+0.0.6
+-----
+7bded64ef5e1fc62110def6e13e8973d5adb7953
+julia 0.3-
+ImmutableArrays
+
+0.0.7
+-----
+486965df1243f7e6fa999b0840a7b28f5b766199
+julia 0.3-
+Compat
+ImmutableArrays
+
+0.0.8
+-----
+1705a9ce1ba5d54d9d15ef6b76b0fe8abf73c706
+julia 0.3-
+Compat
+ImmutableArrays
+
+0.1.0
+-----
+92ac9f9e6fa590b239ca9ba4aef81c1e5146337f
+julia 0.4
+Compat
+FixedSizeArrays
+
+0.1.1
+-----
+8b59af7312eb61ea5c7fe297bd811696656a096d
+julia 0.4
+Compat 0.8.0
+FixedSizeArrays
+
+0.2.0
+-----
+de1338502afa05f2686d93972e5813a466542daf
+julia 0.4
+Compat 0.8.0
+FixedSizeArrays

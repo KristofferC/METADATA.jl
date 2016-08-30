@@ -1,0 +1,45 @@
+git://github.com/JuliaPlots/StatPlots.jl.git
+
+0.0.1
+-----
+0367e086f5e7989ea11a0279ff66c8e1a0f5739f
+julia 0.4
+Reexport
+Plots
+StatsBase
+Distributions
+DataFrames
+KernelDensity
+
+0.0.2
+-----
+6362a468af46f42ba114075486f5a68246535b89
+julia 0.4
+Reexport
+Plots
+StatsBase
+Distributions
+DataFrames
+KernelDensity
+
+0.0.3
+-----
+e12b1d2cb3fbbba8bc36780df8f68bbaac3162cf
+julia 0.4
+Reexport
+Plots
+StatsBase
+Distributions
+DataFrames
+KernelDensity
+
+0.1.0
+-----
+447e818a3e263ea888c5d29a068955447df338f1
+julia 0.5-
+Reexport
+Plots
+StatsBase
+Distributions
+DataFrames
+KernelDensity

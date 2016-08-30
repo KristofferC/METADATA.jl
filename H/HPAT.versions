@@ -1,0 +1,33 @@
+git://github.com/IntelLabs/HPAT.jl.git
+
+0.0.1
+-----
+16431da8df21bc698c901224fb405654f60bb4d1
+julia 0.4
+ParallelAccelerator
+CompilerTools
+MPI
+
+0.0.2
+-----
+a2a5f8b36e8c27a628fd3f62e527c030b91495a8
+julia 0.4
+ParallelAccelerator
+CompilerTools
+MPI
+
+0.0.3
+-----
+1199129513a4367a29fe9712b1e496f753525290
+julia 0.4
+CompilerTools
+ParallelAccelerator
+MPI
+
+0.0.4
+-----
+ad6275b99c39ed6f3f63996d38fc8269ecf98372
+julia 0.4
+CompilerTools
+ParallelAccelerator
+MPI

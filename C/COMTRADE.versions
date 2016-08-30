@@ -1,0 +1,7 @@
+git://github.com/tshort/COMTRADE.jl.git
+
+0.1.0
+-----
+3f176ccac6a552b4d8fa1fcd10bec49131d5d06c
+julia 0.4
+DataFrames

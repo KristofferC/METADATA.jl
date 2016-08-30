@@ -1,0 +1,141 @@
+git://github.com/JuliaQuant/MarketData.jl.git
+
+0.0.1
+-----
+328347e1687aa77b79c318e0f205ac7a9d88a1f5
+julia 0.3-
+Datetime
+TimeSeries
+
+0.0.2
+-----
+b79628f831bcbbd3e51f0a2a08422f2f6c9d9235
+julia 0.3-
+Datetime
+TimeSeries
+
+0.1.0
+-----
+a6d8862b36871ddbc08d2010361a500f65cebb4f
+julia 0.3-
+TimeSeries
+Reexport
+HDF5
+
+0.1.1
+-----
+690da07c940cc50e289da4b9448b5acb5167ac58
+julia 0.3-
+TimeSeries
+Reexport
+HDF5
+
+0.2.0
+-----
+8fb7b091c4e5851fb7c323a62c07495ac8138e41
+julia 0.3-
+Dates
+TimeSeries
+Reexport
+
+0.2.1
+-----
+f0a37a3003b5990f3daba3dd36306084bd83acdc
+julia 0.3-
+Dates
+TimeSeries
+
+0.2.2
+-----
+d754959581010b230bdf9a513ca3c0e8ee790ae1
+julia 0.3-
+Dates
+TimeSeries
+
+0.2.3
+-----
+d3e7e37355076f7a2a4a8675d041abe6ec45ba7a
+julia 0.3-
+Dates
+TimeSeries
+
+0.2.4
+-----
+479ac835e3ac1b43353ab25acd052f15d1176fa5
+julia 0.3-
+Dates
+TimeSeries
+
+0.2.5
+-----
+74644114ef34842a2d1ff6db2b339ca6061f1c93
+julia 0.3-
+Dates
+TimeSeries
+
+0.2.6
+-----
+ab98488e99b19d988d1e5006626dc85542cadec5
+julia 0.3
+Dates
+TimeSeries
+
+0.2.7
+-----
+527e91d3c567f92f312ac5b5e2520db17a0e8d08
+julia 0.3 0.4-
+TimeSeries 0.5.11 0.6.0
+
+0.2.8
+-----
+da576aeeb92d3dd8762f466744a33b3d40a4b1d5
+julia 0.3 0.4-
+TimeSeries 0.5.11 0.6.0
+
+0.2.9
+-----
+98e13edc2a6ccd4639f051522ccaf1eb6731ef47
+julia 0.3 0.4-
+TimeSeries 0.5.11 0.6.0
+
+0.3.0
+-----
+98e13edc2a6ccd4639f051522ccaf1eb6731ef47
+julia 0.3 0.4-
+TimeSeries 0.5.11 0.6.0
+
+0.3.1
+-----
+e3532925173f5de08b8d1e49415d73130b1df006
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+
+0.3.2
+-----
+c30ede7887b8a0fdbd64ee9a4686b4854dfeac57
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+
+0.3.3
+-----
+c296deeb28232e42227a69dce4b4ebf815a855c8
+julia 0.4 0.5-
+TimeSeries 0.6.0
+
+0.3.4
+-----
+4613f51dc7c8d5d7abc145e5ccb121eee57572b2
+julia 0.4 0.5-
+TimeSeries 0.6.0
+
+0.3.5
+-----
+9b5ec5ffed5965730e1d65b632267579f5933f19
+julia 0.4 0.5-
+TimeSeries 0.6.0
+
+0.3.6
+-----
+96ec4be5ca852cd3ec10b10bc5655e5d165dbfde
+julia 0.4 0.5-
+TimeSeries 0.6.0

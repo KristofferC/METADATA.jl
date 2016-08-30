@@ -1,0 +1,20 @@
+git://github.com/JaneliaSciComp/NIDAQ.jl.git
+
+0.0.1
+-----
+06e60609e06007fb040d0d5f1a3e78ef4442b476
+
+0.0.2
+-----
+f8e56c99a91d62e0a9a786b9e7352337dd46ae5b
+
+0.1.0
+-----
+5fd30b5489fe709a9b527cc13bc397ee4062954e
+julia 0.4
+Compat
+
+0.1.1
+-----
+86e275ad07daf37bfe22870b4fe2a5bf1498308d
+julia 0.4

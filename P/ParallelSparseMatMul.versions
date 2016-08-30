@@ -1,0 +1,13 @@
+git://github.com/madeleineudell/ParallelSparseMatMul.jl.git
+
+0.0.1
+-----
+1e0323e792f2ed24922c628546273a2134cad494
+julia 0.3-
+Compat 0.6.0
+
+0.0.2
+-----
+dfdb82f07c49938b13ae87f6633557233e1204ec
+julia 0.3 0.4
+Compat 0.6.0

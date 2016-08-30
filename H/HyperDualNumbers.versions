@@ -1,0 +1,54 @@
+git://github.com/JuliaDiff/HyperDualNumbers.jl.git
+
+0.1.0
+-----
+8cf17fbf2ff0421c2bb5b4d6cf186444791f92f9
+julia 0.3-
+
+0.1.1
+-----
+a6bb3c44db58882a422998722de4e79f71188957
+julia 0.3-
+
+0.1.2
+-----
+d405891a0188a0a3e4cd59156775405b71e63aed
+julia 0.3
+
+0.1.3
+-----
+2bb5b4518c25dc5152c3b0ff5b1654148a9b4af1
+julia 0.3
+
+0.1.4
+-----
+2bb5b4518c25dc5152c3b0ff5b1654148a9b4af1
+julia 0.3-
+
+0.1.5
+-----
+4e9077952a6dec218e7a44f640a2795e882f446f
+julia 0.3-
+
+0.1.6
+-----
+f4468acd303c020a8ee68a6d2a4fad07ace0ae53
+julia 0.3-
+
+0.1.7
+-----
+9027ba70149f0bde622a5c2a7ac883f4d8014181
+julia 0.3-
+Compat
+
+0.1.8
+-----
+8f9bf3f276ae1da0d2e56b8e2dbd4db857118e37
+julia 0.4
+Compat
+
+1.0.0
+-----
+8f9bf3f276ae1da0d2e56b8e2dbd4db857118e37
+julia 0.4
+Compat

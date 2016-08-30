@@ -1,0 +1,25 @@
+git://github.com/matthieugomez/LeastSquaresOptim.jl.git
+
+0.0.1
+-----
+64903528e1d211d3f9ec5be1e2340fbe1a46076bjulia 0.4-
+ForwardDiff 0.1.1 0.2
+
+0.0.2
+-----
+b61649302c7bb431036bd56554b7d740ec4abd67julia 0.4
+ForwardDiff 0.1.1 0.2
+
+0.0.3
+-----
+1a9ec92d2bd725f168ddf11531cd9b4d0996edc5julia 0.4
+ForwardDiff 0.1.1 0.2
+
+0.1.0
+-----
+89ed22bd398b8e0f5119af981fa20abdfa9b9a33julia 0.4
+ForwardDiff 0.1.1
+0.1.1
+-----
+d616a0aed0541c46a4bd59f36c4b49165a5e2a7bjulia 0.4
+ForwardDiff 0.1.1

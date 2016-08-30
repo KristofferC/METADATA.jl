@@ -1,0 +1,14 @@
+git://github.com/nolta/UTF16.jl.git
+
+0.0.0
+-----
+01d7699b0f093db70568bc2cf0d10047b369057b
+julia 0.1 0.4
+0.2.0
+-----
+559952ceb0a8ca2d956ab632beb25a13da548e50
+julia 0.2- 0.4
+0.3.0
+-----
+b846327368c4eac77e1f25240c86cd519b677738
+julia 0.3- 0.4

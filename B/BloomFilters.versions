@@ -1,0 +1,21 @@
+git://github.com/johnmyleswhite/BloomFilters.jl.git
+
+0.0.0
+-----
+4e1b9e2fd80e2ac150d2be9e253b2d93093b83fd
+
+0.0.1
+-----
+c7ad97359f575eeb929bd52362dba95218e037f7
+julia 0.3-
+
+0.1.0
+-----
+527d78f137a12e66ad496d622c2171cfa48efb94
+julia 0.3.1-
+
+0.1.1
+-----
+a62323c718fea2d3bd09a28e9838183bd070d7bb
+julia 0.3.1-
+Compat

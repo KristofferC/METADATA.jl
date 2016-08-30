@@ -1,0 +1,31 @@
+git://github.com/Keno/Polynomials.jl.git
+
+0.0.1
+-----
+f5faf58fad1a2d273d0467c23f24ae3c61bd918d
+
+0.0.2
+-----
+4ab8d1a0fc42b46f9c816987efae6045b189a4dd
+
+0.0.3
+-----
+3a017384790f4f6f8736f5f4aa8e22c1ae8ebb01
+
+0.0.4
+-----
+449a06c4c971e688bb9d0711eb3d0b16e4af95a0
+julia 0.3
+Compat
+
+0.0.5
+-----
+5bb5a253a00114a9d1b65a20176083fa7b6526a4
+julia 0.3
+Compat
+
+0.0.6
+-----
+a137791d5c8432fa649d8c02de4d555624a96ae8
+julia 0.4
+Compat 0.7.15

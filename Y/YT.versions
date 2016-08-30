@@ -1,0 +1,50 @@
+git://github.com/jzuhone/YT.jl.git
+
+0.1.0
+-----
+430f56dd6c2c5041537e73acd6a431a4e1db4410
+julia 0.3-
+PyCall 0.4.8
+PyPlot 1.2.10
+SymPy 0.2.16
+IJulia 0.1.12
+
+0.1.1
+-----
+235eea41ce1ccda0db41bc4d586e7d05e660c644
+julia 0.3-
+PyCall 0.4.8
+PyPlot 1.2.10
+SymPy 0.2.16
+
+0.1.2
+-----
+9342d7eea4ddf0fa85f00c7c9e9e74e9b40413b8
+julia 0.3-
+PyCall 0.4.8
+PyPlot 1.2.10
+SymPy 0.2.16
+
+0.1.3
+-----
+438082df85b042b6894a0cadf2562eea75cf0069
+julia 0.3-
+PyCall 0.4.8
+PyPlot 1.2.10
+SymPy 0.2.16
+
+0.2.0
+-----
+3d409f26953761605fbd770cd30735cd24214755
+julia 0.3-
+PyCall 0.7.3-
+PyPlot 1.5.1-
+SymPy 0.2.22-
+
+0.3.0
+-----
+77cbb09c1987e1d02cbb13ca0e09cae3a6946720
+julia 0.4
+PyCall 1.1.2
+PyPlot 2.1.1
+SymPy 0.2.31

@@ -1,0 +1,51 @@
+git://github.com/helgee/Dopri.jl.git
+
+0.0.1
+-----
+c0ba344482c39f6bd91d70b303e19999720d6906
+julia 0.3
+Compat
+
+0.0.2
+-----
+a1f2a468e5927b7de5e375d2a72ccae2aaf15435
+julia 0.3
+Compat
+
+0.0.3
+-----
+b4928cc731f47a7506502c827540954881e52c10
+julia 0.3
+Compat
+
+0.1.0
+-----
+43ad7c9f32a07828dfba37b86faeb7ba5db05732
+julia 0.3
+Compat
+
+0.1.1
+-----
+44d5de7c95227f2803b93fa018733274f328b716
+julia 0.3
+Compat
+
+0.1.2
+-----
+ef1f274497fb5500ade359fe7ccc38525a22e7a0
+julia 0.3
+Compat
+
+0.2.0
+-----
+c10bd012e7180ad80f3eac05a17aac1a33ee3595
+julia 0.4
+BaseTestNext
+Compat
+
+0.3.0
+-----
+7584341721f6d5e55a41d9b979554d4ea69745d9
+julia 0.4
+BaseTestNext
+Compat

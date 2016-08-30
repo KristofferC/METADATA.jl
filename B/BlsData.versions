@@ -1,0 +1,9 @@
+git://github.com/micahjsmith/BlsData.jl.git
+
+0.0.1
+-----
+754842961b781ef3a0db428ed53867ede198729d
+julia 0.4
+Requests
+DataFrames
+JSON

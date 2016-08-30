@@ -1,0 +1,56 @@
+https://github.com/FugroRoames/TypedTables.jl.git
+
+0.0.1
+-----
+ccb6004aa744dfeb8cea952aa7ee349c488e167f
+julia 0.4
+NullableArrays
+
+0.0.2
+-----
+2e12a6133e977e73a9829f65731997fed45dbba2
+julia 0.4
+NullableArrays
+
+0.0.3
+-----
+67cd7d33cc27845632eb348da32005de69a93707
+julia 0.4
+NullableArrays
+
+0.0.4
+-----
+8ad4db2292792ef89498f58136c19f0a6868bfc3
+julia 0.4
+NullableArrays
+
+0.0.5
+-----
+9570e5f2e21a3276015f0f8a9371c86f940ea255
+julia 0.4
+NullableArrays
+
+0.0.6
+-----
+899016651079e50c56b54db6e090427212ed88d5
+julia 0.4
+NullableArrays
+
+0.1.0
+-----
+53bd1dc00b40bfc97aa6fc7d847894a137400dde
+julia 0.4
+NullableArrays
+
+0.1.1
+-----
+61fbb3fdc03084cf22226680bd14125b6ff87983
+julia 0.4
+NullableArrays
+
+0.1.2
+-----
+edfee3f0b1c037730a03f66cfa66a1bf95701c40
+julia 0.4
+NullableArrays
+Compat 0.8.6

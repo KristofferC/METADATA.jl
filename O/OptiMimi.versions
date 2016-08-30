@@ -1,0 +1,20 @@
+git://github.com/jrising/OptiMimi.jl.git
+
+0.0.1
+-----
+48cc2760d9b624d99266cf48953a61433245934f
+julia 0.4
+Mimi
+NLopt
+ForwardDiff
+
+0.0.2
+-----
+4c8c281cc3528a262e74c39b0529607e23cdbaa1
+julia 0.4
+Mimi
+NLopt
+ForwardDiff
+MathProgBase
+DataFrames
+Clp

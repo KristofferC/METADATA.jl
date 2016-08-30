@@ -1,0 +1,7 @@
+git://github.com/JuliaGPU/CUDAdrv.jl.git
+
+0.1.0
+-----
+c0cb8c0ea447ab4c9943e2a3653b0cebf8feb216
+julia 0.4
+Compat 0.7.20

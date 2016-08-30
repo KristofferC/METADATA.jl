@@ -1,0 +1,15 @@
+git://github.com/mbauman/Sparklines.jl.git
+
+0.1.0
+-----
+ae74a50aaae3939f652f6b2500abcbacd05ea690
+
+0.1.1
+-----
+4de4071f2b12b548bd7cffee28192e34a4e5a641
+
+0.1.2
+-----
+10105a0336196d53bd2e7a4d3b0025254406ae76
+julia 0.3
+Compat

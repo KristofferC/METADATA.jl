@@ -1,0 +1,28 @@
+git://github.com/Luthaf/Jumos.jl.git
+
+0.1.0
+-----
+546a91009d7e1e0deb7f4afbb6ab726fb67b151c
+julia 0.4- 0.5
+Reexport
+NetCDF
+Calculus
+SIUnits
+Distances
+
+0.2.0
+-----
+9a0820f81eb220df53dbb2aaef5764169c20a210
+julia 0.4- 0.5
+Reexport
+Calculus
+SIUnits
+Distances
+
+0.2.1
+-----
+9711fc747efcb1464fd96675eeede02304a17eb6
+julia 0.4- 0.5
+Reexport
+Calculus
+Distances

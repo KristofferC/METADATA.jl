@@ -1,0 +1,12 @@
+git://github.com/mpf/QRupdate.jl.git
+
+1.0.0
+-----
+60d7bf43b70b255706ee3798bee8161fac18ca16
+julia 0.4
+FactCheck
+
+1.0.1
+-----
+a53641cf45fd40cf05786097842d923bb9d7cd53
+julia 0.4

@@ -1,0 +1,52 @@
+git://github.com/JuliaPackaging/MetadataTools.jl.git
+
+0.1.0
+-----
+792f328e8a0128021a536594f14cf9933ce83ceb
+julia 0.3
+JSON
+Requests
+Graphs
+
+0.2.0
+-----
+1dce8f39470f3c41efeea3301a367c965331e82e
+julia 0.3
+JSON
+Requests
+LightGraphs
+Compat
+
+0.2.1
+-----
+36536e506cbd9501c27d901c1b949858027a9603
+julia 0.3
+JSON
+Requests
+LightGraphs 0.2
+Compat
+
+0.2.2
+-----
+2d9fcc6d2260197d5bb183a5f84e84bde7b8e39e
+julia 0.3
+JSON
+Requests
+LightGraphs 0.2
+Compat
+
+0.3.0
+-----
+cfbc54562ad26a0a71bb4207e4da677a3952039d
+julia 0.4
+
+0.3.1
+-----
+a0f15518bb5afdc364a593298a088a84bbea150f
+julia 0.4
+
+0.3.2
+-----
+16f0ea771bbce98e7a4ed3027227bd1cab9ee085
+julia 0.4
+Compat 0.7.16

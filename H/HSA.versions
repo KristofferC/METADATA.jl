@@ -1,0 +1,7 @@
+git://github.com/JuliaGPU/HSA.jl.git
+
+0.0.1
+-----
+ff47a4164c6554ffe195e38736e9b607f3317dc1
+julia 0.4
+Compat

@@ -1,0 +1,24 @@
+https://github.com/JuliaAudio/PortAudio.jl.git
+
+0.2.1
+-----
+2889669b7f0b04adb2cbca93f778295d799e8aa7
+julia 0.4
+BinDeps
+Devectorize
+SampledSignals
+RingBuffers
+@osx Homebrew
+@windows WinRPM
+
+0.3.0
+-----
+b6f59a1e9dcac55a746cf638e3fbe2b40c6fc87b
+julia 0.4
+Compat 0.8.8
+BinDeps
+Devectorize
+SampledSignals 0.1.0
+RingBuffers 0.1.0
+@osx Homebrew
+@windows WinRPM

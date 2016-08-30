@@ -1,0 +1,31 @@
+git://github.com/dehann/KernelDensityEstimate.jl.git
+
+0.0.1
+-----
+74f77dee7fb077b4531b08eab4ccf1647bed0c58
+julia 0.4
+Gadfly
+Colors
+
+0.0.2
+-----
+5b8c261c6f3c0485661ac24c60ca0fbca333293a
+julia 0.4
+Gadfly
+Colors
+
+0.0.3
+-----
+95823288805910a9e869c6c300d4688593ea1ec7
+julia 0.4
+Gadfly
+Colors
+
+0.0.4
+-----
+0131fb0cb53eb1e97092f1f0c23e98ecc381bfb6
+julia 0.4
+Cairo
+Fontconfig
+Gadfly
+Colors

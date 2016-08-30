@@ -1,0 +1,21 @@
+git://github.com/mschauer/IDRsSolver.jl.git
+
+0.1.0
+-----
+64a41a340113c3ff98eacb120d8b3018549e6d7c
+julia 0.4
+
+0.1.1
+-----
+5445fc7b4e0320d529b10e6288964c894a641de9
+julia 0.4-
+
+0.1.2
+-----
+4fd31f242dd92c9d6433a1f9dcac82eb58b17742
+julia 0.4-
+
+0.1.3
+-----
+df7ce9f55f601283830979f18cc589da542c39fc
+julia 0.4-

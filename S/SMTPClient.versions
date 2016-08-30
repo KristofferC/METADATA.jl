@@ -1,0 +1,13 @@
+git://github.com/aviks/SMTPClient.jl.git
+
+0.0.0
+-----
+0a0faf9916f94cb5a5888c1546d9460b20515424
+julia 0.2- 0.5
+LibCURL
+
+0.1.0
+-----
+f14bfe77e9275b1f1bbb090b2d1b5cdd3e4d5ef3
+julia 0.4 0.5
+LibCURL

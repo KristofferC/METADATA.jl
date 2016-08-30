@@ -1,0 +1,37 @@
+git://github.com/JuliaDiffEq/ODE.jl.git
+
+0.0.0
+-----
+b32a08264e3032022f7ce1dc780eb0c21fb7a972
+Polynomial
+
+0.1.0
+-----
+3ae921db7ca50a8044b886cc402897e1bdf2e13f
+julia 0.2
+Polynomial
+
+0.1.1
+-----
+913a3a5e0cf227edf2a2331deca5d3bb4943d7a9
+julia 0.2
+Polynomial
+
+0.1.2
+-----
+054769c185c65fea4f42acd2dd337e249cbf1641
+julia 0.2
+Polynomials
+
+0.2.0
+-----
+162c881430f51797fb91607770f55df554a4df5f
+julia 0.2
+Polynomials
+
+0.2.1
+-----
+9865c128fad90b9705c5aac5729bf456a93dc762
+julia 0.3
+Polynomials
+Compat 0.4.1

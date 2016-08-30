@@ -1,0 +1,36 @@
+git://github.com/davidavdav/MFCC.jl.git
+
+0.0.1
+-----
+983c90e95af0dc4df06e2e108d9d421fab58f35b
+DSP
+
+0.0.2
+-----
+3b6ebbea7d062fb4fb3abca24a65f353af06e6dc
+julia 0.3
+DSP
+Compat
+HDF5
+WAV
+
+0.1.0
+-----
+3d77cf74cf5e480a6a70db7e912c7ae8656017f7
+julia 0.3
+DSP
+Compat
+HDF5
+JLD
+WAV
+
+0.1.1
+-----
+0b7cbdd56a10987f62e6e1f8e2864824f98e9ec8
+julia 0.3
+DSP
+Compat
+HDF5
+JLD
+WAV
+FileIO

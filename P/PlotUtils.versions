@@ -1,0 +1,27 @@
+git://github.com/JuliaPlots/PlotUtils.jl.git
+
+0.0.1
+-----
+c8d84fe3add4fd683fa95f5cc1d155c844605dfd
+julia 0.4
+
+0.0.2
+-----
+ada3c99764173ffc8a64ca1023e2f09847c3d3d0
+julia 0.4
+Reexport
+Colors
+
+0.0.3
+-----
+e2f421de75813468538e6c1b510156479c90f630
+julia 0.4
+Reexport
+Colors
+
+0.0.4
+-----
+681b291aaa8ddafcbf863c3981693a450b81e9c9
+julia 0.4
+Reexport
+Colors

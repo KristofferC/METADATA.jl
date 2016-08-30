@@ -1,0 +1,9 @@
+https://github.com/FugroRoames/RobustLeastSquares.jl.git
+
+0.0.1
+-----
+2856fbbb1631523777e58d102b5eb5f328b87f20
+julia 0.4
+StatsBase
+IterativeSolvers
+Logging

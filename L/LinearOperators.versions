@@ -1,0 +1,7 @@
+git://github.com/JuliaSmoothOptimizers/LinearOperators.jl.git
+
+0.1.0
+-----
+6fd167f2d38ad8233eba5308aa56648f0764e32a
+julia 0.3
+Compat  # for Nullable types.

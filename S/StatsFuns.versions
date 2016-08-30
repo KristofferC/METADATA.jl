@@ -1,0 +1,74 @@
+git://github.com/JuliaStats/StatsFuns.jl.git
+
+0.0.1
+-----
+d6b3e8c9aadbbc96014e29abec2ac0909369c30c
+julia 0.3
+Compat 0.4.0
+
+0.0.2
+-----
+977722fb29361842ab668f75bc874104e37d1608
+julia 0.3
+Compat 0.4.0
+
+0.0.3
+-----
+85b769cef7d0e3ba829be84d42e0d78ad6a10282
+julia 0.3
+Compat 0.4.0
+
+0.1.0
+-----
+4b83f9e88e5a6bd4c8a251ab7f15d8a01fe56e5e
+julia 0.3
+Compat 0.4.0
+
+0.1.1
+-----
+03bcdf39d241c05a1165efc892a507dacf2276d0
+julia 0.3
+Compat 0.4.0
+
+0.1.2
+-----
+cb17da6260af5f6948a504d8c650c8ed3c7f71ce
+julia 0.3
+Compat 0.4.0
+
+0.1.3
+-----
+7aa5b33088bed36eed311f9f40ff60c1e15f5352
+julia 0.3
+Compat 0.4.0
+
+0.1.4
+-----
+ccd5e2692e79728da1124b3641b4f143f92db491
+julia 0.3
+Compat 0.4.0
+
+0.2.0
+-----
+723edaa163c95fc78c8d0b520150a91139acf434
+julia 0.3
+Compat 0.4.0
+
+0.2.1
+-----
+3db430d439e72f3e2580a0c818b4aaeff803eae2
+julia 0.3
+Compat 0.4.0
+
+0.2.2
+-----
+d64d64ace747caecffbcc5fe0920db5ce90e7ecd
+julia 0.3
+Compat 0.7.18
+
+0.3.0
+-----
+b8e379c6a67744b9fbcbbb11fecb2c1116767241
+julia 0.4
+Compat 0.8.4
+Rmath 0.1.0

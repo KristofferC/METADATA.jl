@@ -1,0 +1,152 @@
+git://github.com/JuliaOpt/CoinOptServices.jl.git
+
+0.0.1
+-----
+e1c37ffb093b3f201f024497b645a6d2a20287ee
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.2
+-----
+0f7d16d698c4bbb78d9b5681f008c8725a40c1ab
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.3
+-----
+54bbe3e8bedc2c0dfc685b43b6af52adee09f330
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.4
+-----
+93b57ccdc31539622051c36ff941ea8e1fd474e9
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML 0.1.10
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.5
+-----
+8d7e2495d948fd8623a6a6c3d6d17ac9069a9a2e
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML 0.1.10
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.6
+-----
+b61bcbb6ab33ff89f961fd5338ca0946c73e7a5f
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.7
+-----
+ed968248bb7c59444211fecd80f235f10fff0d45
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.0.8
+-----
+2198eda418c04b50f98d9ddd3aa49bdf890f7af8
+julia 0.3
+Compat
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.3 0.4
+@osx Homebrew
+@windows WinRPM
+
+0.1.0
+-----
+f7bc9186d4617546e0ab742cacf4ebae968f7b71
+julia 0.4
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.1
+-----
+5265a6d37fe252d5948cc92088d64935ba6a7d63
+julia 0.4
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.5.0 0.6.0-
+@osx Homebrew
+@windows WinRPM
+
+0.1.2
+-----
+edd66258f789699a26bbaf4abfec33670c9f7f3e
+julia 0.4
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.5.0 0.6.0-
+@osx Homebrew
+@windows WinRPM

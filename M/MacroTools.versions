@@ -1,0 +1,32 @@
+git://github.com/MikeInnes/MacroTools.jl.git
+
+0.1.0
+-----
+e8b6d9219a13113a364e9e212fa0dc89cc6d6fd9
+
+0.2.0
+-----
+9d2a3e685994e74aebddc0ef608e8cee5af47c97
+julia 0.3
+
+0.2.1
+-----
+2acea4ff989e275aa6d4cc40a43d2bba7c006623
+julia 0.4
+
+0.3.0
+-----
+486081c07bead7eea1ed7f8e5814323a47ac30b5
+julia 0.4
+
+0.3.1
+-----
+ffce8f322b4779ae6c7bb79cca08fcc14c354284
+julia 0.4
+Compat
+
+0.3.2
+-----
+7e5dbcea0bdee43d0f4ebc2d0608557279c910da
+julia 0.4
+Compat

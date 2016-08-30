@@ -1,0 +1,133 @@
+git://github.com/davidavdav/GaussianMixtures.jl.git
+
+0.0.1
+-----
+162134519d895ff8131995ee2712ced185362346
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+HDF5
+MAT
+Compat
+
+0.0.10
+------
+00cd53d0928a0d694d40cf6c05071f8eca64d529
+julia 0.3 
+Clustering
+Distributions 0.0 0.10
+PDMats
+Compat
+JLD
+
+0.0.11
+------
+9b9fdd310b694d2bc50c9cb7178ff9fa5046edb0
+julia 0.3 
+Clustering
+Distributions 0.0 0.10
+PDMats
+Compat
+JLD
+
+0.0.12
+------
+f7bcaa15278b2f71d2e75543d174f7ad5daaf610
+julia 0.3 
+Clustering
+Distributions 0.0 0.10
+PDMats
+Compat
+JLD
+ScikitLearnBase 0.0.2
+
+0.0.2
+-----
+ffe897af46fac9d21d9a1c92855fce004ad53488
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+HDF5
+MAT
+Compat
+
+0.0.3
+-----
+f67c984fc2d40961b52492a1486fbec8373417d9
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+HDF5
+MAT
+Compat
+
+0.0.4
+-----
+68564fbd7a162fd44b947940428eed06f7920ed6
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+PDMats
+HDF5
+
+0.0.5
+-----
+38534107c43308e298cbe79781be91acb54b2c86
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+PDMats
+HDF5
+Compat
+
+0.0.6
+-----
+e44f45a6b0cd6684375349d6bfe87c4a302436a5
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+PDMats
+HDF5
+Compat
+
+0.0.7
+-----
+aa602b4a3572d788d0b81dbc67a9a4e9c46da4ab
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+PDMats
+HDF5
+Compat
+
+0.0.8
+-----
+39af323ec9138bb656af10499834f38c641f10f4
+NumericExtensions
+Clustering
+Distributions 0.0 0.10
+PDMats
+HDF5
+Compat
+JLD
+
+0.0.9
+-----
+98f172cb6b1e710c0e15a1653aa351fb1a7e636c
+julia 0.3 
+Clustering
+Distributions 0.0 0.10
+PDMats
+Compat
+JLD
+
+0.1.0
+-----
+9b49c4a4e173e72375817182332f2c6dab95bce8
+julia 0.4
+Clustering 0.6.0
+Distributions
+PDMats
+Compat
+JLD
+ScikitLearnBase 0.0.2

@@ -1,0 +1,71 @@
+git://github.com/alsam/OffsetArrays.jl.git
+
+0.1.0
+-----
+cb274cfc4116b8402c24fc3cc6c17632fdbcd3f4
+julia 0.3
+
+0.1.2
+-----
+68601539d2a245b018723cfe7d45af8848ff5ac1
+julia 0.3
+
+0.1.3
+-----
+b0fad283e4c241b3f3634059ff28c9b1a2f81efb
+julia 0.3
+
+0.2.0
+-----
+172e698fa3daf2fc47e5264802044e1da286372e
+julia 0.5-
+
+0.2.1
+-----
+3a1964231566cd6163d1e926ca2cec4f31edea12
+julia 0.5-
+
+0.2.10
+------
+c9aa4e36b739e3cf33ab509773e02be603f26808
+julia 0.5-
+
+0.2.2
+-----
+e3e5d4154fa6111707d767abc6adca3f01023b7c
+julia 0.5-
+
+0.2.3
+-----
+31f35103f959f36b647c1624fc6b3a31c80f69c5
+julia 0.5-
+
+0.2.4
+-----
+fbed71ff228afd429871f3d6c028b575dfdccfb4
+julia 0.5-
+
+0.2.5
+-----
+b795ca7bbe7746117de86615e41b5f486b7392b1
+julia 0.5-
+
+0.2.6
+-----
+79af57c647369c7fb0aec9753868799d908b67d6
+julia 0.5-
+
+0.2.7
+-----
+79af57c647369c7fb0aec9753868799d908b67d6
+julia 0.5-
+
+0.2.8
+-----
+838f8461b5bf679e4a07cfab8e45f297efa386fe
+julia 0.5-
+
+0.2.9
+-----
+6418ba4577a0e89711f9c34d104db822ec3857a0
+julia 0.5-

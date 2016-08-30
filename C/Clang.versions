@@ -1,0 +1,44 @@
+git://github.com/ihnorton/Clang.jl.git
+
+0.0.0
+-----
+dc9ca2a40605da022af310ba13994ac046b3c0fa
+julia 0.2-
+BinDeps
+
+0.0.1
+-----
+4c8e748756f255a8b577ffb837e233cd01325774
+
+0.0.2
+-----
+e9c9597731750d3e2bfab58f20da39cb16561e31
+julia 0.3-
+DataStructures
+
+0.0.3
+-----
+75f962316c5d56be3ba1491c80e1d97ea7d49576
+julia 0.3-
+Compat
+DataStructures
+
+0.0.4
+-----
+c4d18994e7b4f6a5d8de6f88eea681639528a74a
+julia 0.3-
+Compat
+DataStructures
+
+0.0.5
+-----
+3921bdb0925068dbbf782c1f837f4d747f16529e
+julia 0.3-
+Compat
+DataStructures
+
+0.1.0
+-----
+ca3880c7c977a68193bcf2f570008a6a57eaf9e1
+julia 0.4-
+DataStructures

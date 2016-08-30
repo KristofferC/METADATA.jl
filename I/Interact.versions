@@ -1,0 +1,101 @@
+git://github.com/JuliaLang/Interact.jl.git
+
+0.1.0
+-----
+67a0ec1284e12cdfc7c6394df8fae3a70f69c72c
+React 0.1.6-
+DataStructures 0.2.10-
+
+0.1.1
+-----
+7d1b529f54479a3a08f7041027bd09a43c900975
+React 0.1.6-
+DataStructures 0.2.10-
+
+0.1.2
+-----
+c6e872b1291e2ac156f6b2ad5cbed932e9f20f02
+React 0.1.6-
+DataStructures 0.2.10-
+
+0.1.3
+-----
+3c35c203b0f0b9ad391ce9061d5ca706c2b983d0
+Reactive 0.1.7-
+DataStructures 0.2.10-
+
+0.1.4
+-----
+0946aef82974c5881f5c7f3ccb942a52992275bc
+JSON
+Reactive 0.1.8-
+DataStructures 0.2.10-
+
+0.1.5
+-----
+54a4088e84fd7ac2198709952f69dc687255c63a
+JSON
+Reactive 0.1.9-
+DataStructures 0.2.10-
+
+0.1.6
+-----
+a4239a755bfffe982aff0c998aaed7db91261005
+JSON
+Compat
+Reactive 0.1.9-
+DataStructures 0.2.10-
+
+0.1.7
+-----
+a3e048fcc283ee4bbdcb6792d480428e982fa8b6
+julia 0.3
+JSON
+Compat
+Reactive 0.1.9
+DataStructures 0.2.10
+
+0.2.0
+-----
+a9468e286029023e6595a55323d9c9e8246ab439
+julia 0.3
+JSON
+Compat
+Reactive 0.1.9
+DataStructures 0.2.10
+
+0.2.1
+-----
+e049a832398f71a15f5f0fd8f691efdcd9c87018
+julia 0.3
+JSON
+Compat 0.7
+Reactive 0.2.4
+DataStructures 0.2.10
+
+0.3.0
+-----
+cc5f4cfd34687000bc6bc70f0513eaded1a7c950
+julia 0.4
+JSON
+Compat 0.7
+Reactive 0.3
+DataStructures 0.2.10
+
+0.3.1
+-----
+ad03087abaa803302a0f6888d7c7a15764b4420c
+julia 0.4
+JSON
+Compat 0.7
+Reactive 0.3
+DataStructures 0.2.10
+
+0.3.2
+-----
+e02fd0346e0886e95178cdf40f8cd11cd83ff6c5
+julia 0.4
+JSON
+Compat 0.7
+Reactive 0.3
+DataStructures 0.2.10

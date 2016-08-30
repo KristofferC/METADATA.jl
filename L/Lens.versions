@@ -1,0 +1,20 @@
+git://github.com/zenna/Lens.jl.git
+
+0.0.1
+-----
+f5531ae4892a55a423ceb29fef3e76877746f1a9
+julia 0.3-
+
+0.0.2
+-----
+c6c75ec4d5f24abd3f546c040428e3f9aca7a9df
+julia 0.3-
+Compat 0.4.0
+Docile 0.4.10-
+
+0.0.3
+-----
+256d697fd31054e797523852f183cbeec3834733
+julia 0.3
+Compat
+Docile

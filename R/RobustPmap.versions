@@ -1,0 +1,49 @@
+git://github.com/madsjulia/RobustPmap.jl.git
+
+0.1.0
+-----
+06a05a03cafe5908c894d4903ab4fd681d45c774
+julia 0.4
+
+0.1.1
+-----
+06a05a03cafe5908c894d4903ab4fd681d45c774
+julia 0.4
+
+0.1.2
+-----
+81157ce162d53b3f90a9c114d139efcba7a1014a
+julia 0.4
+
+0.1.3
+-----
+d3d6d9ea5cf2b073dbe93c3338c8d0e1ea9dc33e
+julia 0.4
+
+0.1.4
+-----
+3751f3f2335217f8ba83893523a388d4477840e1
+julia 0.4
+
+0.1.5
+-----
+68e0549696c5058156ccb0a8e5e28579f3a31afd
+julia 0.4
+
+0.1.6
+-----
+7692c05f665bb7ea09d7d5ddec04e6341974a1ab
+julia 0.4
+JLD
+
+0.1.7
+-----
+6160b56094771a420b9a2af57f234ea18a1d062e
+julia 0.4
+JLD
+
+0.1.8
+-----
+b14c5e2d613e51b1bc9f4997732d0701b9d809c8
+julia 0.4
+JLD

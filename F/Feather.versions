@@ -1,0 +1,31 @@
+https://github.com/JuliaStats/Feather.jl.git
+
+0.1.1
+-----
+1b36d435f4ee9b0bc4fbf9b830d1335629668863
+julia 0.4
+FlatBuffers
+DataStreams
+DataFrames
+NullableArrays
+WeakRefStrings
+
+0.1.2
+-----
+3d275a07c8a8584f83c6d4191f2dfa1d41d8db45
+julia 0.4
+FlatBuffers
+DataStreams
+DataFrames
+NullableArrays
+WeakRefStrings
+
+0.1.3
+-----
+d2f2e9b9f212c12a96807ab3359ae749e734da7b
+julia 0.4
+FlatBuffers 0.1.1
+DataStreams 0.0.10
+DataFrames
+NullableArrays
+WeakRefStrings 0.1.3

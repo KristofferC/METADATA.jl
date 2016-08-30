@@ -1,0 +1,70 @@
+git://github.com/jaak-s/BayesianDataFusion.jl.git
+
+0.1.0
+-----
+ea944e22bf895dc002cedf9d92fcfc3bc0834ed2
+DataFrames
+Distributions
+
+0.2.0
+-----
+507a4652bcd30e6227ff4397e06676a504a99639
+DataFrames
+Distributions
+
+0.3.0
+-----
+b540ad2edc619091fa2a63df25d0acf0e3360549
+DataFrames
+Distributions
+
+0.3.1
+-----
+e2f1658c9ad0241014e47756e7edde3c309f3dd3
+DataFrames
+Distributions
+
+0.3.2
+-----
+d55b97271c229b0210c7ac5aa9b9649d1b3a63d4
+DataFrames
+Distributions
+
+0.3.3
+-----
+189639fa833ddc57cb061e03e218c6952a60d7b8
+DataFrames
+Distributions
+
+0.3.4
+-----
+1fb746a848f48a6c7f4bb760fce995984e71b24a
+DataFrames
+Distributions
+Iterators
+
+0.3.5
+-----
+bf88bfd589b10ede31342f0b93b7cbb199918176
+DataFrames
+Distributions 0.7.3
+Iterators
+Compat 0.4.4
+
+1.0.0
+-----
+d1b60432024ba4ab27a7132271e958e234a6ef51
+julia 0.3
+DataFrames
+Distributions 0.7.3
+Iterators
+Compat 0.4.4
+
+1.1.0
+-----
+29c7900afa03d0534604f3b1a4e2a3f2f030aa04
+julia 0.3
+DataFrames
+Distributions 0.7.3
+Iterators
+Compat 0.4.4

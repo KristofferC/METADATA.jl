@@ -1,0 +1,7 @@
+git://github.com/yarlett/StackedNets.jl.git
+
+0.0.1
+-----
+a27da6bd8a3ed00cd77d1e6cb2eceeb564d8b03ajulia 0.3-
+DataFrames
+StatsBase

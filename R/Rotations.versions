@@ -1,0 +1,29 @@
+git://github.com/FugroRoames/Rotations.jl.git
+
+0.0.1
+-----
+fa90fd4028d56934ecb16cddcaaa314c6480cca9
+julia 0.4
+FixedSizeArrays
+Quaternions
+
+0.1.0
+-----
+9a5cb5b8b4d2de418f47cc3ee4e1f7ca6c52d004
+julia 0.4
+FixedSizeArrays
+Quaternions
+
+0.2.0
+-----
+121e73d7fce6c6f997eaabaaa0086e15fc9e8620
+julia 0.4
+Compat
+FixedSizeArrays
+Quaternions
+
+0.3.0
+-----
+760f1fa3100adbfea9916630ead7cfa3abfeb503
+julia 0.5-
+StaticArrays 0.0.3

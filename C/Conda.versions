@@ -1,0 +1,97 @@
+git://github.com/Luthaf/Conda.jl.git
+
+0.1.0
+-----
+a5150832de1192691122b0b4fcfd0e06be72f013
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.1
+-----
+681ba46a6ea8ebd95a4477cab3eb52392b80cddc
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.2
+-----
+1156d54d7dab917698ab5d7bebc1a027dcb46c47
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.5
+-----
+71d7f071482ac51e374a5990465ddd525662df0a
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.6
+-----
+a345989bd944de451671a5eda42e78f597d1f282
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.7
+-----
+4e9f3009ce319b19f803e175b0e0955b4b54f1df
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.8
+-----
+fc40ebe5488974a7d4e4edce36a238a6ebe03437
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.1.9
+-----
+8d25479190982497e16f13701432e1d93b1f0ec4
+julia 0.3.3
+BinDeps
+Compat
+JSON
+
+0.2.0
+-----
+876fb80a00e036e96ad878d45d9b6d1adc8ae10f
+julia 0.3.3
+BinDeps
+Compat 0.7.15
+JSON
+
+0.2.1
+-----
+8ceedda4e8879fb0fa3e673227b934baff27c388
+julia 0.3.3
+BinDeps
+Compat 0.7.15
+JSON
+
+0.2.2
+-----
+301245077ee784daef72553172273d555d802447
+julia 0.3.3
+BinDeps
+Compat 0.7.15
+JSON
+
+0.2.3
+-----
+90ff4b3284d2e32ef918d017058072a2c1c41189
+julia 0.3.3
+BinDeps
+Compat 0.7.20
+JSON

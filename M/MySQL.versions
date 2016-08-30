@@ -1,0 +1,17 @@
+git://github.com/JuliaDB/MySQL.jl.git
+
+0.0.1
+-----
+5fc89185297915c2e97d850d61b947912ac3c447
+julia 0.3
+DataFrames
+Compat
+Dates
+
+0.0.2
+-----
+c7024e7e406c16b47b5825a398e829fcdfd57421
+julia 0.3
+DataFrames
+Compat
+Dates

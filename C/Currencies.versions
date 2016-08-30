@@ -1,0 +1,66 @@
+git://github.com/JuliaFinance/Currencies.jl.git
+
+0.0.1
+-----
+a5e72c85f4b1ed6b1d26156bb64c424aba13987e
+julia 0.4
+MacroTools
+
+0.0.2
+-----
+2a3976e242e061519b8b980bcb2d37e6653b46ba
+julia 0.4
+MacroTools
+Requests
+
+0.1.0
+-----
+a9964dcfdd92186bbfd07a44696ee5423bcb3473
+julia 0.4
+MacroTools
+Requests
+
+0.1.1
+-----
+6486f4d2dbc11b6bd4e8be9793081bf82a68376b
+julia 0.4
+DataStructures
+MacroTools
+Requests
+
+0.2.0
+-----
+32610a66dd6d3809c38e323fc440e702e414aa95
+julia 0.4
+MacroTools
+Requests
+
+0.3.0
+-----
+6683e8238ac3f79c200c087446c6a57033298558
+julia 0.4
+MacroTools
+Requests
+Compat
+
+0.3.1
+-----
+e269f452c2e09fd91f06fb282ac5068ac4b681d2
+julia 0.4
+MacroTools
+Requests
+Compat 0.7.16
+
+0.3.2
+-----
+15ed54065d5405d73ff7002fff3c2089d6fb5876
+julia 0.4
+Requests
+Compat 0.7.16
+
+0.4.0
+-----
+4a0c9fd030ac5257065305901a8083a5cfa07235
+julia 0.4
+Requests 0.3.0
+Compat 0.7.16

@@ -1,0 +1,31 @@
+git://github.com/dmbates/NLreg.jl.git
+
+0.0.0
+-----
+edccac3827377135f971b04e044ff137e57e2565
+julia 0.2-
+DataFrames 0.3.6-
+NumericExtensions 0.2.15-
+Distributions 0.2.9-
+StatsBase 0.2.7-
+NLopt
+
+0.1.0
+-----
+b992c6cb1afde0072a123adb564a5a82d2cacece
+julia 0.3-
+DataFrames 0.3.6-
+NumericExtensions 0.3.5-
+Distributions 0.2.13-
+StatsBase 0.2.9-
+NLopt
+
+0.1.1
+-----
+5aa4817ecd992bbe498e3a35e2e86041b2b1957a
+julia 0.3-
+DataFrames 0.5-
+Distributions 0.5-
+NLopt
+NumericExtensions 0.3.5-
+StatsBase 0.6-

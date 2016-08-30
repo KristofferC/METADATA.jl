@@ -1,0 +1,23 @@
+https://github.com/quinnj/WeakRefStrings.jl.git
+
+0.1.0
+-----
+7dd57d8168c045459f64045aa985bf71af1bc16d
+julia 0.4
+
+0.1.1
+-----
+46363b01436c6f3c787d0265991783b0574f0460
+julia 0.4
+
+0.1.2
+-----
+34dc86ff7622a9e1959e0d33ad050ae6d04a28b5
+julia 0.4
+LegacyStrings
+
+0.1.3
+-----
+5bfb17cde0044776b7b77b776b2cdc4d11d22892
+julia 0.4
+LegacyStrings

@@ -1,0 +1,79 @@
+git://github.com/lindahua/Regression.jl.git
+
+0.0.0
+-----
+9fecd828f13ce27a62070d7adaf4cdfcaee48e37
+julia 0.2- 0.3
+NumericExtensions
+Optim 0.0 0.5
+
+0.1.0
+-----
+ab295333c5f236a2fdb43eadf8fd7b7dc54b3faf
+julia 0.3
+Reexport
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.1
+
+0.1.1
+-----
+04827f61c17ebf5e8a8080d2b198109a288034b8
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.2
+
+0.1.2
+-----
+7ae77234ed2f5b37da48c07745eeb8c328212c74
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3
+
+0.2.0
+-----
+20abe9c2cde10353fc3ca78b11f745b426aee5e1
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3
+
+0.2.1
+-----
+232e4bf22c3c831d640da60ba6d1d3d27c5661b0
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3
+
+0.2.2
+-----
+28dcc56721aab661acf82ab5f900eec60ce516a3
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3
+
+0.2.3
+-----
+83a6758b90777e7b6452951df0acbe8b9e11d9b7
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3
+
+0.3.0
+-----
+75d6c981efead110c4adcf6a2eebe76ec94deb4a
+julia 0.3
+Reexport
+Compat 0.4.1
+ArrayViews 0.6.0
+EmpiricalRisks 0.2.3

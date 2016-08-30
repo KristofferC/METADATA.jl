@@ -1,0 +1,95 @@
+git://github.com/SimonDanisch/FixedSizeArrays.jl.git
+
+0.0.1
+-----
+9bcef6b7debeb6bb792cc7cc09f7e94095363607
+julia 0.4-
+Compat
+
+0.0.10
+------
+a369998415d26b34a585fffbda3afb42a051f369
+julia 0.4
+
+0.0.2
+-----
+9bcef6b7debeb6bb792cc7cc09f7e94095363607
+julia 0.4-
+Compat
+
+0.0.3
+-----
+e9bbbfb9c1af043d65af1c88c71c3d98eb2102d0
+julia 0.4-
+Compat
+
+0.0.4
+-----
+7141fa8941dba9851562fed1440e0211b58f4073
+julia 0.4-
+
+0.0.5
+-----
+f5205bd686e197cad05c113325e6b507116fee1e
+julia 0.4-
+
+0.0.6
+-----
+5e438ede34df962099ee609fa219afd62d09114e
+julia 0.4-
+
+0.0.7
+-----
+3f5eb47c72ca3717c9f9660ef5c34e888adfdcad
+julia 0.4-
+
+0.0.8
+-----
+916217907601a0143e3fe7b21f6defea208c4633
+julia 0.4
+
+0.0.9
+-----
+2b4ca7c5336ce6480b1ecab73adae34a35fc2b2b
+julia 0.4
+
+0.1.0
+-----
+01bf5f5f1776111a5ca05ed88566ab90253d9e99
+julia 0.4
+
+0.1.1
+-----
+2bc5f6803fcaa4018051ba20f84c2a68fa0667d0
+julia 0.4
+Compat
+
+0.1.2
+-----
+b8d3d5ec4044549d8cfe71a0f9f7ffad3acb7a2f
+julia 0.4
+Compat 0.7.15
+
+0.2.0
+-----
+ce79a6dbcc44a41d1fc4421d0d325f6752387139
+julia 0.4
+Compat 0.7.15
+
+0.2.1
+-----
+bc3c8fe24e49e422ca276deca4797ddad7a1dc4d
+julia 0.4
+Compat 0.7.15
+
+0.2.2
+-----
+1e41b76a0db8566f5c5e5a573ce7a8f0674e601a
+julia 0.4
+Compat 0.7.15
+
+0.2.3
+-----
+0c28d4841c8ab4323501587c4c052eeb2b28b296
+julia 0.4
+Compat 0.8.7

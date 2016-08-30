@@ -1,0 +1,11 @@
+git://github.com/sdwfrost/Gillespie.jl.git
+
+0.0.1
+-----
+dc8e829603a62c953033d796b2b74709a25ade0d
+julia 0.4
+Distributions
+StatsBase
+DataFrames
+Docile
+Lexicon

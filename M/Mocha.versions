@@ -1,0 +1,84 @@
+git://github.com/pluskid/Mocha.jl.git
+
+0.0.1
+-----
+33bf945f0ac870f6998941ec0e38cf230aeccc99
+HDF5
+Logging
+
+0.0.2
+-----
+56d8a885fdb96cf630ea975833bd96786da17f03
+HDF5
+Logging
+
+0.0.3
+-----
+998401f65605e8144d1ff7126b9a1a2ee2c187e1
+HDF5
+Logging
+
+0.0.4
+-----
+617f810c994f53a4779b4922f606f2c7c4fe5862
+HDF5 0.4.7
+Logging
+
+0.0.5
+-----
+39e17e019e7a84ed43318ea19689c7c052d2407e
+HDF5 0.4.7
+Logging
+
+0.0.6
+-----
+490fed89fea4efc0794d5cdb1bba1988bf288bc4
+HDF5 0.4.7
+Logging
+
+0.0.7
+-----
+b3772540d47f822180deb72e0ffeb63c9a511d8f
+HDF5 0.4.7
+Logging
+
+0.0.8
+-----
+8546e35cb626025204d6394c412d95d292bc977a
+HDF5 0.4.7
+Logging
+
+0.0.9
+-----
+acdbf71b63c262c8cb33391193d6a3042e9cd20b
+julia 0.3
+HDF5 0.4.7
+JLD
+Logging
+
+0.1.0
+-----
+ab26d5dfa57554dcce633f4434d3df83ef958625
+julia 0.3
+HDF5 0.4.7
+JLD
+Logging
+Compat
+
+0.1.1
+-----
+c3f948f9bdddf66a1a80dbcdd660c8153cfeed00
+julia 0.3
+HDF5 0.4.7
+JLD
+Logging
+Compat
+
+0.1.2
+-----
+be17557e2db3a81d2ca517d0dc4a0488b4935285
+julia 0.3
+HDF5 0.4.7
+JLD
+Logging
+Compat

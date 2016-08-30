@@ -1,0 +1,7 @@
+git://github.com/seung-lab/Watershed.jl.git
+
+0.0.1
+-----
+95866c0b4b8495b5305f6f357c982f3dda809419
+julia 0.4
+DataStructures

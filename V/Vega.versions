@@ -1,0 +1,219 @@
+git://github.com/johnmyleswhite/Vega.jl.git
+
+0.0.0
+-----
+fcabb6f46a1f51ad95da7c259fa49f43cae49877
+julia 0.2-
+JSON
+
+0.1.0
+-----
+79441fb604c92525744444f9f9f374234e7ee6f5
+julia 0.4-
+JSON
+
+0.2.0
+-----
+d4dee4f5329fb20328cd2d7f8af97615222b5c79
+julia 0.3
+JSON
+
+0.2.1
+-----
+3dfc33ccc6e5f2021707809672dc1821d4e500a4
+julia 0.3
+JSON
+
+0.2.2
+-----
+a36c7d34fc5a5700b32a46288cdc4059c7ecf206
+julia 0.4-
+JSON
+
+0.2.3
+-----
+94bc84d33dd61541c52d616436be044e3b039289
+julia 0.4-
+JSON
+
+0.3.0
+-----
+8ebc78161e96b498c8b1a20f9811dea9499d0506
+julia 0.4-
+JSON
+ColorBrewer
+
+0.3.1
+-----
+41d68862f18b55d465973edfc62ac4c418a18e22
+julia 0.4-
+JSON
+ColorBrewer
+
+0.3.2
+-----
+3cc44cc591bc03bfe1199b23e35245cff27d44f9
+julia 0.3
+JSON
+ColorBrewer
+
+0.3.3
+-----
+11815a42c2419f707b29585135494d152b09c055
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.4.0
+-----
+b3420e517fd0b85a44dc0dc70acb70f283ad46af
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.4.1
+-----
+e97ebd6d1691dfa4f162183fcb8063436ed5cf48
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.4.2
+-----
+2d4e02c479d86617b31fce5cf8405918407693bb
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.5.0
+-----
+05f2b6d32436c02920585067bc55e7725e2e3462
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.5.1
+-----
+a0da46b2f9d828769df9ca4ea63b01cca2c8adf6
+julia 0.3
+JSON
+ColorBrewer
+Compat
+
+0.5.2
+-----
+b0d7d5146898d3d661da6c5c342a878061be9832
+julia 0.3
+JSON
+ColorBrewer
+Compat
+KernelDensity
+
+0.5.3
+-----
+a579fc6a80d1427614f01c1adcb496470c6ae994
+julia 0.3
+JSON
+ColorBrewer
+Compat
+KernelDensity
+
+0.5.4
+-----
+8b7badeaa0c437c434c2922b817361829215ce39
+julia 0.3
+JSON
+ColorBrewer
+Compat
+KernelDensity
+
+0.6.0
+-----
+0626de46a99e0154967ba822d9c8d87718e4abd0
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+
+0.6.1
+-----
+48d0034645cbf0db416a1b288ca1e51510aa8183
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+
+0.6.2
+-----
+19213d8100a4589a00774e26fc39896fe06d16c5
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+
+0.6.3
+-----
+5662a8fb8207224934f33a26e85d2c0c55d261bc
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+
+0.6.4
+-----
+d4b9b329a93d693b46af8f3c26c638a53d70908d
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork
+
+0.6.5
+-----
+61ec2a9923705bf7b3ca761a79efe244926506cd
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork
+
+0.6.6
+-----
+703a854f1f084213465e07d9379400628b55cf18
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork
+
+0.6.7
+-----
+b2f6bbda6ea8e1dd377b1e1ced56315ebd4bd37a
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork
+
+0.6.8
+-----
+22a2b81239f08c9fedbef00b06e727e641a826e4
+julia 0.4
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork

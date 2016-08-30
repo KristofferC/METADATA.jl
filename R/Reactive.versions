@@ -1,0 +1,76 @@
+git://github.com/JuliaLang/Reactive.jl.git
+
+0.1.10
+------
+f8f5208f76c208a059de9107ca3e292b832a3847
+julia 0.2-
+
+0.1.7
+-----
+05eb3283fa9877ae62550d27c70e0918956f657e
+julia 0.2-
+
+0.1.8
+-----
+f62b8b676fd19d6d89cb17214a4cc8e195758158
+julia 0.2-
+
+0.1.9
+-----
+5e6cc0f0c7ee000126f629bf0b02fe1668dfdeb6
+julia 0.2-
+
+0.2.0
+-----
+397b12196d869192a669194f1919c95cd898a1a3
+julia 0.2-
+FactCheck
+Compat 0.4.0
+
+0.2.2
+-----
+f79056a35b679215d097936a4d781d97ba0df5b8
+julia 0.2-
+FactCheck
+Compat 0.4.0
+
+0.2.3
+-----
+6c016c65117140df4b5cf56074375616ee40094a
+julia 0.3
+FactCheck
+Compat 0.4.0
+
+0.2.4
+-----
+dfa72bc7675a47b83d5eb0cb8ecfa8fd0c0e3082
+julia 0.3
+FactCheck
+Compat 0.4.0
+
+0.3.0
+-----
+e478ecbd879f30e21ab0033f10c70fedbdae2050
+julia 0.4
+
+0.3.1
+-----
+1ca8af6f0750d17b4a7332731a758d81ab12c0b2
+julia 0.4
+
+0.3.2
+-----
+30af92da5fb9d9fa1f70c8478edd71ec01370be9
+julia 0.4
+
+0.3.3
+-----
+4d4417fd437dd5e11c5c00c0c38e2920f42d1ab5
+julia 0.4
+Compat
+
+0.3.4
+-----
+393520a9ebd02402ca0609e1b1b95af7518f8b00
+julia 0.4
+Compat

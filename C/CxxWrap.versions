@@ -1,0 +1,45 @@
+git://github.com/barche/CxxWrap.jl.git
+
+0.1.0
+-----
+86642f9314792a55141a30033dca43d2debf7e76
+julia 0.4
+BinDeps
+
+0.1.1
+-----
+7eb36262b559627e82983de004e5ba9cc4809a6c
+julia 0.4
+BinDeps
+
+0.1.2
+-----
+ea74742685b58fb7a845c9f9f735a7f258c85fd5
+julia 0.4
+BinDeps
+
+0.1.3
+-----
+ebb9b47013f515974f7ffb617f429e6b8cb00353
+julia 0.4
+BinDeps
+
+0.1.4
+-----
+61ae68a8d0ab6ecf63e779201bd25683ecf5049d
+julia 0.4
+BinDeps
+
+0.1.5
+-----
+16c4ff2a54bfd7135b3d71b37558019c317182d8
+julia 0.4
+BinDeps
+Compat 0.8.2
+
+0.1.6
+-----
+249a6f5e3f3f56c19e1dc42ebdfc1d9cd189222c
+julia 0.4
+BinDeps
+Compat 0.8.2

@@ -1,0 +1,16 @@
+git://github.com/SimonDanisch/SignalView.jl.git
+
+0.0.1
+-----
+dbeafcdd0eda97e17d5fec2d03c0566e8d67bd87
+julia 0.4
+GLVisualize
+GeometryTypes
+Reactive
+GLVisualize
+GLAbstraction
+Colors
+GLWindow
+GraphLayout
+Cbc
+Clp

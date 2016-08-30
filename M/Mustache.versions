@@ -1,0 +1,99 @@
+git://github.com/jverzani/Mustache.jl.git
+
+0.0.0
+-----
+ac5f69b2f43165bb3f65fc749971493e373a1327
+DataFrames
+
+0.0.1
+-----
+f3f47706c6c862e107516546d4fd0857c4155b62
+julia 0.2-
+DataFrames
+
+0.0.10
+------
+38121df41b210f71ca662e2a4264a9b1b39873bc
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.11
+------
+1264e8ca17cf26117e721df2b67850cba2b5dd9f
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.12
+------
+3b66f5061145324e50f66dc9e9be624e8de1d0dc
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.13
+------
+280eceb56aceb05f0c606affb5aaeeb548c2f745
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.14
+------
+f53812def6964a56bff2ccec31a5a59edc129afd
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.15
+------
+15cf3ae9fbff6ce4f6a6fe0e4722174bf5284713
+julia 0.3
+Compat 0.7.18
+
+0.0.2
+-----
+165a7435221efb90cad788ce3a640461131430ee
+julia 0.2-
+
+0.0.3
+-----
+0187f30a03f404f9e9ac5776c69d8dfe8fcba799
+julia 0.2-
+
+0.0.4
+-----
+af83bad9392bb5fa81540f1a55e9a6dbfe1a8eac
+julia 0.2-
+
+0.0.5
+-----
+c2e461099930c439ba4bfb095b7c285eb6c89ca2
+julia 0.2-
+
+0.0.6
+-----
+3fb2106e68d419685ce60c628e15303d6b6822d9
+julia 0.2
+
+0.0.7
+-----
+cfefccc4c8f2391c1cfb1722f187c57eebd56532
+julia 0.3
+Compat
+Requires
+
+0.0.8
+-----
+40f0f39c5ca45738ca18939304c6ee4c747003c2
+julia 0.3
+Compat 0.4
+Requires
+
+0.0.9
+-----
+73d88267dbc4580bd9afacfbe536aacff1e14168
+julia 0.3
+Compat 0.4
+Requires

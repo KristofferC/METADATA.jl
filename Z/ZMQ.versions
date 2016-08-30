@@ -1,0 +1,189 @@
+git://github.com/JuliaLang/ZMQ.jl.git
+
+0.0.0
+-----
+cfb81439811755bc8e8ccde02e91014b6b27ab5e
+
+0.1.0
+-----
+681a0c3eeb0496a900c270136a8acd8735911903
+BinDeps 0.2.1-
+
+0.1.1
+-----
+296c644e182c8fc5a0a362688d482903d0cec356
+BinDeps 0.2.3-
+
+0.1.10
+------
+2e3f9aa52a560cdbdad8584c77062dbb39cd3b52
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.11
+------
+c36c48bf467835676189be1bdd8f2c363d85b6d0
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.12
+------
+94e5c9cc756f78ee87446593d5b1b7896067247d
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.13
+------
+8f1eddbfa8a044513776953d702efb6b9c122beb
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.14
+------
+239381009d8127d621724b3fa6c4734ce660f979
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.15
+------
+336450e8fa40e96c92c2ac694c10a40f1a80bdfd
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.2
+
+0.1.16
+------
+e5038a7bdb9fdbd336a4dca0492cc4f52b88fda5
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.2
+@windows WinRPM
+
+0.1.17
+------
+02e4afb2aa4d18d6ea896597bb4c01b792b2cba4
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.2
+@windows WinRPM
+
+0.1.18
+------
+b40123265706f10548ad97b74a46fd7c3602e0e2
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.1.19
+------
+fab71ed84101f4bc99906cec71882450c622cb91
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.1.2
+-----
+2081ee27fe40d51640919d404468043888b375ae
+BinDeps 0.2.3-
+
+0.1.20
+------
+2208dc360adbdc22c3dde8e70a60f0a0e1aaaf3b
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.1.3
+-----
+68a67ea517d2cd238dfb7cbe68c4b10db44d8345
+BinDeps 0.2.1-
+
+0.1.4
+-----
+5e57d36f7f34e948c7ea2f37ad7a769baaee4e10
+BinDeps 0.2.1-
+
+0.1.5
+-----
+681a0c3eeb0496a900c270136a8acd8735911903
+BinDeps 0.2.1-
+
+0.1.6
+-----
+9dea26f54f5bd6cb842ad7026a0569d78173c41c
+BinDeps 0.2.1-
+
+0.1.7
+-----
+99835b54fdd8b62f65edf50c7656fcee5ee78357
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.8
+-----
+5b8457f865dbcc1dbf523d0b14132a75375b701d
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.1.9
+-----
+62a2a810cbe627be7492f1de9d60ddd1f7ca7524
+BinDeps 0.2.1-
+@osx Homebrew
+
+0.2.0
+-----
+fe01d0643966828726f31068fecc5c286a97c12a
+julia 0.3
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.3.0
+-----
+89f9a65a38cb565b6c938a0eac760bb9ea458043
+julia 0.3
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.3.1
+-----
+5bfcf106e579c52f2be6d91c1bfaee1e198504d7
+julia 0.3
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.4
+@windows WinRPM
+
+0.3.2
+-----
+57786eaac5641bd56ca52b3806e4dd766c892409
+julia 0.3
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.7.17
+@windows WinRPM
+
+0.3.3
+-----
+1a88142d253bff6598ea45aca26fc74e65f13716
+julia 0.3
+BinDeps 0.2.1-
+@osx Homebrew
+Compat 0.8.0
+@windows WinRPM
+
+0.3.4
+-----
+373a5692536164d67462be65492bbbe5d83b404f
+julia 0.3
+BinDeps 0.3.21
+@osx Homebrew
+Compat 0.8.0
+@windows WinRPM

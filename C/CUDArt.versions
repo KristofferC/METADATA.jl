@@ -1,0 +1,55 @@
+git://github.com/JuliaGPU/CUDArt.jl.git
+
+0.0.1
+-----
+5b0700207029d43a9e9a11353a9100732783cfc5
+Compat
+
+0.1.0
+-----
+989d7adb46e3161c9a4a34a78e32f5b830f8b905
+Compat
+
+0.1.1
+-----
+55c1cbaf53baf3d8e91cea09d818de4b184177bc
+julia 0.3
+Compat
+
+0.1.2
+-----
+d35f14057c0c9d464c969c0850dd8b5d883604ca
+julia 0.3
+Compat
+
+0.1.3
+-----
+930bfbf5703a7a9e837f343a51057c95598c7976
+julia 0.3
+Compat
+
+0.1.4
+-----
+8975f63669e2a0d8cf3f1ceaa94dc42e806d6b52
+julia 1000000.1000000
+Compat
+
+0.2.0
+-----
+3d6abc3d61102a991a76cd697d6da738fe1af44e
+julia 0.4-
+
+0.2.1
+-----
+c7954d7a931fcf48e017a943e4ce4cd13ae6cc48
+julia 0.4-
+
+0.2.2
+-----
+9170c8a4197d5de0421b293f7f181793dddba432
+julia 0.4-
+
+0.2.3
+-----
+7bf74078e7f298c3fc6d4b7006876d6671998d2a
+julia 0.4-

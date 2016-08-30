@@ -1,0 +1,23 @@
+git://github.com/IainNZ/GraphLayout.jl.git
+
+0.1.0
+-----
+c38db4944216cf1c5e05857dbf1035c154d0a6f9julia 0.3-
+0.2.0
+-----
+a036673e63c1e62ff34c90a21d0aacf1ae794ef6
+julia 0.3-
+
+0.3.0
+-----
+530fa970b4957d007ad082b21c1d27cf3916d906
+julia 0.4
+Requires
+Compose 0.4
+
+0.3.1
+-----
+e5951d564cac9a2f366b019e4928bd25b0b8ac86
+julia 0.4
+Compose 0.4
+JuMP 0.11

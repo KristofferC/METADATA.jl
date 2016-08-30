@@ -1,0 +1,56 @@
+git://github.com/JuliaLang/MATLAB.jl.git
+
+0.0.0
+-----
+3438c7b7f14ee468aec725064b19adb8bac7a7a5
+
+0.1.0
+-----
+44b8363c626b0929bbae1594fec1ef536241116b
+julia 0.2-
+
+0.1.1
+-----
+9275efb5e2f8695e77e275646adb2522a1155a48
+julia 0.2-
+
+0.1.2
+-----
+17c1c9406e37eccaf98406db3d2c19092d43fcdb
+julia 0.2-
+
+0.1.3
+-----
+1cea259b210dd3317a8c87c3718063b5e1b204f2
+julia 0.3
+Compat
+
+0.2.0
+-----
+06e22d971a1ff6fe12a51237fe825fe4ab253d6d
+julia 0.3
+Compat
+
+0.2.1
+-----
+bd914b7195b0afda8fa307f8ca3f189b62555808
+julia 0.3
+Compat
+
+0.2.2
+-----
+5e563c56dccde7bd1d4e40001a85ef708c46baee
+julia 0.3
+Compat
+
+0.2.3
+-----
+61f953b4f24805fc3330290f274dc2d1827badd8
+julia 0.3
+Compat
+
+0.2.4
+-----
+3e1947f7d47afd01f527af7bb8915e2d38eb0954
+julia 0.3
+Compat

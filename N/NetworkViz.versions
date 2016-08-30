@@ -1,0 +1,15 @@
+git://github.com/abhijithanilkumar/NetworkViz.jl.git
+
+0.0.1
+-----
+811829beea07f0d97c01f94b16b4139dd29ef7b6
+julia 0.4
+LightGraphs
+ThreeJS
+
+0.0.2
+-----
+0d246a1948ea8537395f58d51bd19a4c52df804e
+julia 0.4
+LightGraphs
+ThreeJS

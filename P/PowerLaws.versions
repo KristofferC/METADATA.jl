@@ -1,0 +1,28 @@
+git://github.com/johnybx/PowerLaws.jl.git
+
+0.0.1
+-----
+ac871dfc9e5347b42269834b4cae9a8691c17f65
+julia 0.4
+Compat
+Distributions
+Optim 0.0 0.5
+StatsBase
+
+0.0.2
+-----
+91801eff6c6a8016609f7a566d6089443fed7764
+julia 0.4
+Compat
+Distributions
+Optim 0.0 0.5
+StatsBase
+
+0.0.3
+-----
+9ff7b3f80c7759d11fac0f87941218bfe71ecefc
+julia 0.4
+Compat
+Distributions
+Optim 0.0 0.5
+StatsBase

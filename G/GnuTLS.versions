@@ -1,0 +1,54 @@
+git://github.com/JuliaWeb/GnuTLS.jl.git
+
+0.0.0
+-----
+7d5230c4d7a5e12badd1a2f70163ec875a5a9109
+julia 0.2-
+BinDeps 0.2.1-
+Nettle
+@windows WinRPM
+
+0.0.1
+-----
+ae640fdae478140bfb0fbabe1153ae3e854ff5ee
+julia 0.2-
+BinDeps 0.2.1-
+Nettle
+@windows WinRPM
+
+0.0.2
+-----
+23156e651cf7353da5e779619addab34d22b3b81
+julia 0.2-
+BinDeps 0.2.1-
+Nettle
+Compat
+@windows WinRPM
+
+0.0.3
+-----
+28937018540e74c1f08165bfcf3934c48e36a8b1
+julia 0.2-
+BinDeps 0.2.1-
+Nettle
+Compat
+@windows WinRPM
+
+0.0.4
+-----
+8780b9acfc49ebf9b231b373d31c2c4046f93f13
+julia 0.2-
+BinDeps 0.2.1-
+Nettle
+Compat
+@windows WinRPM
+
+0.0.5
+-----
+f31f4bddddfbea289e77ced9b14648037e7ddd95
+julia 0.3
+Nettle
+Compat
+BinDeps
+@windows WinRPM
+@osx Homebrew

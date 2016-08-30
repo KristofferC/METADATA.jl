@@ -1,0 +1,38 @@
+git://github.com/Keno/SIUnits.jl.git
+
+0.0.1
+-----
+98d5277c8fd66521127baed70a0ba955955d1e65
+julia 0.2-
+TexExtensions
+
+0.0.2
+-----
+6be9e2a9853b4249b915838772f6f265dd47169f
+julia 0.2-
+TexExtensions
+
+0.0.3
+-----
+d0a70614aa85fcfeb3ed8c84957e4fc9203d0d3b
+julia 0.2-
+TexExtensions
+
+0.0.4
+-----
+2f6dade57bff342c0cad17ebdc61119520c2b13c
+julia 0.2-
+TexExtensions
+
+0.0.5
+-----
+a46067a2c8a17ee9ad3417441308d2f8ac74c6af
+julia 0.3
+TexExtensions
+
+0.0.6
+-----
+9ce64b99c8c52b7665ea203c5de406527ee94b95
+julia 0.3
+TexExtensions
+Compat

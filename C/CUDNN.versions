@@ -1,0 +1,41 @@
+git://github.com/JuliaGPU/CUDNN.jl.git
+
+0.0.1
+-----
+991201d9f433aeaf443d7bdea051fc95bdefc014
+Compat
+CUDArt
+
+0.1.0
+-----
+d100fac87bf96c5ca3b03549a3162927ee26f4fd
+Compat
+CUDArt
+
+0.1.1
+-----
+c4b4fc90a83924e4c4c6fec44df3e9005de3e4d2
+Compat
+CUDArt
+julia 0.4-
+
+0.2.0
+-----
+f5634617dd8812dd3c7cf77d340036c83ce98a8d
+Compat
+CUDArt
+julia 0.4-
+
+0.2.1
+-----
+70d43169719de43b45726afff0b58db72b80f463
+Compat
+CUDArt
+julia 0.4-
+
+0.3.0
+-----
+1d53d083da021fed77d7d0d374ce9c9070574eea
+Compat
+CUDArt
+julia 0.4-

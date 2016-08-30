@@ -1,0 +1,8 @@
+git://github.com/blegat/CDDLib.jl.git
+
+0.0.1
+-----
+fe45e13a9baa88ea5fa5193dc9cd3b366d639b40
+julia 0.4
+BinDeps
+MathProgBase

@@ -1,0 +1,57 @@
+git://github.com/JuliaAstro/WCSLIB.jl.git
+
+0.0.0
+-----
+1355dd947a9b66ac9d21c9bb06787e421afedd47
+julia 0.2
+BinDeps
+
+0.1.0
+-----
+c18bd0f3610292dda0c8a99f50377c17cd880828
+julia 0.2
+BinDeps
+
+0.1.1
+-----
+235a64b07810412ec318170557622c071e95c3bf
+julia 0.2
+BinDeps
+
+0.1.2
+-----
+6969ab2c4c902fbe1af32b868d9aca063751db07
+julia 0.2
+BinDeps
+
+0.1.3
+-----
+147786c7fb1e68bec77f988b543b35f2383631f4
+julia 0.2
+BinDeps
+
+0.1.4
+-----
+259b8847f6362ac73307aad4082b8e4036fa5851
+julia 0.2
+BinDeps
+
+0.1.5
+-----
+f70fc751e9d3a573d528c8ef2df5e5225ad8db5d
+julia 0.2
+BinDeps
+
+0.2.0
+-----
+6eb8c34c91f7dd417e38069848ba44b7dc2ac7a8
+julia 0.3
+BinDeps
+Compat 0.3.6
+
+0.2.1
+-----
+2445d2f4ce11965749cac824c46e35d699aca665
+julia 0.3
+Compat 0.3.6
+BinDeps

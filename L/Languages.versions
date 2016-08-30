@@ -1,0 +1,20 @@
+git://github.com/johnmyleswhite/Languages.jl.git
+
+0.0.0
+-----
+123cb88300d47483b0919aaad6ac9d868feee9f8
+
+0.0.1
+-----
+f26afc506ab8887565d706554246ef616fc7a19e
+julia 0.2-
+
+0.0.2
+-----
+485934ac04656a1e16ccd6f4a40859fc3d771249
+
+0.0.5
+-----
+fb70b7915011bf483a35b1790e8f26dc7469f715
+julia 0.3
+Compat

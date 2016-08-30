@@ -1,0 +1,122 @@
+git://github.com/JuliaQuant/MarketTechnicals.jl.git
+
+0.0.0
+-----
+89a4037c0a0378cbdb84ad15bcc5bade5abb2ec2
+StatsBase
+DataFrames
+Calendar
+UTF16
+TimeSeries
+
+0.1.0
+-----
+0f27277c71bdf02e451193aab0bf2e76ffeed431
+TimeSeries
+DataFrames
+Datetime
+
+0.1.1
+-----
+4c301509fa73620e006ed34c82b16ce12b55f2b5
+TimeSeries
+DataFrames
+DataArrays
+Datetime
+
+0.1.2
+-----
+5aa7ef57050a6eed8bd1cbf71213b7417251534c
+TimeSeries
+DataFrames
+DataArrays
+Datetime
+
+0.1.3
+-----
+3fd3ce089b113e6dda09c96a64699d43d544afde
+TimeSeries
+DataFrames
+DataArrays
+Datetime
+
+0.1.4
+-----
+e4ceb82b9ae3434d78182fddaff0559a6850e6dd
+TimeSeries
+DataFrames
+DataArrays
+Datetime
+
+0.1.5
+-----
+99e725058123913a1ad86a8a7d4ef23193492da5
+TimeSeries
+DataFrames
+DataArrays
+Datetime
+
+0.2.0
+-----
+ee14965a84d8f4442ad3e57ac478a6f27dbeefea
+julia 0.2-
+TimeSeries
+
+0.2.1
+-----
+6780a0c0007df6ff7271c54eb441697d2a985da6
+julia 0.3-
+TimeSeries
+
+0.3.0
+-----
+11186425c15b95711303463da48184578d99e8a8
+julia 0.3-
+TimeSeries
+
+0.3.1
+-----
+bf0a9511688647354fd10848c10abcc3c8fc72b3
+julia 0.3-
+TimeSeries
+
+0.3.2
+-----
+baea8cee53e8cba378d580bb1d8c94d895dfef05
+julia 0.3-
+TimeSeries
+
+0.3.3
+-----
+2756d6f24483814912d689feb986a66b51837ac1
+julia 0.3-
+TimeSeries
+
+0.3.4
+-----
+723ff233ea9fab69d09f8fa41c123b08455a4848
+julia 0.3-
+TimeSeries
+StatsBase
+Reexport
+
+0.3.5
+-----
+e4e89089ad98c3c7161cf2e029aa68db5f89e911
+julia 0.3 0.4-
+TimeSeries 0.5.11 0.6.0
+StatsBase
+
+0.4.0
+-----
+a9f6cfdd15367eb074e81881e8117ab7feb1e3bc
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+StatsBase
+
+0.4.1
+-----
+4c80ac26b9a24fb3c4992f6ff1795abdd689dad3
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+StatsBase

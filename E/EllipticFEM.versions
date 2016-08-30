@@ -1,0 +1,7 @@
+git://github.com/gerhardtulzer/EllipticFEM.jl.git
+
+0.0.1
+-----
+513cf227f57bed5d23dfd23f94f63f474dc0ace9
+julia 0.4
+PyPlot

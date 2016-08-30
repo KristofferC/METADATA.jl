@@ -1,0 +1,138 @@
+git://github.com/shashi/Escher.jl.git
+
+0.0.1
+-----
+7010a9e28dd5422efea419841029c639c52dffd3
+Compat
+JSON
+Markdown
+Reactive
+Patchwork
+ArgParse
+Mux
+WebSockets
+
+0.0.2
+-----
+97e8670a39d44050959aefb77e0a6e84dc2ce746
+julia 0.3-
+Compat
+JSON
+Requires
+Markdown
+Reactive
+Patchwork
+ArgParse
+Mux
+WebSockets
+Color
+
+0.0.3
+-----
+739f7513cb2328028e4e97218d410fe820dac3f4
+julia 0.3-
+Compat
+JSON
+Requires
+Markdown
+Reactive
+Patchwork
+ArgParse
+Mux
+WebSockets
+Color
+
+0.1.0
+-----
+946aecfac88f70ca58048d3e44d33465d6c5f358
+julia 0.3
+ArgParse
+Color
+Compat
+JSON
+Markdown
+Mux
+Reactive 0.2.2
+Requires
+Patchwork 0.1.5
+WebSockets
+
+0.2.0
+-----
+1272c82d7f082b3a9fff42a5ec2c0b1c9d8bcb5a
+julia 0.3
+ArgParse
+Colors
+Compat
+Dates
+JSON
+Markdown
+Mux 0.1.0
+Reactive 0.2.3
+Requires
+Patchwork 0.1.5
+WebSockets
+
+0.2.1
+-----
+36afa527ad4595d5268529c2e38f7d3f2a325579
+julia 0.3
+ArgParse
+Colors
+Compat
+Dates
+JSON
+Markdown
+Mux 0.1.0
+Reactive 0.2.3
+Requires
+Patchwork 0.1.5
+WebSockets
+
+0.3.0
+-----
+83da81e8f1b60f6a1f3d7330481c0404154d7ac6
+julia 0.4
+ArgParse
+Colors
+Compat
+Dates
+JSON
+Markdown
+Mux 0.1.0
+Reactive 0.3.0
+Requires
+Patchwork 0.1.5
+WebSockets 0.1.2
+
+0.3.1
+-----
+7b1de6ddf0bb767e414eda6c022bb91d6084295c
+julia 0.4
+ArgParse
+Colors
+Compat
+Dates
+JSON
+Markdown
+Mux 0.1.0
+Reactive 0.3.0
+Requires
+Patchwork 0.1.5
+WebSockets 0.1.2
+
+0.3.2
+-----
+7e657c2347e4ebbb6b04e2e8c806634595702d70
+julia 0.4
+ArgParse
+Colors
+Compat
+Dates
+JSON
+Markdown
+Mux 0.1.0
+Reactive 0.3.0
+Requires
+Patchwork 0.1.5
+WebSockets 0.1.2

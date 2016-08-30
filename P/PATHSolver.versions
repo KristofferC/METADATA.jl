@@ -1,0 +1,43 @@
+git://github.com/chkwon/PATHSolver.jl.git
+
+0.0.1
+-----
+d92188bbcf876716a86e2d0c76872d554a414e54
+julia 0.4
+ForwardDiff 0.0 0.2
+BinDeps
+
+0.0.2
+-----
+9f3a2b87bb0efe6e07d55578621d4de693125460
+julia 0.4
+ForwardDiff 0.0 0.2
+BinDeps
+
+0.0.3
+-----
+9dc2cf59083bfb1bc76886b64e1d7d2930b0ef92
+julia 0.4
+ForwardDiff 0.0 0.2
+BinDeps
+
+0.0.4
+-----
+13bcd7d8cc2e8d6faf8484c9bd2df2c6b28174a3
+julia 0.4
+ForwardDiff 0.0 0.2
+BinDeps
+
+0.0.5
+-----
+bb89e79b088d41257d4badaab120b5d64af1b65b
+julia 0.4
+ForwardDiff 0.0 0.2
+BinDeps
+
+0.0.6
+-----
+51534aac439585a1478d72cf53e999d2ae3be215
+julia 0.4
+ForwardDiff 0.2
+BinDeps

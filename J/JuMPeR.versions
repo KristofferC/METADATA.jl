@@ -1,0 +1,52 @@
+git://github.com/IainNZ/JuMPeR.jl.git
+
+0.1.0
+-----
+aa60bb42c8ff2a16914cfb133ace0cd4acc6080e
+julia 0.3
+JuMP 0.8 0.9
+
+0.1.1
+-----
+f0580c051642b5e2754b944738ff5e7be26d991c
+julia 0.3
+JuMP 0.9 0.10
+
+0.1.2
+-----
+5c9977b6b717d261bab7ab1a3d01a9076c73716f
+julia 0.3
+JuMP 0.9 0.10
+Compat
+
+0.2.0
+-----
+3885989d95a4bb827b355d8ff0e0792dde5c76eb
+julia 0.3
+JuMP 0.10 0.11
+Compat
+
+0.2.1
+-----
+298588a612a81eeb9c79a4dd635944b53f8afcbb
+julia 0.3
+JuMP 0.10.2 0.11
+Compat
+
+0.3.0
+-----
+7865011f94578e1836a8d3d3825fd1219c5d3763
+julia 0.4
+JuMP 0.11.1 0.12
+
+0.3.1
+-----
+c3524f8024d1c4ef83d6950d20dac3e5693b36be
+julia 0.4
+JuMP 0.12.0 0.13
+
+0.4.0
+-----
+abcf0a6efa08ac97311737fe0d43bfd21f44754d
+julia 0.4
+JuMP 0.13.2 0.14

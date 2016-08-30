@@ -1,0 +1,317 @@
+git://github.com/JuliaLang/BinDeps.jl.git
+
+0.0.0
+-----
+419652947c9956c25f81aab979ef61d1319093b3
+julia 0.1- 0.2-
+
+0.0.1
+-----
+8e436e7ecfdae04e47453259b764737a3c9da10f
+julia 0.2-
+
+0.2.0
+-----
+57991d0b4c66dae97ee7d4a617921570e72d3984
+julia 0.2-
+
+0.2.1
+-----
+4d0398f457caad09dc908b704cdd5d22ea3a49b3
+julia 0.2-
+URIParser
+
+0.2.10
+------
+00bdc84e55ae0b2e198a8d50a2a90a5ddfd72260
+julia 0.2.0-
+URIParser
+@windows WinRPM
+
+0.2.11
+------
+0cea5a34994ddfb75c343cf8f1dfb4fde30801dc
+julia 0.2-
+URIParser
+@windows WinRPM
+
+0.2.12
+------
+5b659ae5b984909a734c71fe9c53a79d07ab2e4b
+julia 0.2-
+URIParser
+
+0.2.13
+------
+a5fc72d205dbccef9d23fa3352729f899fb055ef
+julia 0.2-
+URIParser
+
+0.2.14
+------
+12f19302cc5c7767343a2a56d8f3ad0eaeef363d
+julia 0.2-
+URIParser
+
+0.2.2
+-----
+e0ef102e3a160d62b2a23ab84418d290a9e24f8f
+julia 0.2-
+URIParser
+
+0.2.3
+-----
+1719bf41ad0a2b7495523e92aa68cf33a3d3f5b8
+julia 0.2-
+URIParser
+
+0.2.4
+-----
+ed936d1c2e7cf20f532e02c35e300d125fbb59ae
+julia 0.2-
+URIParser
+
+0.2.5
+-----
+784716b66db7290ed898ef7345c9eb40792af9f7
+julia 0.2-
+URIParser
+
+0.2.6
+-----
+5c503c281869608baf94b4fb1f56e3c2b34de974
+julia 0.2.0-
+URIParser
+
+0.2.7
+-----
+4585cd05377e9fa8725ee3c069ce2ee654698777
+julia 0.2.0-
+URIParser
+
+0.2.8
+-----
+86ba965cdcd4d1d1604653212ff06774bfa9f15f
+julia 0.2.0-
+URIParser
+
+0.2.9
+-----
+00bdc84e55ae0b2e198a8d50a2a90a5ddfd72260
+julia 0.2.0-
+URIParser
+
+0.3.0
+-----
+9ab6b8e6b47bc9541a4f1370e35348dc6fd2853e
+julia 0.2-
+URIParser
+SHA 0.0.0 0.0.3
+
+0.3.1
+-----
+b12e1a21290f99cf1fc4d5f90d86858bb6bd629b
+julia 0.2-
+URIParser
+SHA 0.0.0 0.0.3
+
+0.3.10
+------
+e03c07ef728a0475279407b7370e0b05ce862a63
+julia 0.3
+URIParser
+SHA
+Compat 0.3.6
+
+0.3.11
+------
+7908e25f056e0edcecf4efcc1c5521fe34f05ab3
+julia 0.3
+URIParser
+SHA
+Compat 0.4.0
+
+0.3.12
+------
+d57430a7e55546b9545054cfb5c34724dbed1795
+julia 0.3
+URIParser
+SHA
+Compat 0.4.0
+
+0.3.13
+------
+e932361f0ead9cb68873b36694ff841649fe2748
+julia 0.3
+URIParser
+SHA
+Compat 0.4.0
+
+0.3.14
+------
+d1312ce4ffff0aa84ec542bc39e4b5c5a6ba15cd
+julia 0.3
+URIParser
+SHA
+Compat 0.4.0
+
+0.3.15
+------
+ee1eef3129640c7b41eca0430e0125c79fe842bf
+julia 0.3
+URIParser
+SHA
+Compat 0.4.0
+
+0.3.16
+------
+842d763f4bf0447af7b7db0ee0270ee648ae4c92
+julia 0.4-
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.17
+------
+7eeef60901208e8ffb0ccbd557ba7cfc4cb6f28a
+julia 0.3
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.18
+------
+b0d298380106c6dc67bfdcddd56333b7f4863a61
+julia 0.3
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.19
+------
+23ff75735c6744857e484f02c47b32d7515e82af
+julia 0.3
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.2
+-----
+78bdefc54a29660302257d8a9d58632ce2a6d5b5
+julia 0.2-
+URIParser
+SHA 0.0.0 0.0.3
+
+0.3.20
+------
+a4841d98b2b2e5b9c74c5a829ae26cc055af1044
+julia 0.3
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.21
+------
+9fd47f296b754d4db481a3cb44fa6f8d99e3927e
+julia 0.3
+URIParser
+SHA
+Compat 0.7.1
+
+0.3.22
+------
+6deec8fe46bb91242fc7cc1f02674818105c26db
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4
+
+0.3.23
+------
+03d2499d6aa0dd007a083b55cb06e44378a0f940
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4
+
+0.3.3
+-----
+3ca923cd0c479a4d2c8bca851f254693ca0d8f16
+julia 0.2-
+URIParser
+SHA 0.0.0 0.0.3
+
+0.3.4
+-----
+f29943b2cd167e45ad9941d0b619d8261e8ef3f4
+julia 0.2-
+URIParser
+SHA 0.0.0 0.0.3
+
+0.3.5
+-----
+f9d4b990ff5bff388cc084ae0a9cdcd53fd36bfe
+julia 0.2-
+URIParser
+SHA 0.0.3
+
+0.3.6
+-----
+75444ddba47b2cd4a03fb35c6287f7f726a33578
+julia 0.2-
+URIParser
+SHA
+
+0.3.7
+-----
+a9b34c136eefe3d75b35a49229ba011ea51a6f5c
+julia 0.3-
+URIParser
+SHA
+
+0.3.8
+-----
+80dddcd36c59703729d945e602d0b9a486a94406
+julia 0.3-
+URIParser
+SHA
+
+0.3.9
+-----
+9e4ec6c4f5821d7ef21897da0883852ab24753f0
+julia 0.3-
+URIParser
+SHA
+Compat 0.3.6
+
+0.4.0
+-----
+03d2499d6aa0dd007a083b55cb06e44378a0f940
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4
+
+0.4.1
+-----
+d2777f762912ca94db433d4f2017ada82e50416d
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4
+
+0.4.2
+-----
+68ce26216445bea3a8862ffee2f7f48a08b27c99
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4
+
+0.4.3
+-----
+3afa9bae8d00364eda4cd3607d625e8e9e6eacb6
+julia 0.4
+URIParser
+SHA
+Compat 0.8.4

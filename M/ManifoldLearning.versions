@@ -1,0 +1,7 @@
+git://github.com/wildart/ManifoldLearning.jl.git
+
+0.1.0
+-----
+1f626ee818d81756e582aa9cd83e439bd0df40fa
+julia 0.3-
+MultivariateStats 0.1-

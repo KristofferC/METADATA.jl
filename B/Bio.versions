@@ -1,0 +1,84 @@
+git://github.com/BioJulia/Bio.jl.git
+
+0.1.0
+-----
+2224a458fa54b0964c7a039a7dae7a6f67615036
+julia 0.4-
+BufferedStreams
+Colors
+IntervalTrees
+Iterators
+Libz
+Switch
+
+0.2.0
+-----
+0e0664cce05e10efc1351898f41443c7360e65d4
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.1.1
+LightGraphs
+LightXML
+
+0.2.1
+-----
+8f87dadc7bae182e0b3adf7150a54be11dd2dab1
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+
+0.2.2
+-----
+c0ad84c4221eacb1b646220de1ecd1ad62647717
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+Roots
+
+0.2.3
+-----
+8f87dadc7bae182e0b3adf7150a54be11dd2dab1
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+
+0.3.0
+-----
+2870dfc06abf87702a57408be3e25116de57e57a
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+Roots

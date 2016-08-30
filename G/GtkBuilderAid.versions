@@ -1,0 +1,50 @@
+git://github.com/Matt5sean3/GtkBuilderAid.jl.git
+
+0.0.1
+-----
+4a30c4905aedbbcc05876c8d068c16970a5d3adf
+julia 0.4
+Gtk
+
+0.0.2
+-----
+53350e96fe0c8978e9dd578e85c180d0aa6fc169
+julia 0.4
+Gtk
+
+0.0.3
+-----
+5bbfc945d2ef3c376ea2447e31c1818b78445f3d
+julia 0.4
+Gtk
+
+0.0.4
+-----
+71b061cf9df0cb6c679ab1a9545167731d4cc4d8
+julia 0.4
+Gtk
+Compat
+
+0.0.5
+-----
+c2c8203a2f4981d0d9e523498bc8adb6cf9a8b33
+julia 0.4
+Cairo 0.2.24
+Gtk 0.8.4
+Compat 0.8.0
+
+0.0.6
+-----
+c95ac1558b34ba29fa7931941a6db94c0347c089
+julia 0.4
+Cairo 0.2.24
+Gtk 0.8.4
+Compat 0.8.0
+
+0.0.7
+-----
+5be3b115dce821e2f5c4ccdb8b146631ef6a42d4
+julia 0.4
+Cairo 0.2.24
+Gtk 0.8.4
+Compat 0.8.0

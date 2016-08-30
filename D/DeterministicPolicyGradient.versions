@@ -1,0 +1,7 @@
+git://github.com/baggepinnen/DeterministicPolicyGradient.jl.git
+
+0.0.1
+-----
+63b78f8672d328bc8436ba00857a42d9fbbaabf5
+julia 0.4
+ControlSystems

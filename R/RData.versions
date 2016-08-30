@@ -1,0 +1,41 @@
+https://github.com/JuliaStats/RData.jl.git
+
+0.0.1
+-----
+2ff1091a9217a2d9b0764a515fab4525ae085ac8
+julia 0.4
+DataFrames
+DataArrays
+FileIO
+GZip
+Compat
+
+0.0.2
+-----
+3034b379d8a689e3172e7e7224b0a4914255cb18
+julia 0.4
+DataFrames 0.7
+DataArrays 0.3
+FileIO 0.1
+GZip 0.2
+Compat 0.8
+
+0.0.3
+-----
+006766516c2055bd462b42140d515f7547192afa
+julia 0.4
+DataFrames 0.7
+DataArrays 0.3
+FileIO 0.1
+GZip 0.2
+Compat 0.8
+
+0.0.4
+-----
+dbb27b8ddde5f320283ea5ed5cb97195db20d856
+julia 0.4
+DataFrames 0.7
+DataArrays 0.3
+FileIO 0.1.2
+GZip 0.2
+Compat 0.8

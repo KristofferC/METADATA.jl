@@ -1,0 +1,26 @@
+git://github.com/JuliaGL/GLText.jl.git
+
+0.0.1
+-----
+d74f64f1942d7e0a661560518205b6c674d9033e
+
+0.0.2
+-----
+d74f64f1942d7e0a661560518205b6c674d9033e
+
+0.0.3
+-----
+a637d089300141ce240cc1ad4658b713140a0a85
+julia 0.3-
+ModernGL
+GLAbstraction
+GLFW
+
+0.0.4
+-----
+eab81676007d537c5d6a204962ec3bb804b8054e
+julia 0.3-
+ModernGL
+GLAbstraction
+GLFW
+Compat

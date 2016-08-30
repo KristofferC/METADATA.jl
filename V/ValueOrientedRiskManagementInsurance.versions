@@ -1,0 +1,33 @@
+git://github.com/mkriele/ValueOrientedRiskManagementInsurance.jl.git
+
+0.0.1
+-----
+f7d17f436dc0b4663c90bf97a0f2128bd27f82c0
+julia 0.4
+Distributions
+DataArrays
+DataFrames
+
+0.0.2
+-----
+16d2ffb629fada7be8cf6a589ddfdbc114a919f7
+julia 0.4
+Distributions
+DataArrays
+DataFrames
+
+0.0.3
+-----
+2e34ac23fa8dee48892324793e7c514ae53a1361
+julia 0.4
+Distributions
+DataArrays
+DataFrames
+
+0.0.4
+-----
+d75bc10925b7ac1d0a3e2a7bed05f1ea0094d505
+julia 0.4
+Distributions
+DataArrays
+DataFrames

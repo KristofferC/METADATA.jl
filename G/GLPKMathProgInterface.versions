@@ -1,0 +1,151 @@
+git://github.com/JuliaOpt/GLPKMathProgInterface.jl.git
+
+0.0.0
+-----
+6a4c469fb559402bc19060fa0cf509a78a8fe791
+julia 0.2-
+GLPK
+MathProgBase 0.0.0 0.3.0-
+
+0.1.0
+-----
+6a4c469fb559402bc19060fa0cf509a78a8fe791
+julia 0.2-
+GLPK
+MathProgBase 0.0.0 0.3.0-
+
+0.1.1
+-----
+225cd2e795ff377f4c7268b02007b187f28b8b08
+julia 0.2-
+GLPK
+MathProgBase 0.0.0 0.3.0-
+
+0.1.10
+------
+890e72e379b8f19f625d1d55e519de8ec1c5be0e
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.11
+------
+3c3b0729bd9809487ea7b04b5984df285b64671e
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.12
+------
+b6aceac28572b7ae433405af9facd9ac232772df
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.13
+------
+a70c14f2f10c25e458271f3964ec7ce4385c064e
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.14
+------
+38e45b5ca54bba22592b4c0b3e8f8180a9eaf1c8
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+Compat 0.3.5
+
+0.1.15
+------
+e2c23adbc3ed81c9dd8096b22df27d3038c2bca2
+julia 0.3
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+Compat 0.7.1
+
+0.1.16
+------
+063f7b94d3f9f97d3fd3539e857a6e8b1eff0138
+julia 0.3
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+Compat 0.7.1
+
+0.1.2
+-----
+c8a09bc13d2e0ebe68d5e1a4f52f4bff13ba0818
+julia 0.2-
+GLPK 0.2.8
+MathProgBase 0.1.2 0.3.0-
+
+0.1.3
+-----
+3d262e692244a182f002963064013124374ea746
+julia 0.2-
+GLPK 0.2.8
+MathProgBase 0.1.5 0.3.0-
+
+0.1.4
+-----
+e5fcb9697948408b09de08a3f2740ae4813a9362
+julia 0.2-
+GLPK 0.2.8
+MathProgBase 0.1.6 0.3.0-
+
+0.1.5
+-----
+a85199f7c26e271b41d34feea71c99d9c2a9ebd1
+julia 0.2-
+GLPK 0.2.8
+MathProgBase 0.1.5 0.3.0-
+
+0.1.6
+-----
+1f9db9313af48b6922c27f56af10c9fa2121cf28
+julia 0.2-
+GLPK 0.2.8
+MathProgBase 0.3.0-dev1 0.4.0-
+
+0.1.7
+-----
+a25268c5c1a57bad80461419b30bd9f914a495cd
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.8
+-----
+04fa677bafa2072016fa6d329d419c1153ffc251
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.1.9
+-----
+32948320b9ca3c0b9ee612450bd8119756f3e257
+julia 0.2
+GLPK 0.2.8
+MathProgBase 0.3.0 0.4.0-
+
+0.2.0
+-----
+079d5d938d397b0363395c29d26ad62a632c895b
+julia 0.4
+GLPK 0.2.8
+MathProgBase 0.4.0 0.5.0-
+
+0.2.1
+-----
+1c7485ba4fdeeb3c2ea9f5fdc45c2a955bf4034a
+julia 0.4
+GLPK 0.2.8
+MathProgBase 0.4.0 0.5.0-
+
+0.2.2
+-----
+a07e520389e2414dacc06f8978e761cc07197376
+julia 0.4
+GLPK 0.2.8
+MathProgBase 0.5 0.6

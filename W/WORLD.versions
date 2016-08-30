@@ -1,0 +1,74 @@
+git://github.com/r9y9/WORLD.jl.git
+
+0.0.1
+-----
+03933c3c6396bde5470cc119e00889630e5c43de
+julia 0.3-
+BinDeps
+
+0.0.2
+-----
+7b0ce44212170a4d222395b8fc1a04da16f6a8a3
+julia 0.3-
+BinDeps
+
+0.0.3
+-----
+f177043a424aefd5b113c0680269e5a11834e8c6
+julia 0.3-
+BinDeps
+
+0.1.0
+-----
+7b1b528edab76a0b4b4179a2a4fb453a054860f2
+julia 0.3
+BinDeps
+
+0.1.1
+-----
+7b49e233c5d284d7d95fcd0c4de0a80475d0b852
+julia 0.3
+BinDeps
+
+0.1.2
+-----
+7fa7340eb5896a5fa0845db6d92f2ce31451bb3e
+julia 0.3
+BinDeps
+Compat
+
+0.1.3
+-----
+790438da3e056d0e00e72e6e5c136470fe645bbc
+julia 0.3
+BinDeps
+Compat
+
+0.2.0
+-----
+59bd0b99e820b5ee367e825c4afc2363b96d669a
+julia 0.3
+BinDeps
+Compat
+
+0.2.1
+-----
+5ba878ada339acc0e3c50bdc2b26fdbbaf1097b5
+julia 0.3
+BinDeps
+Compat
+
+0.2.2
+-----
+daa775971006578ed3fea6326f8bc9d34858979b
+julia 0.3
+BinDeps
+Compat 0.8.4
+
+0.3.0
+-----
+b0132a92ba76a95ffe54381d1245680d6d2120a3
+julia 0.4
+BinDeps
+Compat 0.8.4
+DocStringExtensions 0.2

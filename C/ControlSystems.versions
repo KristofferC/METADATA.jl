@@ -1,0 +1,36 @@
+git://github.com/JuliaControl/ControlSystems.jl.git
+
+0.1.1
+-----
+5d2ac70297efd1b056a2eb280c14bf4b5f8568fe
+julia 0.4
+Plots
+Polynomials
+
+0.1.2
+-----
+792524a13a5f9bf7afee2a1a1d8782f6c611adf2
+julia 0.4
+Plots
+Polynomials
+
+0.1.3
+-----
+036e3b498bc34668eadc62e6fa15c01aa85540f5
+julia 0.4
+Plots
+Polynomials
+
+0.1.4
+-----
+b7afcaead991748ec7009dc57f0d79aaa0358e3c
+julia 0.4
+Plots v0.7.4
+Polynomials
+
+0.2.0
+-----
+302dfc240f3648b642620df393b58374f24e1bd2
+julia 0.5-
+Plots v0.7.4
+Polynomials

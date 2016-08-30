@@ -1,0 +1,385 @@
+git://github.com/JuliaStats/TimeSeries.jl.git
+
+0.0.0
+-----
+c5619f46cb5433cb17ab6d1c47c1ebf31cccd9f3
+StatsBase
+DataFrames
+Calendar
+UTF16
+
+0.0.1
+-----
+c390fd4dec87298149de962a6c98c15e325575e1
+StatsBase
+DataFrames
+Calendar
+UTF16
+
+0.1.0
+-----
+874d23a26f35b2b6a1a116c31e717d274ef7357f
+DataFrames
+Datetime
+
+0.1.1
+-----
+9e433492a582b82dd4ba61b764663b05a02a57e9
+DataFrames
+Datetime
+
+0.1.2
+-----
+07491c39d3b819f65f36ec57e3892238644afed5
+DataFrames
+DataArrays
+Datetime
+
+0.1.3
+-----
+ad708f7a3137822c28dac70450768fdb557f2aa7
+DataFrames
+DataArrays
+Datetime
+
+0.1.4
+-----
+814122e0c5b68a585c28732e9f311d05007a9dfe
+DataFrames
+DataArrays
+Datetime
+
+0.1.5
+-----
+1c1d71ce182fe28433d05d66f534caec9734a37f
+DataFrames
+DataArrays
+Datetime
+
+0.1.6
+-----
+9247dac058cfc08651daebfbab2c0828656caa6b
+DataFrames
+DataArrays
+Datetime
+
+0.1.7
+-----
+42a73fc1a038ad73b5f7f41faf45072a1d6c186b
+DataFrames
+DataArrays
+Datetime
+
+0.2.0
+-----
+4301ed5b9a8b11346851235c30f46b248c841705
+DataFrames
+DataArrays
+Datetime
+
+0.3.0
+-----
+c8d6b1ff738f0c2b098610a36d7e8b75d8725366
+julia 0.3-
+Datetime
+
+0.3.1
+-----
+8220cdc547082e514ce0a80df89091bf9f3b9fcd
+julia 0.3-
+Datetime
+
+0.3.10
+------
+a06dd10a7502b2d8c3efc139814e9a4813d3a00a
+julia 0.3-
+Datetime
+
+0.3.11
+------
+3f8bd8171a0c85f7919b6ef9084f5fefe9409fef
+julia 0.3-
+Datetime
+
+0.3.12
+------
+1d1841a1faf0ae4999f9d522a5c9715c4692c193
+julia 0.3-
+Datetime
+
+0.3.13
+------
+ba2e73abb88a8cd3640acc7679f1782dd747e2a8
+julia 0.3-
+Datetime
+
+0.3.14
+------
+6a3c1c688666c54532aa485c934a67d77966d4af
+julia 0.3-
+Datetime
+
+0.3.2
+-----
+a6af977817cd11e8ae2ad0dc2de28b273a7b67a5
+julia 0.3-
+Datetime
+
+0.3.3
+-----
+230e1df3158a5f273cc4811d3e925a397f8a897f
+julia 0.3-
+Datetime
+
+0.3.4
+-----
+02269a3d6b6ff08fafaa2135df5730b5ad3f8e79
+julia 0.3-
+Datetime
+
+0.3.5
+-----
+c2b0b971e6b285981d98e516f3c52ff656199a1d
+julia 0.3-
+Datetime
+
+0.3.6
+-----
+ea16eb5ec634852b2c9e77b3416546ebb95686f2
+julia 0.3-
+Datetime
+
+0.3.7
+-----
+07b7841fd703844ecf69b5392bc5241fae56ee48
+julia 0.3-
+Datetime
+
+0.3.8
+-----
+74f9c9b6c71fbdaa29b5283805ca02ccc5c889b2
+julia 0.3-
+Datetime
+
+0.3.9
+-----
+ae9473023b7eec6e27a5d01a47e178d43cceb6b3
+julia 0.3-
+Datetime
+
+0.4.0
+-----
+ed1c21523fe66c4540bdd5d93a4c2899fac30db8
+julia 0.3-
+Dates
+
+0.4.1
+-----
+bc2dab1927ad632dc2ce2139bfc9d83acc0b7f15
+julia 0.3-
+Dates
+
+0.4.2
+-----
+bd329eafdf58dba312f647ea2cf400a788de5944
+julia 0.3-
+Dates
+
+0.4.3
+-----
+de8e1360add131eab199968a3bebf31aa25745c7
+julia 0.3-
+Dates
+
+0.4.4
+-----
+9acf25cb8a09382b3b829b8c6d475136ded577f0
+julia 0.3-
+Dates
+
+0.4.5
+-----
+9acf25cb8a09382b3b829b8c6d475136ded577f0
+julia 0.3-
+Dates
+
+0.4.6
+-----
+74b23d50d1f8894d3323e2f2843f3ff387ee7631
+julia 0.3-
+Dates
+
+0.4.7
+-----
+f5ed853d332fa646d3b8bc3f3e4199b364091e22
+julia 0.3-
+Dates
+
+0.5.0
+-----
+2dcdc61eca9946d62dc72b6f24bf55e3605346a6
+julia 0.3-
+Dates
+
+0.5.1
+-----
+7175ac58749958077edb50e40e4880ed89dcad19
+julia 0.3-
+Dates
+
+0.5.10
+------
+42b3c03efa9fb15b778264aee458ba82199e81b6
+julia 0.3
+Dates
+Compat
+
+0.5.11
+------
+82337d7b82855bb135c50f30cc04614b64bed243
+julia 0.3 0.4-
+Dates
+
+0.5.2
+-----
+9d88f03b45eb5a199fc3f0c9f54411f2c147ac66
+julia 0.3-
+Dates
+
+0.5.3
+-----
+4828125aadb912f4128a3c399c9476f148c71a37
+julia 0.3-
+Dates
+
+0.5.4
+-----
+1e7b06675a340b88ddafb5eff4c5fb614b2c6524
+julia 0.3-
+Dates
+
+0.5.5
+-----
+b8cf90512ea6ada3388bccd9e2061d50b80aecea
+julia 0.3-
+Dates
+
+0.5.6
+-----
+cd2a3f99cf73530c0704d540ad2aa60e017cb6b6
+julia 0.3-
+Dates
+
+0.5.7
+-----
+d39db57c09df9698eea9cd02b8ea580ade341dd5
+julia 0.3-
+Dates
+
+0.5.8
+-----
+c3ef0ba3341ce21d61bd0ca6de96007feb195c89
+julia 0.3-
+Dates
+
+0.5.9
+-----
+a5a4ed72b3a21a8af3a098887aabf699bbeed689
+julia 0.3-
+Dates
+Compat
+
+0.6.0
+-----
+b8cba88ffcc86a96c2e2da3c973ce6d475174ab3
+julia 0.4- 0.5-
+
+0.6.1
+-----
+f5dd45385b1f2ccaf73d8996cfd92d1bda69e2e5
+julia 0.4- 0.5-
+
+0.6.2
+-----
+a8c28306520fd41289f64a9ca9e7947555899eb8
+julia 0.4- 0.5-
+
+0.6.3
+-----
+06017cb782bbbe9090ecf2de878ee621237c280d
+julia 0.4- 0.5-
+
+0.6.4
+-----
+fc08218dbf9c680f423c3a4e8ca94cfa74da8e25
+julia 0.4- 0.5-
+
+0.6.5
+-----
+071dd22c73d93594896419dd5f372427d8c6efae
+julia 0.4- 0.5-
+
+0.6.6
+-----
+c334780d4f80a20016d84aa5e24a972be669bbc3
+julia 0.4- 0.5-
+
+0.6.7
+-----
+07e5faeaece6c07e18d41028a27ffc3d0e8958d9
+julia 0.4- 0.5-
+
+0.7.0
+-----
+3c3feb47eea645a803afdf6cb66af2a614983fe9
+julia 0.4- 0.5-
+
+0.7.1
+-----
+86704b39b406b1509fe41ddba0f70a5c0ff30961
+julia 0.4- 0.5-
+
+0.7.2
+-----
+24c595a38838abddea935b2b84fc016327bb0fce
+julia 0.4- 0.5-
+
+0.7.3
+-----
+4e98aeaea389a8a0428f1fb951a9a1291327093b
+julia 0.4- 0.5-
+
+0.7.4
+-----
+87acbd7eba6bea6a413429fe21d133afba9760d5
+julia 0.4- 0.5-
+
+0.8.0
+-----
+34ca0c152a2a4f3d12de3acc718f2f36cbe5dcec
+julia 0.4 0.5-
+
+0.8.1
+-----
+63138d3ac4ebd9c343c0e082d8a45ce17740b95f
+julia 0.4 0.5-
+
+0.8.2
+-----
+218e2450086276004c9b4f13b9f3a653b7274067
+julia 0.4 0.5-
+
+0.8.3
+-----
+44496b2052fcb3ed69c61348790867a6de975431
+julia 0.4 0.5-
+
+0.8.4
+-----
+4f4343d6f092cce541c722c16e5189589c21e145
+julia 0.4 0.5-
+
+0.8.5
+-----
+c7389e37647d88808329b81d277412f66670a057
+julia 0.4 0.5-

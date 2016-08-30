@@ -1,0 +1,33 @@
+git://github.com/JuliaAstro/ERFA.jl.git
+
+0.0.0
+-----
+1ede150979d6efcb5c7a18305e6e9b2630894d95
+julia 0.2
+BinDeps
+
+0.0.1
+-----
+105e36b052cbcc7386a560c386407d419ab2f70c
+julia 0.2
+BinDeps
+
+0.1.0
+-----
+23af69b5bcc3c0f8e3bb93cc77d47c8128cf5f2e
+julia 0.2
+BinDeps
+
+0.1.1
+-----
+0d0f1e1e7b7a98082b39d843c33a4175e0d0a66e
+julia 0.3
+BinDeps
+Compat
+
+0.1.2
+-----
+a9594998b524bf44dd9f0ebbb33c39c4588464d0
+julia 0.3
+BinDeps
+Compat

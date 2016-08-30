@@ -1,0 +1,19 @@
+git://github.com/svs14/GradientBoost.jl.git
+
+0.0.0
+-----
+9e778e7dcf0e5e1f785affd3f949564471e62cc3
+julia 0.3-
+FactCheck 0.1-
+DecisionTree 0.3-
+DataStructures 0.2-
+GLM 0.4-
+
+0.0.1
+-----
+1e04ff505f6c053796ca80039775d194d7e6be9a
+julia 0.3-
+FactCheck 0.1-
+DecisionTree 0.3-
+DataStructures 0.2-
+GLM 0.4-

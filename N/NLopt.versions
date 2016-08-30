@@ -1,0 +1,128 @@
+git://github.com/JuliaOpt/NLopt.jl.git
+
+0.0.0
+-----
+298b40113be6bfd4d6fd17d6bd59ea6384d50bca
+julia 0.2-
+@osx Homebrew
+
+0.0.1
+-----
+00417b7634700ebacaf6dbd0d9582d0ff25b6bf3
+julia 0.2-
+@osx Homebrew
+
+0.0.2
+-----
+4e0df34e750bd0b8e20bedef37267b40ef529581
+julia 0.2-
+@osx Homebrew
+BinDeps
+
+0.0.3
+-----
+54e04be6edfb5c8d7dfe455c587413b66e97abe6
+julia 0.2-
+@osx Homebrew
+BinDeps
+
+0.1.0
+-----
+334e9d69d5aeb89c45fd9fd1c663b118541b32f2
+julia 0.2-
+@osx Homebrew
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.1
+-----
+54a469cb9b9f4252aa5ca0cad3d5aa4d69881e18
+julia 0.2-
+@osx Homebrew
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.2
+-----
+8616a099521d15bd65eeddfa763a1177525a096f
+julia 0.2-
+@osx Homebrew
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.3
+-----
+10c47956c082e1c3191f51fed43420c96ba02dcb
+julia 0.2
+@osx Homebrew
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+
+0.2.0
+-----
+e7a4a2821dcd20d61941a57db723949f2134baf6
+julia 0.2
+@osx Homebrew
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat 0.2
+
+0.2.1
+-----
+093fb2030b566ae32b363c277a9460d9719a9e4e
+julia 0.3
+@osx Homebrew
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat 0.4
+
+0.2.2
+-----
+e8e736f20cd4b08e8fbfc15686f4a87ba5e1aae7
+julia 0.3
+@osx Homebrew
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat 0.4
+
+0.2.3
+-----
+523987afbb32105ed78dad0a127298284113147d
+julia 0.3
+@osx Homebrew
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat 0.7.1
+
+0.3.0
+-----
+9466bdbb27c3c2656596f94dde24c5bf2525f7a7
+julia 0.4
+@osx Homebrew
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+
+0.3.1
+-----
+a89125c6930d5559963bd0222d45e5bb7869569b
+julia 0.4
+@osx Homebrew
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+
+0.3.2
+-----
+790b14028c88109e3c19922e57af2ab194ed5ae8
+julia 0.4
+@osx Homebrew
+BinDeps
+MathProgBase 0.5 0.6
+
+0.3.3
+-----
+befd716a8ad61778aa60f08a0ab9513d67e80735
+julia 0.4
+@osx Homebrew
+BinDeps
+MathProgBase 0.5 0.6
+Compat 0.8

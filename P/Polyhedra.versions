@@ -1,0 +1,11 @@
+git://github.com/blegat/Polyhedra.jl.git
+
+0.0.1
+-----
+85e4d27705c262bcf40acbbd8d3ecdb0c1f72ee8
+julia 0.4
+DataStructures
+FixedSizeArrays
+GeometryTypes
+GLAbstraction
+GLVisualize

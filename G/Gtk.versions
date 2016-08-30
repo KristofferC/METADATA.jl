@@ -1,0 +1,295 @@
+git://github.com/JuliaGraphics/Gtk.jl.git
+
+0.0.0
+-----
+9e1245a8720567fff21723710f12f8e7e837fd95
+Cairo
+
+0.1.0
+-----
+99a53d598c6c405e1b9420992e442f5fb79ff50b
+Cairo 0.0.1
+julia 0.2-
+
+0.10.0
+------
+b270ee9b21f7540f4187c9ac95e4f07b0306d409
+julia 0.4
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.10.1
+------
+f3747c04d7a3503bd9e70d5f7ef230fd1d56b865
+julia 0.4
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+Compat 0.8.0
+
+0.10.2
+------
+5e3338caaf01b2746291a29b46057bca30e6b39d
+julia 0.4
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+Compat 0.8.0
+
+0.2.0
+-----
+212591fafb8b52a44169ba2d87eec44aea29f570
+Cairo 0.2.2
+julia 0.2-
+
+0.3.0
+-----
+fd68c156d79523899b5ef00d1d6a666634d7504c
+Cairo 0.2.2
+julia 0.2-
+
+0.3.1
+-----
+0e2c7cccb2afabafa4670290b01b779e0e5f4d08
+Cairo 0.2.2
+julia 0.2-
+
+0.3.2
+-----
+4f6fd22f2d8f87b53edddc683b489bca60f06760
+Cairo 0.2.2
+julia 0.2-
+
+0.4.0
+-----
+ac7782caaa9f9193edc8b45e25f653476f0ff9cb
+Cairo 0.2.2
+julia 0.2-
+
+0.5.0
+-----
+6d4d4bb15f6fead3f152604b112f7047e192b5e3
+Cairo 0.2.2
+julia 0.2-
+
+0.6.0
+-----
+d5b0cd744383d476ea2e5e6a17ddf9cff8ec953d
+Cairo 0.2.2
+julia 0.2-
+
+0.6.1
+-----
+ec02bede8cbc74a89363041ed352894b81306973
+Cairo 0.2.2
+julia 0.2-
+
+0.6.2
+-----
+d9e45a00831289dac9b8a7049f7f506bbc166dbf
+Cairo 0.2.2
+julia 0.2-
+
+0.7.0
+-----
+a087f0b339852c56fd3083050db54a646d688e2b
+Cairo 0.2.2
+julia 0.2-
+
+0.7.1
+-----
+b9bbe78b5c60935d7182095184a3fb16591fc114
+Cairo 0.2.2
+julia 0.2-
+
+0.7.10
+------
+ce46612a9a3328a2b8e35d8d25f06bc70b4b12bf
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.2
+-----
+86cd5a028234a059801e0c5c4be4f2520d466b04
+Cairo 0.2.2
+julia 0.2-
+
+0.7.3
+-----
+6930794982eda7d7d6794410741af7ac6bcbf867
+Cairo 0.2.2
+julia 0.2-
+
+0.7.4
+-----
+36746a4a7e76771f33781e6452ce1a803d982e0a
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.5
+-----
+4d2ac57c3c85bf91a04a27967987fc987c5971b4
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.6
+-----
+ab11a215cbb2381c3387f93bf07e47e7f89c9eb4
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.7
+-----
+8c5f3eb2253b9f006a81caacd94bb452d2e27695
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.8
+-----
+26ec976a55a7de6764abce43800b593bdd9ba16c
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.7.9
+-----
+51d0a52ab6c865f53b0dc0196b11e39450df3ef8
+Cairo 0.2.2
+julia 0.2-
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.0
+-----
+9692314cd8fcab4aea9c03292ff23103f3da0f39
+Cairo 0.2.2
+julia 0.2-
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.1
+-----
+1b08531d694b42e55daa68c340ce1f509f2e4ccb
+Cairo 0.2.2
+julia 0.2-
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.2
+-----
+6b596cc9291525456ec3b599cb208c6270f47d80
+Cairo 0.2.2
+julia 0.2-
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.3
+-----
+ad19bcf59b7ee81ac003538a402708c78acaf3ec
+Cairo 0.2.2
+julia 0.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.4
+-----
+ceb861c5912701fcd571bae9bec17aa9792e4c59
+Cairo 0.2.2
+julia 0.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.5
+-----
+4641e33ea02982f5709c739bc38e71955cac8079
+Cairo 0.2.2
+julia 0.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.8.6
+-----
+3f1cffd816759faf5937671b0bea2ef6eb2622ad
+Cairo 0.2.2
+julia 0.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.9.0
+-----
+49f0cc2fb2225d91f96abe0467cfba1ec87dfc6a
+julia 0.4-
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.9.1
+-----
+64caf82d735a69b8f54da8ad24ed4d0cd9b4e69c
+julia 0.4-
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.9.2
+-----
+40f7442dea20919c5a7b137594fb6d7636fa2329
+julia 0.4-
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.9.3
+-----
+2b38cdf7e6ce92a5bf3e0baa2bf5e97bf1017091
+julia 0.4-
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew

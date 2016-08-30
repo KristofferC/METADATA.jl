@@ -1,0 +1,1227 @@
+git://github.com/timholy/Images.jl.git
+
+0.0.0
+-----
+d59f046d4619ed64d7beada26f0e3e790ae06392
+Color
+Tk
+Cairo
+
+0.2.0
+-----
+f00c9ba81f3955454a92f9c21784c57e3a683bf6
+julia 0.2-
+Color
+
+0.2.1
+-----
+8fe2a3b23ec77d05d5d08ec2e52dc9f130d9c262
+Color
+
+0.2.10
+------
+cf3f9958303baf9a6ec47fd5022f084cf9ebc554
+Color
+Grid 0.2.4-
+Cartesian
+
+0.2.11
+------
+34d354546913a55a5977c6a6edc004b0b17f5c9d
+Color
+Grid 0.2.4-
+Cartesian
+
+0.2.12
+------
+6630699dfbb3334ef9a40207571e101a5b12d098
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.13
+------
+9b9047ff0d768373f9a27cfd325e6654ce15ddbd
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.14
+------
+64a0942062f85cd735624dc56331c26b74b9a47c
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.15
+------
+cc147817d145d76830eac660b525951237e834c7
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.16
+------
+a4b0e6cbc8f00f7172c9f72240c58f87d30e96f3
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.17
+------
+d09b9d7a02bb1011e197aaec200c2a31d09f2714
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+
+0.2.18
+------
+a3d846af751e33288bd6c7883a29ba718f73f958
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+@osx Homebrew
+
+0.2.19
+------
+1bc740c6e055b83a465208b673fc2aa8879ca042
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+@osx Homebrew
+
+0.2.2
+-----
+8e3664fade90db34c4176f0955920dbb82d31fb9
+Color
+Grid
+
+0.2.20
+------
+1d5310501cd5a95676b35882f2ea0d19897d4afa
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+
+0.2.21
+------
+e36ebdc3beab9b1038c8f718b7ec2bc56a8cc9c8
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+
+0.2.22
+------
+777589bd99083faa1a800db1e3229c30b68ef163
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+
+0.2.23
+------
+6760f78243b2c3e4588d6b73aa1e000e6a58e5e8
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+
+0.2.24
+------
+8de545da684fbed70946951a8471241a918c38a6
+Color
+Grid 0.2.4-
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+Units
+Zlib
+
+0.2.25
+------
+702706a777d287fab1a82d52d3b07d72e3479ce3
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+Units
+Zlib
+
+0.2.26
+------
+e98adf3b81e514d0a166ddebfcef90dc81e8530e
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+Units
+Zlib
+
+0.2.27
+------
+79d37d4a21913e4d162b99f090b1c655fa3e0785
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.28
+------
+ee4e932a07de970c5e21de2d074016c485abdd00
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.29
+------
+8f3e4129a7e8dad83d5300d6fc0829da47a857b3
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.3
+-----
+7e741cf3788d0163d42df46c8068f2baef935198
+Color
+Grid
+
+0.2.30
+------
+d1f361c0dc42ed0175b4ce07a05d9e88a7dc4ca6
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.31
+------
+abd289870fb0ad7eb7c3f7a5330298976a2b0333
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.32
+------
+10b289353850d7724c7c64ae57b1da430275c647
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.33
+------
+2770a38cf6b91211336a09642e90b33b3551a2ac
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.34
+------
+342e2bad209d870a59a5c910810cf2bfa5f14aab
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.35
+------
+3fcb4b5c256bf3892deeb27604a7a2c14bb0d45c
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.36
+------
+b54e5315145f8c6b1a6f11cdb9e0f63b7b8283c5
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.37
+------
+93e362f9204dd001b572e52e73b30dbd5484d526
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.38
+------
+85aac4fdd08303716f10c3e70339e502e3cdd2d5
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.39
+------
+98a9fac26e2cb55021f50b59c5a480733a162448
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.4
+-----
+6e3b8619524e932fdbb9051c92fcc637e9f33358
+Color
+Grid
+
+0.2.40
+------
+f63ea043503320ea8e626f3dcadc59e9281b0d0d
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.41
+------
+9caf8cadfc295fb65753e362c948bce279fff906
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.42
+------
+56b1070202716206c0ba4237631f71dbdfbe612e
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.43
+------
+a2f2dd55b70de440644c8d4c147a9e2ebcc7fb39
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.44
+------
+d2b5229ba662b101d71e2fa3c73f42302e986010
+Color
+Cartesian 0.1-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.45
+------
+fe430c342c3b48934bb7e4a9847901217cb11229
+Color
+Cartesian 0.2-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.46
+------
+0c2d36a587760c5eb1f95bebde40e79148d51e68
+Color
+Cartesian 0.2-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.47
+------
+49f469457e4346e13eac8fd0adc4afb1b7e15aaa
+Color
+Cartesian 0.2-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.48
+------
+1d7a12ccff8e665a3e3458c212c34de4e6d32cfe
+Color
+Cartesian 0.2-
+julia 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.49
+------
+fd4529b658e597962bc99baed22f2bf2e5473854
+julia 0.2 0.3
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.5
+-----
+d0602c20031c097aceccce91fa4a0116599d81d7
+Color
+Grid
+
+0.2.50
+------
+0862ea7f939ed33c4969017bc47987b0e8bfdefb
+julia 0.2 0.3
+Color 0.2 0.3
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.2.6
+-----
+200d039e3e76909b6940a99ad30e8fbc548af5c1
+Color
+Grid
+
+0.2.7
+-----
+ee3af59e6e98a11d028e68d19301bd390ee9e336
+Color
+Grid
+
+0.2.8
+-----
+429963ed64941c3eb24a6796fbe1e941cf52fe3e
+Color
+Grid
+
+0.2.9
+-----
+f7ae0c7844bf77cd0e96723760939da7f2972395
+Color
+Grid
+
+0.3.0
+-----
+1651e82c21bf0d57259dc49767539ef7dcd39322
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.3.1
+-----
+e4fe2032d32cf4915923182a920f7472aad240a4
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.3.2
+-----
+6f249cff7628dbe2df5e43820da0725f090425ed
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.3.3
+-----
+9c7f998747f4ebaecc6197187726851fafb71e61
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.0
+-----
+da2544c4499e8cfdbcb39641f8a5441619007464
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.1
+-----
+24856b34e896d8f731c061e58aacbb659b7fc30e
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.10
+------
+ee9b7dcf255f4ef844fe8ddf81dc19f462e195b7
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.11
+------
+c76b46015bbeb9f580a2c4cb6c93143dbec370a3
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.12
+------
+a98e2939ac88983e1eb30e8c9eefc6e8d7de2e88
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.13
+------
+d54609d8369406335650dfe4b4ecee124fcd5f6c
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.14
+------
+ea36e4720a854b3f3f66a85e943cb1636231c3e9
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.15
+------
+0a16a210721892be80e4bb518b2372dc65909f02
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.16
+------
+f5a618fa2d4369afa3687786e9cfc0cf798f6c7a
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.17
+------
+56ab1c49a053c0e905a7e22f1d20d447aa25429c
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.18
+------
+4c2c153a5c3db7cb6c9bbad91af4154537cd977e
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.19
+------
+351e4447c3c900db5b36b557a2022d8380aa1a1a
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.2
+-----
+f556bdd8b30e82d550994ce9e81f62e918ddca37
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.20
+------
+79cdf0edcf0637fb0b6c1d990b234e4a36b7744d
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.21
+------
+3507e62b9490aee438d109098a507a4ff0875340
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.22
+------
+afe3832cd464efb63b848516c72f793de8c0086e
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.23
+------
+cdc7907a9ee32a598d5ce29b9d162523b3ecb023
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.24
+------
+20da19aa668c87d9278b7fde14e8e1e414c855ad
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.25
+------
+4670011d0ce91dc23440a169a8f2242133692c3c
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.26
+------
+e8cc413c0a3e0fb459ba84b17236f840b2dd8af6
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.27
+------
+692470323ecce73e568e3190482db3bb65628ff2
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.28
+------
+3c6ec94d7903cb417353f1d973092f8b2c460f4e
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.29
+------
+a43da870ad5799f19b2e1d7c40253f216156e501
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.3
+-----
+77fb7def64004aaf7dfcb7719cb6e0a4db9f85ec
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.30
+------
+5f86200dbe2f003cf26e1625af5ec0fa5742efb1
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.31
+------
+21e68e2ee1b168fad138b19b4ff0bfbd4b04dcfe
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.32
+------
+68126750d07dec407ed0dbbd8ba01be28ce176d1
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.33
+------
+8bd5a5e6c38841d5d3620500e52541a631812c8b
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.34
+------
+c0f69bcabac42400cbe99b964a9149d53be7abd8
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.35
+------
+6ee9903f1dcbde23265bdc033c2cd3cd9730c616
+julia 0.3-
+Compat 0.2.2
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.36
+------
+f7bb7a702577b48c2bc985794f047fe19ec08664
+julia 0.3-
+Compat 0.4
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.37
+------
+f200faf900b5723ff912dd41ccc8348a73deefa5
+julia 0.3-
+Compat 0.4
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.38
+------
+f327f56ff85e21d15bf145242a8585bc2a26fdca
+julia 0.3
+Compat 0.4
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.39
+------
+b5ee132f059a273280b58c6385b3971fb8ac8da9
+julia 0.3
+Compat 0.4
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.4
+-----
+2c8d3473685262e86e51e49ffcb62f1793fa0956
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.40
+------
+79abedd76ed5bd2edca6f3d3c5f7eaca805431ea
+julia 0.3
+Compat 0.4
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.41
+------
+c23cd4e3e3239effa4314245ad47b5eee51d3603
+julia 0.3
+Compat 0.4
+Color 0.4.7
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.42
+------
+bcc9afe9f90a61c4ce678c909657d7bcd896dda1
+julia 0.3
+Compat 0.4
+Color 0.4.7
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.43
+------
+28bdcd3b86ff7f79158dab9e67d684fcba6f581e
+julia 0.3
+Compat 0.4
+Color 0.4.7
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.44
+------
+210a01c1e5765a0ceca58c3b17de1583324ca37e
+julia 0.3
+Compat 0.4
+Colors
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.45
+------
+8917723f759936aa62e74865c57252482bba951d
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.46
+------
+a3b178c45968fd7bc1bfaeece0ba9a53ca84037e
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.47
+------
+dff8281dbb7cb4ff76de2d48143a02650c4981ea
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.48
+------
+ecd35f185912489a94e57f22852d8be974b6a9dd
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.49
+------
+f2b6493199fc9d8e3388d62d485bf7730387080f
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.5
+-----
+de74f4b365c74df705be12e3f160c5c5edf5dafb
+julia 0.3-
+Color
+Cartesian 0.2-
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.50
+------
+646c075d819d1f32ad6b1893a2e3d9d6e3810f07
+julia 0.3
+Compat 0.4
+Colors
+ColorVectorSpace
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+Graphics 0.1
+
+0.4.6
+-----
+55a7e59ee7c5ff43bd2e483af9feb4d2b0256425
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.7
+-----
+173749ec63ae4deebeff4dd57ba72809d67f8282
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.8
+-----
+4b3b922d0d28a77aaa7463cae9a3e557f01de4f5
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.4.9
+-----
+419681fe5fa1f90a07e9947188dafdf0b9954ca7
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+SIUnits
+Zlib
+
+0.5.0
+-----
+dc78510d112b330eab39c9257e4f9cf0e5864d85
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+
+0.5.1
+-----
+42f5cca15210d8da1629bba2d80d1b5e288b4f12
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+
+0.5.2
+-----
+efac0091c9df6f9fe7240fa9f55441afdcdde0d6
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+
+0.5.3
+-----
+fb78f8524b86d0ab10b4a744206fa12a5221a83a
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+
+0.5.4
+-----
+66a49566cf2a75326e70a7d19b127c7097e45973
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+
+0.5.5
+-----
+8840a952817eb5d8d78cf122ed6f9d2a87ae2aec
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.7.15
+
+0.5.6
+-----
+22b5ebfcc15143628e1004d5f3ee9c8d166127c0
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.8.4
+StatsBase   # for histrange
+
+0.5.7
+-----
+ee27cfd283021ad4087d5870fbc0b8cd7f861721
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.8.4
+StatsBase   # for histrange
+
+0.5.8
+-----
+a5a441177aee4f88b08668dcd6838256ec9c58cf
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.8.4
+StatsBase   # for histrange
+
+0.5.9
+-----
+f629d05c981f1d676d6ab1d4e05543f181c0fafb
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.8.4
+StatsBase   # for histrange

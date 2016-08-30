@@ -1,0 +1,127 @@
+git://github.com/JuliaStats/Lora.jl.git
+
+0.3.0
+-----
+bad3d76c1bcf589bb3883ac9ee35bd9d45373eb7
+julia 0.3 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.3.1
+-----
+e726732fae19f0ebaf86c4f3eda0335d47ee05ca
+julia 0.3 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.3.2
+-----
+63c6191f7b8c923672d4a36a1afbf0ae3e3eee86
+julia 0.3 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.3.3
+-----
+ab9a5d287c897bf5e82f1c975eb212f53a05c269
+julia 0.3 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.4.0
+-----
+ea2dc49e4ba78dad720ab8ea13d02b3455ff86fb
+julia 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.4.1
+-----
+905aedde1ff25cec5a41218fb80a1475f5ea0af0
+julia 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.4.2
+-----
+0ba03c50ef3f0d942271b0bc0e9bbb8bf31f8bc4
+julia 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.4.3
+-----
+bb440082091c21e40d9860977fb591b4e89c7394
+julia 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.4.4
+-----
+2712fe20088e7f4db0d9757a274ddd57e3b671b7
+julia 0.4-
+Distributions 0.4.7
+StatsBase 0.3.5
+ReverseDiffSource 0.0.4 0.1.0
+
+0.5.0
+-----
+c82e4413f4f4c3b1f5d427b63e868abee90e1627
+julia 0.4-
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.1.3
+Graphs 0.5.5
+ReverseDiffSource 0.2.1
+
+0.5.1
+-----
+d6354f8fea7ecff2e3a6738a82d37d6d075830b0
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.1.3
+Graphs 0.5.5
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4
+
+0.5.2
+-----
+e80bbf5245e7f74f28d3c9d828a2bf3596b0fc88
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.1.3
+Graphs 0.5.5
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4
+
+0.5.3
+-----
+6e018b2d9fc1de4db1a79d93b80462e86d905580
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.1.3
+Graphs 0.5.5
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4
+
+0.5.4
+-----
+20e5a6e5c650f81b59d12213a2044b192666c1ac
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.2.0
+Graphs 0.5.5
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4

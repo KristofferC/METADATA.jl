@@ -1,0 +1,34 @@
+git://github.com/BioJulia/Libz.jl.git
+
+0.0.1
+-----
+d4903d2fbe602b2df1a7788df940f314bf0b3768
+julia 0.4-
+BufferedStreams
+
+0.0.2
+-----
+88899be3898c5b7681a3828f4e95de29b0c840a9
+julia 0.4-
+BufferedStreams
+
+0.1.0
+-----
+e072678a7ed64ed8761d5e7b7b231bff4c24d127
+julia 0.4
+Compat
+BufferedStreams 0.1
+
+0.1.1
+-----
+f0b408970942803420ba8881dbd7b12e7ad14cca
+julia 0.4
+Compat
+BufferedStreams 0.1.1
+
+0.2.0
+-----
+2d78fd415dbb5c2731157701cd66c259ecbff4e6
+julia 0.4
+Compat 0.8.0
+BufferedStreams 0.1.1

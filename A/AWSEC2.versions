@@ -1,0 +1,44 @@
+git://github.com/samoconnor/AWSEC2.jl.git
+
+0.0.1
+-----
+e80a0184a1529d85cca0041e5c2f339749313d63
+julia 0.4
+AWSCore
+
+0.0.2
+-----
+a09b93dc23a8b9cfa59fb51d7c6dd617736f28b0
+julia 0.4
+AWSCore
+
+0.0.3
+-----
+299f28029ced38b4ac6c1eecba5db82d6a138e37
+julia 0.4
+AWSCore
+
+0.0.4
+-----
+f36bdce79ef527d0df768eb52726779d80806989
+julia 0.4
+AWSCore
+
+0.0.5
+-----
+b21d4c6f61904d63ddd21c40c122d02ca274c10f
+julia 0.4
+AWSCore
+
+0.0.6
+-----
+df58194a947de52123a077a937b162226c4853e7
+julia 0.4
+AWSCore
+
+0.0.7
+-----
+ecfb586d4bf4f371288b7da9c45b361b6e14cb1c
+julia 0.4
+AWSCore
+AWSIAM

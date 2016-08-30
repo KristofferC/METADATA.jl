@@ -1,0 +1,21 @@
+git://github.com/JuliaPackageMirrors/MultidimensionalTables.jl.git
+
+0.0.1
+-----
+db3ab1e336e1c7cbcef39213a5b9fce48ce1609e
+julia 0.4.0 0.4.3
+DataFrames
+RDatasets
+FactCheck
+
+0.0.2
+-----
+9dc91d6cae1e6d97657160dde9fa8910e529f4d9
+julia 0.4.0 0.4.3
+DataFrames
+
+0.0.3
+-----
+230759365f948763da9b9811318290c69b911aac
+julia 0.4.0 0.4.3
+DataFrames

@@ -1,0 +1,41 @@
+git://github.com/invenia/Mocking.jl.git
+
+0.0.1
+-----
+63be29e83f37a04828b4f870738e2dfb1df91f0d
+julia 0.4-
+
+0.0.2
+-----
+60933960474cce2f7c359b612f2b28d5d17e4c73
+julia 0.4
+
+0.0.3
+-----
+04b8440ca7446aedf90b4816aa58892fd46f3229
+julia 0.4 0.5-
+
+0.1.0
+-----
+d636919fcaacca67aea4e9384bb60b6d34d7dedd
+julia 0.5-
+
+0.1.1
+-----
+8b6802c53a91a33edf929d2db8c2384ab6b57b85
+julia 0.5-
+
+0.2.0
+-----
+b657c35aa2273d0e5b17a25e3a5d45f5e585fa0d
+julia 0.4
+
+0.2.1
+-----
+fe424677921dadb0384d3480e601a79608810b81
+julia 0.4
+
+0.2.2
+-----
+738d1f7a82ac7546531fd8cd63b7a418cb93a37f
+julia 0.4

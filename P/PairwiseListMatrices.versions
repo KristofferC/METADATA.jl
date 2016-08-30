@@ -1,0 +1,39 @@
+git://github.com/diegozea/PairwiseListMatrices.jl.git
+
+0.0.1
+-----
+d53ca3a5c69b710c3a10e26c1abf5d9d83d70f62
+julia 0.4
+IndexedArrays
+
+0.0.2
+-----
+c43f806b870f06fbdbd3adde4e74f841e36a15e2
+julia 0.4-
+IndexedArrays
+
+0.1.0
+-----
+bdc709cbe047c131966fa76faa45cae3545aa338
+julia 0.4-
+IndexedArrays
+
+0.1.1
+-----
+cd10970fa57d14802503945b42995fa52faeae32
+julia 0.4-
+IndexedArrays
+
+0.2.0
+-----
+f9f7004c64fa7457eb0ef89c5bd594efab779a55
+julia 0.4
+IndexedArrays
+Requires
+
+0.3.0
+-----
+0a85c61aaba996d4dce0d6ca66d510fa3fd3d562
+julia 0.4
+IndexedArrays
+Requires

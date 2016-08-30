@@ -1,0 +1,25 @@
+git://github.com/JuliaComputing/GitLab.jl.git
+
+0.0.1
+-----
+60354dec877ab64ae06310c807490736952ca667
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+0.0.2
+-----
+3e9e022661c88bb42679c562c364f5e2ce522a45
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests

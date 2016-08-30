@@ -1,0 +1,53 @@
+git://github.com/mpastell/Weave.jl.git
+
+0.0.1
+-----
+6b65075f0d9a3f24a7f5f2a5d21f26edc2f978d3
+Compat
+TextWrap
+
+0.0.2
+-----
+784a524d86f60f6f8a6ee7bfb37b03af285aa12d
+Compat
+TextWrap
+
+0.0.3
+-----
+0c36d034365017c045bc2aed2ca2c91918025193
+Compat
+TextWrap
+
+0.0.4
+-----
+06c5933cd1430d3879cf11056a348c89708f67f2
+julia 0.3
+Compat
+TextWrap
+ArgParse
+Docile
+
+0.1.0
+-----
+3c1e0e87a9b117c52e46568fb9b4ab60c8a1bf98
+julia 0.4
+Compat
+ArgParse
+Docile
+JSON
+
+0.1.1
+-----
+13670b1620f19e36f7cf9ec80b4c048340ea1ac0
+julia 0.4
+Compat
+ArgParse
+JLD
+
+0.1.2
+-----
+87e7965627c526c61c3671bc2a50c91fa26aa512
+julia 0.4
+Compat
+ArgParse
+JLD

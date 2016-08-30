@@ -1,0 +1,68 @@
+git://github.com/andrewcooke/Drawing.jl.git
+
+0.0.1
+-----
+4d4134afedb12a3e36047cce90d75884df1ca32b
+julia 0.4-
+Cairo 0.2.29
+Colors 0.5.2
+#Graphics
+
+0.0.2
+-----
+4a13211b7537c48715988bca19634de71ca76a55
+julia 0.4-
+Cairo 0.2.29
+Colors 0.5.2
+#Graphics
+
+0.1.0
+-----
+5a5a584d0bfa5c055593cb353326349c8a3d643e
+julia 0.4-
+Cairo 0.2.29
+Colors 0.5.2
+#Graphics
+
+0.1.1
+-----
+fce3f952026c6edcd68af3416f51bef226bf326a
+julia 0.4-
+Cairo 0.2.29
+Colors 0.5.2
+Tk
+
+0.1.2
+-----
+f5e04a3e59dc90a363d88b0e325ad3899724566a
+julia 0.4-
+Cairo 0.2.29
+Colors 0.5.2
+Tk
+
+0.1.3
+-----
+39c0a4b8e7316ecc5852f3a7e0d200e53bba4c62
+julia 0.4-
+Cairo 0.2.31
+Colors 0.5.4
+ColorTypes 0.1.6
+Tk
+
+0.1.4
+-----
+03003e3855de1c8e8de609181bc5f5aee98d3cd4
+julia 0.4-
+Cairo 0.2.31
+Colors 0.5.4
+ColorTypes 0.1.6
+Tk
+
+0.1.5
+-----
+2369fddf274ecd87d13af68c55efecd4c8dfaaec
+julia 0.4
+Cairo 0.2.31
+Colors 0.5.4
+ColorTypes 0.1.6
+Tk

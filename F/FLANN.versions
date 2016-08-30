@@ -1,0 +1,33 @@
+git://github.com/wildart/FLANN.jl.git
+
+0.0.1
+-----
+69f0b40d2bc2e9af27254bfbeb758fbd6ff45cd8
+julia 0.3-
+BinDeps
+Distance
+
+0.0.2
+-----
+81aabf2f35f894e900aae13eeb176b33d530d77a
+julia 0.3-
+BinDeps 0.3.1
+Distance
+
+0.0.3
+-----
+77f9d2ad4b7ed0523082bbbc1432157f65f10238
+julia 0.3+
+BinDeps
+Distances
+Compat
+@osx Homebrew
+
+0.0.4
+-----
+1c3176503a3cc8f4801cb802be5534f08f5ca5db
+julia 0.3
+BinDeps
+Distances
+Compat
+@osx Homebrew

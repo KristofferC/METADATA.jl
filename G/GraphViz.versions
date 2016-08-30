@@ -1,0 +1,22 @@
+git://github.com/Keno/GraphViz.jl.git
+
+0.0.1
+-----
+71bb0331eef4a21b1f39822047d52288f383935d
+
+0.0.2
+-----
+0bce6021a281e1fd98f3e2c0155d804a1836d19a
+BinDeps
+
+0.0.3
+-----
+e5da541b5fac5ba50eeb36aea5a1122394b576da
+BinDeps
+
+0.0.4
+-----
+e268c57bc4103b25585df2715b3008a3ce3cbbc4
+julia 0.3
+Compat
+BinDeps

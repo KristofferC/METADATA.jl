@@ -1,0 +1,49 @@
+git://github.com/Jutho/TensorOperations.jl.git
+
+0.0.0
+-----
+3a7929b9158173adf538df51f6d71d27d5aa8bf0
+
+0.0.1
+-----
+be0fc1afa64fa4715ae48193ed636a04650e5975
+
+0.1.0
+-----
+3ca992225fa26798d3bc49c26fba5408acf8d44d
+Cartesian 0.2.2-
+julia 0.2-
+
+0.1.1
+-----
+9025f11c589bcd54666f33091463d655fb45f5cd
+Cartesian 0.2.2
+julia 0.2
+
+0.2.0
+-----
+3dfd6c6bc3a7c5f01df67627bb5f3ed9af132253
+Cartesian 0.2.2
+julia 0.2
+
+0.3.0
+-----
+d8dbdd959d2e70cca8942aad30a9ab803f871253
+Cartesian 0.2.2
+julia 0.2
+
+0.3.1
+-----
+1b47082b60a3bc048235ca6c9ad2a3b4d9a93da7
+Cartesian 0.2.2
+julia 0.2
+
+0.4.0
+-----
+f6c73fd43c220ffc4c2571a377fb05cf375124cb
+julia 0.4
+
+0.4.1
+-----
+a8de01c06fce5f7a4bdc079f73e1184714a90004
+julia 0.4

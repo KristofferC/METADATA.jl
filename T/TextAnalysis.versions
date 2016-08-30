@@ -1,0 +1,47 @@
+git://github.com/johnmyleswhite/TextAnalysis.jl.git
+
+0.0.0
+-----
+c902d07b6c6c0ff527cf5937036762eedace674c
+Languages
+DataFrames
+
+0.0.1
+-----
+f022c37fbf1be8b5414a962ece186d6971e53b10
+julia 0.2-
+Languages
+DataFrames
+
+0.0.2
+-----
+d40a74e48fc1822d22b128af0bd76e0c27ec10c1
+Languages
+DataFrames
+BinDeps
+
+0.0.3
+-----
+17ce58c18958ff73f52ec4641bae3f4e3000b2f5
+julia 0.3
+Languages
+DataFrames
+BinDeps
+
+0.0.4
+-----
+f90253139d31d9665140eb9a2600c868058c1424
+julia 0.3
+Languages
+DataFrames
+BinDeps
+Compat
+
+0.0.5
+-----
+c8852342945ca1762646e6f324d692631ef87e9d
+julia 0.3
+Languages
+DataFrames
+BinDeps
+Compat

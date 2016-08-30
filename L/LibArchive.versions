@@ -1,0 +1,18 @@
+git://github.com/yuyichao/LibArchive.jl.git
+
+0.0.1
+-----
+83823744d461cd27a9b90a10255d76c677e7fd6e
+julia 0.4
+BinDeps
+@windows WinRPM
+@osx Homebrew
+
+0.0.2
+-----
+6cee4db669de9372bdc1baa21e6d6492e86dbb41
+julia 0.4
+Compat 0.8.2
+BinDeps
+@windows WinRPM
+@osx Homebrew

@@ -1,0 +1,63 @@
+git://github.com/phrb/StochasticSearch.jl.git
+
+0.0.1
+-----
+320eee3795f9244a9edf34c89cb2760022481c42
+julia 0.3.2-
+FactCheck
+Optim 0.0 0.5
+
+0.0.2
+-----
+48ba9c674bb3363af3db639f6996046c50933edb
+julia 0.3.2-
+FactCheck
+Optim 0.0 0.5
+
+0.0.3
+-----
+25c358b7512c741671c10846204f1e9724a07d93
+julia 0.3.9-
+FactCheck
+Optim 0.0 0.5
+
+0.0.4
+-----
+16959b35553e344111f5d05f1bb0341f92ac0354
+julia 0.3.11-
+FactCheck
+Optim 0.0 0.5
+
+0.0.5
+-----
+be88c647b7a047cb35d4a966f50cc31e31a5c862
+julia 0.3.2
+FactCheck
+Optim 0.0 0.5
+
+0.1.0
+-----
+bb624b21b6531b89a90db5f0281c10990877095c
+julia 0.3.2
+FactCheck
+Optim 0.0 0.5
+
+0.2.0
+-----
+413e094dd36dc5ccfd3405c73cd81f106f05894d
+julia 0.4.0-rc2
+FactCheck
+Optim 0.0 0.5
+
+0.2.1
+-----
+7da389f6127283fa93a9e8cdb0f6f0db89213b9b
+julia 0.4.0
+FactCheck
+Optim 0.0 0.5
+
+0.2.2
+-----
+deab630b9cfe21ee44ca4ea260d7c1b03821e22a
+julia 0.4.0
+FactCheck

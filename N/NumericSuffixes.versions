@@ -1,0 +1,19 @@
+git://github.com/MichaelHatherly/NumericSuffixes.jl.git
+
+0.0.1
+-----
+55553d801801459caaa546bf5b698e687a8a9003
+julia 0.4
+Compat
+
+0.0.2
+-----
+25861cf5f9ac0550dad002dfd8533072da0c8f4f
+julia 0.4
+Compat 0.8
+
+0.0.3
+-----
+16e3b9a530828897429cc31bdbaffcf52528f266
+julia 0.4
+Compat 0.8

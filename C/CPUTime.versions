@@ -1,0 +1,30 @@
+git://github.com/schmrlng/CPUTime.jl.git
+
+0.0.1
+-----
+6b03efc663737d7033191cbdbc61f1852e84c203
+julia 0.3-
+
+0.0.2
+-----
+d7989d67faac2a82536fb04672866ca49265032d
+julia 0.3-
+Compat
+
+0.0.3
+-----
+90ae564fb35a58c9c12321b50c1aefc58ec3b0c7
+julia 0.3-
+Compat
+
+0.0.4
+-----
+f067a33af5cb1f214d2c77332305bf3fed66eeed
+julia 0.3-
+Compat
+
+0.0.5
+-----
+7932f253e557d3203c8d427381681b7586ef37c2
+julia 0.3
+Compat

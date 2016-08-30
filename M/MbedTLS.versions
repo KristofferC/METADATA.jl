@@ -1,0 +1,98 @@
+git://github.com/JuliaWeb/MbedTLS.jl.git
+
+0.1.0
+-----
+7f54bb13d23e244b9687edb46447e96498af2eac
+julia 0.4-
+BinDeps
+
+0.1.1
+-----
+9f143965da1673718e25cbeb9492aac7fc22c9a4
+julia 0.4-
+BinDeps
+@osx Homebrew
+
+0.1.2
+-----
+8f1a1757cab75325ff909b495208996009bb0496
+julia 0.4-
+BinDeps
+@osx Homebrew
+
+0.1.3
+-----
+a4bcb6826f8725a023894308c77da996bcf0a645
+julia 0.4-
+BinDeps
+@osx Homebrew
+
+0.1.4
+-----
+714b8db68060a9971d6453bb915b775e4a579d18
+julia 0.4-
+BinDeps
+@osx Homebrew
+
+0.2.0
+-----
+29b7c9424d7e1c32d8c107de27e47b90aa35655b
+julia 0.4-
+BinDeps
+@osx Homebrew
+
+0.2.1
+-----
+545b9f463873b8b80407aea6ecab4f498a7a1b04
+julia 0.4
+BinDeps
+Compat 0.7.9
+@osx Homebrew
+
+0.2.2
+-----
+3fc47bd49fc59e33042cea50e9228f68e8a09d9f
+julia 0.4
+BinDeps
+Compat 0.7.9
+@osx Homebrew
+
+0.2.3
+-----
+634d9a9a047c4b9b094eec1fdf38e37b16d4a936
+julia 0.4
+BinDeps
+Compat 0.7.9
+@osx Homebrew
+
+0.2.4
+-----
+946d9389ec707bfd0cbd78a20141abe0d8f2d703
+julia 0.4
+BinDeps
+Compat 0.8.0
+@osx Homebrew
+
+0.2.5
+-----
+09a856f884542722bc3ffca9fab12c57fe2da5ec
+julia 0.4
+BinDeps
+Compat 0.8.0
+@osx Homebrew
+
+0.2.6
+-----
+afd2ef93ca24ff231f1c0fb656644f50bf1ac14e
+julia 0.4
+BinDeps
+Compat 0.8.0
+@osx Homebrew
+
+0.3.0
+-----
+18dfb5cde748f601fcb4546316d6f1deb8556d21
+julia 0.4
+BinDeps
+Compat 0.8.0
+@osx Homebrew

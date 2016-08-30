@@ -1,0 +1,120 @@
+git://github.com/JuliaFinMetriX/TimeData.jl.git
+
+0.0.1
+-----
+8e21647279adb3722a3d8a0ad11a43c96fb28fc8
+julia 0.2-
+DataFrames 0.4.1
+Datetime 0.1.2
+
+0.1.0
+-----
+5976f77395b0fcfad30461dbda79351e032986c1
+julia 0.3-
+DataArrays 0.1.1-
+DataFrames 0.5.1-
+Datetime 0.1.2-
+
+0.1.1
+-----
+a83dc11dc6b9271a5859091e18aeeb9639b25ab3
+julia 0.3-
+DataArrays 0.1.2-
+DataFrames 0.5.2-
+Datetime 0.1.2-
+
+0.1.2
+-----
+8ebdbb7c50e6a42d022913b45c486a44d65d1298
+julia 0.3-
+DataArrays 0.1.2-
+DataFrames 0.5.2-
+Datetime 0.1.2-
+
+0.2.0
+-----
+2f2639a24a2560ee99e1b3e8552f8a3375aeffee
+julia 0.3-
+DataArrays 0.1.11-
+DataFrames 0.5.6-
+Datetime 0.1.6-
+
+0.3.0
+-----
+e98d9ad8da0ac2b6fe89d7e5e895875bc25bef99
+julia 0.3-
+DataArrays 0.1.11-
+DataFrames 0.5.6-
+Datetime 0.1.6-
+
+0.3.1
+-----
+35bc94740c3afd4b974b45ee9921d028889b1fd9
+julia 0.3-
+DataArrays 0.1.11-
+DataFrames 0.5.6-
+Dates 0.0.2-
+TimeSeries 0.4.3-
+
+0.3.2
+-----
+7b180a57133e1d7e84f7bd78ba2c93e01e12d804
+julia 0.3-
+DataArrays 0.1.11-
+DataFrames 0.5.6-
+Dates 0.0.2-
+TimeSeries 0.4.3-
+
+0.4.0
+-----
+6ef60e3396e313a042a86e8cfade7f88746d167a
+julia 0.4-
+DataArrays 0.1.11-
+DataFrames 0.5.6-
+TimeSeries 0.4.3-
+
+0.5.0
+-----
+f5b2d51c31fb8ae8a1c24ed892bc5d6fa22f734d
+julia 0.4-
+DataArrays 0.2.0-
+DataFrames 0.5.8-
+TimeSeries 0.4.5-
+
+0.5.1
+-----
+97bd83eb53288262b8ae98cb6b68cc0e5044132f
+julia 0.3.2-
+DataArrays 0.2.0-
+DataFrames 0.5.8-
+TimeSeries 0.4.5-
+
+0.6.0
+-----
+16fca743b82fb91172b88177953af4af35b62715
+julia 0.3-
+DataArrays 0.2.0-
+DataFrames 0.5.8-
+TimeSeries 0.4.5-
+Compat 0.4-
+Docile 0.5-
+
+0.6.1
+-----
+f99a82b609721bddfa24976ccbcefd0e06135c33
+julia 0.3
+DataArrays 0.2.0
+DataFrames 0.5.8
+TimeSeries 0.4.5
+Compat 0.4
+Docile 0.5
+
+0.7.0
+-----
+27f6a8881e944a73ce0299d4aef241a43ec644b4
+julia 0.3
+DataArrays 0.2.0
+DataFrames 0.5.8
+TimeSeries 0.4.5
+Compat
+Docile

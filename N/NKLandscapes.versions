@@ -1,0 +1,23 @@
+git://github.com/glesica/NKLandscapes.jl.git
+
+0.1.1
+-----
+5bee1851fd488b118678d504ca1c2b7cfbaae20d
+julia 0.4 0.5-
+Distributions
+FactCheck
+
+0.2.0
+-----
+9d92aee40c7ffe2dfebc43bd776df4be0965d24c
+julia 0.4
+Distributions
+FactCheck
+
+0.3.0
+-----
+2558279e9bd157732f58f64d87dba74c9069e3ae
+julia 0.4
+DataStructures
+Distributions
+FactCheck

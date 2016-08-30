@@ -1,0 +1,60 @@
+git://github.com/EricForgy/Pages.jl.git
+
+0.0.1
+-----
+4c1e08ecc323d94d6058a2b318e29b5579749f5b
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+JSON
+
+0.0.2
+-----
+4458da519464c13972b944d0d39dd93459d3a710
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+JSON
+
+0.0.3
+-----
+0650f4425f88aae7eeb2d75a69021de3671f9103
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+
+0.0.4
+-----
+d5191b42f31fd2878deaab91d9f10f105219e07e
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+
+0.0.5
+-----
+1fa459fb0ce55d2797b52fd340622421c3663961
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+
+0.0.6
+-----
+e12ae4a8d464e2be8ae886056f4aa5f8ebd548c3
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+Compat 0.8.6

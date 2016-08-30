@@ -1,0 +1,15 @@
+git://github.com/scidom/ChemicalKinetics.jl.git
+
+0.0.0
+-----
+b83df7a1acbeb129a7eea56510ca8a0ad8bae608
+julia 0.2-
+Distributions
+Sundials
+
+0.1.0
+-----
+a1d419dcc937678dbd5811c0602883b53011e558
+julia 0.3-
+Distributions 0.4.7
+Sundials 0.1.0

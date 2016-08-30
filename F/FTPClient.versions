@@ -1,0 +1,19 @@
+git://github.com/invenia/FTPClient.jl.git
+
+0.0.1
+-----
+d3601e2a6463c3b15bad1d0c9f7185d65df4d219
+julia 0.4-
+LibCURL
+
+0.1.0
+-----
+d3601e2a6463c3b15bad1d0c9f7185d65df4d219
+julia 0.4-
+LibCURL
+
+0.1.1
+-----
+d163e916a864e5f6d683e05f2795267c2987d087
+julia 0.4-
+LibCURL

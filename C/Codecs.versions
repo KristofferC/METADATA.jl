@@ -1,0 +1,40 @@
+git://github.com/dcjones/Codecs.jl.git
+
+0.0.0
+-----
+972243bc4ae93377825e1d6726e6fff8954d1e23
+Iterators
+
+0.1.0
+-----
+fd8881663fa2c12da4cf96b04bc487f402d32bf9
+Iterators
+
+0.1.1
+-----
+2de709784ed10c4ffab20ce2495b382e163f2c00
+
+0.1.2
+-----
+40f53cf63d3686f57222af9b6d4bd7e598cd42b2
+
+0.1.3
+-----
+6d7659f47fbeba8345225afcf4c3e4ff3e6155f4
+
+0.1.4
+-----
+a8b6a8469e1d969966404ae8d771fbf573c39716
+Compat
+
+0.1.5
+-----
+dbc3b9327fd6e4c84a88a1d0c2c6fc43a6d66793
+julia 0.3
+Compat
+
+0.2.0
+-----
+e490f4042a53354b88c5ad88190173f1eab3101e
+julia 0.3
+Compat 0.7.20

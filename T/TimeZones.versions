@@ -1,0 +1,61 @@
+git://github.com/JuliaTime/TimeZones.jl.git
+
+0.0.1
+-----
+87a4798d9c36319350625cf5bde99f95f84d376b
+julia 0.4-
+
+0.0.2
+-----
+c6de9d463ab5f6a2576417a849cc5bf2ad7cc5f7
+julia 0.4-
+
+0.1.0
+-----
+d56868b77c8335181618250547fc717a903b619a
+julia 0.4-
+# Only required for building
+@windows LightXML
+
+0.1.1
+-----
+8e73dab4c86f5ba2669eac878b543d485d07234b
+julia 0.4
+# Only required for building
+@windows LightXML
+
+0.1.2
+-----
+9b3db2c6c1fedfd6111255976791084a9870abf5
+julia 0.4
+Compat
+Mocking 0.0 0.2
+# Only required for building
+@windows LightXML
+
+0.2.0
+-----
+3b6c94ef8484b9ce88604f8750dbde86fde239a8
+julia 0.4
+Compat
+Mocking 0.0 0.2  # Only required for `VERSION < v"0.5-"`
+# Only required for building
+@windows LightXML
+
+0.2.1
+-----
+c1b7b7dd9f069704b36bb86f99914b11e9b8c57f
+julia 0.4
+Compat 0.8
+Mocking 0.2
+# Only required for building
+@windows LightXML
+
+0.2.2
+-----
+4cb51922365ef9176d52b87054d32a439b7314ae
+julia 0.4
+Compat 0.8
+Mocking 0.2
+# Only required for building
+@windows LightXML

@@ -1,0 +1,79 @@
+git://github.com/JuliaGeometry/GeometryTypes.jl.git
+
+0.0.1
+-----
+26e3ad6fb710a46746c04eefe82ee28d677d2c64
+julia 0.4-
+FixedSizeArrays
+
+0.0.2
+-----
+be100d49933a6d343b1165db0afed2d99273b4e3
+julia 0.4-
+FixedSizeArrays
+ColorTypes
+
+0.0.3
+-----
+7b7bc81d8ad8fb28d1fa29200e9441ead88b7c8d
+julia 0.4-
+FixedSizeArrays
+ColorTypes
+
+0.0.4
+-----
+0e168911638335a06d8e876fc75eb89ff58a0d90
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.0
+-----
+cf1cca1b5f3f726d0c6780e820a0666e9fb0108e
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.1
+-----
+bfa87907652efe791d8be2449d4379e6f4b68e3b
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.2
+-----
+b2825cadefb5ec761e99122543123319678c9cb7
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.3
+-----
+932bbb7c643dc7e008e924fc7b27902a85718804
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.4
+-----
+672a3736e2ae31f79d0b2a584f7a3ec16d3d9f30
+julia 0.4
+FixedSizeArrays
+ColorTypes
+
+0.1.5
+-----
+63a4a604fe982ddd503602e1b4386c9f9b97312a
+julia 0.4
+FixedSizeArrays
+ColorTypes
+Compat 0.7.15
+
+0.1.6
+-----
+f058f27922b6ce633dd0eaafa5e96e4e136198ee
+julia 0.4
+FixedSizeArrays
+ColorTypes
+Compat 0.7.15

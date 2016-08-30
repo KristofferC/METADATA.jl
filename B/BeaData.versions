@@ -1,0 +1,17 @@
+git://github.com/stephenbnicar/BeaData.jl.git
+
+0.0.1
+-----
+37dc501a4d80c1cb6e7ea95e3e9370c297c492f7
+julia 0.4
+Requests
+DataFrames
+DataStructures
+
+0.0.2
+-----
+8da8596a2ef43ce2e06f8c87118e726c09f0ade9
+julia 0.4
+Requests
+DataFrames
+DataStructures

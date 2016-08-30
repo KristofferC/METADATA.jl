@@ -1,0 +1,31 @@
+git://github.com/felipenoris/InterestRates.jl.git
+
+0.0.1
+-----
+4e3c60d8ea0dfe9a286bf4c9cfce7f05ad606929
+julia 0.4-
+BusinessDays
+
+0.0.2
+-----
+82e3dfd89f9c69cf090e525af2b41f622c6ba3e9
+julia 0.4-
+BusinessDays
+
+0.0.3
+-----
+fd53975643d4395f13d3219af7848264d9c4a116
+julia 0.4
+BusinessDays
+
+0.0.4
+-----
+96472cbc1298dda6b222b2cb61e718ba05a1d206
+julia 0.4
+BusinessDays
+
+0.0.5
+-----
+249f114c896644ebbd036a52b3230d180f4828f9
+julia 0.4
+BusinessDays

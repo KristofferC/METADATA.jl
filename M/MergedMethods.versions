@@ -1,0 +1,19 @@
+git://github.com/MichaelHatherly/MergedMethods.jl.git
+
+0.0.1
+-----
+2e203f7155ab16f1290c1eb230f38e91cf80f50e
+julia 0.4
+Compat
+
+0.0.2
+-----
+1934760e8cfdf01c4b6a47289c443ecbdae007be
+julia 0.4
+Compat 0.8
+
+0.0.3
+-----
+50215f1edeaed0b9505947cbab6019b363271ad1
+julia 0.4
+Compat 0.8

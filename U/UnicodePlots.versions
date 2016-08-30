@@ -1,0 +1,52 @@
+git://github.com/Evizero/UnicodePlots.jl.git
+
+0.0.1
+-----
+e2033525f2dd2d290da185ead6712f6099270939
+julia 0.3
+
+0.0.2
+-----
+2276718e3f32fd94a20ad104e72b6eaa7ac46274
+julia 0.3
+
+0.0.3
+-----
+9a7b724c19c4a51b8a1456d85c0e277766516bea
+julia 0.3
+
+0.0.4
+-----
+388c81dd23eb23ee935c9ad36f1087bf7d8bce8a
+julia 0.3
+
+0.0.5
+-----
+46788a85344353f8223399ec6428dc1cfa34f9f5
+julia 0.3
+Compat
+
+0.1.0
+-----
+768e26f45b4b44d691a28554026b1a545943961f
+julia 0.4
+
+0.1.1
+-----
+258148d4ab3a1cdb179714b25275c20aa22a9057
+julia 0.4
+
+0.1.2
+-----
+32e156056dd12e71692c472a879341cd034a6b64
+julia 0.4
+
+0.1.3
+-----
+9179362035657667608b1d6d6776c6e38c66c3ce
+julia 0.4
+
+0.1.4
+-----
+ebd00cd0ea77351a2cf95548d48963622296642c
+julia 0.4

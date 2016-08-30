@@ -1,0 +1,22 @@
+git://github.com/garrison/Gettext.jl.git
+
+0.0.1
+-----
+b7136e33c6fbe8a2110c259648cf8f11d91ecdd5
+julia 0.2-
+PyCall 0.5
+Formatting
+
+0.0.2
+-----
+b74077a22efa0e6b65812456ccd25ec500c71bd0
+julia 0.2-
+PyCall 0.5
+Formatting
+
+0.1.0
+-----
+e53af89b5a4fa79a4623ea659414f2abe424c853
+julia 0.2-
+PyCall 0.5
+Formatting

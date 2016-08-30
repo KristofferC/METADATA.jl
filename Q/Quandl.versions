@@ -1,0 +1,300 @@
+git://github.com/milktrader/Quandl.jl.git
+
+0.0.0
+-----
+932a97d27f32433971ecec0c460e7ca59a953005
+julia 0.1- 0.2- 
+DataFrames
+Calendar
+TimeSeries
+
+0.0.1
+-----
+9aa84993ed3a9823548b63d135afed766ddbf105
+# julia 0.1- 0.2-
+Calendar
+DataFrames
+
+0.1.0
+-----
+654f35c6c350636e6c3e25465fda25f68179e620
+TimeSeries
+
+0.1.1
+-----
+fad1962b25c57197b2d9a5bdfee45fa2de8c0cb6
+TimeSeries
+
+0.1.2
+-----
+a55ecff6b6571b9099ca163da3be7d04d1114797
+julia 0.3-
+TimeSeries
+
+0.2.0
+-----
+ffd391330c9ed8af5c33b7b9088f71a178282e0e
+julia 0.3-
+Datetime
+TimeSeries
+Requests
+
+0.2.1
+-----
+9be4b870dcf0852a517d8ab8ddd4cbf68d7953cb
+julia 0.3-
+Datetime
+TimeSeries
+Requests
+
+0.3.0
+-----
+b93a2a4ccecbbea291e4e248736ada28944eba54
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+
+0.3.1
+-----
+21e4a995564b442087e40447db0b21007b71b9d3
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+
+0.3.10
+------
+69bf2158d36e9225083769ec3609478917e064b5
+julia 0.3-
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.11
+------
+32400a55a9714fb19216eec10244dcf6c4a1069d
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.12
+------
+32400a55a9714fb19216eec10244dcf6c4a1069d
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.13
+------
+d6b97a48cf7e4c9d44cacdc93114ee8db6cacfd4
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.3.14
+------
+e845af7203aa7bce901ad7122f89e04f6b896260
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.3.15
+------
+d0a94af391fc5689c90e942fffdadc849e08bf6c
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.3.2
+-----
+eb90cc4321d2458cbc8a8cd35d85ce2c5d222ce6
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+
+0.3.3
+-----
+0d1f59b2533767f6201438e42d9ddd03c383b9d5
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+
+0.3.4
+-----
+4226ee8cfa3ed82e058643fe1abc434ef6023250
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.3.5
+-----
+8f165dc2f209d9d3d77c862e15c120096375d513
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.6
+-----
+088c0c60909afd09d739f254f9cc37d019718104
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.7
+-----
+bfe46dbfe4725851142bc7209b6e67bd14226a7f
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.8
+-----
+d430e873754d8e4fab91ce426ecf160fde775d28
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.3.9
+-----
+fb7b1140a2216a9211d132310ba5868286c16a45
+julia 0.3-
+Datetime
+TimeSeries
+DataFrames
+Requests
+JSON
+Reexport
+
+0.4.0
+-----
+b59dbfb75fecdeb0a4a2054aa433c68fd52382d1
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.4.1
+-----
+88e074079a9723b228649d2f014ef5d6238c06fd
+julia 0.3-
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.4.2
+-----
+f894ab575437c133a7c35890da3c6a06b4e36e65
+julia 0.3
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.4.3
+-----
+7be248de7929a611883432239bf4527398e4fbe2
+julia 0.3
+Dates
+TimeSeries
+DataFrames
+Requests
+JSON
+
+0.4.4
+-----
+1530225bf6babca9f7e6fd5888def19eca8778aa
+julia 0.3 0.4-
+Dates
+TimeSeries 0.5.11 0.6.0
+DataFrames
+Requests
+
+0.5.0
+-----
+906e4304d554dce57c29cb2a369ac86585c8294d
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+DataFrames
+Requests
+
+0.5.1
+-----
+633270f2592ad3c753315944050be71b4a0839fc
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+DataFrames
+Requests
+
+0.5.2
+-----
+00495f2d035f968f96d740ee2ab8490b2ef7591e
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+DataFrames
+Requests
+
+0.5.3
+-----
+b319e149fbc17849a7b3ae21a6ef870b063b0440
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+DataFrames
+Requests
+
+0.5.4
+-----
+a364f001eac10af91bc162e17432d44e4366f1f1
+julia 0.4- 0.5-
+TimeSeries 0.6.0
+DataFrames
+Requests

@@ -1,0 +1,19 @@
+git://github.com/MichaelHatherly/PrivateModules.jl.git
+
+0.0.1
+-----
+a100d537aacfa7f873a5bce20c054b3e92216550
+julia 0.4
+Compat
+
+0.0.2
+-----
+481f9b1e5e81ece85aa461e18c618618407a6daf
+julia 0.4
+Compat 0.8
+
+0.0.3
+-----
+22f087ccd86d142c579fbe110c4ce798434fffdb
+julia 0.4
+Compat 0.8

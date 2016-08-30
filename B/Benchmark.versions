@@ -1,0 +1,32 @@
+git://github.com/johnmyleswhite/Benchmark.jl.git
+
+0.0.0
+-----
+13e3f8e7ab0a7f213d4c4c2f24d4cb2f9463fc9f
+DataFrames
+
+0.0.1
+-----
+93e34d5af5c71b83ce7d64e662049f9cabab4bb6
+julia 0.2-
+DataFrames
+
+0.0.2
+-----
+ae99539acff09615d0be5135bb9a6def730ad58a
+julia 0.2-
+DataFrames
+
+0.0.3
+-----
+220c46eb3cf0e8a6d70816bbaf05f850cd39a26d
+julia 0.2-
+DataArrays
+DataFrames
+
+0.1.0
+-----
+649816723f7f00b24f7386691355e946ff95f2a4
+julia 0.3-
+DataArrays
+DataFrames

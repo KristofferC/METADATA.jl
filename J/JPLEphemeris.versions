@@ -1,0 +1,49 @@
+git://github.com/helgee/JPLEphemeris.jl.git
+
+0.1.0
+-----
+ededfd60c9c500ba6c55b424ea1b5480c960a9a7
+HDF5
+
+0.1.1
+-----
+ba613af02eed6e91782709e4a54eb377a7ce3696
+julia 0.2-
+HDF5
+
+0.2.0
+-----
+f29e9c56fc3747487ec67c63550550363cbce380
+julia 0.2-
+HDF5
+
+0.2.1
+-----
+3e16605d91502266a58985f7c934c003d0df4d50
+julia 0.2-
+HDF5
+
+0.3.0
+-----
+ea68f777f414acc3d9a6fcd2fb46a94b49e49b39
+julia 0.4
+JLD
+
+0.3.1
+-----
+0de12c06cb843e8e7f9641660cbd5dd06f8c226f
+julia 0.4
+JLD
+
+0.3.2
+-----
+9751b31f91a26696830a13935abcb124fb3de674
+julia 0.4
+JLD
+
+0.4.0
+-----
+3686fcdecd9e04a444de546cd4e497d6efce8321
+julia 0.4
+BaseTestNext
+Compat

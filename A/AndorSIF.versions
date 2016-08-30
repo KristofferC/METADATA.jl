@@ -1,0 +1,22 @@
+git://github.com/JuliaIO/AndorSIF.jl.git
+
+0.0.1
+-----
+73db5fbfcee03c9fc69ede78a56998dbbce314f0
+julia 0.3
+
+0.0.2
+-----
+aa40f80ee6369fd6e485b646fc472b396705e0d0
+julia 0.3
+Images 
+FileIO 
+Compat
+
+0.0.3
+-----
+860eaeb25e470fdf68360b771f1a4b0c94c4f024
+julia 0.3
+Images 
+FileIO 
+Compat

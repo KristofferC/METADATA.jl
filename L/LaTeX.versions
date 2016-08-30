@@ -1,0 +1,27 @@
+git://github.com/rened/LaTeX.jl.git
+
+0.0.1
+-----
+434a12e7ee22583177eb2d01e9cad2120f48eae3
+SHA
+
+0.0.2
+-----
+1bf9c2d1c49149aebe78c008b3f0b4e1e75213f7
+SHA
+Images
+
+0.1.0
+-----
+8ebf76c8adff6837734ae8884e455d61bbc0c5df
+julia 0.4-
+SHA
+Images
+
+0.1.1
+-----
+6b84ec9f33f29814ceaf37bbf50bbae8e04d1239
+julia 0.4
+SHA
+Images
+Compat

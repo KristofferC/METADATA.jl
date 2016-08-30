@@ -1,0 +1,23 @@
+git://github.com/compressed/BackpropNeuralNet.jl.git
+
+0.0.1
+-----
+683c2884427f99eecb84253353803ea86aa38e08
+
+0.0.2
+-----
+72fb7724f36ea9a11f66f535acdfe8fc12feb97b
+
+0.0.3
+-----
+75e9cbbca9bf4850b004f06a007692b8aa001c3b
+
+0.1.0
+-----
+d366e02293d5ff5a32138ee6f95effa86f95a491
+julia 0.4
+
+0.2.0
+-----
+5e5c69f76e022916d7fed5c3e0aaf05df7c8d5d3
+julia 0.4 0.5-

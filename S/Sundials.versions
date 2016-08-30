@@ -1,0 +1,43 @@
+git://github.com/JuliaDiffEq/Sundials.jl.git
+
+0.0.0
+-----
+2d5ac3112c1022af13605346b4c04fe40723dfe9
+julia 0.2-
+
+0.1.0
+-----
+374e37aed9557b2e840e5df0d4a109a29620f9c2
+julia 0.2-
+BinDeps
+
+0.1.1
+-----
+b631cc385ed6614894478521acee5c11881a4d96
+julia 0.2-
+BinDeps
+
+0.1.2
+-----
+5e4b9ca24dfa00ddf34c931e17fde4386c39e166
+julia 0.2-
+BinDeps
+
+0.1.3
+-----
+935d886991e5d294d536a2d25989dc319fc3c3b9
+julia 0.2
+BinDeps 0.3
+
+0.2.0
+-----
+209b3b84a3f5e9e7455eac75d70ac220f4826c2c
+julia 0.4-
+BinDeps 0.3
+
+0.2.1
+-----
+9a3567d590835ef6021d37cff13fd63897704eb3
+julia 0.4
+BinDeps 0.3
+Compat

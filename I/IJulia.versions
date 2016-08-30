@@ -1,0 +1,398 @@
+git://github.com/JuliaLang/IJulia.jl.git
+
+0.0.0
+-----
+2c9b31731a44e08d4a9d67c8506a8cc7a147491e
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.0.1
+-----
+8146aea6b158a79c228cb18075b761ce43b67b79
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.0
+-----
+5acb22421c4a99057ff7d6a0d6d9df2fd689e77c
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.1
+-----
+9930d1c545ac2356cd4202c003e3b5520a3209e4
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.10
+------
+ca8d926444c2a099e35131d964bd266dbf1c6b7c
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.11
+------
+55b60c47a96676660355107ac9ade0b4d2f76f94
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.12
+------
+a91a484ddc369022c462ae88d290bc2158df834e
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.13
+------
+eb1e0f04020ef6b67ea0d6e7d0d192d652a8a768
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.14
+------
+994b62e5063c2ffcfc8ba81d2094713731df58d0
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.15
+------
+1110ff2a9f94125451df21c4d0df1c71ac505002
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.16
+------
+11cc20cb6b47467d3a1e78ec1175953de93add85
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.2
+
+0.1.2
+-----
+d8966c9c02d17e428a274325e8a9f8101002308e
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.3
+-----
+9988a8d60204a3aaf38572aad456e949e8e1bf43
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.4
+-----
+a7a0b707c25bfaa224cb047221749a61d3899ffe
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.5
+-----
+43d7063ec3efc957eab4e680be9df4579c8bbf2f
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.6
+-----
+6ca218eeae7d34989fbe9ee27eeb468bad856336
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.7
+-----
+5cc548394947528d832e36fc44bac3c12086b1ef
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.8
+-----
+9aa8604aae24ff87026260593f460e02a605ee42
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.1.9
+-----
+4ab3df964bf43cd483599ba304d258f2a34fc6bf
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+
+0.2.0
+-----
+6981f1b7253657d05cca7c64f1fc5bd4b95b3a28
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.2
+
+0.2.1
+-----
+9b677b1e12e2d9ad17ab9e02589eccc2c3cd5c9d
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.2
+
+0.2.2
+-----
+3daee5a97bd3fd54c59ad4476e91de7147ce711c
+julia 0.2-
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.2
+
+0.2.3
+-----
+3de62484939f820a20fe4dd9dab920e9de9236b4
+julia 0.3
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.4
+
+0.2.4
+-----
+bcaa47203cd12cfe25d3fa7e0d5630499a5fa8d9
+julia 0.3
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.4
+
+0.2.5
+-----
+37323f7e5d1af152568f5fc93b3111061dd5279c
+julia 0.3
+Nettle
+JSON 0.2-
+ZMQ 0.1-
+REPLCompletions
+Compat 0.4
+
+1.0.0
+-----
+b4fd27f49ce2ec5e790fa75b1d34e5ca60a044a5
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+
+1.0.1
+-----
+7cb49fd3b92d928cadf8d235f440805367e03477
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+
+1.0.2
+-----
+019775ebb43e685de36b6930a741766cf6e60fff
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+
+1.0.3
+-----
+ddd8713cfb0108151521bc51aa63ef2c0aa66cba
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+
+1.0.4
+-----
+b161ef727bbd39546f54a70219171dc1cb03e04a
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+
+1.1.0
+-----
+855235f2ec50de2e7c792474ac56780666135747
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+Conda 0.1.5
+
+1.1.1
+-----
+503c9c1449ebc895ffc12eceda9355ec65dcad23
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+Conda 0.1.5
+
+1.1.10
+------
+fcbcef24d2b022464092c1d0f99555edc27973a0
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7.15
+Conda 0.1.5
+
+1.1.2
+-----
+3dcadc2d2ef0e4d6dc45a20e581332fe54ebbc63
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+Conda 0.1.5
+
+1.1.3
+-----
+aeb00629e1d941a9ae439d7858d177c3513de8d7
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+Conda 0.1.5
+
+1.1.4
+-----
+33ec31a1e46cfd33ae521565789269a4db583c05
+julia 0.3
+Nettle
+JSON 0.2
+ZMQ 0.1
+Compat 0.7
+Conda 0.1.5
+
+1.1.5
+-----
+cce2225ff59b2425eab8b3b4dadac65d5d0aa24f
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7
+Conda 0.1.5
+
+1.1.6
+-----
+4359c9310535e626c720e30f9d2d6f8c3df7b84e
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7
+Conda 0.1.5
+
+1.1.7
+-----
+19af97a893d496122a148af4431b946696898819
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7
+Conda 0.1.5
+
+1.1.8
+-----
+ca35a6397d5e430f94c087f727a499b8e6ecf906
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7
+Conda 0.1.5
+
+1.1.9
+-----
+a675ac5c5b08bf75a2f4d2f3b80035252a4af3c1
+julia 0.3
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3
+Compat 0.7.9
+Conda 0.1.5
+
+1.2.0
+-----
+86a1411f8a73154b1f61e602aa71d47ccc4d1e82
+julia 0.4
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3.1
+Compat 0.7.20
+Conda 0.1.5

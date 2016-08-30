@@ -1,0 +1,30 @@
+git://github.com/ChrisRackauckas/GrowableArrays.jl.git
+
+0.0.1
+-----
+db07ee44ec939afb866c04a5fd1edb18bf92f781
+julia 0.4
+
+0.0.2
+-----
+5ec943415390a3b7480ee93392fd0506a4d4b266
+julia 0.4
+EllipsisNotation
+
+0.0.3
+-----
+6c9d09dd0d0caa553c82eb6374d0246fcd21c8af
+julia 0.4
+EllipsisNotation
+
+0.0.4
+-----
+6e4e659d2bdd885df49a1919e97a693f1adf3ff6
+julia 0.4
+EllipsisNotation
+
+0.0.5
+-----
+e87395a66747d5410f06c93b5c61e5adb551e60c
+julia 0.4
+EllipsisNotation

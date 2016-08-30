@@ -1,0 +1,15 @@
+git://github.com/invenia/Arbiter.jl.git
+
+0.0.1
+-----
+6d0807781af4085440677c3033eb10b7c6ef6aea
+julia 0.4-
+FunctionalCollections
+
+0.0.2
+-----
+97dea1d4c03adcbbf771d5b9143cecbdb5db5b54
+julia 0.4-
+FunctionalCollections
+DataStructures
+FactCheck

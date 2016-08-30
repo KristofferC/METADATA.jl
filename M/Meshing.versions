@@ -1,0 +1,26 @@
+git://github.com/JuliaGeometry/Meshing.jl.git
+
+0.0.0
+-----
+df32f6a24a83db6d09a87a1d1a065297124d78c1
+julia 0.4-
+GeometryTypes
+
+0.0.1
+-----
+3100f8e64ff4ce23d47031e7153b9c5ad714afe8
+julia 0.4
+GeometryTypes
+
+0.0.2
+-----
+c1ca1f6beb44c01a8bb02e6978ddd120b0872f68
+julia 0.4
+GeometryTypes
+
+0.0.3
+-----
+6722f25f79702120fd4d74070309ab98693db4d2
+julia 0.4
+GeometryTypes 0.1.6
+Compat 0.8.6

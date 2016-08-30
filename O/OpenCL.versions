@@ -1,0 +1,125 @@
+git://github.com/JuliaGPU/OpenCL.jl.git
+
+0.0.1
+-----
+9fd1b25b03372359d2c63557e2dc8a745d16bc88
+julia 0.2-
+FactCheck
+
+0.1.0
+-----
+6fdcd965e7d331c6e93bea74ace71414a6e27ac4
+julia 0.2-
+FactCheck
+
+0.1.1
+-----
+545f101a648c6a68fd025fd45ba018cf918d12c0
+julia 0.2-
+FactCheck
+
+0.2.0
+-----
+bed2604311f6164338b0ba4383dc33c06bfaf318
+julia 0.2-
+FactCheck
+
+0.2.1
+-----
+161a9e5bf4817e7db4a72a677ddad76768ee6859
+julia 0.2-
+FactCheck
+
+0.2.2
+-----
+f488683b5f4f8f51d97fb715bb7473cc48c5d1ae
+julia 0.2-
+FactCheck
+
+0.2.3
+-----
+76ae49b6430b9a350d74af8fb8d36eb39ba74015
+julia 0.2-
+FactCheck
+
+0.2.4
+-----
+2bb3bed65d74cd669c318a41f11610c48c92aa7c
+julia 0.2-
+FactCheck
+
+0.2.5
+-----
+7c3fb4c3021eb2ccd9742b7823e0de6177a63312
+julia 0.2-
+FactCheck
+
+0.2.6
+-----
+caaba614aaf7dd7e6b2708e2a2fb53290f406349
+julia 0.2-
+FactCheck
+
+0.2.7
+-----
+d813db49313e7eaa2b5e60730c9b062d79fc4877
+julia 0.2-
+
+0.2.8
+-----
+bb419cee07ad11b7d7f9c36e010b8ea8c7b46b84
+julia 0.2-
+
+0.3.0
+-----
+c996017edba0d43e0e1120362fc3bc0613a04c88
+julia 0.3-
+
+0.3.1
+-----
+a5e1e744854f874772e29f6c3fedc27d405ec8a1
+julia 0.3-
+
+0.3.2
+-----
+c679119b33909f5745b0825694100b5a24fa9b33
+julia 0.3-
+
+0.3.3
+-----
+68871d723f797a5ea876d57df1cc13c7d519f5f1
+julia 0.3-
+Compat
+
+0.3.4
+-----
+7c9568e46390ef20f8c0bd3666050375962c944a
+julia 0.3
+Compat
+
+0.3.5
+-----
+0ba1ed5d30bd2e6cd557a284c2c8336ccd9b78ac
+julia 0.3
+Compat
+
+0.3.6
+-----
+cf73574e58a1940edac603cb4cedd45e9a4fd107
+julia 0.3
+Compat
+
+0.4.0
+-----
+62a80275abe55f0725db45c7606a10b3a803d226
+julia 0.4
+
+0.4.1
+-----
+def06f1e10e09107a84dbe138a6221b3d79e2b0e
+julia 0.4
+
+0.5.0
+-----
+783774e452b71a0eb6a4d26c3208dd2f0a564083
+julia 0.5-rc0

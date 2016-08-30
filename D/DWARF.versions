@@ -1,0 +1,40 @@
+git://github.com/Keno/DWARF.jl.git
+
+0.0.0
+-----
+07b9a470fa1d90e57d6abd1e99c9344a93b7a74f
+julia 0.2-
+ELF
+StrPack
+
+0.0.1
+-----
+20676c2cbd675a837f18d5e204c870811592d1bf
+julia 0.5-
+StructIO
+ObjFileBase
+AbstractTrees
+
+0.0.2
+-----
+1821f32c9d76fd858fdd831f7e43dc004369858a
+julia 0.5-
+StructIO
+ObjFileBase
+AbstractTrees
+
+0.0.3
+-----
+e86a73af156ee68929615824e6d78f9c95b35a5c
+julia 0.5-
+StructIO
+ObjFileBase
+AbstractTrees
+
+0.1.0
+-----
+015d4053830f7d07c304db7642356161afff538c
+julia 0.5-
+StructIO
+ObjFileBase
+AbstractTrees

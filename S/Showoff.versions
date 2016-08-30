@@ -1,0 +1,46 @@
+git://github.com/JuliaGraphics/Showoff.jl.git
+
+0.0.1
+-----
+319ccfcc1135b895ced2d7db8ef013714304bf34
+julia 0.3-
+
+0.0.2
+-----
+7e0bd85c36e87add18c5c3dfa3470cf34cdef317
+julia 0.3-
+Iterators
+
+0.0.3
+-----
+e08c0b01a21ff5c4e75a3436086c6d3da7f85f9f
+julia 0.3-
+Iterators
+
+0.0.4
+-----
+39b9288ad7e7d5786c04071a35f32a01d19bf2a7
+julia 0.3-
+Compat
+Iterators
+
+0.0.5
+-----
+8d5c7cbb4090b777ab021a361a3b59527393624f
+julia 0.3
+Compat
+Iterators
+
+0.0.6
+-----
+8e5056a09403ee73305b61627290748374ddbd45
+julia 0.3
+Compat
+Iterators
+
+0.0.7
+-----
+11a6134821f8f0b55a8d8d35d763d75ca5b78236
+julia 0.3
+Compat
+Iterators

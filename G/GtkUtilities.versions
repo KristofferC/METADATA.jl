@@ -1,0 +1,93 @@
+git://github.com/timholy/GtkUtilities.jl.git
+
+0.0.1
+-----
+7470da6a8d6f72111fe565eb17ba56130b11afee
+julia 0.3
+Docile
+
+0.0.2
+-----
+0f2e4ef2a063903c8f5db0579d085e37b2a1820e
+julia 0.3
+Docile
+
+0.0.3
+-----
+81bdf72fb2d2f463fb7a3c58fe49684f62f69f30
+julia 0.4-
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.4
+-----
+bea005444160bf49b7a693b75d194a866e8ec906
+julia 0.4-
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.5
+-----
+c7f39f381f28e6ab364299f1e34e22f99107d2de
+julia 0.4-
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.6
+-----
+e4e9cc281f897c032cc3fde024162453b7f0aba3
+julia 0.4-
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.7
+-----
+31117fcd918b0b2587955e115ce5a7740c2ecedc
+julia 0.4-
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.8
+-----
+9ef4557c7531975ccde2f7e245596588bcfc939c
+julia 0.4
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.0.9
+-----
+016d9f01a921a72bc12417a8be2da2a0683443c5
+julia 0.4
+Gtk
+Cairo
+Graphics
+Docile
+Compat
+
+0.1.0
+-----
+99d837f559536eafafd507ffa46e9b25523eda10
+julia 0.4
+Gtk
+Cairo
+Graphics
+Docile
+Compat 0.7.16

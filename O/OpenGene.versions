@@ -1,0 +1,84 @@
+git://github.com/OpenGene/OpenGene.jl.git
+
+0.1.0
+-----
+efbb6d052e902723e95fe7cc25a78fed991477dc
+julia 0.4
+Libz
+
+0.1.1
+-----
+8cd99a7ad128cf27cbe7c08e550a5e35b9bb1195
+julia 0.4
+Libz
+DataStructures
+DataFrames
+
+0.1.2
+-----
+f4e46ab283307a8a2bc95f75e4956dcf1d543027
+julia 0.4
+Libz
+DataStructures
+DataFrames
+
+0.1.3
+-----
+aab656909c22df2375b0eb5b3ce9c88601390ee3
+julia 0.4
+Libz
+DataStructures
+DataFrames
+
+0.1.4
+-----
+487db9abc324453497353b954ee710fb3668404e
+julia 0.4
+Libz
+DataStructures
+DataFrames
+
+0.1.5
+-----
+e12d9587bce95f1b59ef3ff86f621c6b65d99fa5
+julia 0.4
+Libz
+DataStructures
+DataFrames
+
+0.1.6
+-----
+62dfa64b98cc672ef28a2fd06f7ad9891b5d6605
+julia 0.4
+Libz
+DataStructures
+DataFrames
+SHA
+
+0.1.7
+-----
+e824c76092f920634556d7d0c06006d2aada8be8
+julia 0.4
+Libz
+DataStructures
+DataFrames
+SHA
+
+0.1.8
+-----
+318ae8d2815b27bf0c688b8b4d7566206ce81a63
+julia 0.4
+Libz
+DataStructures
+DataFrames
+SHA
+
+0.1.9
+-----
+e45dba650dd6936bd8ddb89c0ea20acb2c713576
+julia 0.4
+GZip
+DataStructures
+DataFrames
+SHA
+Compat

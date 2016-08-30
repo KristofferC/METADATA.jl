@@ -1,0 +1,141 @@
+git://github.com/charlesll/Spectra.jl.git
+
+0.0.1
+-----
+2fa5956aecd04156fea681f722e0c0edbe04eb5f
+julia 0.4
+PyPlot
+JuMP
+Ipopt
+
+0.0.2
+-----
+c7efa20aa25d5db7af5b8a64e5ccbd0e2c13e890
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+
+0.1.0
+-----
+06e43bb17e937ac394908077247918ca9751bc45
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+
+0.1.1
+-----
+789598289a2980d1a3c99de56d92ad38e55558ba
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+
+0.1.2
+-----
+25df9606ead174423bcd51519003df3394ad38a8
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+
+0.1.3
+-----
+05307409428ae643a1105850ebda3e6c5e9aaba5
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.1.4
+-----
+4095405d3725f3dbbb6bcdbd836265241d353779
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.1.5
+-----
+ca67d93f982eddfa9a1043befc056dbc10c807b9
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.1.6
+-----
+af47a75e860ae42593752fd78ba2dc9dd6b93a31
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.1.7
+-----
+fb6018d19169a1d57c96ba36df4c9fc67ef3b67a
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+Conda

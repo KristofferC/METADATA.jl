@@ -1,0 +1,17 @@
+git://github.com/nalimilan/FreqTables.jl.git
+
+0.0.1
+-----
+7884c000e6797d7ec621e07b8da58e7939e39867
+julia 0.4
+NamedArrays
+DataArrays
+DataFrames
+
+0.0.2
+-----
+cec61ee2d49e5c7ef558cf8ad055c336d0b29ad0
+julia 0.4.2
+NamedArrays
+DataArrays
+DataFrames

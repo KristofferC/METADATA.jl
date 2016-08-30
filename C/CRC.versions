@@ -1,0 +1,46 @@
+git://github.com/andrewcooke/CRC.jl.git
+
+0.0.1
+-----
+fcabd1f679cc5d21302e521fd3d86b54a139a592
+julia 0.3-
+ArgParse
+
+0.1.0
+-----
+738135f4c7a859807efa6650b57e324fab172729
+julia 0.3-
+ArgParse
+Zlib
+
+0.2.0
+-----
+480751f18c287490f39b076ad920afab1ce82a10
+julia 0.3-
+ArgParse
+
+1.0.0
+-----
+f06cd4cc96f42c626f19d777dfa255b1250db0a9
+julia 0.3-
+ArgParse
+
+1.0.1
+-----
+ac1efa49bd5e4979237294a7c24ab7245fbc0b6e
+julia 0.3
+ArgParse
+
+1.1.0
+-----
+50231571e2ea97a717b88ed47791d92c663f1a2a
+julia 0.3
+ArgParse
+Compat
+
+1.1.1
+-----
+fdc316d4b0e534efc1ce1e7cbb69a526aeb6e912
+julia 0.3
+ArgParse
+Compat

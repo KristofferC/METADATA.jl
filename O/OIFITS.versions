@@ -1,0 +1,19 @@
+git://github.com/emmt/OIFITS.jl.git
+
+0.1.0
+-----
+b9b42f9d1035ba7cbbb9a670e3718aae751a5ee7
+julia 0.3-
+FITSIO 0.5-
+
+0.2.0
+-----
+04d77587d320797c999f9d11b27c83d882bdd117
+julia 0.3
+FITSIO 0.6
+
+0.3.0
+-----
+45193a008004b4129db1f5745c7f9396240f5f0a
+julia 0.4
+FITSIO 0.8

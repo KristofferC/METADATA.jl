@@ -1,0 +1,322 @@
+git://github.com/stevengj/PyCall.jl.git
+
+0.0.0
+-----
+8472ab7767fc0c69dde5c1b6cd27e2bfc288f1b3
+julia 0.2-
+
+0.0.1
+-----
+23b9c0174b098fafef0db01e5541165d87c6491b
+julia 0.2-
+
+0.1.0
+-----
+811ac7271dabda4af737bba55ca3238b996f8fb6
+julia 0.2-
+
+0.2.0
+-----
+83eef6b19dadff3598f8f07b4579251c433204fb
+julia 0.2-
+
+0.2.1
+-----
+7ffa9ae8cada3e458cfae7ec49c176cea6f53a0f
+julia 0.2-
+
+0.3.0
+-----
+ca1eb9db310d73dcf56d012fc0f1cc4cba5d2d44
+julia 0.2-
+
+0.3.1
+-----
+ef7dc775060614b0c4ebea3555ed9cd4f1c65c92
+julia 0.2-
+
+0.3.2
+-----
+2ece946d049201359b3868c931473d477913e3f0
+julia 0.2-
+
+0.4.0
+-----
+db6fca652ebd45e6b68d77db2b3f2a5d9eef2877
+julia 0.2-
+
+0.4.1
+-----
+2350afc56f2d4e9999ea5d67e25692accbaf0b8a
+julia 0.2-
+
+0.4.10
+------
+cd6e9b5c08deaa249af1eb91f67b9b2c42eba3c4
+julia 0.2-
+
+0.4.2
+-----
+480cf86dff42cb8da0b5dcff922a17b75b47b1a0
+julia 0.2-
+
+0.4.3
+-----
+710afd454bdc0512457e5161e0177db45e00b63a
+julia 0.2-
+
+0.4.4
+-----
+fef614152839357e9ca27e55c97fc33f33f301d3
+julia 0.2-
+
+0.4.5
+-----
+827ac9893301f7ced621c32f13e5f2bd79350030
+julia 0.2-
+
+0.4.6
+-----
+99221c0e5e1056d83c6f5344baa2fab769484d7f
+julia 0.2-
+
+0.4.7
+-----
+7798d4e44493415c07e9ed2ef7b708f6936bf1c4
+julia 0.2-
+
+0.4.8
+-----
+2e56f01c722176e19a3fe233423dd3b146e47cb2
+julia 0.2-
+
+0.4.9
+-----
+7a930c92b66c9b4cb6588a873db5fd3f9826687a
+julia 0.2-
+
+0.5.0
+-----
+e35224ad380fd35db9c0e64db7d677bb40ac7757
+julia 0.2-
+Compat 0.2
+
+0.6.0
+-----
+93fad5cb429339bc67c43ade02790f1b84bf9f1b
+julia 0.2-
+Compat 0.2
+
+0.6.1
+-----
+4ff3ebd39614aacac26a0bba1827dfb6abbcc7be
+julia 0.2-
+Compat 0.2
+
+0.6.2
+-----
+188ceff436d87d864b4d8e3202b0d4c533fe4f89
+julia 0.2-
+Compat 0.2
+
+0.7.0
+-----
+9a439cd07fb4380392a0221f462d58f20a019c20
+julia 0.2-
+Compat 0.2
+Dates
+
+0.7.1
+-----
+22c74041c1913d531598ed562817e5910099b144
+julia 0.2-
+Compat 0.2
+Dates
+
+0.7.2
+-----
+0254dc393e3133640cbac53c05367d209754d432
+julia 0.2-
+Compat 0.2
+Dates
+
+0.7.3
+-----
+2b653b8c57c8bd465a0dee05f48068512a0a14e6
+julia 0.2-
+Compat 0.2
+Dates
+
+0.7.4
+-----
+33906a7c985b787583bbad3560799c3c65bd4553
+julia 0.3
+Compat 0.3.1
+Dates
+
+0.7.5
+-----
+318bf89bcec6a286666ccb6b4c602d6e7ba63308
+julia 0.3
+Compat 0.3.4
+Dates
+
+0.7.6
+-----
+b94c2af031622d0b5c4e7be61e0a645ec8ff6bdd
+julia 0.3
+Compat 0.4
+Dates
+
+0.8.0
+-----
+db82657a03db54afbffbc8c676036316a09baab8
+julia 0.3
+Compat 0.4
+Dates
+
+0.8.1
+-----
+32b10a59cc688106b78f4bad8d93992a379937c5
+julia 0.3
+Compat 0.4
+Dates
+
+0.8.2
+-----
+2900a87ff8618f3c6162e5b32652be0cdb8c12a2
+julia 0.3
+Compat 0.4.6
+Dates
+
+1.0.0
+-----
+4b2732d5f35176e2bc84ce7db1e325e6ae949666
+julia 0.3
+Compat 0.4.6
+Dates
+
+1.0.1
+-----
+2ff91cff447fb99b0359ec7f32af96925f9bab61
+julia 0.3
+Compat 0.4.6
+Dates
+
+1.0.2
+-----
+804e065479362f0f3f8a413f8d9ddeb201fccfbc
+julia 0.3
+Compat 0.7.1
+Dates
+
+1.0.3
+-----
+eb654cb667ab4d6ed0684c31334742806cecac78
+julia 0.3
+Compat 0.7.1
+Dates
+
+1.1.0
+-----
+e649e89b66f11e35bb23864e23b0d9bc72ffa5f2
+julia 0.3
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.1.1
+-----
+6b2d3e50c70995d5ea4f88e66f2947d072d08935
+julia 0.3
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.1.2
+-----
+8eda38df092e7176beff369b02727862123fb5ef
+julia 0.3
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.2.0
+-----
+874b044ab4239aa20993cf67e41749abf8dd9668
+julia 0.3
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.3.0
+-----
+73c3db71e8e1eca4ef1e950e5aaabe65f544b159
+julia 0.4
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.4.0
+-----
+fcbe0be562d347843d107617ce178cfa70ed1a54
+julia 0.4
+Compat 0.7.1
+Dates
+Conda 0.1.6
+
+1.5.0
+-----
+93560fb06affbc02acc237023e1b6a85580b3416
+julia 0.4
+Compat 0.7.15
+Conda 0.1.6
+MacroTools 0.2
+
+1.6.0
+-----
+806630c90d5cd29b2afbc788c7d0ae026475bbd1
+julia 0.4
+Compat 0.7.15
+Conda 0.2
+MacroTools 0.2
+
+1.6.1
+-----
+802a18dcf9ee24cb517fffc95853f30014906423
+julia 0.4
+Compat 0.7.15
+Conda 0.2
+MacroTools 0.2
+
+1.6.2
+-----
+4d7d476440e9094c2fad548b9165ce9bde01688a
+julia 0.4
+Compat 0.7.15
+Conda 0.2
+MacroTools 0.2
+
+1.6.3
+-----
+54a3d57d7dd1bf2271df41470049b9bfb191ebc0
+julia 0.4
+Compat 0.8.0
+Conda 0.2
+MacroTools 0.2
+
+1.7.0
+-----
+494f8316a868a24bbc09aa2626f0685ec939cf8e
+julia 0.4
+Compat 0.8.0
+Conda 0.2
+MacroTools 0.2
+
+1.7.1
+-----
+0c8e5165d61fccd7a2666d94d68ca5507abe1624
+julia 0.4
+Compat 0.8.0
+Conda 0.2
+MacroTools 0.2

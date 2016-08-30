@@ -1,0 +1,37 @@
+git://github.com/cortner/PyAMG.jl.git
+
+0.0.1
+-----
+bf51b90270a3d20d53cb6ea15e211477c8a4b428
+julia 0.4
+PyCall
+
+0.0.2
+-----
+6b743c7e1de6eb452330220d0eafbb48ffc18698
+julia 0.4
+PyCall
+
+0.0.3
+-----
+c1b679c9deb4facf67f4926e180589d622897e5c
+julia 0.4
+PyCall
+
+0.0.4
+-----
+d42b2abdb7afc860d14077f7777a7d296ab54f8a
+julia 0.4
+PyCall
+
+0.0.5
+-----
+777494819a18dbc4cf66045d1f6a97358aaf5d2a
+julia 0.4
+PyCall
+
+0.0.6
+-----
+777494819a18dbc4cf66045d1f6a97358aaf5d2a
+julia 0.4
+PyCall

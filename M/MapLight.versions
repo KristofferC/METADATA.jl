@@ -1,0 +1,17 @@
+git://github.com/WestleyArgentum/MapLight.jl.git
+
+0.0.1
+-----
+bbcd8090dd68fd5e4da7f72fab42d4a47576adb9
+julia 0.2-
+JSON
+HttpCommon
+Requests
+
+0.0.2
+-----
+69fa7f55508c54b4ea1aaf7e1ce77a27d75c2ef2
+julia 0.2-
+JSON
+HttpCommon
+Requests

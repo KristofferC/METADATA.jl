@@ -1,0 +1,25 @@
+git://github.com/JuliaIO/Netpbm.jl.git
+
+0.0.1
+-----
+e45ec647978a08893adf6a9c66ac816866b0a584
+julia 0.3
+Images
+FileIO
+Compat
+
+0.0.2
+-----
+a8115f3699e7ef462517bff1dd0563e65cb564ef
+julia 0.3
+Images
+FileIO
+Compat
+
+0.1.0
+-----
+870a7f2d2d1eea20be1aa1c2b438496e95793826
+julia 0.4
+FixedPointNumbers 0.1
+Images
+FileIO

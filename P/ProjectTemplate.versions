@@ -1,0 +1,15 @@
+git://github.com/johnmyleswhite/ProjectTemplate.jl.git
+
+0.0.0
+-----
+e540c59943cdc17859930c20c62a0075318cdf12
+julia 0.2 0.4
+JSON
+DataFrames
+
+0.0.1
+-----
+accd76d30d27ce3f48cf5890f51e7c2a14069258
+julia 0.2- 0.4
+JSON
+DataFrames

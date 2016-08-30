@@ -1,0 +1,37 @@
+git://github.com/tshort/Maker.jl.git
+
+0.1.0
+-----
+3d7cdcb785ad68b723beff2b91b59441d7df9300
+julia 0.4
+JLD
+
+0.2.0
+-----
+a096eac20a72cf0a3c6ecd6e03eb1ddff68e6c63
+julia 0.4
+JLD
+
+0.2.1
+-----
+058f98946525426e105d233b17d119a477dc592c
+julia 0.4
+JLD
+
+0.2.2
+-----
+a961259a0d67c44487d988bcbc359d48e2ad0593
+julia 0.4
+JLD
+
+0.3.0
+-----
+a961259a0d67c44487d988bcbc359d48e2ad0593
+julia 0.4
+JLD
+
+0.3.1
+-----
+d761c2d1405681ae31f5b1757635e038cdf75464
+julia 0.4
+JLD

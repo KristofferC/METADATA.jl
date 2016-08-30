@@ -1,0 +1,11 @@
+https://github.com/peterkovesi/PerceptualColourMaps.jl.git
+
+0.1.0
+-----
+c92e145d974c597fcabfb9f1589a991e5288e7bf
+julia      0.4
+Colors     0.5
+ColorTypes 0.1
+Images     0.4
+Grid       0.3
+PyPlot     2.0

@@ -1,0 +1,31 @@
+git://github.com/JuliaCI/BenchmarkTools.jl.git
+
+0.0.1
+-----
+1216bdd099e751dad12808067be864849a60e78d
+julia 0.4
+Compat
+
+0.0.2
+-----
+00046c7f165d3f146c1700f2a8b876330161656d
+julia 0.4
+Compat 0.7.20
+
+0.0.3
+-----
+4db27210d43abf2c55226366f3a749afe1d64951
+julia 0.4
+Compat 0.7.20
+
+0.0.4
+-----
+5974b8bac273d7f8cf977c8cb2dada844f3f0ab8
+julia 0.4
+Compat 0.7.20
+
+0.0.5
+-----
+93ffa921db185d4ff8b715f954a4d9b42cfadc27
+julia 0.4
+Compat 0.7.20

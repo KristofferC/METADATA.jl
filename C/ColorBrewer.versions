@@ -1,0 +1,36 @@
+git://github.com/timothyrenner/ColorBrewer.jl.git
+
+0.1.0
+-----
+6ae86654fcb648faf1fdd84551b6075730bb3190
+julia 0.3-
+JSON
+Color
+
+0.1.1
+-----
+cd4da2ef7f173bac73d7d461fd5509c6e0b602da
+julia 0.3-
+JSON
+Color
+
+0.2.0
+-----
+ad1245fff8568b6a8c8b7b71172f9425e1c407cb
+julia 0.3-
+JSON
+Colors
+
+0.2.1
+-----
+91ea1e9db60d6e3f2dd45384afd5cfb279841bb2
+julia 0.3
+JSON
+Colors
+
+0.3.0
+-----
+519d0fd18068e2cd24c952696501580e54ce7be7
+julia 0.4
+JSON
+Colors

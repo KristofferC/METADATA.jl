@@ -1,0 +1,222 @@
+git://github.com/JuliaStats/GLM.jl.git
+
+0.0.0
+-----
+aefc6c1c616f784ddec920ea07ee6e3ab712bb50
+DataFrames
+Distributions
+StatsBase 0.0.0 0.8.3
+
+0.2.0
+-----
+d4e951dbfce965fa4a8dca4897fd6eadbacf40ab
+julia 0.2-
+DataFrames 0.3.6-
+Distributions 0.2.0-
+NumericExtensions 0.2.12-
+StatsBase 0.0.0 0.8.3
+
+0.2.1
+-----
+0258f520324f16a02f5578fa50eb9479faa11ee8
+julia 0.2-
+DataFrames 0.3.6-
+Distributions 0.2.0-
+NumericExtensions 0.2.17-
+StatsBase 0.0.0 0.8.3
+
+0.2.2
+-----
+f6d420b40749199df514c78985349c77f5a9aada
+julia 0.2-
+DataFrames 0.3.6-
+Distributions 0.2.0-
+NumericExtensions 0.2.17-
+StatsBase 0.0.0 0.8.3
+
+0.2.3
+-----
+a5ea101a214f08d8e3d108dcd4e64a5d38bd66a6
+julia 0.2- 0.3-
+DataFrames 0.3.6- 0.5.1-
+Distributions 0.2.0-
+NumericExtensions 0.2.17-
+StatsBase 0.3- 0.8.3
+
+0.2.4
+-----
+28596177e25d01c03811b21ed197672c846822ef
+julia 0.2- 0.3-
+DataFrames 0.3.6- 0.5.1-
+Distributions 0.2.0-
+NumericExtensions 0.2.17-
+StatsBase 0.2.10- 0.8.3
+
+0.2.5
+-----
+33229ff87b86acb1cdaa39b5e228469b0c78a8fd
+julia 0.2- 0.3-
+DataFrames 0.3.6- 0.5.1-
+Distributions 0.2.0-
+NumericExtensions 0.2.17-
+StatsBase 0.2.10- 0.8.3
+
+0.3.0
+-----
+583e747419f5d5c49f1174ffb0c17bcffc536c1e
+julia 0.3-
+DataFrames 0.5-
+Distributions 0.4-
+NumericExtensions 0.5-
+StatsBase 0.3.7- 0.8.3
+
+0.3.1
+-----
+939bd42ee8257ef317d63d6448f44b4fc8c45b99
+julia 0.3-
+DataFrames 0.5-
+Distributions 0.4-
+NumericExtensions 0.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.7- 0.8.3
+
+0.3.2
+-----
+44131fbda5a6cfc87c962045f1d06d2d9887299e
+julia 0.3-
+DataFrames 0.5-
+Distributions 0.4-
+NumericExtensions 0.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.7- 0.8.3
+
+0.4.0
+-----
+0f86226c88cd13797ad7edfeb7537b70f0f24f09
+julia 0.3-
+Distributions 0.4.6-
+NumericExtensions 0.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+
+0.4.1
+-----
+119530a92986204566fb17bc54ef2b2fc7a80af2
+julia 0.3-
+Distributions 0.4.6-
+NumericExtensions 0.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+
+0.4.2
+-----
+9515d57e508b863636017a61f46e14c6b3c30d73
+julia 0.3-
+Distributions 0.4.6-
+NumericExtensions 0.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+
+0.4.3
+-----
+4f862cf11a93d2c91ce5e745f51233c49941f836
+julia 0.3-
+Distributions 0.4.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.4.4
+-----
+2e421ce7e3a68ac8db09a27d408beb841504a208
+julia 0.3-
+Distributions 0.4.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.4.5
+-----
+2e421ce7e3a68ac8db09a27d408beb841504a208
+julia 0.3-
+Distributions 0.4.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.4.6
+-----
+831f5a5ea3613e342e5a63cd4051e1a437b7df2e
+julia 0.3-
+Distributions 0.4.6-
+NumericFuns 0.2.1-
+StatsBase 0.3.9+ 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.4.7
+-----
+3cdbfbe33aaa490bc92c5b709cd44f1994b89543
+julia 0.3
+Distributions 0.4.6-
+NumericFuns 0.2.1-
+StatsBase 0.7.1 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.4.8
+-----
+27d0d7b19c9aa8f573648d75232e7a6f5b6343b7
+julia 0.3
+Distributions 0.4.6-
+StatsBase 0.7.1 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.5.0
+-----
+62d21a784a1a0227f976974e7941b8ecb4c7500c
+julia 0.4
+Distributions 0.4.6-
+StatsBase 0.7.1 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.5.1
+-----
+dc0dcebc09ed2d5c700ea401544d4723ec8a8f91
+julia 0.4
+Distributions 0.4.6-
+StatsBase 0.7.1 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.5.2
+-----
+9a734eb3842873962378b239f57b46106c48652a
+julia 0.4
+Distributions 0.4.6-
+StatsBase 0.8.0 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.5.3
+-----
+bd1a03a2bdf64aa306ac491a8492a7372178d9ac
+julia 0.4
+Distributions 0.4.6-
+StatsBase 0.8.0 0.8.3
+Reexport
+Compat 0.2.12-
+
+0.5.4
+-----
+a772ce48b0e1fed196d5d0a7dacd6e3776b95777
+julia 0.4
+Distributions 0.4.6-
+StatsBase 0.8.3
+Reexport
+Compat 0.2.12-

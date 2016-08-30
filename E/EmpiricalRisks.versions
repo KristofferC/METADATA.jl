@@ -1,0 +1,71 @@
+git://github.com/lindahua/EmpiricalRisks.jl.git
+
+0.0.1
+-----
+7f0428a21063160248d7dbb8d96ffdf18e6b7ce9
+julia 0.3
+Compat 0.4.0
+ArrayViews 0.4.12
+
+0.0.2
+-----
+76ebf88d7b6744788a457a8fd9cc0414b8461cbe
+julia 0.3
+Compat 0.4.0
+ArrayViews 0.4.12
+
+0.0.3
+-----
+adaf1d0e4a441f0f8fefaa2f8cbbcab87750349f
+julia 0.3
+Compat 0.4.0
+ArrayViews 0.4.12
+
+0.0.4
+-----
+0a29d43e973b7d183b3010a30c65a64d63ea4381
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.1.0
+-----
+4548467d0202c73bd6f0272687fb5a6d2c6b64dd
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.2.0
+-----
+94472c1fe8e49ba14be4105de3241ca5b5772a29
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.2.1
+-----
+a8275d6d7482d051033715812c0bff30f5634594
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.2.2
+-----
+3b27bc0d23a49877059c1a4746c3c26e74e34807
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.2.3
+-----
+adaa5fb738f18a53d7e1ddc3e27618a4d020f512
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12
+
+0.2.4
+-----
+f815dbc1bbaa0a479ad55eda4083ba4a2ca267e6
+julia 0.3
+Compat 0.4.1
+ArrayViews 0.4.12

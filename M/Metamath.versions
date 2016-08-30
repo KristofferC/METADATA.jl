@@ -1,0 +1,8 @@
+git://github.com/getzdan/Metamath.jl.git
+
+0.0.1
+-----
+8a527d4b7b7a99936e490e045f6ddfc91925f323
+julia 0.4
+CSV 0.0.5
+Compat

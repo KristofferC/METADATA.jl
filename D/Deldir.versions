@@ -1,0 +1,19 @@
+https://github.com/robertdj/Deldir.jl.git
+
+0.0.1
+-----
+5eac72db750724b36a03aef394c5f86d2282b2be
+julia 0.4
+DataFrames
+
+0.0.2
+-----
+3e58206a61e9d37334768f6911615338309d2804
+julia 0.4
+DataFrames
+
+0.0.3
+-----
+f647423eb36e29f077d12727290b64f97a4ead9a
+julia 0.4
+DataFrames

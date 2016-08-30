@@ -1,0 +1,121 @@
+git://github.com/JuliaGeometry/KDTrees.jl.git
+
+0.1.0
+-----
+2cc2442ee5432f9b435803d3f17518a5faaf1354
+
+0.2.0
+-----
+62ab5b3874123b59db05d3fcc792c2cb0ea21ca4
+
+0.3.0
+-----
+172f02bef07a4dcd6ab6a52c2b208ffd64e9c937
+
+0.4.0
+-----
+19c74cf2116d5656943bf6c475d5fd18b1ae5aec
+
+0.4.1
+-----
+543d024deddba3adae66aa7292c7ba9025a0e4b2
+
+0.5.0
+-----
+1e2060396bb5f92c4a3c7b6c4c832370659aba38
+ArrayViews
+
+0.5.1
+-----
+88fa09aba0ba8f4946c4bbf2d4036fb815ebabf1
+ArrayViews
+Compat
+
+0.5.10
+------
+70dd902f6e652d1b1f4378d696b8f69fac63eef0
+julia 0.3
+Compat
+Devectorize
+
+0.5.11
+------
+27dc271e6c60019687f1e5e3112aa52143c370a2
+julia 0.3
+Compat
+Devectorize
+
+0.5.12
+------
+a2476f3be0776a8061237ea572e40d07c10986e6
+julia 0.3
+Compat
+Devectorize
+
+0.5.13
+------
+1a307e8e178b7afb6169f49c82a7072fc8e0e053
+julia 0.3
+Compat
+Devectorize
+
+0.5.2
+-----
+1ffbaf7095119329d5b869327b9f5c67febe7a30
+ArrayViews
+Compat
+
+0.5.3
+-----
+fa94a5558826df32cee40f833eb88c2c4886435e
+julia 0.3
+Compat
+
+0.5.4
+-----
+f540a252f8824f71d2df77074a3792ba2420098e
+julia 0.3
+Compat
+Devectorize
+
+0.5.5
+-----
+1d0f4b5a75d5b67098429e1c87492d3f8c8dfa3e
+julia 0.3
+Compat
+Devectorize
+
+0.5.6
+-----
+82d55c9213d6bd3aa35b59db32183819ff2a30c2
+julia 0.3
+Compat
+Devectorize
+
+0.5.7
+-----
+319a555b98be74ba1cf6a57f0f4470ae3cafcaa7
+julia 0.3
+Compat
+Devectorize
+
+0.5.8
+-----
+175fbcb051e1f84fedea3edf02df0ce322ceface
+julia 0.3
+Compat
+Devectorize
+
+0.5.9
+-----
+cbe27f91751060e608b4c8417d1220206ef81a24
+julia 0.3
+Compat
+Devectorize
+
+0.6.0
+-----
+34f6043b1020962cce8e6fc36d0a3945beea1e6d
+julia 0.4
+Compat
+Devectorize

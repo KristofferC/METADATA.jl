@@ -1,0 +1,12 @@
+git://github.com/timholy/PositiveFactorizations.jl.git
+
+0.0.1
+-----
+32233b5a3d4b4453a8de28a6d363344023b1e074
+julia 0.4
+
+0.0.2
+-----
+2f02a7569f150d82850ac1daa49c26e5a03aa426
+julia 0.4
+Compat 0.8.4

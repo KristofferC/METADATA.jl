@@ -1,0 +1,12 @@
+git://github.com/tshort/Sims.jl.git
+
+0.0.0
+-----
+907d63a0945f68f235d3680240983b51f0d60809
+
+0.1.0
+-----
+71645586c9c1f82c60ea415ed9fa90575d8b83f2
+julia 0.3-
+Requires
+Sundials

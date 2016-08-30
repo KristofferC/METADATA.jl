@@ -1,0 +1,25 @@
+git://github.com/micahjsmith/FredData.jl.git
+
+0.1.0
+-----
+e4dbffe38bfdf0e4ba50aad2f5057eba5bbb057e
+julia 0.4
+DataFrames
+JSON
+Requests
+
+0.1.1
+-----
+8b073e47f50e86cdd3bc7feb7c7c5308d55e977b
+julia 0.4
+DataFrames
+JSON
+Requests
+
+0.1.2
+-----
+41b852a543309c40c4d9612177a5a1cd3c6dfa27
+julia 0.4
+DataFrames
+JSON
+Requests

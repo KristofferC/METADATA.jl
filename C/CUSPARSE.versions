@@ -1,0 +1,44 @@
+git://github.com/JuliaGPU/CUSPARSE.jl.git
+
+0.0.1
+-----
+ca5d8ddce7dcf750459f18908a43ee106fbc9cc1
+CUDArt
+
+0.0.2
+-----
+ce3fb290b808e670b5ba84d4d9f0a78226788835
+CUDArt
+
+0.1.0
+-----
+a539047060066c608b48cf3ead702bfdbe6c10ac
+CUDArt
+
+0.2.0
+-----
+634dd86ac831d0042d68081711885e44a0454ac0
+julia 0.3
+CUDArt
+
+0.3.0
+-----
+e2c26b4e4caea4ce8e1f64f1eb82f1f8fa99739a
+julia 0.4-
+
+0.3.1
+-----
+4bc2fb1ca92d439090a92065fa0319338bc022a1
+julia 0.4-
+
+0.4.0
+-----
+62132f6b8841857181688269220b9fb8dd0a9358
+julia 0.4
+CUDArt
+
+0.4.1
+-----
+dddd92a218d06b00239a00be15e3e107779a2833
+julia 0.4
+CUDArt

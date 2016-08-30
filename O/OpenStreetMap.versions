@@ -1,0 +1,98 @@
+git://github.com/tedsteiner/OpenStreetMap.jl.git
+
+0.0.1
+-----
+bc3d611e124842cdb4300447089ca7cca8fa94be
+julia 0.2-
+LightXML
+Winston
+
+0.1.0
+-----
+2c0c53334d99d5ac6de9c6a8354431a516f3999c
+julia 0.2-
+LightXML
+Winston
+
+0.2.0
+-----
+c69cf60893e7505a361314a8367ce8f1183ebad4
+julia 0.2-
+LightXML
+Winston
+
+0.3.0
+-----
+3f4d639ea290483c41f3450bc39e5d88a4ffc222
+julia 0.2-
+LightXML
+Winston
+
+0.4.0
+-----
+7381d1fc75ede5ba6d18f7367bdd6c8d99cf615f
+julia 0.2-
+LightXML
+Winston
+Graphs
+
+0.5.0
+-----
+9bd35a5a64fd7fc3a23d808eceff3d394d325d1c
+julia 0.2-
+LightXML
+Winston
+Graphs
+
+0.6.0
+-----
+1720755eb76708b4ef115d9b9a991246a2359f9d
+julia 0.3-
+LightXML
+Winston
+Graphs
+
+0.7.0
+-----
+35712b2ff0cd475b52cd41d71f15027b728cc174
+julia 0.3-
+Compat
+LightXML
+Winston
+Graphs
+
+0.8.0
+-----
+3cb70a302b74886c6a75d649c06d6033236d04e4
+julia 0.3
+Compat
+Reexport
+Geodesy
+Graphs
+LibExpat
+LightXML
+Winston
+
+0.8.1
+-----
+6977b08f642adc261f78a4338919f5ba71e944fb
+julia 0.3
+Compat
+Reexport
+Geodesy
+Graphs
+LibExpat
+LightXML
+Winston
+
+0.8.2
+-----
+e7baad5e5b1d4a0e0103c0eb87014822ae1a93af
+julia 0.3
+Compat
+Reexport
+Geodesy
+Graphs
+LibExpat
+LightXML
+Winston

@@ -1,0 +1,15 @@
+git://github.com/JuliaDB/DBAPI.jl.git
+
+0.0.1
+-----
+283f02c56eaf239852c26f26a96ec7ee94de06e1
+julia 0.4
+Reexport
+Iterators
+
+0.0.2
+-----
+f4702ab85370888a58394986b72de5382ba9dcd7
+julia 0.4
+Reexport
+Iterators

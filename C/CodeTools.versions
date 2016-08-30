@@ -1,0 +1,53 @@
+git://github.com/JunoLab/CodeTools.jl.git
+
+0.1.0
+-----
+9c9a611bf869af93268eddb501f57d549972c7b4
+julia 0.4-
+Lazy
+LNR
+JuliaParser
+MacroTools
+
+0.2.0
+-----
+c9e2b14e31eeeb406fd55ebc7407b47faf56cbc4
+julia 0.4
+Lazy
+LNR
+JuliaParser
+MacroTools
+Compat
+
+0.3.0
+-----
+63e0f3fad620d97f07d85dfd4b9d491923b5091a
+julia 0.4
+Lazy
+LNR
+JuliaParser
+MacroTools
+Compat
+Requires
+
+0.3.1
+-----
+b62f269e1fa13457f17c35a1d71bc77fc83483c5
+julia 0.4
+Lazy
+LNR
+JuliaParser
+MacroTools
+Compat
+Requires
+
+0.4.0
+-----
+2212b48daf4c961182d57b437f88cc483448cb53
+julia 0.5-
+Lazy
+LNR
+JuliaParser
+MacroTools
+Compat
+Requires

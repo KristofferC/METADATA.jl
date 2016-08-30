@@ -1,0 +1,101 @@
+git://github.com/rened/FunctionalData.jl.git
+
+0.0.1
+-----
+c1a5a312012b99a00f1d11f490b5c0467cc1bec4
+julia 0.3
+Compat
+
+0.0.10
+------
+c729adeff5566d0a451d63b8217979dea8e7c717
+julia 0.3
+Compat
+
+0.0.11
+------
+e1e58a3abc3904d74fa4cbb100fb0bcb2904fa72
+julia 0.3
+Compat
+
+0.0.12
+------
+40fc4cb4898c05c463091738f3d71520a64d591d
+julia 0.3
+Compat
+
+0.0.13
+------
+b89b4fe9d63356aeef26b3666f3f0b8dc5bd9837
+julia 0.3
+Compat
+
+0.0.14
+------
+fdefd0523034f008af9fc1bea4e8f6465b78f298
+julia 0.3
+Compat
+
+0.0.15
+------
+0d9bbf77c28e9ca89ce95bf42a70039122527a99
+julia 0.3
+Compat
+
+0.0.2
+-----
+c1a5a312012b99a00f1d11f490b5c0467cc1bec4
+julia 0.3
+Compat
+
+0.0.3
+-----
+87be0c9f791bd04c77a7d91cfbaddb66371de5da
+julia 0.3
+Compat
+
+0.0.4
+-----
+f795afc22bca4098a8d50e90c5c9a0e89b3e4bc1
+julia 0.3
+Compat
+
+0.0.5
+-----
+65c9ee022a6988aa1abc054d9ad71a3e6d17c922
+julia 0.3
+Compat
+
+0.0.6
+-----
+0917261c3ea96330c123e2014880f2f980954017
+julia 0.3
+Compat
+
+0.0.7
+-----
+ffe31259e7caa9362a7e4402d1816cef7ba71e4c
+julia 0.3
+Compat
+
+0.0.8
+-----
+af85debb0e9a630442e59721b1acb024f9d78074
+julia 0.3
+Compat
+
+0.0.9
+-----
+5cd21c4d430d9093acb1dc1bb391c19e0a7625a9
+julia 0.3
+Compat
+
+0.1.0
+-----
+bcaf3248c0a0cbf6fadca7331b83546e0c7107d6
+julia 0.4-
+
+0.1.2
+-----
+a5fc40efe6a1f9f8983a2067b6395b6f0b01cc8d
+julia 0.4

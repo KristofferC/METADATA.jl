@@ -1,0 +1,64 @@
+git://github.com/rened/Watcher.jl.git
+
+0.0.1
+-----
+be5b10d591e9b32a98d7ba8aa2850d124d1337b8
+SHA
+
+0.0.2
+-----
+17ef4c8132a98ddfeb7cd4b385b45f3c80d8afd1
+SHA
+
+0.0.3
+-----
+c7c80534e8fb31bec475bc4f4a0dad19984efa26
+SHA
+
+0.0.4
+-----
+58df7444719775c363c535a265dbf46e3ffa9317
+SHA
+
+0.0.5
+-----
+a3d4db7231cfe88b01d24f7ae509152456709054
+SHA
+Compat
+
+0.0.6
+-----
+fe0c52940debe1a29a7bc4225bebc303154dd6dd
+SHA
+Compat
+
+0.0.7
+-----
+9daa97f09c9bb7fa1c6cff8c5a6af67d3a9b0468
+julia 0.3
+SHA
+Compat
+
+0.0.8
+-----
+6dbe9f70a6b51f662701a326ed5e448b7772ff57
+julia 0.4-
+SHA
+
+0.0.9
+-----
+65b994ec735c5f43099b763a535a20bcf0a1fcee
+julia 0.4-
+SHA
+
+0.1.0
+-----
+73f02e7c18b6d044739b3fe99ee3c376e1c9361a
+julia 0.4-
+SHA
+
+0.1.1
+-----
+e4aa600643fd2288b6114f42beae8f2e0eac5804
+julia 0.4
+SHA

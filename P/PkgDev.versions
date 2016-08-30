@@ -1,0 +1,23 @@
+https://github.com/JuliaLang/PkgDev.jl.git
+
+0.1.0
+-----
+c21bca24e48cb0307287e961e6802ecccb0deabd
+julia 0.5-
+JSON
+
+0.1.1
+-----
+e242d96556a9a9bd714b4a603f0715c5ae78eb21
+julia 0.5-
+JSON
+URIParser
+Compat
+
+0.1.2
+-----
+a851618407ab213ab6685eeeeadd14bc531c8ccd
+julia 0.5-
+JSON
+URIParser
+Compat

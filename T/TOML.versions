@@ -1,0 +1,37 @@
+git://github.com/pygy/TOML.jl.git
+
+0.0.0
+-----
+c6b6c19ba2fb7ab695c08fc7bd1810dad49e07af
+Calendar
+JSON # (for the tests)
+0.1.0
+-----
+15c585d01d9b73479dc952b0fbdcd541962a6e28
+julia 0.2.1
+JSON
+
+0.1.1
+-----
+12d358202a61ab1054114fabda431d28dd632c39
+julia 0.2.1
+JSON
+
+0.1.2
+-----
+e6706c7617ef558d907098660cdeb371cc1a1007
+julia 0.2.1
+JSON
+
+0.2.0
+-----
+e00858b11fc63537c014de8add8afa2a99b59ba0
+julia 0.2.1
+JSON
+
+0.3.0
+-----
+5688783577fa82471cce02633326969d4ceaab1d
+julia 0.3
+JSON
+Compat

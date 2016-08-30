@@ -1,0 +1,18 @@
+git://github.com/mlewe/BlossomV.jl.git
+
+0.0.1
+-----
+708fffc34b463236700a475f133bbe4b4fafd4c8
+BinDeps
+
+0.0.2
+-----
+cf26f07d4ecfcdfaccab9b2f0715e98957867d97
+julia 0.4
+BinDeps
+
+0.0.3
+-----
+63e03e98f542c088e66736900eec9a7486bdc4a5
+julia 0.3
+BinDeps

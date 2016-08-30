@@ -1,0 +1,47 @@
+git://github.com/dfdx/ActiveAppearanceModels.jl.git
+
+0.1.0
+-----
+e22c9ec5dbacc79ca9a81d47bbd59ceb72bb4918
+Docile 0.4
+StatsBase 0.6
+Images 0.4
+ImageView 0.1
+Color 0.4
+FixedPointNumbers 0.0.7
+VoronoiDelaunay
+MultivariateStats 0.2
+MAT 0.2
+PiecewiseAffineTransforms 0.1
+FaceDatasets 0.1
+
+0.1.1
+-----
+c36bb3d9598124f43f688963fd3ff41d5cb94cf7
+julia 0.3
+Docile 0.4
+StatsBase 0.6
+Images 0.4
+ImageView 0.1
+Color 0.4
+FixedPointNumbers 0.0.7
+VoronoiDelaunay
+MultivariateStats 0.2
+MAT 0.2
+PiecewiseAffineTransforms 0.1
+FaceDatasets 0.1
+
+0.1.2
+-----
+dc90fb7d904a5982cda9cd3fd5286196e70b9341
+Docile 0.4
+StatsBase 0.6
+Images 0.4
+ImageView 0.1
+Colors
+FixedPointNumbers 0.0.7
+VoronoiDelaunay
+MultivariateStats 0.2
+MAT 0.2
+PiecewiseAffineTransforms 0.1
+FaceDatasets 0.1

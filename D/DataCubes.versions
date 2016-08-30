@@ -1,0 +1,27 @@
+git://github.com/c-s/DataCubes.jl.git
+
+0.0.3
+-----
+d25e13bfa47716a449bd4b1f844cf694fabcbc98
+julia 0.4
+DataFrames
+
+0.0.4
+-----
+2737f366e401875b49f8c3bf88b4cf8db003803c
+julia 0.4
+DataFrames
+
+0.0.5
+-----
+3db38aa198387328d89196e85c58434eb317e2fa
+julia 0.4
+DataFrames
+Formatting
+
+0.0.6
+-----
+7dc97d64532c464e8d9ab8257bfc091f76909bae
+julia 0.4
+DataFrames
+Formatting

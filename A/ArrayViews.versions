@@ -1,0 +1,135 @@
+git://github.com/JuliaLang/ArrayViews.jl.git
+
+0.1.0
+-----
+1f0e31ec5a6c5d4a348a5e977d38099a6660df69
+
+0.1.1
+-----
+bd9ab7ec3a63ebfec7355e3bc15f0eef77388f00
+
+0.2.0
+-----
+99e5ea51d5449ec27891cbf9a9d100b5843cc32b
+
+0.2.1
+-----
+4243d668777540d620e019616e6f9a3d8522bfba
+
+0.2.2
+-----
+f2edc40ffdf27c0936f2682afa1191604f7c0583
+
+0.2.3
+-----
+365b1aa71d65ed518d52d0da11b30a1f37e86200
+
+0.2.4
+-----
+05763b8b634349fd9858279d1f7ad1d5e365e8a6
+
+0.2.5
+-----
+c6c2ca4d4856d225ce1ab6f75aeb83cd91091e20
+julia 0.3-
+
+0.3.0
+-----
+2430425bc4e798da2415e656c190ccb5951871eb
+julia 0.3-
+
+0.4.0
+-----
+3721a1d5ed4a90275b5c15e2bc0c4f2df6255a94
+julia 0.3-
+
+0.4.1
+-----
+7422f392a99407e4733b318c4670e7a259537b86
+julia 0.3-
+
+0.4.10
+------
+0249f3f33895780f1f1664d1feb1dc158eca7020
+julia 0.3-
+
+0.4.11
+------
+f724d4baa517bc9d8ae7378dfc463ff5ac532337
+julia 0.3-
+
+0.4.12
+------
+f34516d5538abafb5f7456a0eba91fdba4ad3ff9
+julia 0.3-
+
+0.4.2
+-----
+9f935fdc1a5ba618a22c463b9f25564ff892a549
+julia 0.3-
+
+0.4.3
+-----
+1f7453eced491217ae382e786621574ac75576f2
+julia 0.3-
+
+0.4.4
+-----
+f9e48f07ae27942559fccb52d06f24d542cd6564
+julia 0.3-
+
+0.4.5
+-----
+5e895f6b46327c94959c5b1662cabafc9288ddc3
+julia 0.3-
+
+0.4.6
+-----
+0c05fee16e628c1955ef9bf1fb4e48a657253c5e
+julia 0.3-
+
+0.4.7
+-----
+dc1e7bbb20af31d35e98697349867fc9a059a06d
+julia 0.3-
+
+0.4.8
+-----
+e172b5da6b90dfa0d44471a3ff3df19b487d7f30
+julia 0.3-
+
+0.4.9
+-----
+7d478e4933306d0d30cdd04294a00f769ace940b
+julia 0.3-
+
+0.5.0
+-----
+27c9e3fc45f1c3197148b53e5bce08235980cee9
+julia 0.3-
+
+0.6.0
+-----
+580c2cde91917ad9901439cc11fc7f745871b16f
+julia 0.3-
+
+0.6.1
+-----
+d3d2537903d8fe8ff3a0cd55d2c4c8d548d4182d
+julia 0.3-
+
+0.6.2
+-----
+40439daf99155b751d53c6403a5bd35fa0340f7a
+julia 0.3-
+
+0.6.3
+-----
+7403112a62051b86ca426e33839515a717cfb3fd
+julia 0.3-
+
+0.6.4
+-----
+715d637fbdd0f6dca6a03d1f2d7c8d248b4abde8
+julia 0.3
+Compat

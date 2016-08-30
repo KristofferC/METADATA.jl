@@ -1,0 +1,25 @@
+git://github.com/JuliaStats/Rmath.jl.git
+
+0.0.0
+-----
+eaeb80106ff260cdc11086aae08523393ace3f1b
+julia 0.2 0.3
+0.1.0
+-----
+2b3d4b86c26949edbd9a1415ed94f565ca8735ce
+julia 0.4
+BinDeps
+
+0.1.1
+-----
+22a36940d41e2dfae3555cc7cde07b972d5cce20
+julia 0.4
+BinDeps
+Compat 0.8.4
+
+0.1.2
+-----
+ee5083c4358d0ff85fb017a4c06973ca15440269
+julia 0.4
+BinDeps
+Compat 0.8.4

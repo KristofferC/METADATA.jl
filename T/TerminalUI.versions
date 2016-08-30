@@ -1,0 +1,19 @@
+https://github.com/Keno/TerminalUI.jl.git
+
+0.0.1
+-----
+a34ab22c9f4545de98d3c03fcff8c211230445c9
+julia 0.5-
+VT100
+Reactive
+
+0.0.2
+-----
+66dd7d5a1ff311078ff5aa798063a880efe12e3f
+julia 0.5-
+VT100
+Reactive
+AbstractTrees
+Colors
+FixedPointNumbers
+Compat

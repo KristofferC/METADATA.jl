@@ -1,0 +1,18 @@
+git://github.com/ajt60gaibb/FastGaussQuadrature.jl.git
+
+0.0.1
+-----
+437bd18191cdf84040c8b397c1801fb0dffe6a15
+julia 0.3
+
+0.0.2
+-----
+b00443465c542b7bfb2deff8e156b15f37345ff9
+julia 0.3
+Compat
+
+0.0.3
+-----
+347a91e675a8a5f37fb8bc32212d18cdfc72e029
+julia 0.3
+Compat

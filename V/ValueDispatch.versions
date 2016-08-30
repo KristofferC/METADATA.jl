@@ -1,0 +1,14 @@
+git://github.com/gdziadkiewicz/ValueDispatch.jl.git
+
+0.0.0
+-----
+d0609fcce04c25eb7532f32c72c112918caaf11c
+julia 0.2- 0.4
+FactCheck
+ExpressionUtils
+
+0.0.1
+-----
+a8359523cb97075847697d06d5e0961d8c90ec87
+julia 0.4
+ExpressionUtils

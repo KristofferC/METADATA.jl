@@ -1,0 +1,79 @@
+git://github.com/nolta/Calendar.jl.git
+
+0.1.0
+-----
+100d93cddfc159ec22b79b370cf0756c5d9390bd
+julia 0.1- 0.2-
+ICU
+
+0.2.0
+-----
+9bf790ad616656b79517e13f14342042bf3238db
+julia 0.2-
+ICU
+
+0.2.1
+-----
+022ff46b065e97aad08bca975e9d95d31aa27225
+julia 0.2-
+ICU
+
+0.2.2
+-----
+b1f614fd5ed9655c426df1b7615062903fdf68d6
+julia 0.2-
+ICU
+
+0.3.0
+-----
+30e1683aa8ab0ca9e1727ca9490f6b5e9a9b86aa
+julia 0.2-
+ICU
+
+0.3.1
+-----
+3f338492cd8014573d1a54de30049110d22eeff9
+julia 0.2-
+ICU
+
+0.3.2
+-----
+55d3205fc27265e74d1eaf623c87be5a5cf72aba
+julia 0.2-
+ICU
+
+0.3.3
+-----
+07cbf6457f8c0c466fb561be79b54a69b3df8164
+julia 0.2-
+ICU
+
+0.3.4
+-----
+144b7ec52eeeab7cb25934aa5f935818d935779f
+julia 0.2-
+ICU
+
+0.4.0
+-----
+8710c8867b644650c3f96ba19085eb671b561d87
+julia 0.2-
+ICU
+
+0.4.1
+-----
+ddbdbbd93572ea39af45c01e45b0a74938df2e35
+julia 0.2
+ICU
+
+0.4.2
+-----
+d0492567d5a9bb1fe46f34016f125982c7f62685
+julia 0.2
+ICU
+
+0.4.3
+-----
+5002fabf6c3d275a59060b5e6ecc8fd5d19d39ef
+julia 0.2
+ICU

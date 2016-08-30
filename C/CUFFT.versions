@@ -1,0 +1,25 @@
+git://github.com/JuliaGPU/CUFFT.jl.git
+
+0.0.1
+-----
+c9dee266f1f732b2118b7cf26c42cd49d4fbf831
+Compat
+
+0.0.2
+-----
+46aa05a105653dfc127887aefffe41b3c571868d
+CUDArt
+Compat
+
+0.0.3
+-----
+7b1bb59d4acabe72bc21977d5434215ab424eb16
+CUDArt
+Compat
+
+0.0.4
+-----
+a516c6cfa500c5c63240235e64e66346ddab0e79
+julia 0.3
+CUDArt
+Compat

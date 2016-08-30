@@ -1,0 +1,25 @@
+git://github.com/JuliaGPU/CURAND.jl.git
+
+0.0.1
+-----
+5682f7ca50e76ab94b3e06a364f44287f9c9e3c8
+julia 0.4
+CUDArt 0.2
+
+0.0.2
+-----
+86a463db2b2ba1d18fd2436cfd6a41497199a6cf
+julia 0.4-
+CUDArt 0.2
+
+0.0.3
+-----
+c3e7347f5e350f0ba6942eb4c2018a158610ca3b
+julia 0.4-
+CUDArt 0.2
+
+0.0.4
+-----
+3deca2c8c90c4239eb9d3a9630a65466c1f983ef
+julia 0.4-
+CUDArt 0.2

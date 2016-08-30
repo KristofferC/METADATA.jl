@@ -1,0 +1,51 @@
+git://github.com/samoconnor/AWSSNS.jl.git
+
+0.0.1
+-----
+77ab38bc331932507be8e14221cbe3eed6afa839
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.2
+-----
+fd511268d1858b989dbf216f1d245e8fb663b90c
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.3
+-----
+4a982b2dab508219cdd57eb01a8b48baef5590d7
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.4
+-----
+21a90964b8a3ca1f8a6c360ca9a011b7801d5658
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.5
+-----
+9078102a2cd13aa038ad2eaf5146e3eab5749f0b
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.6
+-----
+c213a9b8a826cde982afd3a7db0ead4ec0647a68
+julia 0.4
+AWSCore
+AWSSQS
+
+0.0.7
+-----
+787d07a9efadb395725c7063c36bbb800b1f2ce6
+julia 0.4
+AWSCore
+AWSSQS
+AWSLambda

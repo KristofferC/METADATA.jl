@@ -1,0 +1,54 @@
+git://github.com/sisl/Discretizers.jl.git
+
+0.0.1
+-----
+1ffbff16411257f2dcaeabb4087ce2ae0d960097
+
+0.0.2
+-----
+2c3f5c8420d3460f4ae52d276a85897455c44565
+julia 0.3
+DataArrays 0.2.10
+Compat
+Lint
+
+0.0.3
+-----
+f906770b1403228a75ff0af3a62f06cdc5af87c8
+julia 0.4
+DataArrays 0.2.10
+Compat
+Lint
+
+0.1.0
+-----
+e5c8e79701cde5beb86dca1d60c3ec00a06d7130
+julia 0.4
+DataArrays 0.2.10
+Compat
+Lint
+
+0.1.1
+-----
+e9fb57d0d155a1b9ce505b0ed5760077b3f2e229
+julia 0.4
+DataArrays 0.2.10
+Compat
+Lint
+
+0.2.0
+-----
+86642958566785956e216d469ee2ba8e77005113
+julia 0.4
+DataArrays 0.2.10
+Compat
+Lint
+
+0.3.0
+-----
+ccf7f5b453d0d1aa42b7a9754d394e0aab138d49
+julia 0.4
+DataArrays 0.2.10
+StatsBase
+Compat
+Lint

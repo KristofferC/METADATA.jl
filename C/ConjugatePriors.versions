@@ -1,0 +1,25 @@
+git://github.com/JuliaStats/ConjugatePriors.jl.git
+
+0.1.0
+-----
+bf041a6004d98f905a3ec34e4a6fefa6660e8fcb
+julia 0.3
+Compat 0.4.0
+PDMats 0.3.2 0.4
+Distributions 0.8.1
+
+0.1.1
+-----
+89ae7f2c35afb4b84c37a2cb4f5d16a18f69ce8e
+julia 0.3
+Compat 0.4.0
+PDMats 0.3.2 0.4
+Distributions 0.8.1
+
+0.1.2
+-----
+879226387c4bf7cfa250035e17223d1e4533a125
+julia 0.3
+Compat 0.4.0
+PDMats 0.3.2 0.4
+Distributions 0.8.1

@@ -1,0 +1,14 @@
+git://github.com/Keno/Docker.jl.git
+
+0.0.0
+-----
+fd315b412e7220de02b34b63b8a9eb84a54b69e8
+julia 0.2-
+Requests
+
+0.0.1
+-----
+e9d0dda2a5ed19e7e4a87baee58bd85425822417
+julia 0.4
+Requests
+JSON

@@ -1,0 +1,101 @@
+git://github.com/JuliaLang/Example.jl.git
+
+0.0.1
+-----
+98e8f780c1a3ce8ccd3ba12c47254e98ef4863b7
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.0.2
+-----
+449d01082a777ed174d9c534bf5a9e591d809560
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.1.0
+-----
+449d01082a777ed174d9c534bf5a9e591d809560
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.2.0
+-----
+449d01082a777ed174d9c534bf5a9e591d809560
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.3.0
+-----
+9088d0a6d06d3bde0a97630c01b572f57fa879c8
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.3.1
+-----
+d1ef7b00a8fb9b8e4ee274b1db78a18f36f41408
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.3.2
+-----
+344355d8c58edf3149c3c3298628b24a4c8bbf1f
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.3.3
+-----
+2e5a872e7e498ce204199779bd4dedd166645ec8
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.2-
+
+0.4.0
+-----
+b1990792d709bd512084674e46fa2e334acede84
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.3
+
+0.4.1
+-----
+526e34fdca2e3bb6959e6a236f4d9d717d3026d9
+# This file lists the packages and version ranges required by this package.
+# It is used by the yet-to-be-written package metadata generator to automatically determine metadata for this package in the registry of Julia packages, and when a package is in an attached head state, determines what the requirements of the package are considered to be.
+# The format of the file is that ignore comments and blank lines, each line must have the form "pkg v1 v2..." where the zero or more version numbers in semantic version format [http://semver.org/] determine what intervals of versions of each package are required.
+# If no REQUIRE file is present, it means there are no requirements.
+# See README.md for more details.
+julia 0.3

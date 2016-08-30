@@ -1,0 +1,9 @@
+git://github.com/davidavdav/ROCAnalysis.jl.git
+
+0.0.1
+-----
+21d351068f56948489ebd6d4b055c8c2287e452d
+julia 0.3
+Requires
+NumericFuns
+DataFrames

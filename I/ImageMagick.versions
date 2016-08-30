@@ -1,0 +1,105 @@
+git://github.com/JuliaIO/ImageMagick.jl.git
+
+0.0.1
+-----
+cff35f2cd664877556b323b2f757455632ce753f
+julia 0.3
+FixedPointNumbers
+ColorTypes
+FileIO
+Compat
+Images
+@osx Homebrew
+BinDeps
+
+0.1.0
+-----
+7e698b4b3a29d4153540fe386b8138a690de69b3
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+@osx Homebrew
+BinDeps
+
+0.1.1
+-----
+13d4687b170a6aa654755b20131c3679ce3abe8a
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+@osx Homebrew
+BinDeps
+
+0.1.2
+-----
+eec7b80d92cdf35a34f1418007a6a6f4901bec8e
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+@osx Homebrew
+BinDeps
+
+0.1.3
+-----
+e81999335e23773d9569754e9237c4e9939d19cf
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+@osx Homebrew
+BinDeps
+
+0.1.4
+-----
+360c947635655d4f375f2b5e74eecb90421e0662
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+Compat 0.7.7
+@osx Homebrew
+BinDeps
+
+0.1.5
+-----
+97077063c3680a9249b4e628f8dbe250aca57006
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+Compat 0.7.7
+@osx Homebrew
+BinDeps
+
+0.1.6
+-----
+01d215bb44aeb3f6d560a06c68d93ee66de89dfa
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+Compat 0.7.7
+@osx Homebrew
+BinDeps
+
+0.1.7
+-----
+bbdaf04d8681847d8a1287bbebab8db70abb5cb2
+julia 0.4
+FixedPointNumbers 0.1
+ColorTypes 0.2
+FileIO
+Images
+Compat 0.8.4
+@osx Homebrew
+BinDeps

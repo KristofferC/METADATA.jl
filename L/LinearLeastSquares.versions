@@ -1,0 +1,54 @@
+git://github.com/davidlizeng/LinearLeastSquares.jl.git
+
+0.0.1
+-----
+2ecf6363ba511ee221e22610c65c9ff15fdf7ea1
+
+0.0.10
+------
+c226beab86b81f8ed960255489a1c045338c0ddd
+julia 0.3
+
+0.0.2
+-----
+6fda68e4163996742e8087f7af2f5f9c4ae5863f
+
+0.0.3
+-----
+2e3ff715eb025bcbe3bcd7e105d7811a6debf7c7
+julia 0.2+
+
+0.0.4
+-----
+9971a53607b0b86dfba4b11d30a76fdf20ba33d5
+julia 0.2+
+
+0.0.5
+-----
+ed9b74336bfeadd5425cb3ecd101656af0c253e6
+julia 0.3
+
+0.0.6
+-----
+b24b46e595d51ca16c9803e182c0667a55b87ddd
+julia 0.3
+
+0.0.7
+-----
+52c2ba7d59fc4705f8bf5804cd389b145681b331
+julia 0.3
+
+0.0.8
+-----
+33c484cf8fb1109081ae094c153108485e1f877d
+julia 0.3
+
+0.0.9
+-----
+abfc1aa4eb543653affd5e1f51500c0ffb3afc9c
+julia 0.3
+
+0.1.0
+-----
+0bc7ce93ae3d4eef3b3925e1d6bc2dbc2c54573f
+julia 0.4

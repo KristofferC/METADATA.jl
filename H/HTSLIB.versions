@@ -1,0 +1,15 @@
+https://github.com/OpenGene/HTSLIB.jl.git
+
+0.0.1
+-----
+1d9c21723af6ac3729578af672aa01b4babd6e46
+julia 0.4
+BinDeps
+@osx Homebrew
+
+0.0.2
+-----
+3349187b2d693827ae5dc46bf64db6fa2095f3da
+julia 0.4
+BinDeps
+Logging

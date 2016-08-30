@@ -1,0 +1,43 @@
+git://github.com/abeschneider/PEGParser.jl.git
+
+0.0.0
+-----
+f0f041ffbd5b9b62a6b8921c30b8de726f8256d7
+julia 0.3-
+RunTests
+
+0.0.1
+-----
+0c4f2351e6f39d80ebc2132c87437a3022d6f38f
+julia 0.3-
+RunTests
+
+0.0.2
+-----
+7ff743e1cbb99b467e01fd42413017c815f1398b
+julia 0.3-
+RunTests
+
+0.0.3
+-----
+5704e0bc2719f59ed2159c3c2f4421345feabc33
+julia 0.3-
+RunTests
+
+0.1.0
+-----
+5704e0bc2719f59ed2159c3c2f4421345feabc33
+julia 0.3-
+RunTests
+
+0.1.1
+-----
+5704e0bc2719f59ed2159c3c2f4421345feabc33
+julia 0.3-
+RunTests
+
+0.1.2
+-----
+5704e0bc2719f59ed2159c3c2f4421345feabc33
+julia 0.3-
+RunTests

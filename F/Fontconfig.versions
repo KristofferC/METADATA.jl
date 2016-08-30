@@ -1,0 +1,11 @@
+git://github.com/dcjones/Fontconfig.jl.git
+
+0.0.1
+-----
+ea508d796696032fdc0923abcb9cda0e22fe0d8d
+
+0.0.2
+-----
+b36b91c46f25e77d93fe5b94298e16e3de50ec48
+julia 0.3
+Compat

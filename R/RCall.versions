@@ -1,0 +1,132 @@
+git://github.com/JuliaStats/RCall.jl.git
+
+0.0.1
+-----
+c31cac0c967f34911c47bc5d48db524ee71c3f46
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.0.2
+-----
+d614442301579fa3caacb5396d6f57fb5d4269f9
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.0.3
+-----
+a45eea0816fa406d0640c1a82a0f7ee2eea40e39
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.1.0
+-----
+41ef16a06c625e4793619ee5d5c2b928c897d036
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.1.1
+-----
+12cd5919bcd850235cad83bc8697fdf46807312f
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.1.2
+-----
+ca554158c64e8357b9cbfac891fc2fee398e4216
+BinDeps
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.2.0
+-----
+300d554ef4add3be8276c5dac73b00e941b22360
+BinDeps
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.2.1
+-----
+e4ba35cf45ca2eb041f660642449b8259c2f30e3
+BinDeps
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.3.0
+-----
+8575ab3043fd878ea6e81782589f36f9d120c292
+julia 0.3
+BinDeps
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.3.1
+-----
+d9c7f6dccf1c0e798dcc7cf2c082fa6e32aabecd
+julia 0.3
+BinDeps
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.3.2
+-----
+74e5af3670ab0d51217bdba3e281d906602802af
+julia 0.3
+Compat
+DataArrays
+DataFrames
+Docile
+
+0.4.0
+-----
+e47af2b32fbb8a2d5abf355fd448c6b6bcad1bf2
+julia 0.4
+DataArrays
+DataFrames
+
+0.4.1
+-----
+d92e90798a411dfd45ac1fd8c1dce9ae96716df5
+julia 0.4
+DataArrays
+DataFrames
+@windows WinReg
+
+0.5.0
+-----
+6fe0dcda1e061d8fa7604f7ee122d7bd5700732e
+julia 0.4
+DataStructures
+DataArrays
+DataFrames
+Compat
+@windows WinReg
+
+0.5.1
+-----
+7f47ee7961c29e59c53d595bba67c9e6e6dfac0b
+julia 0.4
+DataStructures
+DataArrays 0.3.8
+DataFrames 0.7.6
+Compat 0.8
+@windows WinReg

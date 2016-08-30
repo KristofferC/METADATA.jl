@@ -1,0 +1,36 @@
+git://github.com/JuliaGeo/GeoJSON.jl.git
+
+0.0.1
+-----
+344844e806b161d0ae9be532b15c6be4be1a2b96
+julia 0.3
+JSON 0.0 0.6
+Compat
+
+0.0.2
+-----
+fc698b9f4e82706ad0a73982c68768a15657f138
+julia 0.3
+JSON 0.0 0.6
+Compat
+
+0.0.3
+-----
+7220a3f210eab2d9a9466d4c18a2572c67e3d5f2
+julia 0.3
+JSON 0.0 0.6
+Compat
+
+0.0.4
+-----
+cf69b8d3449e9cbe1f356f01356ae42ebf7dd375
+julia 0.3
+JSON
+Compat
+
+0.1.0
+-----
+63f85f5db1fb7ea78b6f664d00ed8b04d3064e67
+julia 0.4
+JSON
+Compat 0.8

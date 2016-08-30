@@ -1,0 +1,221 @@
+git://github.com/lindahua/NumericExtensions.jl.git
+
+0.2.0
+-----
+996eda2d7ab2c0ab8e12b6b741c16d9e700a1707
+
+0.2.1
+-----
+274d791957693e1711b67e6762cb6dff39854351
+
+0.2.10
+------
+6f66a15a18c698f4be74eb304aa7f839c7026266
+julia 0.2-
+
+0.2.11
+------
+fe85c6e1d1bb01b952f5ee72996eab93b9e46bda
+julia 0.2-
+
+0.2.12
+------
+6e770ab3dda43906429fea1702c5218568bd7bd5
+julia 0.2-
+
+0.2.13
+------
+d8b2eb77c64f2419238ade7d084a3e7719080542
+julia 0.2-
+
+0.2.14
+------
+ece8236cb32ca04fc6591b4b633f5310eb8ffbbb
+julia 0.2.0-
+
+0.2.15
+------
+2541f2234bfd9d9757dddd2c49ffafaeb8782073
+julia 0.2-
+
+0.2.16
+------
+b7283bfaa6370d4806906671d6d74e3dbd4e45d5
+julia 0.2-
+
+0.2.17
+------
+3590139b84209df3902aff067a40ec3177c9f2c8
+julia 0.2-
+
+0.2.18
+------
+74f587fcec9d914fd6dc526bd06f06a08fe55adf
+julia 0.2-
+
+0.2.19
+------
+2f2b7b7f77451051bbd955e343f70f89654527eb
+julia 0.2-
+
+0.2.2
+-----
+252d43707ff02debd835556b9a753cbaf90ef4d0
+julia 0.2-
+
+0.2.20
+------
+9727f696e4e69fdddbd65f12e093b8e9af9dbf0b
+julia 0.2-
+
+0.2.4
+-----
+b495bd91552d9bb4221266d455a9a112a57f3b3e
+julia 0.2-
+
+0.2.5
+-----
+c698e5733fd346e0aaa3c210ff41148b119c4fd6
+julia 0.2-
+
+0.2.6
+-----
+aa8ece51e8ed2196f4b05fdf7f249b0db2eacc83
+julia 0.2-
+
+0.2.7
+-----
+104ff5a2d897e8ecf30bfce7dcbbede50b0b3677
+julia 0.2-
+
+0.2.8
+-----
+d9b11712812af56afec5511cdfc24006360ed929
+julia 0.2-
+
+0.2.9
+-----
+971508c61f14eb2c9668047025ad7eedb07ed19e
+julia 0.2-
+
+0.3.0
+-----
+e2b31411241d5029171207fa2a6ab78d03d56caa
+julia 0.2-
+
+0.3.1
+-----
+aa72b6eab2de59ebc456b79b8cd1eab548fd821e
+julia 0.2-
+
+0.3.2
+-----
+3708d517fe530c60c9a002b908af882e8697e67c
+julia 0.2-
+
+0.3.3
+-----
+4c00cb87594c62fa115a9c2f4c6bc4f005427c90
+julia 0.2-
+
+0.3.4
+-----
+08651736d0915ed28cf8ca436898616fc374a074
+julia 0.2-
+
+0.3.5
+-----
+fcee80b34e30f76af35938086a84a2366617147c
+julia 0.2-
+
+0.3.6
+-----
+05d58ff0b1ec73e72c0bf9e69e67d89ca4f161cc
+julia 0.2-
+
+0.4.0
+-----
+e5190b02fd609b2723f3305297f233406475f251
+julia 0.3-
+ArrayViews 0.2-
+
+0.4.1
+-----
+1a87f6e72afc044d14ede50d84824f10c7303650
+julia 0.3-
+ArrayViews 0.2-
+
+0.4.2
+-----
+ce851c155daab0648432992d94120dd24d49b594
+julia 0.3-
+ArrayViews 0.2-
+
+0.4.3
+-----
+2ed809cd57ea18496f57c79575b1eba5ebb2c0e8
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.0
+-----
+e465d3f83d896dde3010e249e6946606a39b8eb3
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.1
+-----
+d66a9b2eea8a81af1c593de70fa4e6947580dbda
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.2
+-----
+029421eec3b40eeac082ea4547c1e4d107bd6628
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.3
+-----
+14bb914611f63f317830766d70ae5c0ba137c3ad
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.4
+-----
+35f0ca97e38500f50a34c6b2e35a737fef50256d
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.5
+-----
+a95837d5c22107a0cda9ad9914735e3210a364ef
+julia 0.3-
+ArrayViews 0.2-
+
+0.5.6
+-----
+235f43c2bc0b2e7d2ff4527c551af748058f8453
+julia 0.3-
+ArrayViews 0.2-
+
+0.6.0
+-----
+440c9bcdf2204d85e6dc31231eb0c8208756fd1b
+julia 0.3-
+NumericFuns 0.2.1-
+ArrayViews 0.2-
+
+0.6.1
+-----
+9f2d6de2af2d812a023fcc78ce1c17a259f53f5b
+julia 0.3-
+NumericFuns 0.2.1-
+ArrayViews 0.2-
+
+0.6.2
+-----
+1e0a8106a4a89cbcd1906180619e6e04e96a28a6
+julia 0.3-
+NumericFuns 0.2.1-
+ArrayViews 0.2-

@@ -1,0 +1,38 @@
+git://github.com/simonster/Lasso.jl.git
+
+0.0.1
+-----
+178990ea058e2cea08469d5c6c4af286ddb23ee3
+julia 0.3.6-
+StatsBase
+Distributions
+GLM
+Reexport
+
+0.0.2
+-----
+751bcda67d4d27deaf9d056a19c19c92c852a357
+julia 0.3.6-
+StatsBase 0.6.11+
+Distributions
+GLM
+Reexport
+
+0.0.3
+-----
+118aff2daa43ac54edc2d55fe69dd5f7602feec6
+julia 0.3.6-
+StatsBase 0.6.11+
+Distributions
+GLM
+Reexport
+
+0.0.4
+-----
+74a3bcef8a0fd9f2cf8cf6d0128fba8e849d0144
+julia 0.3.7
+StatsBase 0.6.12
+Distributions
+GLM 0.4.8
+Reexport
+Compat

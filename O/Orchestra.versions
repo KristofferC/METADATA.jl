@@ -1,0 +1,75 @@
+git://github.com/svs14/Orchestra.jl.git
+
+0.0.0
+-----
+0734958bc80378b8ee7b8d16befc66f262ea9af8
+julia 0.3-
+Fixtures 0.0-
+FactCheck 0.1-
+DecisionTree 0.2-
+LIBSVM 0.0-
+Match 0.0-
+MLBase 0.3-
+Stats 0.1-
+
+0.0.1
+-----
+0cd4519732307a686919a8a298627b6076cb9eb1
+julia 0.3-
+Fixtures 0.0-
+FactCheck 0.1-
+DecisionTree 0.2-
+LIBSVM 0.0-
+Match 0.0-
+MLBase 0.3-
+Stats 0.1-
+
+0.0.2
+-----
+6d63b4ff4f2e409a3936452ad4fa5cee890d49c3
+julia 0.3-
+Fixtures 0.0-
+FactCheck 0.1-
+DecisionTree 0.2-
+Match 0.0-
+MLBase 0.3-
+Stats 0.1-
+PyCall 0.4-
+
+0.0.3
+-----
+ff522d28c0bb4a203a7e2de741f31981e66d49ea
+julia 0.3-
+Fixtures 0.0-
+FactCheck 0.1-
+DecisionTree 0.2-
+Match 0.0-
+MLBase 0.3-
+Stats 0.1-
+PyCall 0.4-
+
+0.0.4
+-----
+019608b6e6bf8472e9ad0f38122857cbdb70654b
+julia 0.3-
+Fixtures 0.0-
+FactCheck 0.1-
+DecisionTree 0.2-
+Match 0.0-
+MLBase 0.3-
+Stats 0.1-
+PyCall 0.4-
+DimensionalityReduction 0.1-
+Iterators 0.1-
+
+0.0.5
+-----
+1d01e4b94e08fa19ec0ce41f0d0a1bdc4516bd4f
+julia 0.3-
+FactCheck 0.1-
+DecisionTree 0.2-
+MLBase 0.3-
+StatsBase 0.6-
+PyCall 0.4-
+DimensionalityReduction 0.1-
+Iterators 0.1-

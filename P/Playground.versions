@@ -1,0 +1,48 @@
+git://github.com/Rory-Finnegan/Playground.jl.git
+
+0.0.1
+-----
+612628c525d8b6bdaa39febf597b96ac86c2dc3c
+julia 0.3-
+ArgParse
+Logging
+
+0.0.2
+-----
+21e6f49a0db6945ca5b12bd3db1c489deabc4a5e
+julia 0.4-
+ArgParse
+Logging
+YAML
+
+0.0.3
+-----
+6d03e593f6d38665dbc02e08d6093fa97e97da37
+julia 0.4-
+ArgParse
+Logging
+YAML
+
+0.0.4
+-----
+5349175087bbc5a6ff8d776c88cd0e1128ac5165
+julia 0.4-
+ArgParse
+Logging
+YAML
+
+0.0.5
+-----
+11b97755b634c9a3e3d16b5eea36303e94d2d0dd
+julia 0.4
+ArgParse
+Logging
+YAML
+
+0.1.0
+-----
+f6d09b776e59a184eeb1b7b003d9760e2980ea1d
+julia 0.4
+ArgParse
+YAML
+BuildExecutable

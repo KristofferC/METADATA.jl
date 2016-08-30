@@ -1,0 +1,19 @@
+git://github.com/IainNZ/RandomCorrelationMatrices.jl.git
+
+0.1.0
+-----
+1846c6abb9e54a79064429fd3ec812da0de7cb7c
+julia 0.3
+Distributions
+
+0.2.0
+-----
+8771d3ec5b50b713105663f4d65fdd98a76c0e34
+julia 0.3
+Distributions
+
+0.3.0
+-----
+0a2975eb32f5ca56ea7b14445c83dba576a180d2
+julia 0.4
+Distributions 0.8

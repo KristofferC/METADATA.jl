@@ -1,0 +1,34 @@
+git://github.com/JuliaDB/JDBC.jl.git
+
+0.0.1
+-----
+e7ac024bdab9159b4836e70ee51db8ed3e22ec10
+julia 0.3
+JavaCall 0.3.1
+Requires
+Compat
+
+0.0.2
+-----
+363700f760be7491975449f0fe54b9382d4c001c
+julia 0.3
+JavaCall 0.3.1
+Requires
+Compat
+
+0.0.3
+-----
+88c2a24cb00e26f970a717f07e19316a4266861f
+julia 0.3
+JavaCall 0.3.1
+Requires
+Compat
+
+0.1.0
+-----
+f41a3b3729c1d7bdc5d8cccbd95aaf3a6d03e50b
+julia 0.4
+JavaCall 0.4.1
+Requires
+Compat
+DBAPI

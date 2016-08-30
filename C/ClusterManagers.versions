@@ -1,0 +1,40 @@
+git://github.com/JuliaParallel/ClusterManagers.jl.git
+
+0.0.0
+-----
+a42c929027cd51d9bad17984f4a582fb6833ff2b
+julia 0.2-
+
+0.0.1
+-----
+13b43fd7c403c87ddbb1a6c7f00b12c0dc90601f
+
+0.0.2
+-----
+588b53a3fbe0e8ff635e73f889c71aafc2e6ec54
+julia 0.3-
+
+0.0.3
+-----
+8a476dc8b999a73f8fefaa9c457b7455bd6adc81
+julia 0.4-
+
+0.0.4
+-----
+beb5f444ea4c368d5191aa6e02447db97aaf8a55
+julia 0.4-
+
+0.0.5
+-----
+f47ba5bc1108f5c6457a2d9dfedad425a69ebddc
+julia 0.4-
+
+0.0.6
+-----
+652d516e633596b8fec29b0c2b1a8b69d4670b07
+julia 0.4
+
+0.1.0
+-----
+1b053e7f8d1947fd4b57649125ef025b6f46ca8a
+julia 0.4

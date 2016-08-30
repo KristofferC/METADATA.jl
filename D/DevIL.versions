@@ -1,0 +1,27 @@
+git://github.com/JuliaGL/DevIL.jl.git
+
+0.1.0
+-----
+1aff50b928a78d7b4217fee5ade6151c1b8cd7f9
+julia 0.3-
+@linux BinDeps
+
+0.2.0
+-----
+c1717cc80cf2f72ed9caf9a21bdb20e6c3d43fea
+julia 0.3-
+
+0.2.1
+-----
+baddc7c76f2d57b6384e5943ceb8d5385d46ace6
+julia 0.3-
+
+0.2.2
+-----
+8208990f01700081f0583bf39f017c80a31c312a
+julia 0.3-
+
+0.3.0
+-----
+1905924944436cef6f4c83fc984cf413fd40dee2
+julia 0.4-

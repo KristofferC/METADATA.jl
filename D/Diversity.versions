@@ -1,0 +1,76 @@
+git://github.com/richardreeve/Diversity.jl.git
+
+0.1.0
+-----
+01e4a28171079ad10dce860652ed0a086860d6e9
+
+0.1.1
+-----
+d3b6cce1f3fdcb97504a5712caae1d04eae10ec4
+
+0.1.2
+-----
+c67d228cd0f388efdf1c3638c72319710355bcd7
+
+0.1.3
+-----
+e2b3ad68d52554056b935be7aab976cda099a4dd
+
+0.2.0
+-----
+b4167069a1de3e0a3a7a637782002ac983080f33
+
+0.2.1
+-----
+2341256788762ea82fb7b064ad2db74d56e709a1
+
+0.2.2
+-----
+faeec2f200120071ed02e833415e5e925bd68954
+julia 0.3
+Docile
+
+0.2.3
+-----
+156f18e601fc47a3fc0c3f8c820990736aa84e16
+julia 0.3
+Docile
+
+0.2.4
+-----
+ed54f474a4bca619656403e2c537fd82a7221452
+julia 0.4
+Docile 0.3.1-
+Lexicon
+
+0.2.5
+-----
+ac92b9b25249f84027be7f1acde6c12fa086e976
+julia 0.3
+Docile 0.3.1-
+Lexicon
+Compat
+
+0.2.6
+-----
+bd30b42febc51e032ae206135dd1015ad89ec315
+julia 0.3
+Docile 0.3.1-
+Lexicon
+Compat 0.7.9-
+
+0.2.7
+-----
+d5f32cd5992c7d430fc0dffeff633976bc08c872
+julia 0.3
+Docile 0.3.1-
+Lexicon
+Compat 0.7.9-
+
+0.2.8
+-----
+48abb39279e8ad14b94ed08d8740319bba6258ca
+julia 0.3
+Docile 0.3.1-
+Lexicon
+Compat 0.7.9-

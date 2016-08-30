@@ -1,0 +1,17 @@
+git://github.com/fhs/CRC32.jl.git
+
+0.0.0
+-----
+5353603a5ea8dd405d9c56876a57aaa8d8b05cbe
+julia 0.2 0.4
+
+0.0.1
+-----
+0ef6ca7dea1713cc79427d9f507e8aa93afc46bc
+julia 0.2 0.4
+
+0.0.2
+-----
+f034d66c090a890731f6ec68dfad9d884ebc7512
+julia 0.2 0.4
+Compat 0.3.3-

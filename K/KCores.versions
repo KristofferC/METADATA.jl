@@ -1,0 +1,22 @@
+git://github.com/johnybx/KCores.jl.git
+
+0.0.1
+-----
+37ff0c231ddda5d648a76d5cf75fe6b0c2e4e64d
+julia 0.4
+Graphs
+PyCall
+
+0.0.2
+-----
+5976bbfcc5094ac954ab5871b5004dc10ffc2d26
+julia 0.4
+Graphs
+PyCall
+
+0.0.3
+-----
+f791c9e05a564319b4f647bdb9e6ea7e487cff0f
+julia 0.4
+Graphs
+PyCall

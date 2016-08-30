@@ -1,0 +1,19 @@
+git://github.com/thofma/Hecke.jl.git
+
+0.1.0
+-----
+f107a8b15d01064f81a58b4d35aabfd6b1873a5f
+julia 0.4
+Nemo 0.4 0.5
+
+0.1.1
+-----
+fab6125cf3490b90dc618e6e67d0717c80b5c9d7
+julia 0.4
+Nemo 0.4 0.5
+
+0.1.2
+-----
+674a2aef3deca9ccf7b45cc765c449f80d3bbe5c
+julia 0.4
+Nemo 0.4.1 0.5

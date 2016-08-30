@@ -1,0 +1,147 @@
+git://github.com/jheinen/GR.jl.git
+
+0.1.0
+-----
+18c05885c5cd31e698d6a2b33508c0e0b17c0451
+
+0.10.0
+------
+16621516cb2a031538f32a66873bf154993e79b9
+julia 0.3
+Compat 0.4
+
+0.11.0
+------
+faa5261bee6e9b2d2a9bb73e0c349e9cf7d62474
+julia 0.3
+Compat 0.4
+
+0.12.0
+------
+30672d0ad8dc254d80e22dd130d8940182c4884c
+julia 0.3
+Compat 0.4
+
+0.13.0
+------
+0ef48858ef931c68bc4cd9556558f0d6af1a6c8f
+julia 0.3
+Compat 0.8
+
+0.14.0
+------
+776047caccdfd7aad34cd58f9352c58bd189004c
+julia 0.3
+Compat 0.8
+
+0.2.0
+-----
+90f81e451d884061743c0d200680839418a44451
+
+0.3.0
+-----
+bd1dad07e332386d7567b06925df50c4306db483
+
+0.4.0
+-----
+bad36645ade6e4421a625fca917c2a2ef2dd3c22
+
+0.5.0
+-----
+e662ec8265160d6e69039d6081346b1df6736361
+
+0.6.0
+-----
+a12b8c6fe53d99de1aa40d1f33e614da9358f604
+
+0.7.0
+-----
+75fd0208b771444f4ebe8e1cb88f5e54bc70ba2f
+
+0.8.0
+-----
+bdf536ee152561df3517435af307547f08ea514d
+
+0.9.0
+-----
+e1b972ac79a1977feda0d8f4b4858ba0341e2bc5
+
+0.9.1
+-----
+ca0112fa138bcd4bb1e5b1dfc44c9bc916db60a1
+
+0.9.10
+------
+2f970a5f32e38a3fc063e712ad3e8deca8685c61
+julia 0.3
+
+0.9.11
+------
+5bd980cf58159be9d0e717ae9677595c011f453c
+julia 0.3
+
+0.9.12
+------
+0c46f6e48a34b6c376d97539dbd262a4a651c0b1
+julia 0.3
+
+0.9.13
+------
+1ed615398fdeffbe1bdb1cadf436d2ed055484fb
+julia 0.3
+
+0.9.14
+------
+bef725ca75d87a331fdc68c84f4e36dbde02b09b
+julia 0.3
+
+0.9.15
+------
+e0d5ff3637d49a59b78a8daa0af3d0c2c11b697e
+julia 0.3
+Compat 0.4
+
+0.9.16
+------
+70f731c3de7fc58deb79f3192f766532f7649f9a
+julia 0.3
+Compat 0.4
+
+0.9.17
+------
+e31746a96dd567ed0196042a32ec3b336518bf09
+julia 0.3
+Compat 0.4
+
+0.9.2
+-----
+5df0f1f69afa45827f90a4256c97e38564ff5457
+
+0.9.3
+-----
+b498e299eb80c0ddc62e785501aede4f52108a04
+
+0.9.4
+-----
+e19c2521749b15f6a8a12f846d10565ead470a91
+
+0.9.5
+-----
+aa141735b526232bcfac8d044c00f28fd83366ac
+
+0.9.6
+-----
+8eb91b9e8de7c381bbf224a6dee81400030509ed
+
+0.9.7
+-----
+cb7328b57331783daf5e01fa9ad0aa280a4de73b
+
+0.9.8
+-----
+5d36fba98931cedee491158412552636795fb181
+
+0.9.9
+-----
+5d36fba98931cedee491158412552636795fb181
+julia 0.3

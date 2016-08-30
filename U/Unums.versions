@@ -1,0 +1,17 @@
+git://github.com/JuliaComputing/Unums.jl.git
+
+0.1.0
+-----
+99e7f136de5aa01b7af2e89b95adaf4919babf0c
+julia 0.4
+
+0.2.0
+-----
+c38fb2eebbde787bf0646dbaab03ed007f42fb56
+julia 0.4
+
+0.2.1
+-----
+b8939d203ac30edeb00fb5425db8671655bf891b
+julia 0.4
+Compat 0.8.8

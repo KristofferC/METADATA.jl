@@ -1,0 +1,11 @@
+git://github.com/chezou/ConfidenceWeighted.jl.git
+
+0.0.1
+-----
+048eb13912427304437e4658e383743dbb8d7afc
+
+0.0.2
+-----
+d0992bc94798a465355c32b7c9ff950cb5f91380
+julia 0.3-
+DataStructures 0.3-

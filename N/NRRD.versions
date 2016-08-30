@@ -1,0 +1,22 @@
+git://github.com/JuliaIO/NRRD.jl.git
+
+0.0.1
+-----
+67b85cc942dfbcebb86be3df1e2836b046b627a9
+julia 0.3
+Images
+SIUnits
+Compat
+Zlib
+FixedPointNumbers
+
+0.0.2
+-----
+eba47b1578f7f30bd84d9db6f60ab74911475867
+julia 0.3
+Images
+SIUnits
+Compat
+Zlib
+FixedPointNumbers
+FileIO

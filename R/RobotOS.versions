@@ -1,0 +1,84 @@
+git://github.com/jdlangs/RobotOS.jl.git
+
+0.1.0
+-----
+d40d35283b6b41048c2c5565487461b4606c4848
+PyCall
+Compat
+
+0.1.1
+-----
+7c0dece4b80b2305850d31081859d27ae91d1a55
+julia 0.3
+PyCall
+Compat
+
+0.2.0
+-----
+1746336a6b471c986082be9aaa6aa8dacb2dea72
+julia 0.3
+PyCall
+Compat
+
+0.2.1
+-----
+4892be3b1720a9aed737fe31582b78bdc72cfcc0
+julia 0.3
+PyCall
+Compat
+
+0.3.0
+-----
+8943e7bcf8d57cba699b29d9e9862c7367654de4
+julia 0.3
+PyCall
+Compat
+
+0.3.1
+-----
+91ca1643d30196d272571187ade9fd29fe5668b8
+julia 0.3
+PyCall
+Compat
+
+0.3.2
+-----
+582c94e7d1249691fe2a5987da4e622020643a55
+julia 0.3
+PyCall
+Compat
+
+0.3.3
+-----
+1bacbe59802e47077789f9908a4f895ffd7645f0
+julia 0.3
+PyCall
+Compat
+
+0.3.4
+-----
+3c634d13018766285d0dd0af3838fcf7e21918ef
+julia 0.3
+PyCall
+Compat
+
+0.3.5
+-----
+86ef7fea816786662e8b21d912a300e5e50b9c48
+julia 0.3
+PyCall
+Compat
+
+0.4.0
+-----
+e14adf085f65a6b3cfcbe0405a530c96974defc2
+julia 0.4
+PyCall
+Compat
+
+0.4.1
+-----
+486a3706b4450f4f1450e60faac8cda1b6453b17
+julia 0.4
+PyCall
+Compat 0.8.0

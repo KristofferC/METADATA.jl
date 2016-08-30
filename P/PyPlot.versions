@@ -1,0 +1,339 @@
+git://github.com/stevengj/PyPlot.jl.git
+
+0.0.0
+-----
+86ee070f5c446f5619e3af040f31981dce7af37f
+ZMQ
+
+1.0.0
+-----
+cb15651466f78a9301dba67d67fc45b8df66fd9b
+julia 0.2-
+PyCall
+
+1.0.1
+-----
+f4decf17ddf5bb029f41a404ac5c27b559d3f1a7
+julia 0.2-
+PyCall
+
+1.0.10
+------
+7f3ac329b352c924412823c010f9d2e539a2bdb2
+julia 0.2-
+PyCall
+Color
+
+1.0.11
+------
+59c19c7078985dd98e97d99a0fc4abda2f2f0ec7
+julia 0.2-
+PyCall
+Color
+
+1.0.12
+------
+44e5589ab8f0915a3075ac1450d797ab6ce713aa
+julia 0.2-
+PyCall
+Color
+
+1.0.2
+-----
+1f763b11f9e71348bc051954d83c856d1517bd65
+julia 0.2-
+PyCall
+
+1.0.3
+-----
+8d75daac81eb5d1352c4f26637cfd66c0e48a0f7
+julia 0.2-
+PyCall
+
+1.0.4
+-----
+fb8686f4afd95c86b47213e9fcc5a5820c042cfe
+julia 0.2-
+PyCall
+Color
+
+1.0.5
+-----
+b37dcd8df1617d08ea5d9e80441434d8f6c588b2
+julia 0.2-
+PyCall
+Color
+
+1.0.6
+-----
+cb92b020bbe5fb72d1acbda169c6c7ce46a07303
+julia 0.2-
+PyCall
+Color
+
+1.0.7
+-----
+ecc8a4083f2d58894c405047db8cda74b6e8f82d
+julia 0.2-
+PyCall
+Color
+
+1.0.8
+-----
+dc7905bf38fa968e8dd9669c0294931e5df02775
+julia 0.2-
+PyCall
+Color
+
+1.0.9
+-----
+7c59b3eda67b74d6b6e3008888cd2206266b24c1
+julia 0.2-
+PyCall
+Color
+
+1.1.0
+-----
+3217abec982ebd687e1e6678288eb6f4f76619a5
+julia 0.2-
+PyCall
+Color
+
+1.2.0
+-----
+c6b7ac95a00c89e5f8b4921a217c0c43ce804cd5
+julia 0.2-
+PyCall
+Color
+
+1.2.1
+-----
+b81674b17f6e901aa2d95d44e7b5c498ab684904
+julia 0.2-
+PyCall
+Color
+
+1.2.10
+------
+d209dd2f793cab37ab08822cb046395c82192824
+julia 0.2-
+PyCall
+Color
+
+1.2.11
+------
+1414ebd03a03e10a20c3dee48c97865c4d27d1d2
+julia 0.2-
+PyCall
+Color
+
+1.2.2
+-----
+d8288819a6119e3b8ec92af4c7395e2a8bb9182a
+julia 0.2-
+PyCall
+Color
+
+1.2.3
+-----
+1c2d22e06257969841270711b7add18698833324
+julia 0.2-
+PyCall
+Color
+
+1.2.4
+-----
+2b75fab0aa968aab471c8b1936c106868f44b127
+julia 0.2-
+PyCall
+Color
+
+1.2.5
+-----
+a4e224a427aa997304d9a6da9a889c8bbfc681da
+julia 0.2-
+PyCall
+Color
+
+1.2.6
+-----
+e8640e367636bd5afc7ce0e47687dc4957326b64
+julia 0.2-
+PyCall
+Color
+
+1.2.7
+-----
+3b7839fe2d30cd6c4d6c9c1cd0e3d4d12b898460
+julia 0.2-
+PyCall
+Color
+
+1.2.8
+-----
+0ae0d4cbc150207ec0863f7b6127b1bd14ce8716
+julia 0.2-
+PyCall
+Color
+
+1.2.9
+-----
+53bdbdcef3e8f5bac7593179bf338492d9762ac0
+julia 0.2-
+PyCall
+Color
+
+1.3.0
+-----
+083f6f340f2638761f2dbcbed9e6a362eff5de7e
+julia 0.2-
+PyCall
+Color
+
+1.3.1
+-----
+096780721c8efb6ffb899379ff614de96ecdc600
+julia 0.2-
+PyCall
+Color
+
+1.3.2
+-----
+536b17d0ed596be7adb5a33c0ceeb9c75de62919
+julia 0.2-
+PyCall
+Color 0.3.7
+
+1.3.3
+-----
+3e6e18c746ef7d94008906d99a8abd577a419169
+julia 0.2-
+PyCall
+Color 0.3.7
+
+1.4.0
+-----
+8932adec8f7329a66e41922348425b98a86981a4
+julia 0.2-
+PyCall
+Color 0.3.7
+LaTeXStrings
+
+1.4.1
+-----
+48a6d7f83eb52a65ea00d66f35a870779063f57e
+julia 0.2-
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.2
+
+1.4.2
+-----
+82b51f88b50f92866b3abbfd655d32ae92c06b41
+julia 0.2-
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.2
+
+1.4.3
+-----
+06e25e04fcd3869f3ae11e328a37e7345fc59c58
+julia 0.2-
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.2
+
+1.5.0
+-----
+40632c7270c767fdfd527c2afa4ed7bf5a1ecb01
+julia 0.2-
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.2
+
+1.5.1
+-----
+6e177529690ecdb82c87437ffa40ec74a5407af4
+julia 0.2-
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.2
+
+1.5.2
+-----
+c1d78e91b46ad53d8a6c04f8af2204b357d474e9
+julia 0.3
+PyCall 0.5
+Color 0.3.7
+LaTeXStrings
+Compat 0.4
+
+1.5.3
+-----
+bb24ff8b8f716845094a0622a46c57960b392a45
+julia 0.3
+PyCall 0.8
+Color 0.3.7
+LaTeXStrings
+Compat 0.4
+
+2.0.0
+-----
+069b985c6e153c197b14bb3fcd98057cfc1d4176
+julia 0.3
+PyCall 0.8
+Colors
+LaTeXStrings
+Compat 0.4
+
+2.0.1
+-----
+e72310cdc1aaa037ade8aaafb117dd85144b7962
+julia 0.3
+PyCall 0.8
+Colors
+LaTeXStrings
+Compat 0.4
+
+2.1.0
+-----
+521caa1bce869d766d4638942abfc9099163ac8e
+julia 0.3
+PyCall 1.0
+Colors
+LaTeXStrings
+Compat 0.4
+
+2.1.1
+-----
+006190cc52eb56bf5cf55dd1860ecbefd218be25
+julia 0.3
+PyCall 1.1
+Colors
+LaTeXStrings
+Compat 0.4
+Conda
+
+2.2.0
+-----
+27f62251e62cea431a955bafc4444472f4e96fe5
+julia 0.4
+PyCall 1.5
+Colors
+LaTeXStrings
+Compat 0.7.15
+Conda
+
+2.2.1
+-----
+eab4c673d75db1c3dc441917b39a95ec25bc2476
+julia 0.4
+PyCall 1.6.2
+Colors
+LaTeXStrings
+Compat 0.8.0

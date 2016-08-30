@@ -1,0 +1,329 @@
+git://github.com/nolta/Winston.jl.git
+
+0.0.0
+-----
+eb99b04f5f2999504b9a6a06c5ec4fdfa6b4a4f3
+Cairo
+Color
+IniFile
+Tk
+
+0.10.0
+------
+b45558bb513c449c561e3cd24d42cde09cbb02c1
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.10.1
+------
+572017617e700f7fb242410e7fd207612d1cf143
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.10.2
+------
+7c86677118ef621c9ab72194bc9a5273c713d19a
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.0
+------
+16e1051b1aa00ce6b91c1cb01427644c7c5b1b05
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.1
+------
+c78c37cec15434ec6c172465afcfa19f5265475d
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.10
+-------
+8917b3b9a1f59a807497c0ffbbe2c3ac0deaba8b
+julia 0.4-
+Cairo
+Color 0.2.9
+IniFile
+Tk
+Compat 0.4.0
+Graphics 0.1
+
+0.11.11
+-------
+ca7145a277d23f22be59e082cac9dc66d1b10320
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+Compat 0.4.4
+Graphics 0.1
+
+0.11.12
+-------
+6dd2496be7c770137fd38d74c3a17b2079e1749d
+julia 0.2
+Cairo
+Colors
+IniFile
+Tk
+Compat 0.4.4
+Graphics 0.1
+
+0.11.13
+-------
+d5a04e7060981159f8b98acdf36bc40ea7f01d86
+julia 0.2
+Cairo
+Colors
+IniFile
+Tk
+Compat 0.4.4
+Graphics 0.1
+Dates
+
+0.11.2
+------
+6aa60212e4209bc0746d4ed733918476b87d7a98
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.3
+------
+32ac7082fef72a5401e3945b0ee0572dba628e2d
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.4
+------
+8232b19a54ee925e0d027db588bdf242e16ccd5e
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.5
+------
+2f4d4cb872991156edcb2b0d60def80befb5a8ec
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.6
+------
+7b4fe854a8241252298119e401be1f9dcb2f875d
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+
+0.11.7
+------
+2bf6a5ecfa1d13a00f2bda3b2e95627870af7558
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+Compat 0.2.5
+
+0.11.8
+------
+51c21a98d31dfad710a22e3e0c57668119a43ee6
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+Compat 0.2.5
+Graphics 0.1
+
+0.11.9
+------
+ef8c1cb1e45a5d3e7879ad546de2c53a2ef0812e
+julia 0.2
+Cairo
+Color 0.2.9
+IniFile
+Tk
+Compat 0.2.5
+Graphics 0.1
+
+0.3.0
+-----
+0b9ea91f8aece44563555b83e8a7a507e7b0e469
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.3.1
+-----
+043edf213746914c1bdcf60409ee4d16cb71c741
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.4.0
+-----
+76c00126cce4a293fcc0616cde0f7f926146d09f
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.5.0
+-----
+132c238feb36f6da789fbc01ffc9cd13ce0e4bb0
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.5.1
+-----
+85877c496d746b9a8826a47e251a1d08a6914b0f
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.5.2
+-----
+a9dc7c0040948fb355b15e920ad337185fc2969b
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.5.3
+-----
+c76c81d01d6735201662fb0e7edaa7b06db0d894
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.6.0
+-----
+07a8f45803e1fce2d2b47cc11eba0c1bb3e3fbaa
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.6.1
+-----
+e7558fa46977e5fbf128ac3f7c2b73f1807dde9c
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.7.0
+-----
+e50d116881b9901bda6306365e73f8988fb91922
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.7.1
+-----
+d5744dbded37188f2fb8b927091becdbc906b3d5
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.7.2
+-----
+a8039a59c25102f3c1b835f907aa8067a26cc407
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.8.0
+-----
+c8f0e26f11f92ad17f292ee03a1e287d57cb67d6
+julia 0.2-
+Cairo
+Color
+IniFile
+Tk
+
+0.8.1
+-----
+eea9cee1a5987985d57a337640d855c71ec8b08b
+julia 0.2
+Cairo
+Color
+IniFile
+Tk
+
+0.8.2
+-----
+8dde9d702898a4c21d7362190048c23186de6524
+julia 0.2
+Cairo
+Color
+IniFile
+Tk
+
+0.8.3
+-----
+9cf4756de04a3936df04b3b35f4a476d4922b9db
+julia 0.2
+Cairo
+Color
+IniFile
+Tk
+
+0.9.0
+-----
+c6c42da8f2d0a870c2b1516a075d848a138c7ef0
+julia 0.2
+Cairo
+Color
+IniFile
+Tk

@@ -1,0 +1,29 @@
+git://github.com/oschulz/EasyPkg.jl.git
+
+0.0.1
+-----
+96e0c4cfa937e615d1bc35a167e88d86a3e7d92c
+julia 0.4
+
+0.0.2
+-----
+29df2690c2c3ee8c0ae726b72170240b5222dc94
+julia 0.4
+BaseTestNext
+
+0.1.0
+-----
+32c9b9f9f6569ae95dd3273af0420f3c65c152d5
+julia 0.4
+BaseTestNext
+
+0.1.1
+-----
+be5cc850b9b7129a321f56752d027db5e221eb05
+julia 0.4 0.5
+BaseTestNext
+
+0.2.0
+-----
+2c03a8fcaf859d956d25139962debcbf117d7267
+julia 0.5-

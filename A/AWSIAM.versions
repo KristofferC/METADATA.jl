@@ -1,0 +1,31 @@
+git://github.com/samoconnor/AWSIAM.jl.git
+
+0.0.1
+-----
+e3c4e0882eb037d987dae7ffa20b1ebaec33c2b5
+julia 0.4
+AWSCore
+
+0.0.2
+-----
+7741b69e14d4ed0d9663ebf8aab195cacfab1f05
+julia 0.4
+AWSCore
+
+0.0.3
+-----
+95baeb9a3b5b0c9ff477b9667fc24ef9111e7725
+julia 0.4
+AWSCore
+
+0.0.4
+-----
+b5524ad5fa5d8852f83d2d65b9a15dfc70d0f88c
+julia 0.4
+AWSCore
+
+0.0.5
+-----
+28fcc22d27e3241249fe1a68219df338e56ae4c4
+julia 0.4
+AWSCore

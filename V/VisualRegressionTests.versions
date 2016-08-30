@@ -1,0 +1,44 @@
+git://github.com/tbreloff/VisualRegressionTests.jl.git
+
+0.0.1
+-----
+40148ff4afd2f40d6921e2324e7a726ca48bd3b1
+julia 0.4
+Images
+ImageMagick
+@osx QuartzImageIO
+
+0.0.2
+-----
+b09cae9b295921a204f6602136688752fc8be89e
+julia 0.4
+Images
+ImageMagick
+@osx QuartzImageIO
+
+0.0.3
+-----
+7c72a0e214005b9ae06baf98da5de06c67d5ee9e
+julia 0.4
+Images
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
+
+0.0.4
+-----
+765f11ff7300979623832523e9496fd2cff12a46
+julia 0.4
+Images
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
+
+0.0.5
+-----
+c86ca0104b0940616aa8f7a75a983265e07aeb72
+julia 0.4
+Images
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO

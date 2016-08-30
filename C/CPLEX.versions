@@ -1,0 +1,157 @@
+git://github.com/JuliaOpt/CPLEX.jl.git
+
+0.0.10
+------
+5ca36740d9d39cafef78aa6ef2f8ab7f15b0518f
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+
+0.0.11
+------
+828e7d27127f928a28f15f65d6fa0cd22f9a1728
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.12
+------
+185393cca6a395c6989a124d802c92a810a6ef91
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.13
+------
+549bc3680c3c9931a4aadbe5bc3bf063cb835a11
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.14
+------
+a4b7d5947b93d4d48b821fbe9a944ac3baed188f
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.15
+------
+607970e3954f88338912943085cd29f65126f2da
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.16
+------
+d445611db7dbfaa3f71db200c5d17aa265fe4ef8
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.17
+------
+b69e3239efd83785522aa407b06b2ec59894a405
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.18
+------
+bc54be1a9f0e5877eadf46c5d345ddcb84574ef3
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.19
+------
+1e0037042b365523631c63bb67237a5d2dc6cca8
+julia 0.3
+BinDeps
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.3
+-----
+008ec9dcadbdf2a7361148705fc71e92e7e461c7
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.4
+-----
+706af21f76cb375ddcbb36ad9172cfca12ee52e9
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.5
+-----
+74c6759ac73ca54f92c74b5457fcac5bef7df32e
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.6
+-----
+2a371851aa6d673f30e4891d7535c1ddb098770a
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.7
+-----
+5d38ff84602c8d5110c000c69af2ce3f42fac78a
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.8
+-----
+ebee362be54160a11e64054a2f30569b7173cfbc
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.0.9
+-----
+292e3c74e71df0eb88a51f1d784ca4365a243484
+julia 0.2
+BinDeps
+MathProgBase 0.3.0-dev1 0.4.0-
+
+0.1.0
+-----
+c1cc49692676549836dadef455bf54ddfc979817
+julia 0.4
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+
+0.1.1
+-----
+a0d529e19004805ef7722f3fd6f3374635a8cf95
+julia 0.4
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+
+0.1.2
+-----
+afdb5df0d3d235e5be10675e8f90068781822520
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+
+0.1.3
+-----
+2c21d3a619c0f8f14809ab809921e5be56cea81e
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6

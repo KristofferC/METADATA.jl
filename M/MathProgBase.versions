@@ -1,0 +1,222 @@
+git://github.com/JuliaOpt/MathProgBase.jl.git
+
+0.0.0
+-----
+f016dc0137ec240bce46210850593548f2052ccf
+julia 0.2-
+
+0.1.0
+-----
+114f6f60649af23c9f337c61bf1288b63e6bbc88
+
+0.1.1
+-----
+925f626e458f687e4b28b0839d022dbca30505d4
+
+0.1.2
+-----
+0bc8fe042c8aff25ed87fa91ca0f6cb3d642d0d0
+
+0.1.3
+-----
+b31ed608243d9c6f0f06d40c7b5d7675d70e3edf
+
+0.1.4
+-----
+8035f13fdfd1d038cc47bb64385f4cf8bb3dc320
+
+0.1.5
+-----
+6e47243704199340d38791ebb903833ab33eb75a
+
+0.1.6
+-----
+48f191c2b9ecdb63c38ccf601cc7f34d321d4cd1
+
+0.2.0
+-----
+de0e7dcce8322936755a53f6bf0b62b7843fc03e
+
+0.2.1
+-----
+b20de5a8542bd4b34eb20ac4fd50542c48bebf03
+
+0.2.2
+-----
+04de880875a93f3ed0ceb2effea59d6083932bc7
+julia 0.2
+
+0.2.3
+-----
+0d3862b8bb6a36e0e705308d9fa93f0eb490494b
+julia 0.2
+
+0.2.4
+-----
+49549bfbade3aca5fbbd1e5dd83a7f77d95db463
+julia 0.2
+
+0.2.5
+-----
+84d657f8606ccb0e5bb16d2432e3276b946b01a4
+julia 0.2
+
+0.3.0
+-----
+038e07f059fec0da5180253148cef5c812c203eb
+julia 0.2
+
+0.3.0-dev1
+----------
+3a28c8cfca7c8f5f8a52bbf973d3e2e3a04327b4
+julia 0.2
+
+0.3.0-dev2
+----------
+e707e99c7b47e8ccf748a66d15c7be2c3ee8041d
+julia 0.2
+
+0.3.1
+-----
+2344fcbfb58757bbb18bfebcba9ca4ee979bde0a
+julia 0.2
+
+0.3.10
+------
+f8dc60a13068062698d9b17b9ad33dc28a49c8b6
+julia 0.3
+
+0.3.11
+------
+ee1a36736a41cfa2365c730583a9e8f3256625c2
+julia 0.3
+
+0.3.12
+------
+84b5866448ac0891371f6e9179d06d80b35f3b5d
+julia 0.3
+
+0.3.13
+------
+2a4172ad577e9aff9abbf7ef0cd2bb3850179ff4
+julia 0.3
+
+0.3.14
+------
+0132f42277c90a866238bf18ebf8641a9b5d7466
+julia 0.3
+
+0.3.15
+------
+35f0f99cafe04c140536404ff2517c59cfecd419
+julia 0.3
+
+0.3.16
+------
+9eaa9a8bc6fca6bd3f42769b19b66863b584b49c
+julia 0.3
+
+0.3.17
+------
+e6d6b29c8de2be80cf840021b892ce83508ceca5
+julia 0.3
+
+0.3.18
+------
+1685462f89a54bd305296bc9b2529459c7b82c18
+julia 0.3
+Compat
+
+0.3.19
+------
+9e0b626f34c2e001b6c28c4224f3cb6630b2c073
+julia 0.3
+Compat
+
+0.3.2
+-----
+725dad5f8a74720ba9d58fff97878d1583c14444
+julia 0.3
+
+0.3.3
+-----
+8d108067a7bed6902ebb758fbdf82079872a2181
+julia 0.3
+
+0.3.4
+-----
+052d9a5741f26d1c1c17ea6084b9b2fbb85d43c1
+julia 0.3
+
+0.3.5
+-----
+6115daa3f330dde47a993db34b78e65880bddb84
+julia 0.3
+
+0.3.6
+-----
+3a4e56d243cd11bbedf18bd95714415a45c324cc
+julia 0.3
+
+0.3.7
+-----
+da721ef453677135798dca3805c02ecd84283167
+julia 0.3
+
+0.3.8
+-----
+661b67c9104aa0b8faf9ed82a4192a899135ba73
+julia 0.3
+
+0.3.9
+-----
+f8859fc3e8523ffeeb2c9ed4db6b03f81a79ebe7
+julia 0.3
+
+0.4.0
+-----
+0ac0333881ec2af0cd09e9cb427089295a496041
+julia 0.4
+
+0.4.1
+-----
+b9256567021e2eecc85c0c2dded57f14fdeb8d4f
+julia 0.4
+
+0.4.2
+-----
+40cd2712bc12a3a6d2b52f956e306bd22f76b7d7
+julia 0.4
+
+0.4.3
+-----
+9a2ef0dda2ca167a769631b394ff21ae2cabc483
+julia 0.4
+
+0.5.0
+-----
+74a36caccb74338225136550d9a71d3425329e74
+julia 0.4
+
+0.5.1
+-----
+2faa7b97af385f61ea2e829512b5fa1c1c2ceab1
+julia 0.4
+
+0.5.2
+-----
+2faefdf4a3b0c9573a8282dd8c7fcd99cb9fce52
+julia 0.4
+Compat 0.7.13
+
+0.5.3
+-----
+b1a98ccbe2f71bbc6da6c28b43cb9c4853b92729
+julia 0.4
+Compat 0.7.13
+
+0.5.4
+-----
+2b6de3dc81118d8b4b51f5a02c827aad1b047ff5
+julia 0.4
+Compat 0.7.13

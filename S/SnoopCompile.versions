@@ -1,0 +1,23 @@
+git://github.com/timholy/SnoopCompile.jl.git
+
+0.0.1
+-----
+59f7506a43118469d07dbed1b715b59930fb02eb
+julia 0.3
+
+0.0.2
+-----
+ed12a700893f650dab8c7f1cbeb991861d221029
+julia 0.3
+
+0.0.3
+-----
+88a912445617cbf06f4ac6ae2e5d72ac1f068130
+julia 0.3
+Compat
+
+0.1.0
+-----
+0e245f3d79955a0ca1cc2d8b403da061a6d06f51
+julia 0.4
+Compat

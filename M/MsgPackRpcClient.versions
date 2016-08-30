@@ -1,0 +1,7 @@
+git://github.com/keithseahus/MsgPackRpcClient.jl.git
+
+0.0.0
+-----
+b419545c3ad29444266729f608acf750d7d3948a
+julia 0.3
+MsgPack

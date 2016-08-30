@@ -1,0 +1,26 @@
+git://github.com/mschauer/SDE.jl.git
+
+0.0.0
+-----
+46d6a423fc5c3fbbf76699cc2485532f18922c6f
+Winston
+julia 0.2-
+
+0.1.0
+-----
+46d6a423fc5c3fbbf76699cc2485532f18922c6f
+Winston
+julia 0.2-
+
+0.3.0
+-----
+cf2c3b982f3fe510f2e9803444ea5179d526e7dd
+julia 0.2-
+Cubature
+
+0.3.1
+-----
+c2a8c6314c17fe2db3c968fcec7e97dbe1d474dd
+julia 0.3.0-
+Cubature
+Distributions

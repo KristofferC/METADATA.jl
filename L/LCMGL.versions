@@ -1,0 +1,8 @@
+git://github.com/rdeits/LCMGL.jl.git
+
+0.0.1
+-----
+36d9d3ad03d6e7b36085e7dceec55a1cfe4a0621
+julia 0.4
+BinDeps
+@osx Homebrew

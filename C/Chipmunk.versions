@@ -1,0 +1,30 @@
+git://github.com/zyedidia/Chipmunk.jl.git
+
+0.0.1
+-----
+d1e3fce2e25477314908d6de4c7b26e06d723f5d
+julia 0.4-
+
+0.0.2
+-----
+75e4a2aa64c0049ff5798fe52b26474b1e61bc53
+julia 0.4-
+SFML
+
+0.0.3
+-----
+0d865948ced62b9867de514c253317cd13243073
+julia 0.4-
+SFML
+
+0.0.4
+-----
+332667a90323c5dd78c63efb888908de3c6060ed
+julia 0.4-
+SFML
+
+0.0.5
+-----
+3dafbc7930580faaa73b8d420c679ba89f62bd99
+julia 0.4-
+SFML

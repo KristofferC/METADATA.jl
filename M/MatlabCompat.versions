@@ -1,0 +1,45 @@
+git://github.com/MatlabCompat/MatlabCompat.jl.git
+
+0.0.1
+-----
+3d12bafa8b84540805e0a247ed48dd6153d3c11f
+julia 0.3-
+Images
+ImageView
+TestImages
+FixedPointNumbers
+
+0.1.0
+-----
+3a0b7ba754f00c46ffb59301138e152cfbafe4ee
+julia 0.3
+Tk
+Images
+ImageView
+FixedPointNumbers
+MAT
+Color
+BinDeps
+
+0.1.1
+-----
+a8a9ca1d35d556b576a91641c0f0ac4f5991501f
+julia 0.3
+Tk
+Images
+ImageView
+FixedPointNumbers
+MAT
+Color
+BinDeps
+
+0.1.2
+-----
+67f5e45cd2090351f84f769b06b8df577a0deaeajulia 0.3
+Tk
+Images
+ImageView
+FixedPointNumbers
+MAT
+Color
+BinDeps

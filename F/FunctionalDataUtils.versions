@@ -1,0 +1,85 @@
+git://github.com/rened/FunctionalDataUtils.jl.git
+
+0.0.1
+-----
+324cde353afc1a92c1eab3e6c60ffd72371dd677
+SHA 0.0 0.2
+FactCheck
+Reexport
+
+0.0.2
+-----
+19d7bcb1cc442c402414eaaddfd6c53a35ac8975
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+DictFiles
+
+0.0.3
+-----
+f4ac9f70813e2fecad4a9130f3ea4156ed2fed52
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+DictFiles
+
+0.0.4
+-----
+94672aabec39f7002fea679127258f5abbba18f1
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+DictFiles
+
+0.0.5
+-----
+46e2bcf4e1e1fa72cf414f48893baa3fd9916e1f
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+
+0.0.6
+-----
+510a8b13fc89d36225d68296fc1f949f6a494ba0
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+
+0.0.7
+-----
+dbb87804c67b40b0ae38460917f5f7a3afa1374c
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+
+0.0.8
+-----
+d24c40eae1f4fc96a6dfe9121122cac5d3e26e70
+julia 0.3
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats
+
+0.1.0
+-----
+8fe3dc60df314221a30baf82fe1c0513f533ec16
+julia 0.4-
+SHA 0.0 0.2
+FactCheck
+Reexport
+FunctionalData
+MultivariateStats

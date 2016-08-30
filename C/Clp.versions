@@ -1,0 +1,82 @@
+git://github.com/JuliaOpt/Clp.jl.git
+
+0.0.10
+------
+7b34db9d90e91c298f2a2c00335010fa4befaac8
+julia 0.3
+Cbc
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.0.5
+-----
+33862e62204eb7535db5eea3bfb84ecc16edbd2e
+julia 0.2-
+Cbc
+MathProgBase 0.0.0 0.3.0-
+
+0.0.6
+-----
+8a7cc69cafd1cae00b1356e2b2a4400242d6f3a0
+julia 0.2-
+Cbc
+MathProgBase 0.0.0 0.3.0-
+
+0.0.7
+-----
+3dde8c21e24eb61f5a7b2d35e03623a1c57d2a01
+julia 0.2
+Cbc
+MathProgBase 0.0.0 0.3.0-
+
+0.0.8
+-----
+aac279f6a07c92d5fcfb435f64063672b73cf198
+julia 0.2
+Cbc
+MathProgBase 0.0.0 0.3.0-
+
+0.0.9
+-----
+98c06ba48bb139ac19c5ad43d91cf196fb05457b
+julia 0.2
+Cbc
+MathProgBase 0.3.0-dev1 0.4.0-
+
+0.1.0
+-----
+841530cdeaa302c8630f4c68b52bfb015123879d
+julia 0.3
+Cbc
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.1
+-----
+e3258188f6d4c30e302eac48364a6a28f5560fd3
+julia 0.3
+Cbc
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.2.0
+-----
+41a830aedf059c4a67ae0e90ad2801aff69441d8
+julia 0.4
+Cbc
+MathProgBase 0.4.0 0.5.0-
+
+0.2.1
+-----
+1ebc2114a792476fe2d9c297e7c3604b24a9ee16
+julia 0.4
+Cbc
+MathProgBase 0.5 0.6
+
+0.2.2
+-----
+7d674d17b1310cbe26d083ddae412a451d6d9501
+julia 0.4
+Cbc
+MathProgBase 0.5 0.6
+Compat 0.8.6

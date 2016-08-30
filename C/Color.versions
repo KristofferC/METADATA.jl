@@ -1,0 +1,222 @@
+git://github.com/JuliaArchive/Color.jl.git
+
+0.1.0
+-----
+22317e39b4357ec77a17024b3ba61e48fe11fa31
+julia 0.1- 0.2-
+Iterators
+
+0.2.0
+-----
+f9391a0584de5a34c64d94197078b35aa725ec8c
+julia 0.2-
+
+0.2.1
+-----
+e7d0e1daf564900ca2d58ef317906979627c3436
+julia 0.2-
+
+0.2.10
+------
+ea8429346f9f972b2bb12cb6ddd61dc809b2ba64
+
+0.2.11
+------
+795fa5370064a9390c4c33691e177b4414f4f0cf
+
+0.2.2
+-----
+f8a5721e23a36042d45203dd166cd8c253fcb600
+julia 0.2-
+
+0.2.3
+-----
+366d9bd77bfb1b4ab06ebaf190f3ffa9b046fe7d
+julia 0.2-
+
+0.2.4
+-----
+56191b3f9666cda2f828228b6ff5673cb26a2aae
+julia 0.2-
+
+0.2.5
+-----
+1d2bc8adec866d44cf662717bf314ac54d0489da
+
+0.2.6
+-----
+eac6d84aabc48f9620d9f668f79ae1a6fd2bc874
+
+0.2.7
+-----
+9d7f70abc084253143de6474b1231638fff21bda
+
+0.2.8
+-----
+5ef44b459de279fe68b9bb5115e4a7c6a9c0fc61
+
+0.2.9
+-----
+a6bbc6133b5cfe8b7479d5541294ce8c12826978
+
+0.3.1
+-----
+eb4c8aad13745db70734b0668e3ff6b216851b82
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.10
+------
+e7556950e45c79f03e76f96143be9eaf4c9ea658
+julia 0.3-
+Compat
+FixedPointNumbers 0 0.1
+
+0.3.11
+------
+4e85369bf06b9ac664dfb53d23c90a4a41256637
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+
+0.3.12
+------
+26322c5a51f4b2c0302014c384acf876474c21e0
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+
+0.3.13
+------
+6a6df43e757016ccd07cc662068d1f7d57230019
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+
+0.3.14
+------
+9ce88e93771f47b3be5a873af04dd4f3dda75554
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+
+0.3.15
+------
+be824cd659e3a9126bbea6101ae65f76c709c480
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+
+0.3.3
+-----
+3da0f041b2cfc8a37ed0ffc6d39c3df0fec2a11b
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.4
+-----
+89b148933fab59667c68c36ec5d43289cd81c0d2
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.5
+-----
+94304e98b8fd3ca9617232634b804fadd4330739
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.6
+-----
+3ed88b12b7b0e8bbd57e335da70f31b9c953454f
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.7
+-----
+56d73a27ff42ea5fc7fa89bddde068110c3d5c71
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.8
+-----
+5ce3577b15d683f718ed08deba95f8ef49b52845
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.3.9
+-----
+e3ed5f618b914213e2f1c2b409df641692bb834d
+julia 0.3-
+FixedPointNumbers 0 0.1
+
+0.4.0
+-----
+69f36d37be9dddf2d6dc0e3e4b61ddebd6265e87
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.1
+-----
+44c93658a62226b162235fb9b76c59f1a72daa59
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.2
+-----
+092991f540a7bc0817319e96f0d079b12e87c0fc
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.3
+-----
+d2e2e82c9324944b952a10e2f02c1828b488c59f
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.4
+-----
+9aa3265a9bb239a152be4fa6ed37c7d903ec8bd2
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.5
+-----
+22ec99ea91f452e18723f6867acccdf5df990b76
+julia 0.3-
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.6
+-----
+77eaa6c413b6fd2d850f60513a04ee6ea855f795
+julia 0.3
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.7
+-----
+409bd7a4efdd7fff9664e6d72b24c11554e0c857
+julia 0.3
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1
+
+0.4.8
+-----
+2fd36703debd87a5293336a87125c713ffa06f67
+julia 0.3
+Compat 0.2
+FixedPointNumbers 0 0.1
+Graphics 0.1

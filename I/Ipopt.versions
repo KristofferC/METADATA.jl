@@ -1,0 +1,221 @@
+git://github.com/JuliaOpt/Ipopt.jl.git
+
+0.0.0
+-----
+de334170c6335f3236288a4647cefaee71f9f5eb
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.1.0
+-----
+323fb563e3333b6c23fc479d5ec98f533f5190c2
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.1.1
+-----
+9fe3df223c5ef6bdfdadf86be3c65e1536f58458
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.1.10
+------
+d148dea7a31efd3cb5ff05c7d91a94c5acedbf3a
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+
+0.1.11
+------
+319c12913b758fd5b966a22433819aa77bb4bccc
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+
+0.1.12
+------
+3dff76985f44d137c16cd998888da6f15b7cbb9d
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat
+
+0.1.13
+------
+c1c400b7dbda108c3978f5ac7cd32beee724430c
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat
+@windows WinRPM
+
+0.1.14
+------
+940786dbd5a30e58f8bf9fc7462944e1bbb960fd
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat 0.4.0
+@windows WinRPM
+
+0.1.15
+------
+f3f14fea3244af029aa5f39096b31404f6194b19
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat 0.4.0
+@windows WinRPM
+
+0.1.16
+------
+7d24f3ad0e3243ed6023815928270c4ebe0d3364
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat 0.4.0
+@windows WinRPM
+
+0.1.17
+------
+b2fb8a1f49d162c6a8d023d7cb35a2758c3350b8
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat 0.4.0
+@windows WinRPM
+
+0.1.18
+------
+56c5846255df258a8605b58e148765bd190e45e8
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+Compat 0.4.0
+@windows WinRPM
+
+0.1.2
+-----
+e41b1e55fa5e6137f512d385662ced124befad5b
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+@osx Homebrew
+
+0.1.3
+-----
+51c517b25b401d928ca322fca7c2e79130d9abb6
+julia 0.2
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.4
+-----
+c6665b3d74e307bc4e962ec22b1a68be70b1b826
+julia 0.2
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.5
+-----
+d818e8bb38991dc52e9bddb43b33c6304ec49ef6
+julia 0.3
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.6
+-----
+e9d2a249e17be5ec9e50d3c490451711cd74a108
+julia 0.3
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.7
+-----
+67762c17361e5d865f43ed6348e141ada5ee6c94
+julia 0.3
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.8
+-----
+229fcae9db4594034788268f01ec62845fa44a81
+julia 0.3
+BinDeps
+MathProgBase 0.3.0- 0.4.0-
+@osx Homebrew
+
+0.1.9
+-----
+15d815092cc99a4a8c80db53c053c97b41648ec8
+julia 0.3
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+@osx Homebrew
+
+0.2.0
+-----
+13e38c512469a9a68dd9892df210af23cada1e48
+julia 0.4
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+@osx Homebrew
+@windows WinRPM
+
+0.2.1
+-----
+cc7aee5256bbafb16c74e80b9b03cd29ee12088a
+julia 0.4
+BinDeps
+MathProgBase 0.4.0 0.5.0-
+@osx Homebrew
+@windows WinRPM
+
+0.2.2
+-----
+8fbad354669d3ded34be7c502d830ca08af80add
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+@osx Homebrew
+@windows WinRPM
+
+0.2.3
+-----
+a52529e0dee3747775c6a88f77cebd3d26897a41
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+@osx Homebrew
+@windows WinRPM
+Compat 0.8.0
+
+0.2.4
+-----
+911d68150970c17277296654e3a806431642a070
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
+@osx Homebrew
+@windows WinRPM
+Compat 0.8.0

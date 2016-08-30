@@ -1,0 +1,17 @@
+git://github.com/matthieugomez/StringDistances.jl.git
+
+0.0.1
+-----
+3b420d1871716afe5baee0d26b02aea451f4e527julia 0.4
+Distances
+
+0.0.2
+-----
+99b997c9e29a0efd4549afca38ae333756add5b2julia 0.4
+Distances
+
+0.1.0
+-----
+dee136e1c3962ea44321c06f75141a83da1a3d22julia 0.4.1
+Distances
+Iterators

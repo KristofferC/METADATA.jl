@@ -1,0 +1,94 @@
+git://github.com/WestleyArgentum/Lumberjack.jl.git
+
+0.0.1
+-----
+9c6459ea4bde3a4ee62f86e357a2f42bcb713646
+julia 0.2-
+Datetime
+UUID
+
+0.0.2
+-----
+51fe29c522ee9003c0f9a13185244b067ad2a8f8
+julia 0.2-
+Datetime
+UUID
+
+0.0.3
+-----
+29648c1fd4351e9a80bee03fdee23153cb6ba949
+julia 0.2-
+Datetime
+UUID
+
+0.0.4
+-----
+3222b38c48910ae9947c41715554266c34189001
+julia 0.4-
+UUID
+
+0.0.5
+-----
+bc47adf0a9fee6675474eb72da5cbe4fe40190dd
+julia 0.3
+Compat
+UUID
+Dates
+
+0.0.6
+-----
+151954852785a527a80fc9bb0099d3bdcf872dc7
+julia 0.3
+Compat
+UUID
+Dates
+
+0.0.7
+-----
+72ab05fc75ea22bff56dc439b02e1c252daee02f
+julia 0.3
+Compat
+UUID
+JSON
+Dates
+
+0.0.8
+-----
+b94199730207454450b481886493916331d5e94f
+julia 0.3
+Compat
+UUID
+JSON
+Dates
+
+1.0.0
+-----
+4d5d8768efecbf01116073bc27956aa4e8dc3902
+julia 0.3
+Compat
+UUID
+JSON
+Dates
+
+1.0.1
+-----
+2ca334d36b317b7972fe980d10067b8e74ead35c
+julia 0.3
+Compat
+UUID # required for Julia 0.3, not used if running with Julia 0.4
+JSON
+Dates
+
+2.0.0
+-----
+58086c1ae551ece0508f407f77fc8e7e90ce1422
+julia 0.4
+JSON
+StackTraces
+
+2.0.1
+-----
+3fe2d80ab06c3b9e70a053932468d3dad8037faf
+julia 0.4
+JSON
+StackTraces 0.1

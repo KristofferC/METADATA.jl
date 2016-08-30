@@ -1,0 +1,32 @@
+git://github.com/lindahua/NumericFuns.jl.git
+
+0.1.0
+-----
+4a46606490fd02cd14bcf54d4e02175fec1ced7e
+julia 0.3-
+
+0.2.0
+-----
+0c4d1518f09a7200068311dede1fa65aa4df7a2f
+julia 0.3-
+
+0.2.1
+-----
+7fe183e57da8045ec4317a54e8b3f887fab2c355
+julia 0.3-
+
+0.2.2
+-----
+9c37b3bebc177bb18430adf5c445508596c9fc76
+julia 0.3-
+
+0.2.3
+-----
+59ffa795a2c732af6863a0181ef768b89bfc6962
+julia 0.3-
+
+0.2.4
+-----
+ff396c611bfc17e836d14d667feefe2ad74a2554
+julia 0.3
+Compat

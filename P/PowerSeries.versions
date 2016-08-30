@@ -1,0 +1,77 @@
+git://github.com/jwmerrill/PowerSeries.jl.git
+
+0.1.0
+-----
+748913d7fe3be09b87234bdff969b13dee5c02b0
+julia 0.2-
+
+0.1.1
+-----
+b9be2701e164b0f70a8abd4916bf98b34f4f7233
+julia 0.2-
+
+0.1.10
+------
+1cfa9b4bf84a1cd98555f8c081afd5c61963098b
+julia 0.2-
+
+0.1.11
+------
+dcd7ae7d9e3a9bee64fa97ff26db7a83f91807fd
+julia 0.2-
+
+0.1.12
+------
+ec3029cf217e5593318585cb2537e88662d0282f
+julia 0.2-
+
+0.1.13
+------
+09e977acb80a7724df117fb796778936a80b6297
+julia 0.2-
+
+0.1.14
+------
+65b9fb116390ffe5f24b8288eed0b879866887c8
+julia 0.3
+Compat 0.4.7
+
+0.1.2
+-----
+fc3ca9eecca361f5df32e3a5b6e395dc5f2013d4
+julia 0.2-
+
+0.1.3
+-----
+6d21c56c260fd48ebbe08c1e7d77e1db5c0f75dd
+julia 0.2-
+
+0.1.4
+-----
+319156c9ff6f22c230270389f65b73ccb03832bb
+julia 0.2-
+
+0.1.5
+-----
+2ce51e262e823f2378bd187eb517583c90724dd7
+julia 0.2-
+
+0.1.6
+-----
+d612b578a83c4c48c09dbb1fd03274e80546d66d
+julia 0.2-
+
+0.1.7
+-----
+4619de4ba376d6ce0a450fc09e38e09205645a11
+julia 0.2-
+
+0.1.8
+-----
+903bd8c4873aac13cb9a2c258ab37ac1a11ec4f6
+julia 0.2-
+
+0.1.9
+-----
+d3cd673d4c9760bb084d94b31a5169f5f12bf5d5
+julia 0.2-

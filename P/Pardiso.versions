@@ -1,0 +1,29 @@
+git://github.com/JuliaSparse/Pardiso.jl.git
+
+0.0.1
+-----
+46d14ff80dbf3a1624e702641ff20eb100f9b1fb
+Compat
+
+0.0.2
+-----
+6fd283da2322a4360f4bc5681cefdda40cb1ba52
+Compat
+
+0.1.0
+-----
+3cd55e101088d86b09017d6dbb8623acd3be5956
+julia 0.4
+Compat 0.7.16
+
+0.1.1
+-----
+4f6407d576f3bc8643750c3836d1cbd24137a775
+julia 0.4
+Compat 0.7.16
+
+0.1.2
+-----
+08ce1324bf06e315420e8ddbbfb6f952dc60dffd
+julia 0.4
+Compat 0.7.16

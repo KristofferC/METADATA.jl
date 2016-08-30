@@ -1,0 +1,132 @@
+git://github.com/JuliaParallel/AWS.jl.git
+
+0.0.0
+-----
+7a8ae3fdb4f8f5cad95b2d0098d41b43c63b78ab
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.0
+-----
+7a8ae3fdb4f8f5cad95b2d0098d41b43c63b78ab
+
+0.1.1
+-----
+6477fd150f24fb07e0eda78688ddf74067217189
+
+0.1.10
+------
+14cc0539ad99a30dc9e3511afe0144ad5d7d1f47
+julia 0.4-
+LibExpat
+HTTPClient
+
+0.1.11
+------
+409dc2bcc916862a5c8696718e4b277da24e6cd8
+julia 0.4-
+LibExpat
+HTTPClient
+
+0.1.12
+------
+e84593f259163e119a9960cf358d5f76ac5131b7
+julia 0.4-
+LibExpat
+HTTPClient
+JSON
+
+0.1.13
+------
+53144908a080f24d30a6d4c333e3fbba9b25949f
+julia 0.4-
+BinDeps
+LibExpat
+HTTPClient
+JSON
+@windows WinRPM
+
+0.1.2
+-----
+de5722479fb55a0c401fc96f83c6540a749fd6c9
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.3
+-----
+6eb59a400b116118852fbf3f74831ea8637b7221
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.4
+-----
+b42f0235b99d103469b9539fff40ef410c346817
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.5
+-----
+cb9157f4bd5a3ac3df1cc05a6364ef7b4f49d11a
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.6
+-----
+654c058581c81c603116a3a8090623269aede4b3
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.7
+-----
+51d5a0ed4e0ea25788571c1f05e6c1bfe439fbf8
+julia 0.2-
+Calendar
+Codecs
+LibExpat
+HTTPClient
+
+0.1.8
+-----
+84bb5947ee8e1fbc8d49af95c2d5747d5d919bff
+julia 0.3-
+Calendar
+Codecs
+LibExpat 0.0.8 0.1.0 
+HTTPClient 0.1.4 0.1.5
+
+0.1.9
+-----
+1fc8232ac05bcd445c3635cff2a9ff35c273c9a4
+julia 0.4-
+Calendar
+LibExpat
+HTTPClient
+
+0.2.0
+-----
+6291862f775b16c57bb3e4304ca23ffce7c60a9e
+julia 0.4
+BinDeps
+LightXML
+Requests
+JSON
+URIParser
+@windows WinRPM

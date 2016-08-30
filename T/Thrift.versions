@@ -1,0 +1,32 @@
+git://github.com/tanmaykm/Thrift.jl.git
+
+0.0.1
+-----
+fde6e2fbdb13c47cca41028b59810f61aa113def
+julia 0.2-
+
+0.0.2
+-----
+57b89d1380dc51122b2965d9b016f299204c5832
+julia 0.4.0
+
+0.0.3
+-----
+8cd35d3e65bf64a26dd000f7e506935df3dd3273
+julia 0.4.0
+
+0.0.4
+-----
+f0bccbb7af2399c161a8ade8e9d8ebe0ad416269
+julia 0.4.0
+
+0.0.5
+-----
+bc5c16ebdcd997b8de51f9901c1a055d49c1b163
+julia 0.4.0
+
+0.0.6
+-----
+816f1a95c93e430bc9aaa8902f2ec76c62f5ab9f
+julia 0.4.0
+Compat

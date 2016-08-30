@@ -1,0 +1,32 @@
+git://github.com/mlubin/NaNMath.jl.git
+
+0.0.1
+-----
+e1929708a8529391b8f10c345b1cafa8c56ad18b
+julia 0.3
+
+0.0.2
+-----
+b2148ab8461d73563dd4b7033e9a6546ec355328
+julia 0.3
+
+0.1.0
+-----
+4a9015c9cb561ca8b34db27fe8f1a6bc16d5abc8
+julia 0.3
+
+0.1.1
+-----
+6df371ff865038264210cb943af1c16313873c71
+julia 0.3
+Compat
+
+0.2.0
+-----
+969151c5ff8022487379279ebac4a239a400dd44
+julia 0.4
+
+0.2.1
+-----
+cd221663983a07f9700badfa7a8116e95a65dd83
+julia 0.4

@@ -1,0 +1,29 @@
+git://github.com/jbn/IJuliaPortrayals.jl.git
+
+0.0.1
+-----
+e0b371d1f7c16649b9fef441b479966f0c009af1
+julia 0.3
+IJulia
+Compat
+
+0.0.2
+-----
+21373fca8518da55547d1b0492abfa6174ed32cf
+julia 0.3
+IJulia
+Compat
+
+0.0.3
+-----
+ca9896ebaa8bcaffdab50f28c843ceb65db6a6bd
+julia 0.3
+IJulia
+Compat
+
+0.0.4
+-----
+76632d2b688b7bcadeaa2ef639efdb53a4f359a5
+julia 0.3
+IJulia
+Compat

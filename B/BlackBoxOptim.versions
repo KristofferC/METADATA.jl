@@ -1,0 +1,64 @@
+git://github.com/robertfeldt/BlackBoxOptim.jl.git
+
+0.0.1
+-----
+53f455efbdf4fd1608e8e90bb6488d2408e48275
+julia 0.3-
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.1.0
+-----
+53f455efbdf4fd1608e8e90bb6488d2408e48275
+julia 0.3-
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.1.1
+-----
+150f012b81ce9a706bc1da3cbbebd04a2ffe406d
+julia 0.3
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.1.2
+-----
+6b405b9cb07c9d6e38f1b195080c7e69a92bd1d9
+julia 0.3
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.1.3
+-----
+02aad4c3ff776a4f279418096e8ecbb1095a7948
+julia 0.3
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.2.0
+-----
+bd0745c543ad4b5f5c03a6b459b3c9a97edef27f
+julia 0.4
+FactCheck
+StatsBase
+Distributions
+Compat
+
+0.2.1
+-----
+4fc185d8009f9f7d6c3e14219fe7742f072842ed
+julia 0.4
+FactCheck
+StatsBase
+Distributions
+Compat

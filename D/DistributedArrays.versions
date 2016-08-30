@@ -1,0 +1,49 @@
+git://github.com/JuliaParallel/DistributedArrays.jl.git
+
+0.1.0
+-----
+c57e5152d2d9ce4fb35d2fa3e2adea130f464ec1
+julia 0.4-
+
+0.1.1
+-----
+9f1c5b397ed28de7bea2d1e3e5e70ace0144e3cc
+julia 0.4-
+
+0.1.2
+-----
+fa44a138b65b72a584332d28d34f0f6744b835f7
+julia 0.4-
+
+0.1.3
+-----
+345e8117b9275d565a7252eb664f4c87426e45ed
+julia 0.4-
+
+0.1.4
+-----
+bc79efc420552c29b66415c018540c75e884cb4b
+julia 0.4-
+
+0.1.5
+-----
+14575dff57e1d6e8125e4efd3a8cd434eab4f183
+julia 0.4-
+
+0.1.6
+-----
+754b56774444e667c9b374ea56dfef21cce4e194
+julia 0.4
+Compat
+
+0.2.0
+-----
+8e0e7233a5b21ba67f866eb5663f837ee073d5de
+julia 0.4
+Compat
+
+0.3.0
+-----
+d68911be5c661488e61524bee5815314306c29f9
+julia 0.5-
+Primes

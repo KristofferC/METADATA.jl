@@ -1,0 +1,42 @@
+git://github.com/JuliaAstro/Cosmology.jl.git
+
+0.0.0
+-----
+58ebbeed92487974d10d54d506322e33dd310f9b
+julia 0.2-
+
+0.1.0
+-----
+850085b34afdd0ee0aacd9e0568c9293b2127c9d
+julia 0.2-
+
+0.1.1
+-----
+ac60ec041f853bcc16636bfa34c6d2f78cf4c88d
+julia 0.2-
+
+0.1.2
+-----
+34a98aefa0d5f1bef407f990107a940b57aed651
+julia 0.2
+
+0.1.3
+-----
+985790b3ad1d6a83a07c3d9af504d16f0c765e86
+julia 0.2
+
+0.1.4
+-----
+8bc8f62b944ea5b54c411740b77422b6c9bad843
+julia 0.2 0.4-
+
+0.2.0
+-----
+69e9fe5f54c0d8581bf7a1436b67316b949b12a1
+julia 0.4
+
+0.2.1
+-----
+4ea8c3059c8b28844eb913624d448dfba71f5db2
+julia 0.4
+Compat 0.8.6

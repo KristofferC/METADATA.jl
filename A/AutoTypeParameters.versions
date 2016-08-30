@@ -1,0 +1,17 @@
+git://github.com/andrewcooke/AutoTypeParameters.jl.git
+
+0.0.1
+-----
+dfac2f8902624cafe6c77fad0e939fd2873a5308
+
+0.0.2
+-----
+189cd504c266cd3351d1d61155cb7164ab49f073
+julia 0.3
+Compat
+
+0.0.3
+-----
+52da6796e79dd6dd4deef8a049c32b3c90a46c7b
+julia 0.3
+Compat

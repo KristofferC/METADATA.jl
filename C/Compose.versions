@@ -1,0 +1,445 @@
+git://github.com/dcjones/Compose.jl.git
+
+0.0.0
+-----
+8c770ba99c0573cab7e310dec14928cfa17adb64
+Cairo
+Mustache
+
+0.1.0
+-----
+d42de3bb74e0d8a46b375a6c3ea43da7fd95311a
+julia 0.2-
+Cairo
+Color
+Mustache
+
+0.1.1
+-----
+91fa5ea723477df7c02dd1273507ebb49156d212
+julia 0.2-
+Cairo
+Color
+Mustache
+
+0.1.10
+------
+0f3f6bbc787d16478b1e57d044e89329da505d6c
+julia 0.2-
+Color
+Mustache
+
+0.1.11
+------
+699eecd31bef8f733458529cb26f23ff8ac05067
+julia 0.2-
+Color
+Mustache
+Iterators
+
+0.1.12
+------
+c7d6ed97952c68698808866628b0e2d379d58f07
+julia 0.2-
+Color
+Mustache
+Iterators
+
+0.1.13
+------
+f839808082a381e7a57733f9f10a547d64811572
+julia 0.2-
+Color
+Mustache
+Iterators
+
+0.1.14
+------
+1a2c4ea0b5f8696b380596af280e36d1b1140ebf
+julia 0.2-
+Color
+Mustache
+Iterators
+
+0.1.15
+------
+85b3f1fe9cf99d6f7c138194a7c4fc165341c9a1
+julia 0.2-
+Color
+Mustache
+Iterators
+
+0.1.16
+------
+38e94662044a59a846b63a01a60afd2254c62c22
+Color
+Iterators
+
+0.1.17
+------
+307e3c886ff8742e04f39b0b2f2a2888d77ef0dd
+Color
+Iterators
+
+0.1.18
+------
+eae07a5f366a97cbfc3342e165905a59fe7f4795
+Color
+Iterators
+
+0.1.19
+------
+91230838fba4240392c495aee7cf5d782d08bc9e
+Color
+Iterators
+
+0.1.2
+-----
+3962f9929edb14d9b54b6a1c40a9c9ec601f59de
+julia 0.2-
+Color
+Mustache
+
+0.1.20
+------
+c8d6889b04e34ce64befca55d38ea7328e956d79
+Color
+Iterators
+
+0.1.21
+------
+23591b5b5056a5c531111f0a72071ccc09007c4a
+Color
+Iterators
+
+0.1.22
+------
+9a0a84a8fed2c4db2d57ebc4e129ea16075132d4
+Color
+Iterators
+
+0.1.23
+------
+016556b5feb03bd5735bc28f554487b3d89d4ba8
+Color
+Iterators
+
+0.1.24
+------
+440bb591ae275afe516a23bd6a4beb47e813852b
+Color
+Iterators
+
+0.1.25
+------
+5036f905488a1b3c3eb8999fbede6a5080f9d7c8
+Color
+Iterators
+
+0.1.26
+------
+30aca832135e3ecc7a2784cced85ac5dbbce749f
+Color
+Iterators
+
+0.1.27
+------
+be3aee597994be49a1cdecb6b9c68bb47894bf01
+Color
+Iterators
+
+0.1.28
+------
+743bc4191167322591f638caf7d7b875b2da4694
+Color
+Iterators
+
+0.1.29
+------
+595c8f1218a8eb2aeb8ddbfa54de4e55292b8170
+Color
+Iterators
+
+0.1.3
+-----
+ab17ac6643cd5486baff2048f64845d45ce625b9
+julia 0.2-
+Color
+Mustache
+
+0.1.4
+-----
+290c419089016ce7f7250c90c6f226c816cd176a
+julia 0.2-
+Color
+Mustache
+
+0.1.5
+-----
+0836fd2a7af11c2d9d8dc36d209c6c304aa37414
+julia 0.2-
+Color
+Mustache
+
+0.1.6
+-----
+c380ae4e7fc0d8fefc75726bd9830f9d6aebb8df
+julia 0.2-
+Color
+Mustache
+
+0.1.7
+-----
+fea42051fc9cf2139431e072fa55d117296ec8e0
+julia 0.2-
+Color
+Mustache
+
+0.1.8
+-----
+fffbd1f4326a43b099575cfa6c6769b3eca3295f
+julia 0.2-
+Color
+Mustache
+
+0.1.9
+-----
+85ac45936b72c22d0ac6fe4df4d589f246b42e05
+julia 0.2-
+Color
+Mustache
+JSON
+
+0.2.0
+-----
+5c52239467128e818e21e616e9c704623e4868b8
+Color
+Iterators
+JSON
+
+0.3.0
+-----
+5c52239467128e818e21e616e9c704623e4868b8
+Color
+Iterators
+JSON
+
+0.3.1
+-----
+3c74acd30def073c11ef7e2e0be2b0e2657a5da4
+Color
+Iterators
+JSON
+
+0.3.10
+------
+b6ee18655bcf4dff73869fdb809b8b0f004849b7
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.11
+------
+56a7b59d15cbbe7dff1f16d3e47064ae7a9130ed
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.12
+------
+be878143ded0fd5433a38e08f737d1d891c4d88c
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.13
+------
+6172c19df0a016b9a20157ff7d72ac8322623219
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.14
+------
+d87968b025980c3a299f619282a94a728f1869db
+julia 0.3
+Colors
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.15
+------
+165cd40378dac1fc91dc78a065bf74dae1d6662a
+julia 0.3
+Colors
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.16
+------
+b643024333821662186abaa25760305441aca959
+julia 0.3
+Colors
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.17
+------
+be3711695fd57ff6437a1303d498fb747901338d
+julia 0.3
+Colors
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.18
+------
+2b99f69c6d43acc8b6b81b50ec014a0cf04cf0d5
+julia 0.3
+Colors
+DataStructures
+Iterators 0.1.5
+JSON
+Compat 0.2.3
+
+0.3.2
+-----
+042da5dffc3fd1ae9a5673340329b00ffc0bcc0a
+Color
+Iterators 0.1.5
+JSON
+
+0.3.3
+-----
+6b886741a5d7beef8a9917dd1f7622c6922bbae6
+Color
+Iterators 0.1.5
+JSON
+
+0.3.4
+-----
+69aed7b4653dbab98507fe7cee770be9c4ee66dc
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.3.5
+-----
+f07b513a47c6c48397e1c314b1cfbef1d30036bf
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.3.6
+-----
+e048b4cfa4c6b0929fbf15b8e8cb98224c68d9ca
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.3.7
+-----
+5b098a33c3bcf63bd9473bd5a151cc63f1a14f4d
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.3.8
+-----
+6f12f8a398a89462eb25762c6aef28e5abdc304c
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.3.9
+-----
+612a12d7be19c250cb22d5bdcd5364efb2686588
+julia 0.3-
+Color
+DataStructures
+Iterators 0.1.5
+JSON
+
+0.4.0
+-----
+7861bc86bcaf7e255b55aa3b4e7fa7c8d097b442
+julia 0.4
+Colors
+Compat 0.2.3
+DataStructures
+Iterators 0.1.5
+JSON
+Measures
+
+0.4.1
+-----
+a4efa5347ad6fd9f653d71d4eff174d9b5604eb5
+julia 0.4
+Colors
+Compat 0.2.3
+DataStructures
+Iterators 0.1.5
+JSON
+Measures
+
+0.4.2
+-----
+027d53e7e38229d4dada0ff2b9942f37bb46c45f
+julia 0.4
+Colors
+Compat 0.2.3
+DataStructures
+Iterators 0.1.5
+JSON
+Measures
+
+0.4.3
+-----
+7543419ad4d545c7268b101ad2b954cda6a5d320
+julia 0.4
+Colors
+Compat 0.8.0
+DataStructures
+Iterators 0.1.5
+JSON
+Measures
+
+0.4.4
+-----
+e08949150b6830d7773ca894c6cb172bdc3ef0ed
+julia 0.4
+Colors
+Compat 0.8.0
+DataStructures
+Iterators 0.1.5
+JSON
+Measures

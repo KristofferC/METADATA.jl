@@ -1,0 +1,36 @@
+git://github.com/JuliaLang/React.jl.git
+
+0.1.0
+-----
+dcd1022c6818ce9430252d64cf64d4b351e706f8
+julia 0.3
+
+0.1.1
+-----
+ab6ee2425bec59c53f0db4b5f8790aa62bfe4e8b
+julia 0.3
+
+0.1.2
+-----
+06d6decdf23b95859f9899b6571b0623c47059ec
+julia 0.3
+
+0.1.3
+-----
+b003085fbfdc57aaa70509316bbb79ad3ca68933
+julia 0.3-
+
+0.1.4
+-----
+389b93293a1f4088f8cf95dc392524176593542a
+julia 0.3-
+
+0.1.5
+-----
+7f924bca122b11c440f2200c7f4103b92464e0d4
+julia 0.3-
+
+0.1.6
+-----
+80be6c23c63d84f39bf71f43eb009539a83f2eef
+julia 0.2-

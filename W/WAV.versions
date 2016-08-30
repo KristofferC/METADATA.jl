@@ -1,0 +1,100 @@
+git://github.com/dancasimiro/WAV.jl.git
+
+0.0.0
+-----
+bcde098d57ab7b677da216215d5371c862b7963e
+Options
+
+0.1.0
+-----
+bcde098d57ab7b677da216215d5371c862b7963e
+julia 0.1- 0.2-
+Options
+
+0.2.0
+-----
+f0f4eb17b1a072646d49231a4520b98bbe9358f7
+julia 0.2-
+
+0.2.1
+-----
+bc4d8b5c383209cd6a1e150411261c9ea207fe3e
+julia 0.2-
+
+0.2.2
+-----
+15993e901c02bb00479980d4ce2b06fd6e158564
+julia 0.2-
+
+0.3.0
+-----
+14df1bf6fb638424824592ccd96b690f7439b7ab
+julia 0.2-
+
+0.4.0
+-----
+5634caafedd6ac06ef5e7c2cc8ac048209618e5d
+julia 0.2-
+Compat 0.2
+
+0.4.1
+-----
+00dfe9a37c86ccdf57cfd1b2e5ac70a2a6cae4eb
+julia 0.2-
+Compat 0.2
+
+0.4.2
+-----
+dbcecd37a8ba01109b23605f47bd78430d99ca8e
+julia 0.2-
+Compat 0.2
+
+0.5.0
+-----
+06941dd0f84beb8bcb744ac4e33233d6a9ee00a8
+julia 0.2-
+Compat 0.2
+
+0.5.1
+-----
+af618d43b82a242337e82c62517f9f96af1ff88f
+julia 0.3
+Compat 0.4.2
+
+0.6.0
+-----
+816ad6203c62f0b0247085009dc1c3ddf9efc5fa
+julia 0.3
+Compat 0.4.2
+
+0.6.1
+-----
+f0db035a8f410c0bd49c5b65e8bad5d495bbdb17
+julia 0.3
+Compat 0.7.1
+
+0.6.2
+-----
+da69ca00b84f02861bd68e18226d471799fe0927
+julia 0.3
+Compat 0.7.1
+
+0.6.3
+-----
+ca477340ff673edd438d04ca7e39279bc227e491
+julia 0.3
+Compat 0.7.1
+
+0.7.0
+-----
+ffc183745e29cffcc51422429566100be32e62d3
+julia 0.3
+Compat 0.7.1
+FileIO 0.0.2
+
+0.8.0
+-----
+6dfa91602f85725eeac0bdeee1a83b2a6f1cb238
+julia 0.4
+Compat 0.8.0
+FileIO 0.0.2

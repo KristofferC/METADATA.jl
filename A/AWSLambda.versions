@@ -1,0 +1,182 @@
+git://github.com/samoconnor/AWSLambda.jl.git
+
+0.0.1
+-----
+73b92ef49eef5983602acc78efcfbb18000e4d9a
+julia 0.4
+AWSCore
+AWSSQS
+ZipFile
+
+0.0.10
+------
+115ba357bc4811e1c4fe9dc303eeaef67e22f929
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.11
+------
+2536fb615053edb3abddd9eac4cd6045593017e2
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.12
+------
+1ed1a34865ba7ab8b26583e96325c65086311993
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.13
+------
+37bd5ee37490db3ef84bf48af23e3fcab9e3515e
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.14
+------
+56763b0d54a15747c8b322b4b9c63bb3ed4d1e13
+julia 0.4
+AWSCore
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict
+Nettle
+
+0.0.15
+------
+37d15dde1313da3ebf0da6d8c021414f11cea7c3
+julia 0.4
+AWSCore
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict
+Nettle
+
+0.0.16
+------
+8fdbd6da636afb9f2bf96a6e38f8ceb97dfc2a17
+julia 0.4
+AWSCore
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict
+Nettle
+
+0.0.17
+------
+2032b1b541c3561ddfb443d2be694394419d4593
+julia 0.4
+AWSCore
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict
+Nettle
+Compat
+
+0.0.2
+-----
+b7cc6c6b434accbcf9f666da7bad0f149fb194d0
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.3
+-----
+f719e86c77a6b5312367bf0d200cd3ecb4250b05
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.4
+-----
+7935ec77f6d33da1213e967e237d9df2d3549035
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.5
+-----
+804e82493d4ceee5d315571c9043e8c3384e77cd
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.6
+-----
+7fb66f169ada4c803e8fc557f0dbbf69bcd96b64
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.7
+-----
+96beda4c3a33369ced681474e360d95c0851da77
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.8
+-----
+84a7e56bade1e2511ef90f700ce3e51c451c4dff
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures
+
+0.0.9
+-----
+dfdd631446c3aebadf478de10fe750fc3b3aa025
+julia 0.4
+AWSCore
+AWSSQS
+InfoZIP
+DataStructures

@@ -1,0 +1,26 @@
+git://github.com/r9y9/MelGeneralizedCepstrums.jl.git
+
+0.0.1
+-----
+246d0a390e99b8993372b581dec8e0d38f6ae73e
+julia 0.4-
+SPTK
+
+0.0.2
+-----
+d8dc42edd00fb8887af91eb9f108ffba3dd98e6c
+julia 0.4
+SPTK
+
+0.0.3
+-----
+82bfbf1b776fbdf1807ee9f1822c644ae3611d26
+julia 0.4
+SPTK
+
+0.0.4
+-----
+6ef8fa131297340e1245f8e003b5b943605bb6c7
+julia 0.4
+SPTK
+Compat 0.8.4

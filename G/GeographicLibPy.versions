@@ -1,0 +1,19 @@
+git://github.com/kshramt/GeographicLibPy.jl.git
+
+0.0.1
+-----
+5bdc1d67d7c08e1032b2cc88e2524f8421267e34
+julia 0.4
+PyCall 1.4
+
+0.0.2
+-----
+2e14b7140d984e1a5c6942592effe0fadf850e6a
+julia 0.4
+PyCall 1.4
+
+0.0.3
+-----
+cf9ca5a8e1b0250c2c0642f5351e9902c5557a2e
+julia 0.4
+PyCall 1.4

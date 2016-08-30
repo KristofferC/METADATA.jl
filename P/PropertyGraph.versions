@@ -1,0 +1,15 @@
+git://github.com/PhillP/PropertyGraph.jl.git
+
+0.0.1
+-----
+6ac8da6a3c4ba9048343ef3d97932f692c22c3d1
+julia 0.4-
+UUID 0.0.2
+Compat 0.1
+
+0.1.0
+-----
+b75f084d12a12084c3e8afb43c00ede969d80a40
+julia 0.4-
+UUID 0.0.2
+Compat 0.1

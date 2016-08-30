@@ -1,0 +1,88 @@
+git://github.com/JuliaStats/MultivariateStats.jl.git
+
+0.0.1
+-----
+a7a33a97a9ea680dd2d5b57f643aed5343cc0bb6
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.0.2
+-----
+d62b2b051a884eb98584f53df61e427084443252
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.0.3
+-----
+0735830fd6c26dd18fdc632bfe65c479994e5dc1
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.0.4
+-----
+fea02836be301f9e3fc5e6af5eac301616f8ba7d
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.1.0
+-----
+a6203707b3ba1327b4ee303d10836eb6c3ca52d3
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.1.1
+-----
+e83394770944580e22ee79f98f434636303e9161
+julia 0.3-
+ArrayViews 0.4-
+StatsBase 0.6-
+
+0.1.2
+-----
+f5bfd7a5776f30833ea54404ba179eb8f5363065
+julia 0.3-
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+
+0.1.3
+-----
+7afdb2449af895e40437f7b64a773e7638e572de
+julia 0.3-
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+
+0.2.0
+-----
+e865cfabdad8907faea2cb76f084c7dae8bed8c0
+Compat
+julia 0.3
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+
+0.2.1
+-----
+e3634c1b0214a176a04ebda4c2085c43873e1878
+Compat
+julia 0.3
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+
+0.2.2
+-----
+f774160885f6b7fbadbc108572eed16787a22809
+julia 0.3
+Compat 0.7.12
+ArrayViews 0.5.0
+StatsBase 0.7.0
+
+0.3.0
+-----
+1cbd57b3255f26272fd1a3f568087abc44e0e030
+julia 0.4
+Compat 0.8.4
+StatsBase 0.7.0

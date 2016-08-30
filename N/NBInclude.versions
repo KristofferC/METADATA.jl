@@ -1,0 +1,15 @@
+git://github.com/stevengj/NBInclude.jl.git
+
+1.0.0
+-----
+fdca58950cb29b7a64d11ece541278808692e33f
+julia 0.3
+JSON
+Compat 0.7.6
+
+1.0.1
+-----
+f5acb3be6365539d0aa1cd910426192b3d5c18d5
+julia 0.3
+JSON
+Compat 0.7.9

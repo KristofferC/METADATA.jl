@@ -1,0 +1,48 @@
+git://github.com/JuliaStats/NullableArrays.jl.git
+
+0.0.1
+-----
+82e62887937cf258635419d36f7ed78db4fe20e9
+julia 0.4-
+Reexport
+
+0.0.2
+-----
+33e97108cd253d5e8e376265a58e92f2e6b93981
+julia 0.4-
+Reexport
+
+0.0.3
+-----
+8e455898c4a581276b5fa7c4d2b911df6b6a7452
+julia 0.4
+Compat 0.7.14
+Reexport
+
+0.0.4
+-----
+61398f3175835aed3eba32264f9ab88a5085c22a
+julia 0.4
+Compat 0.7.14
+Reexport
+
+0.0.5
+-----
+5ed6f7c7b5e3baf6e21defa9ecf04916c615c5a8
+julia 0.4
+Compat 0.7.14
+Reexport
+
+0.0.6
+-----
+b41240258e32665d37da62c62b4add71e2b1de3e
+julia 0.4
+Compat 0.8.4
+Reexport
+
+0.0.7
+-----
+a0d210dd2d8e6d6f1ec3748a49bd27af76889c51
+julia 0.4
+Compat 0.8.4
+Reexport

@@ -1,0 +1,38 @@
+git://github.com/dysonance/Temporal.jl.git
+
+0.0.1
+-----
+1cfd96d419329f3618c4e56da609027c36411e8d
+julia 0.4
+Dates
+
+0.0.2
+-----
+9b0c9098e84fc9eba0b27f7685f96eb23d4c98d7
+julia 0.4
+Dates
+
+0.0.3
+-----
+ee13827c58355bfb7ddbe36eb84415a31e966474
+julia 0.4
+Dates
+
+0.0.4
+-----
+619f268f172f795766df40bcdf783e160b62432d
+julia 0.4
+Dates
+
+0.0.5
+-----
+ce3889e1a2edeee071aa810a024a56d258809075
+julia 0.4
+Dates
+
+0.0.6
+-----
+e139e6d43da9252e8dcc54ad337d3ad26b4cc578
+julia 0.4
+Dates
+Requests

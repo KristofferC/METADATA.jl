@@ -1,0 +1,165 @@
+git://github.com/timholy/ProfileView.jl.git
+
+0.0.0
+-----
+a4ca80d271cd4f88ee334f6276210e5cfffb31ef
+julia 0.2-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.1
+-----
+7271e6648f7483c792a1965d95498f484ae0d902
+julia 0.2-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.10
+------
+c5fb51a2c90597a7046f52f059d53ebdcafc54f8
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+Graphics 0.1
+
+0.0.11
+------
+b74d77c22387d58ec6ac90659ca4cb4e81006a35
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+Graphics 0.1
+
+0.0.12
+------
+39d88a5e0acbd893648dd0036e4906d19eba8a28
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Colors
+Graphics 0.1
+
+0.0.2
+-----
+67cb0ce0cbab2f37721f421791a274f7faa18d34
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.3
+-----
+ea4da7d48ac934011337ae277324ae5bd2b9e15c
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.4
+-----
+0694a8f2a6805490da2be458187da692ab8a07d9
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.5
+-----
+8f62cd44cf8736e04c44f7c7de4494ce43b0632f
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.6
+-----
+0a677d983b2409a8640a39c5156914dc5ec2e349
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.7
+-----
+cfb1440413ea544b1d003a7db6e1dec18335712b
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.8
+-----
+ccb4439631fb031b4d8c6bf69e1f5eb7a2877840
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+
+0.0.9
+-----
+151c2b3722eaa9d222bbf6910b905c5e5101bdbc
+julia 0.3-
+Tk
+Cairo 0.2.5-
+ImageView
+Color 0.2.4-
+Graphics 0.1
+
+0.1.0
+-----
+df4969a97a28cdff61279c8d2bf01bd62c4e6b7f
+julia 0.4-
+Gtk
+GtkUtilities
+Cairo 0.2.5
+Colors
+Graphics 0.1
+
+0.1.1
+-----
+17e28de71e909a30a31b64750bd57bbfa36b6f15
+julia 0.4-
+Gtk
+GtkUtilities
+Cairo 0.2.5
+Colors
+Graphics 0.1
+
+0.1.2
+-----
+8bf5312fda0f7137c2abe30a67581ba1b1b3669a
+julia 0.4
+Gtk
+GtkUtilities
+Cairo 0.2.5
+Colors
+Graphics 0.1
+FileIO
+
+0.1.3
+-----
+9edea568b22c9b0a66b18636c170df932197248a
+julia 0.4
+Gtk
+GtkUtilities
+Cairo 0.2.5
+Colors
+Graphics 0.1
+FileIO
+Compat 0.8.0

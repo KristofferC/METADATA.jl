@@ -1,0 +1,15 @@
+git://github.com/JuliaParallel/Elemental.jl.git
+
+0.1.0
+-----
+c10694dcffb588b7972dbf0780626940cbf71b24
+julia 0.4
+Compat
+DistributedArrays
+
+0.1.1
+-----
+d047d61993fed5547842ff834821d5357ce4a08d
+julia 0.4
+Compat
+DistributedArrays 0.2.0

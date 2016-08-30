@@ -1,0 +1,79 @@
+git://github.com/phaverty/RLEVectors.jl.git
+
+0.0.1
+-----
+87c61f5d2a57717ac7a4a24070571f992c5b4d4c
+julia 0.4.0-
+
+0.1.0
+-----
+55b54e45934414d22d15f61a91257d18582d7eb4
+julia 0.4.0-
+
+0.2.0
+-----
+7d3936a30b3977678b13bd56cbf1a2e85a976a40
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.1
+-----
+dd76f11e759c05638b900ab12eeb66c997dc78b1
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.2
+-----
+c62311b9aaf255aa5e8a8d4750124e950e0c4f8f
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.3
+-----
+0357eaa7f21a575ebb39b82a4a7647fb56946eb0
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.4
+-----
+c5525ce9a1af7afa99a4557eeb3ab3ee14f22273
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.5
+-----
+b249c05eba7676a385e99a59a8c2a229a14b5fe5
+julia 0.4.0
+DataFrames 0.6.10
+
+0.2.6
+-----
+143344eb8736524ab0567adce1bc3e66027ac8d8
+julia 0.4.0
+DataFrames 0.6.10
+Compat
+Reexport
+
+0.2.7
+-----
+a706173b81dfe4dbc255ec54910c114d41eba5fe
+julia 0.4.0
+DataFrames 0.6.10
+Compat 0.7.20
+Reexport
+
+0.2.8
+-----
+1d1c39eb1f8812442521a08a3cd98dccd5845a1b
+julia 0.4.0
+DataFrames 0.6.10
+Compat 0.7.20
+Reexport
+
+0.2.9
+-----
+9e73993abf67b527d095c1ad6df372fee5133969
+julia 0.4.0
+DataFrames 0.6.10
+Compat 0.7.20
+Reexport

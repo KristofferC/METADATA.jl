@@ -1,0 +1,80 @@
+git://github.com/jiahao/GSL.jl.git
+
+0.0.0
+-----
+074cd159efeb3cf9d6d8d90661efa5d4590f8b1c
+
+0.0.1
+-----
+c46b4c9321e09e55fd2c06db2d2a9f00f1627e9a
+julia 0.2-
+
+0.1.0
+-----
+ef0fd0bd9e4cb1872ff5746426240939fc42541c
+julia 0.2-
+BinDeps 0.2.12-
+
+0.1.1
+-----
+6487a77efcdd142a342af2a4b524daab579d8552
+julia 0.2-
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+
+0.1.2
+-----
+973c91c559926d42401db4f65ec0741b42669b5e
+julia 0.3
+Compat
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+
+0.2.0
+-----
+4c7916d223e4a6d21f7cc9b8d7c6e040488e7c87
+julia 0.4-
+Compat
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM
+
+0.3.0
+-----
+37cac0c1b0ff1ead07acc8ea4c7e4804436a4b70
+julia 0.4
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM
+
+0.3.1
+-----
+b62723b3b1e65ab602bfdbe35c2257f36cb1b846
+julia 0.4
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM
+
+0.3.2
+-----
+e4c7431ac8265d56b567230e350d1c299995e99a
+julia 0.4
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM
+
+0.3.3
+-----
+488258e9ce31182f0da9f1fa22c836b25f5de06d
+julia 0.4
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM
+
+0.3.4
+-----
+8456534aa6adc32381c91811768acc229155c181
+julia 0.4
+BinDeps 0.2.12-
+@osx Homebrew 0.0.4-
+@windows WinRPM

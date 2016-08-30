@@ -1,0 +1,148 @@
+git://github.com/JuliaStats/MLBase.jl.git
+
+0.0.0
+-----
+ce06ec4e029ebd40cd14b59065ca43abab6976bd
+Devectorize
+Distance
+
+0.1.0
+-----
+541ff7aca3e41d37e7ad544fc0f4003ffa1722ed
+
+0.2.0
+-----
+5cdd89bd625a48fc076f56f90ee6ba014225f548
+
+0.2.1
+-----
+45002ea85bf81ee32bc6f2e7b66e7744cd3dae8b
+julia 0.2-
+
+0.2.2
+-----
+2b8ecaa3b855b06c69a756174b6050068c90cdac
+julia 0.2-
+
+0.2.3
+-----
+f2c36ab8bff434cb5af85ac3a85c4a44d2d0b6d7
+julia 0.2-
+
+0.2.4
+-----
+6b811ff9a575b9cfb7db482df0b942805ca263ee
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.0
+-----
+6b811ff9a575b9cfb7db482df0b942805ca263ee
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.1
+-----
+b769805702a0c89516798aa4a90ddb57838c8012
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.2
+-----
+eea32c766f020464d51a172965808fab4e22b6da
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.3
+-----
+bd71cc78cef45eefe882084ed89b1ff7005c879d
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.4
+-----
+cc7e888ed581aebb80ac5a76763c4e5c3aad30c7
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.5
+-----
+42f4e83e323ebefed62c214de88225dffb603c07
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.3.6
+-----
+7424f6731b5ca4cc5c0a2d05adac872fbe0e3c95
+julia 0.3-
+ArrayViews 0.3-
+StatsBase 0.3-
+
+0.4.0
+-----
+0934ded32ccabd3afee3579ca6dde267acf4e050
+julia 0.3-
+Reexport
+ArrayViews 0.4-
+StatsBase 0.6.2-
+
+0.4.1
+-----
+1b8acf2f82d90399aa3cdffcb71e9d59c83b8706
+julia 0.3-
+Reexport
+ArrayViews 0.4-
+StatsBase 0.6.3-
+
+0.4.2
+-----
+726dd8054578ff3ce7c7719e20e8be873f769759
+julia 0.3-
+Reexport
+ArrayViews 0.4-
+StatsBase 0.6.3-
+
+0.5.0
+-----
+f759eac14b7f9d145e0083b759a8ffef765bf5d9
+julia 0.3-
+Reexport
+ArrayViews 0.4-
+StatsBase 0.6.3-
+Iterators
+
+0.5.1
+-----
+d8475b80fcd74b03f4248f2844cce3843d472178
+julia 0.3-
+Reexport
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+Iterators
+
+0.5.2
+-----
+bc5812916b7d8898389ef09dad20e76f4f0b6a71
+julia 0.3
+Reexport
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+Iterators
+Compat
+
+0.5.3
+-----
+efe2c38e5c54a3a5a1525092cea2ce67da4299bf
+julia 0.3
+Reexport
+ArrayViews 0.4.8-
+StatsBase 0.6.9-
+Iterators
+Compat

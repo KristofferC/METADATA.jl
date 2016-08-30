@@ -1,0 +1,25 @@
+git://github.com/JuliaFEM/JuliaFEM.jl.git
+
+0.0.1
+-----
+fa8834e9e51113c90549a287de40fc05c133affb
+julia 0.4-
+Logging
+LightXML
+Docile
+Lexicon
+FactCheck
+HDF5
+
+0.1.0
+-----
+41796749ce35e04ecd0f610d075ae50ed49eed41
+julia 0.4
+ForwardDiff
+Logging
+LightXML
+Docile
+Lexicon
+FactCheck
+HDF5
+Lint

@@ -1,0 +1,9 @@
+git://github.com/aviks/Mandrill.jl.git
+
+0.1.0
+-----
+8a378fc878f340e5c95930a763f6dcfe9fcbfccc
+julia 0.3
+Requests
+JSON
+Compat

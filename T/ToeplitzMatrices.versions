@@ -1,0 +1,13 @@
+https://github.com/JuliaMatrices/ToeplitzMatrices.jl.git
+
+0.1.0
+-----
+aa27df9559d16f6f52e5a351134d64a273d5ead3
+julia 0.4
+StatsBase 0.8.0
+
+0.1.1
+-----
+7c2b2e963caa5c1feccd7a711a9d8b4f4f735411
+julia 0.4
+StatsBase 0.8.0

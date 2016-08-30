@@ -1,0 +1,43 @@
+git://github.com/jiahao/RandomMatrices.jl.git
+
+0.0.0
+-----
+2779dbe451c89cb58005a1bc57bd41bc46aa0da1
+Catalan
+Distributions
+GSL
+julia 0.2.0-
+ODE
+
+0.0.1
+-----
+8b85be0f97827954b43442356a380c8a9f7d3556
+julia 0.3-
+Catalan
+Distributions
+ODE
+
+0.0.2
+-----
+f0582642d55290357b61a0623a7c2a8954d83576
+julia 0.3-
+Catalan
+Distributions
+ODE
+
+0.1.0
+-----
+2fd68c51817ad1ac7b8c154c62e4010594f7c5a2
+julia 0.3
+Combinatorics
+Distributions
+ODE
+
+0.2.0
+-----
+aa23a70ae03e4e818e33473a00b0ce579c4d9b57
+julia 0.4
+Combinatorics 0.2
+Docile
+Distributions
+ODE

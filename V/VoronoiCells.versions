@@ -1,0 +1,31 @@
+git://github.com/JuliaGeometry/VoronoiCells.jl.git
+
+0.0.1
+-----
+191a38741f36267fd29295c20ceda7df7d33300e
+julia 0.4
+VoronoiDelaunay
+
+0.0.2
+-----
+b79c740fbc9b2abec1c58c1add2e4dcdbfe2850d
+julia 0.4
+VoronoiDelaunay
+
+0.1.0
+-----
+e3eee09805277e439d640826129e830eda66dbed
+julia 0.4
+VoronoiDelaunay
+
+0.1.1
+-----
+543f8561678954eaea72b2dd470489b7ca61268d
+julia 0.4
+VoronoiDelaunay
+
+0.1.2
+-----
+1b9935e49f6f2e710759b0749edfe3e51a594ec1
+julia 0.4
+VoronoiDelaunay

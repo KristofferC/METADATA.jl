@@ -1,0 +1,33 @@
+git://github.com/porterjamesj/Gumbo.jl.git
+
+0.1.0
+-----
+704c9c5e28996e70f920595fba4d901afe99c076
+julia 0.3-
+BinDeps
+
+0.1.1
+-----
+6ed30e76cdaa8dcc85f263c12e0e51ce4b5dc2e5
+julia 0.3 0.4-
+BinDeps
+
+0.1.2
+-----
+d9e2bc3310dc128db1d61a78af2fd5d10538b2b6
+julia 0.3 0.4-
+BinDeps
+
+0.2.0
+-----
+cb9c2e519d4de0352f9509ae99a1b7225437c8fb
+julia 0.4
+BinDeps
+Compat
+
+0.2.1
+-----
+c4c0636493b14167c99a82dcc67ecd58a1f87e1f
+julia 0.4
+BinDeps
+Compat

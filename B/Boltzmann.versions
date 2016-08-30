@@ -1,0 +1,51 @@
+git://github.com/dfdx/Boltzmann.jl.git
+
+0.1.0
+-----
+dc1c0f8563ce7a7d48f4bba35cb0e797679c19bb
+julia 0.3-
+Distributions 0.5+
+
+0.1.1
+-----
+9a41384e77e9b41b59dc894a4d6f30cfe6cc355b
+julia 0.3-
+Distributions 0.5+
+
+0.1.2
+-----
+495fae6cf175b81bbf7b4bfd4c842d38d2dc5e1a
+julia 0.3-
+Distributions 0.5+
+
+0.2.0
+-----
+30f94ca1208b782e7d3bb20d861c72818cbcdd74
+julia 0.3-
+Distributions 0.5+
+HDF5 0.4+
+
+0.2.1
+-----
+84cc7f37896bbbf8688956fcbfc676773ea2931c
+julia 0.3
+Distributions 0.5
+HDF5 0.4
+Compat 0.4
+
+0.3.0
+-----
+e7348ade8545dc0106a914c0957ad296b2526eb1
+julia 0.3
+StatsBase 0.6
+Distributions 0.5
+HDF5 0.4
+Compat 0.4
+
+0.4.0
+-----
+2dc5d15eb97a3ad248f4c8c48df38600de40b643
+julia 0.4
+StatsBase 0.6
+Distributions 0.5
+HDF5 0.4

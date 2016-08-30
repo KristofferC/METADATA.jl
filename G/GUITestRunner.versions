@@ -1,0 +1,8 @@
+git://github.com/meoke/GUITestRunner.jl.git
+
+0.0.2
+-----
+030f7f0f979bae91795ebc1d238f94bcd0164192
+julia 0.4
+TestRunner
+Tk

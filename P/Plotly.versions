@@ -1,0 +1,29 @@
+git://github.com/plotly/Plotly.jl.git
+
+0.0.1
+-----
+30483121ac46e43738624e45c02cb975fb6ada22
+HTTPClient
+JSON
+
+0.0.2
+-----
+30483121ac46e43738624e45c02cb975fb6ada22
+HTTPClient
+JSON
+
+0.0.3
+-----
+9c2131d39f5a1d840f0cbc0ab7bc97ec319a532d
+HTTPClient
+JSON
+
+0.1.0
+-----
+c6f56ad1234adfedf2925e162b3f069eca27dd73
+julia 0.4
+Requests 0.3.5
+JSON
+PlotlyJS 0.2.0
+Compat 0.7.20
+Reexport

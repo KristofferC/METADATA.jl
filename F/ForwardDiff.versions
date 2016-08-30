@@ -1,0 +1,114 @@
+git://github.com/JuliaDiff/ForwardDiff.jl.git
+
+0.0.2
+-----
+6da5f5204fd717a1417a8a4a6b9e2253799879c9
+julia 0.3-
+DualNumbers
+
+0.0.3
+-----
+5418e4e1d74a6a054aae3e00e61309db34ff8154julia 0.3-
+DualNumbers
+0.1.0
+-----
+1b5cf91ff103bb7e40ab650dd5fe0c6a74e304c8
+julia 0.4-
+Calculus
+NaNMath
+
+0.1.1
+-----
+5efb62e1c17fc36f74abf3be7d41baef4d4c2b57
+julia 0.4-
+Calculus
+NaNMath
+
+0.1.2
+-----
+2381c4443917cb0517bb75de61081a4b5a3bcbe6
+julia 0.4-
+Calculus
+NaNMath
+
+0.1.3
+-----
+decce463ae101442ef293ed69b6fe1696745b0b5
+julia 0.4
+Calculus
+NaNMath
+
+0.1.4
+-----
+af3977209ab405a9c7ab889412d534112e28fd8a
+julia 0.4
+Calculus
+NaNMath
+
+0.1.5
+-----
+675818ed42bbb95ccb84884d0e6a08d1a858b94f
+julia 0.4
+Calculus
+NaNMath
+
+0.1.6
+-----
+d6714170e667027e9e53aa5daf941c3ef5252e7b
+julia 0.4
+Calculus
+NaNMath
+
+0.1.7
+-----
+748c80031ea6d062102d886ef0d26a765a4b0ecd
+julia 0.4
+Calculus
+NaNMath
+
+0.1.8
+-----
+d723cfc9c94a8fae1b5637e1a4562c572b1e603f
+julia 0.4
+Calculus
+NaNMath
+
+0.2.0
+-----
+934b3b260b552882c556e351588ccdac524aaace
+julia 0.4
+Compat
+Calculus
+NaNMath
+
+0.2.1
+-----
+045a8286ba5ea8715ba6e47ee49e0ed58707e228
+julia 0.4
+Compat
+Calculus
+NaNMath
+
+0.2.2
+-----
+2f712dc1da9c801b537c31ea5cc3400987043124
+julia 0.4
+Compat 0.8.6
+Calculus
+NaNMath
+
+0.2.3
+-----
+667b37e88967a3e61427d1e085e39350f8261bad
+julia 0.4
+Compat 0.8.6
+Calculus
+NaNMath
+
+0.2.4
+-----
+81774169f013ef5a8398256557e6d26e769f4501
+julia 0.4
+Compat 0.8.6
+Calculus
+NaNMath

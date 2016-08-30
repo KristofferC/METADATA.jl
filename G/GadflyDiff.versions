@@ -1,0 +1,8 @@
+git://github.com/shashi/GadflyDiff.jl.git
+
+0.0.1
+-----
+3cdbb0fd66493b20865d04bc0403d11f56472526
+julia 0.4
+Gadfly
+ComposeDiff

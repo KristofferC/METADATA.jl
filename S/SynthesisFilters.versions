@@ -1,0 +1,30 @@
+git://github.com/r9y9/SynthesisFilters.jl.git
+
+0.0.1
+-----
+c19aaa925dd5c5df5b80a9ff07155a50ceffb44c
+julia 0.4-
+SPTK
+MelGeneralizedCepstrums
+
+0.0.2
+-----
+a4637f8dbfcc1f180ff2b623da84db970e3224ad
+julia 0.4
+SPTK
+MelGeneralizedCepstrums
+
+0.0.3
+-----
+4e54e885f050e719d964d900f2d16fe9b466e35c
+julia 0.4
+SPTK 0.1.1
+MelGeneralizedCepstrums 0.0.3
+
+0.0.4
+-----
+baef58b4ca5c90acc81dc33a17f39156b90170f7
+julia 0.4
+SPTK 0.1.1
+MelGeneralizedCepstrums 0.0.3
+Compat 0.8.4

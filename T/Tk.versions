@@ -1,0 +1,235 @@
+git://github.com/JuliaGraphics/Tk.jl.git
+
+0.0.0
+-----
+3c41fea481cb68afd5949c56b3203e6437563ed7
+julia 0.1- 0.2-
+Cairo
+BinDeps
+
+0.0.1
+-----
+1cdaf0ad32170c8385710ff717c0cfd4c1f69096
+julia 0.2-
+Cairo
+BinDeps
+
+0.2.0
+-----
+53d9b557643763e6c82887ba3c23358d3fda80f6
+julia 0.2-
+Cairo
+BinDeps
+
+0.2.1
+-----
+72a60375a79b43c6bdb6806d6da3024407eefb03
+Cairo
+BinDeps
+0.2.10
+------
+52218844bc4ab8fdd3da41608d8a2bf7294c23de
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.11
+------
+64a0cb78fe8a267f285cb5693ca214f577a7a0aa
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.12
+------
+2268f5a3368c3a189a9e9fa675e8fd458fbdb52e
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.13
+------
+fbfcdc238c11df96871bc340981fd1dc047793a5
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.14
+------
+861074feadc3a53558f436d7d2454fb537a02cca
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.15
+------
+221e26b6ce62c2bf643584d9814b6e78ee2cfcd9
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.16
+------
+e4d5d995f577442f40ccc7dd61011104d6866657
+julia 0.2-
+Cairo
+Compat 0.0.2-
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.17
+------
+cb196e71bf7d9e62d82483d94ad344af7c74b162
+julia 0.2-
+Cairo
+Graphics 0.1
+Compat 0.0.2-
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.2
+-----
+ca82bf6d24460b10a686ecacccb24ade98892ec8
+Cairo
+BinDeps
+0.2.3
+-----
+ba52b7223db16fa19beec5a98ffcf97462f06afe
+Cairo
+BinDeps
+0.2.4
+-----
+3d1238ae106c6e0b9a391c1ef6a916bb7129aab3
+Cairo
+BinDeps 0.2.2-
+
+0.2.5
+-----
+0bbb7895a5fa9d80929215e51dc56091b03811f3
+Cairo
+BinDeps 0.2.2-
+
+0.2.6
+-----
+6a4be57efe0f39b9c963055253e03243ccb59980
+Cairo
+BinDeps 0.2.2-
+
+0.2.7
+-----
+603b5368e0f12f92ea706b93fd76af2080eb853c
+Cairo
+BinDeps 0.2.2-
+
+0.2.8
+-----
+e8c8aac1914cf7572814be5a8d50537c5ea48017
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.2.9
+-----
+b7c643aaa6ed16f02a4d0760a9a8469f7907869c
+julia 0.2-
+Cairo
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.0
+-----
+f7217062c4922c9650a061ea2c42c4a6d2ea699c
+julia 0.3
+Compat
+Cairo
+Graphics 0.1
+Compat 0.0.2-
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.1
+-----
+083a215431159f5ae26345a7c8b2e460ebc6ed1c
+julia 0.3
+Compat 0.3.5
+Cairo
+Graphics 0.1
+Compat 0.0.2-
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.2
+-----
+db9e19aef5d2496214e53a716e2af66a0557478a
+julia 0.3
+Compat 0.4.0
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.3
+-----
+36414d6b0699668324fe36cfc98c3af6590682dc
+julia 0.3
+Compat 0.4.0
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.4
+-----
+b65a4db0273a957c39b7acb46f739ec2ffae579e
+julia 0.3
+Compat 0.4.6
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.5
+-----
+73ec700af7e830eb90feb9eba5485b2463fb5d2c
+julia 0.3
+Compat 0.4.6
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.6
+-----
+0ee0cf592222d581382224eddff9a1356512dbfb
+julia 0.3
+Compat 0.4.6
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.7
+-----
+c29edfd411638827ccd03ea802ea6e2acb7e7f3f
+julia 0.3
+Compat 0.4.6
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
+
+0.3.8
+-----
+070380b7b5497813159467a9152a743d21d4599c
+julia 0.3
+Compat 0.4.6
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM

@@ -1,0 +1,29 @@
+git://github.com/dhoegh/BuildExecutable.jl.git
+
+0.0.1
+-----
+0607bb9c1c2666c06793243f202f5225507d3296
+julia 0.4
+BinDeps
+@windows WinRPM
+
+0.0.2
+-----
+b966ed0895a56f257194f255af0571877fc14509
+julia 0.4
+BinDeps
+@windows WinRPM
+
+0.0.3
+-----
+aa248281d766c95161538b6b1f3980c55f58474a
+julia 0.4
+BinDeps
+@windows WinRPM
+
+0.1.0
+-----
+350cd9fa8c09964aaced9f1356b5b135e47023d7
+julia 0.4
+BinDeps
+@windows WinRPM

@@ -1,0 +1,87 @@
+git://github.com/JuliaStats/HypothesisTests.jl.git
+
+0.0.0
+-----
+0ed73dc5ff9c474121949edba24e2ca2443f37de
+
+0.1.0
+-----
+0ed73dc5ff9c474121949edba24e2ca2443f37de
+julia 0.1- 0.2-
+Distributions
+
+0.2.0
+-----
+1c6109aa46b6b25c67c3cf2b17904793c38f1551
+julia 0.2-
+Distributions
+Rmath
+
+0.2.1
+-----
+a8c695529910d3931bd29b8e4e4dfc835b2c0689
+julia 0.2-
+Distributions
+
+0.2.10
+------
+bbe6143920944a75563ae23140288253d996347a
+julia 0.3.0
+Distributions
+Roots
+StatsBase
+Compat
+
+0.2.2
+-----
+0bfc4ea1d3af88efcc0fc51b9262a649bb97cdcf
+julia 0.2-
+Distributions
+
+0.2.3
+-----
+841cf1e40ce4422ae0c713b60ee1b53e38fed35d
+Distributions
+
+0.2.4
+-----
+80c6eba1d0815bdc6ac0f8331bcd6a6babbf54b8
+Distributions
+
+0.2.5
+-----
+075d20858739ad2daaa9f8e667ec5a80f421ab25
+Distributions
+
+0.2.6
+-----
+f3c63af3672888076332e0e452473ef709edabf0
+Distributions
+
+0.2.7
+-----
+d6e1f958f5627297d8dbb2bd5e51cca3d10076e1
+Distributions
+
+0.2.8
+-----
+86fec5d34a82d7cccf7a4409a23bec7dda868965
+Distributions
+Roots
+
+0.2.9
+-----
+533fc9349c5daa8b68b14f3368d968a0038af42e
+Distributions
+Roots
+
+0.3.0
+-----
+08b1f8044246a45d6f6ac86058f991aeb6120c08
+julia 0.4
+Distributions 0.10.0
+Roots
+StatsBase 0.9.0
+Compat 0.8.4
+Rmath 0.1.2
+Combinatorics

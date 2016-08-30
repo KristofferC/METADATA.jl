@@ -1,0 +1,63 @@
+git://github.com/gragusa/CovarianceMatrices.jl.git
+
+0.0.1
+-----
+5d90492c295a2e95a0c49e81323f305ea2f60d72
+julia 0.3-
+StatsBase 0.6.10-
+GLM
+DataFrames
+
+0.0.2
+-----
+820ae86f468157dafae065f714008794784489e9
+julia 0.3
+StatsBase 0.6.10
+GLM
+DataFrames
+Compat
+
+0.0.3
+-----
+71f680e2005113db8950c7c998d8fbf64d0e30d4
+julia 0.3
+StatsBase 
+GLM
+DataFrames
+Compat
+
+0.0.4
+-----
+83d76ecc71f9e9b3b8d71435f70ebfc1155ebb7c
+julia 0.3
+StatsBase 
+GLM
+DataFrames
+Compat
+
+0.0.5
+-----
+636f080de00a73f516ab447003e7e17a8ea16f70
+julia 0.3
+StatsBase 
+GLM
+DataFrames
+Compat
+
+0.1.0
+-----
+2eb362b134b6d474d811dec36dc40ea23191304e
+julia 0.4
+StatsBase 
+GLM
+DataFrames
+Compat
+
+0.1.1
+-----
+6296b9f7806f61783cd2bf90fad756fa58722e35
+julia 0.4
+StatsBase 
+GLM
+DataFrames
+Compat

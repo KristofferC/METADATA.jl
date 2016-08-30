@@ -1,0 +1,17 @@
+git://github.com/JuliaComputing/ArrayFire.jl.git
+
+0.0.1
+-----
+2ab8171b90b0c5c9d8d9fa7d15373c8d8c199558
+julia 0.4
+
+0.0.2
+-----
+78218c45e1e9c5bc06d2b4a5c9da8a0cf98df606
+julia 0.4
+
+0.0.3
+-----
+e0f9648c8fe33deddf1ba9ca6ee9594e8edc5d51
+julia 0.4
+Compat 0.8.6

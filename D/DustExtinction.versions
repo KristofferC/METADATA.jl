@@ -1,0 +1,20 @@
+git://github.com/JuliaAstro/DustExtinction.jl.git
+
+0.1.0
+-----
+d91f4b3ed2db356c19ab87a8192cb3b4c228577e
+julia 0.3
+FITSIO 0.5.2
+
+0.2.0
+-----
+a3752c454e52fb048ba228d77bf886e94b8327e5
+julia 0.4
+FITSIO 0.8.1
+
+0.2.1
+-----
+1ecc69768fc3b597f5808786fe472dd59dc99638
+julia 0.4
+FITSIO 0.8.1
+Compat 0.8.6

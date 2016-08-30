@@ -1,0 +1,323 @@
+git://github.com/JuliaPackaging/WinRPM.jl.git
+
+0.0.1
+-----
+34115e2b0494c18dbf1785771e6249ab40390c39
+julia 0.2-
+URLParse 0.0.0
+LibCURL 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.10
+------
+3338b72483dbadd024778a97a1234f1155818e0c
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.11
+------
+2f5124cbe18525b097836721834d6687546cc4ec
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.12
+------
+64178d5915530ac19a520c4217a33089dd528961
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.13
+------
+8a6be01db6b52c7359ba298b3b02a3ecc3e6dc62
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.14
+------
+96edb002ed83515550329f47350f67a7a42dca8a
+julia 0.3-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.15
+------
+06432407d87cb29e4464ca01650c1f1ecace35c5
+julia 0.3-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.2
+-----
+c736541201ef6051d7de6813e03c42c7e919a921
+julia 0.2-
+URLParse 0.0.0
+LibCURL 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.3
+-----
+68cb72d955b40922bc88923273843c84b3636c48
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.4
+-----
+9b0adebae3fac84e1a42fe32d1cbd8a7310ea3ff
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.5
+-----
+c0a138c6d87641867b0398b0d04ed000af9ce0fd
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.6
+-----
+851e16ef4c110f07ec6fc0b58116eff0332f4f5c
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+BinDeps
+
+0.0.7
+-----
+79e2550346bb6c1aa50316ddbca5eea2108f04cf
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.8
+-----
+b3624acf71c0dac3c6e2f37d8fa42133e23b1c98
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.0.9
+-----
+27ac13b9a941ed5633c8657cc26d4aa83bd83484
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.0
+Zlib 0.0.0
+
+0.1.0
+-----
+035b440832cfce9e884caf403004b561fafa5293
+julia 0.3-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+
+0.1.1
+-----
+c00412d15282c92c75d105d5966a2822be038632
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+
+0.1.10
+------
+59c5084acab6189c73606eb81e32d86c288b8d52
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.11
+------
+68c386fbcc537dda5d700adef8e482cdfd59fdc0
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.12
+------
+e51cd3710b476232f4d540c41f989cbdb2c3c80b
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.13
+------
+cb12a4136e9afb2a158ff888bc8ea81d3e72e619
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.14
+------
+869acba3f92e2721430500426f07084f94b85120
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.15
+------
+add6224eb4e263c77e8f12f810f4a663da26806e
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.2
+-----
+1d8ae12601dc5fff8cdbc4a685d7bce184115997
+julia 0.2-
+URLParse 0.0.0
+HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+
+0.1.3
+-----
+93d52a3ddda49f95355086e61ea1e7b03e093da9
+julia 0.2-
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+
+0.1.4
+-----
+cb22544d3186b98f99445cc10e989432ade61fb7
+julia 0.2-
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+
+0.1.5
+-----
+fa7667122c9fd4c1e7d59bc5c9fce46020eea4c4
+julia 0.2-
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+
+0.1.6
+-----
+a0d80507c46ef4ce0f1a5636425ff8559c048673
+julia 0.2-
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+
+0.1.7
+-----
+d788882b4a71cd77e85f0d3a61aacb98028881b2
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+
+0.1.8
+-----
+d376c613c14f513f66338104919f7a95b8e74794
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.1.9
+-----
+0312fb0873701d761e0946e6d3066bd70e962d42
+julia 0.3
+Compat
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+
+0.2.0
+-----
+38d778689678e457480869f2300a1070b6408636
+julia 0.4
+Compat 0.7.16
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Zlib 0.1.4
+BinDeps 0.3
+SHA
+LegacyStrings

@@ -1,0 +1,52 @@
+git://github.com/JuliaArchive/Morsel.jl.git
+
+0.0.0
+-----
+71daf879a71e9f9020a360d7e3237b89f1c71306
+julia 0.2 0.5
+HttpCommon
+HttpServer
+Meddle
+
+0.0.1
+-----
+cfadb51609b9d853d76a942c603c585693c0fa1bjulia 0.2 0.5
+0.0.2
+-----
+cfadb51609b9d853d76a942c603c585693c0fa1bjulia 0.2- 0.5
+HttpCommon
+HttpServer
+Meddle
+
+0.0.3
+-----
+485c98d6516a1f9067d0031258ca661f3ad6baa6
+julia 0.2 0.5
+HttpCommon 0.0.3-
+HttpServer 0.0.4-
+Meddle 0.0.3-
+
+0.0.4
+-----
+f0a00b0549ba46a34028cd727bea73da4620251c
+julia 0.2- 0.5
+HttpCommon 0.0.3-
+HttpServer 0.0.4-
+Meddle 0.0.3-
+
+0.0.5
+-----
+0d9cf018fe55eb5a0927d344c3044f44faebc6f1
+julia 0.3 0.5
+HttpCommon
+HttpServer
+Meddle
+
+0.0.6
+-----
+701cdb4e35c6018de2d94574f68477c5d6783a6c
+julia 0.3 0.5
+Compat
+HttpCommon
+HttpServer
+Meddle

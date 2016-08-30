@@ -1,0 +1,13 @@
+git://github.com/MurrayT/OEIS.jl.git
+
+0.0.1
+-----
+56678d645de2e17998b7a31d6eeb6f3aef4fa573
+Requests
+
+0.0.2
+-----
+19cb8097030bd40064ae62cf06f74848e5f75eab
+julia 0.3
+Requests
+Iterators

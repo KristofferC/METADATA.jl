@@ -1,0 +1,23 @@
+git://github.com/JuliaGraphs/LightGraphsExtras.jl.git
+
+0.0.1
+-----
+a527840b141ced62712f7bdc93d91e849e94205e
+julia 0.4 0.5-
+JuMP 0.13.2
+LightGraphs
+
+0.0.2
+-----
+a527840b141ced62712f7bdc93d91e849e94205e
+julia 0.4 0.5-
+JuMP 0.13.2
+LightGraphs
+
+0.0.3
+-----
+32ddf5dfa12a098f07a5a693b5ed58369f7d4d20
+julia 0.4 0.5-
+JuMP 0.13.2
+LightGraphs
+GraphMatrices

@@ -1,0 +1,68 @@
+git://github.com/rened/DictFiles.jl.git
+
+0.0.1
+-----
+16713162c1c9f04febb0d39214fc9a5df6a62f42
+julia 0.2-
+FactCheck
+HDF5
+Blosc
+
+0.0.2
+-----
+a54103c356240278f0819674da9360720f36a3dd
+julia 0.2-
+FactCheck
+HDF5
+Blosc
+
+0.0.3
+-----
+1d2ad8ec15e5a6fdd64ed7094178bb2d8dedd2e3
+julia 0.2-
+FactCheck
+HDF5
+Blosc
+FunctionalData
+
+0.0.4
+-----
+24ab00d48b06aa9a4fe9ecf8b1334d7a241ca7ad
+julia 0.2-
+FactCheck
+HDF5
+Blosc
+FunctionalData
+Compat
+
+0.0.5
+-----
+c3a82777fd1a09a3563b2f973efd24ac8c088ce0
+julia 0.3
+FactCheck
+HDF5
+JLD
+Blosc
+FunctionalData
+Compat
+
+0.0.6
+-----
+13f8b2f4d1fbea5427d3bdff653c8671ddf0faf1
+julia 0.3
+FactCheck
+HDF5
+JLD
+Blosc
+FunctionalData
+Compat
+
+0.1.0
+-----
+8dfd77a36a57b0c18716ae30f603922a6c61547a
+julia 0.4-
+FactCheck
+HDF5
+JLD
+Blosc
+FunctionalData

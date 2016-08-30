@@ -1,0 +1,113 @@
+git://github.com/juliangehring/Bootstrap.jl.git
+
+0.0.1
+-----
+aecf73ce23354ccc1984f64bcf52c0265d2caa99
+julia 0.3-
+StatsBase
+Iterators
+Distributions
+#Gadfly
+
+0.0.2
+-----
+7a14c4efdcb22511ed03e9f2012eb7e3cf22c434
+julia 0.3-
+StatsBase
+Iterators
+Distributions
+#Gadfly
+
+0.0.3
+-----
+16c7c99d5ae8d3ab8f1d8e8e9b9bcf8de60a918a
+julia 0.3-
+StatsBase
+Iterators
+Distributions
+
+0.1.0
+-----
+39401dbffccfbde2f34f3b1bd1914f237f487ea9
+julia 0.3-
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+
+0.1.1
+-----
+b0a75bb20ff41005a1329016cf021779babbb60d
+julia 0.3-
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+
+0.2.0
+-----
+fbc6eb4ee8467d98075f908b34a0c7793e6c0393
+julia 0.3
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+
+0.3.0
+-----
+48d0a2c6194a7ec06ce7510a735c3456a8a5b392
+julia 0.3
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+
+0.3.1
+-----
+d0b008a8099ca2bea381bbaf2e34f61bbbe0d9a4
+julia 0.3
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+
+0.3.2
+-----
+aefcec66b5d14d327b2ac1e117d768e39a30169e
+julia 0.3
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+
+0.3.3
+-----
+41ac55b267defb402f698084759d352cf5107ff4
+julia 0.3
+StatsBase
+Iterators
+Distributions
+DataFrames
+Docile
+Lexicon
+Compat
+
+1.0.0
+-----
+0c462823dce220fba5f459944699104a55420829
+julia 0.4
+StatsBase
+Distributions
+DataFrames
+FactCheck

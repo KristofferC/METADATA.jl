@@ -1,0 +1,7 @@
+git://github.com/gajomi/IndependentRandomSequences.jl.git
+
+0.0.1
+-----
+0448fb7490a79b13455f246b4649f182d76f2acc
+julia 0.3.11
+Distributions 0.0 0.10

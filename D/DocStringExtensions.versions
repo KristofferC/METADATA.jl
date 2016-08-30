@@ -1,0 +1,13 @@
+git://github.com/JuliaDocs/DocStringExtensions.jl.git
+
+0.1.0
+-----
+e4bfe3537cc033c161d7e65bff776c15dcf3e9a4
+julia 0.4
+Compat 0.8
+
+0.2.0
+-----
+1263ab050589cd021f3e3076c2217679229e1810
+julia 0.4
+Compat 0.8

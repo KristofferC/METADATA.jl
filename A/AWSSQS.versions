@@ -1,0 +1,31 @@
+git://github.com/samoconnor/AWSSQS.jl.git
+
+0.0.1
+-----
+4a1497fd9971a89a7ce56b13116243cf9ac83bde
+julia 0.4
+AWSCore
+
+0.0.2
+-----
+76c003f302930b8f828b56c60431d515b136faa7
+julia 0.4
+AWSCore
+
+0.0.3
+-----
+cad2f86dafeb28f4aac103bc9d71361f9d1b3ee5
+julia 0.4
+AWSCore
+
+0.0.4
+-----
+8a92cc2c684712a42fc64c7d1139a88dc3e89e7b
+julia 0.4
+AWSCore
+
+0.0.5
+-----
+9c623c02f7827b9e441a62faef2ca7292387e878
+julia 0.4
+AWSCore

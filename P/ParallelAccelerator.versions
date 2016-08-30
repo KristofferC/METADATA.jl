@@ -1,0 +1,88 @@
+git://github.com/IntelLabs/ParallelAccelerator.jl.git
+
+0.1.0
+-----
+627cbb29f2e1533b998ce7bfb19726747243c073
+julia 0.4
+DocOpt
+Images
+CompilerTools
+
+0.1.1
+-----
+3d997c05c8ed3f7ffb9f0271b761116dd97b7fe8
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.2
+-----
+1bb613a33baae81c22b64d2ab20662b38e2c1386
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.3
+-----
+ac7ab4e08041174f289d9ca83d440be1fd29f26e
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.4
+-----
+06cbfe62c2cf450bffe559e3753d4b8eef7a2fbf
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.5
+-----
+dfb140dc7b10be1ceb6d4d6f09e5978e5c144c32
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.6
+-----
+848314a0485565817e5a2c444f29d4758b8312b5
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.7
+-----
+1004cf098b12f7314ed68cdc3a2d5396a6af4dd6
+julia 0.4
+DocOpt
+Images
+ImageMagick
+Winston
+CompilerTools
+
+0.1.8
+-----
+ac76b481a01690a6328e791184d010fe72e6d00c
+julia 0.4
+CompilerTools
+DataStructures
+Compat
+@windows WinRPM

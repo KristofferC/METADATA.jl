@@ -1,0 +1,14 @@
+git://github.com/simulkade/JFVM.jl.git
+
+0.0.1
+-----
+c5de9471905cd0a9f1378490264b9cd4a6e9f810
+PyPlot
+PyCall
+
+0.1.0
+-----
+c8ab4f451be90684af109ee9b32283be754d5a7e
+julia 0.3
+PyPlot
+PyCall

@@ -1,0 +1,52 @@
+https://github.com/Keno/Gallium.jl.git
+
+0.0.1
+-----
+f2b30d6fa61193fdf046948cb9bdcfceaaab82d1
+julia 0.5-
+TerminalUI
+DWARF
+ELF
+MachO
+ASTInterpreter
+AbstractTrees
+
+0.0.2
+-----
+ff2c19a97e3d56fb509e3555107871f63beece31
+julia 0.5-
+TerminalUI
+DWARF
+ObjFileBase
+ELF
+MachO
+ASTInterpreter
+AbstractTrees
+
+0.0.3
+-----
+7fea0ee863ce74201c0ded73169e6a0f702641d9
+julia 0.5-
+TerminalUI
+DWARF
+ObjFileBase
+ELF
+MachO
+ASTInterpreter
+AbstractTrees
+COFF
+CRC
+
+0.0.4
+-----
+613ab104ddef105e7ae50c1f53ff557793d8cae4
+julia 0.5-
+TerminalUI
+DWARF
+ObjFileBase
+ELF
+MachO
+ASTInterpreter
+AbstractTrees
+COFF
+CRC

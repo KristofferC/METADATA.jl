@@ -1,0 +1,52 @@
+git://github.com/staticfloat/SHA.jl.git
+
+0.0.1
+-----
+6fc545579834a7caf306d47fc3608ce578b95f3e
+julia 0.2-
+
+0.0.2
+-----
+28702f45c98522baaa000b0ddefa77acff99744d
+julia 0.2-
+
+0.0.3
+-----
+f091ad7e2db37fee4eed6b0c84659ed65dc431aa
+julia 0.2-
+
+0.0.4
+-----
+0e31e9d265eede8cafc9f0c04e928acf5b0fa4cf
+julia 0.2-
+Compat 0.3.5
+
+0.1.0
+-----
+6de03f4ed96d2e58e794cbe8d58d5c86e3637b76
+julia 0.2-
+Compat 0.3.5
+
+0.1.1
+-----
+4eeff02a744c56bb2bb6b5a421b17fd4b98ee264
+julia 0.3
+Compat 0.3.5
+
+0.1.2
+-----
+90144b2c9e6dd41582901ca0b311215b6bfb3f10
+julia 0.3
+Compat 0.3.5
+
+0.2.0
+-----
+285faef2e8a68d495c7368247b57da97ae0baf3b
+julia 0.3
+Compat 0.3.5
+
+0.2.1
+-----
+e58b26618efcdc716ab5b44650c1344da7c524a2
+julia 0.3
+Compat 0.7.9

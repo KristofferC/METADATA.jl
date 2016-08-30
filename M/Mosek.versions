@@ -1,0 +1,68 @@
+git://github.com/JuliaOpt/Mosek.jl.git
+
+0.0.1
+-----
+73eb2a17eb7fdef9490a6ec915cd0257d312c4c5
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.0
+-----
+bc1240b0df6efeb11f3d6afd6ae65b1f0282008f
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.1
+-----
+fdcdca468436d0d1cf5ed8e194d8e542c09b2fe0
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.2
+-----
+fdcdca468436d0d1cf5ed8e194d8e542c09b2fe0
+julia 0.2
+BinDeps
+MathProgBase 0.3 0.4-
+
+0.1.3
+-----
+1e623f31441fb6fc1519a3f1abbd528b1716457c
+julia 0.2
+BinDeps
+MathProgBase 0.3.0-dev1 0.4.0-
+
+0.1.4
+-----
+e1dfe0295fcf6a8d72b4a27591a43f27e9ec313a
+julia 0.3.2
+BinDeps
+MathProgBase 0.3.7 0.4.0-
+
+0.2.0
+-----
+5dc7e6c057282176e691e0e0fc2370aab1fc6d3c
+julia 0.3.2
+MathProgBase 0.3.7 0.4.0-
+Compat
+
+0.3.0
+-----
+5edcd632e4151fcae634ed549ea8d5e1bba77fda
+julia 0.4.0 0.5.0-
+MathProgBase 0.4.0 0.5.0-
+
+0.3.2
+-----
+5aa0e0b5c472bcc45c3c8f651147d597325adbaf
+julia 0.4 0.5.0-
+MathProgBase 0.4 0.5.0-
+
+0.4.0
+-----
+b605a2c05406f53c88957deb87b14b3e72bba92a
+julia 0.4.0
+MathProgBase 0.5.1 0.6

@@ -1,0 +1,28 @@
+git://github.com/wildart/LMDB.jl.git
+
+0.0.1
+-----
+57a2df614a3df45b3beb9bba5159f2f5642d2c3f
+julia 0.3
+BinDeps
+Docile
+
+0.0.2
+-----
+77dcef4ffb602fcb22ded9f91ef00d054a6c2e71
+julia 0.3
+BinDeps
+Docile
+
+0.0.3
+-----
+9ff95e322e8ebbfee089f18e05d299f8a2072353
+julia 0.3
+BinDeps
+Docile
+
+0.0.4
+-----
+6a7e6f352692a9d4dc0d3d78ef525d1fbfefba57
+julia 0.4-
+BinDeps

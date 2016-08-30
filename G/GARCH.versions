@@ -1,0 +1,20 @@
+git://github.com/AndreyKolev/GARCH.jl.git
+
+0.0.0
+-----
+b2cdc7d7c853be949b9b67662dbd2befbf1379b9
+julia 0.2-
+NLopt
+
+0.1.0
+-----
+b12805cb15db2b61951b67b9128bab3d7fde400b
+NLopt
+Distributions
+
+0.1.2
+-----
+278d15c1e8dd1f4ff95de9e8c2c4967bd16a98ef
+julia 0.3-
+NLopt
+Distributions

@@ -1,0 +1,19 @@
+git://github.com/lobingera/Rsvg.jl.git
+
+0.0.1
+-----
+6a6f61cc9716b0dd6eeb03b78aefde5d5f04c333
+julia 0.4
+BinDeps 0.3.9
+Gtk 0.8.6
+Cairo 0.2.30
+
+0.0.2
+-----
+d8374212dc7cd006a490ac596ce7a53f3fa77308
+julia 0.4
+Gtk 0.8.6
+Cairo 0.2.30
+BinDeps 0.3.9
+@osx Homebrew
+@windows WinRPM

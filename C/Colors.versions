@@ -1,0 +1,115 @@
+git://github.com/JuliaGraphics/Colors.jl.git
+
+0.4.7
+-----
+409bd7a4efdd7fff9664e6d72b24c11554e0c857
+julia 0.3
+Compat 0.2
+FixedPointNumbers
+Graphics 0.1
+
+0.5.0
+-----
+4bf77fa42c6c3229caa96e3bf46f05d3e938017c
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat 0.2
+Graphics 0.1
+Reexport
+
+0.5.1
+-----
+fc67047ee79a8eaeb948af6ffe4b2f96942b23eb
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat 0.2
+Reexport
+
+0.5.2
+-----
+1c43e5bc71d6f8fc12a161017cc6df13b4c429d2
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat 0.2
+Reexport
+
+0.5.3
+-----
+305b85d2a458fd6f00f450c69677fa96509ea74a
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat 0.2
+Reexport
+
+0.5.4
+-----
+023660ce7f66c33ae3f676ece3acf98419dc23b3
+julia 0.3
+ColorTypes
+FixedPointNumbers
+Compat 0.2
+Reexport
+
+0.6.0
+-----
+830936435de28ec1989728cbbde36f335d760a73
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+
+0.6.1
+-----
+cd03f77b65e00a9b4375f6196169a0fa7dc59eac
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+
+0.6.2
+-----
+8f1f8c3c84804245aa111fb61f4814ae73a723dd
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+
+0.6.3
+-----
+87e13ba4a1bd683608bab2907ced90c8edf8769f
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+Compat
+
+0.6.4
+-----
+899ffdc03fbae021f0f59209ece5880c51cae659
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+Compat
+
+0.6.5
+-----
+2ef0f9937b0de33fe1256c499ea0d66d0c6c0370
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+Compat 0.8.0
+
+0.6.6
+-----
+b753e8229081aa4c1af9bbc4b233c93b4cd98b57
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+Compat 0.8.0

@@ -1,0 +1,57 @@
+git://github.com/JuliaIO/JLDArchives.jl.git
+
+0.0.1
+-----
+dffc78de519d3a7fd8273fa4d252cb54f0cf4a4f
+
+0.0.2
+-----
+9d2e0ea179322db7d31fbb78f6eab7e9a66572a3
+julia 0.3-
+HDF5
+
+0.0.3
+-----
+1b06125491cbdf96903bd271a2b3ce1021e3f427
+julia 0.3-
+HDF5
+
+0.0.4
+-----
+eaffc492088fb6059fc37b968d20d1c17e9934bc
+julia 0.3-
+HDF5
+
+0.0.5
+-----
+3da54ee02bc332f02cba6550f5ea5eda38cda83a
+julia 0.3-
+HDF5
+
+0.0.6
+-----
+d396e1c531e8ecfdfb51695a73ca8291736de628
+julia 0.3-
+HDF5
+
+0.0.7
+-----
+669b9f8516e259c44b301dacca1561d4e9d7ffe0
+julia 0.3
+HDF5
+JLD
+
+0.0.8
+-----
+88429ccb6719eb1e8245cd20081b67ecf631951c
+julia 0.3
+HDF5
+JLD
+
+0.1.0
+-----
+fdf3a727a977a654eb750375188c0d83f01f6349
+julia 0.4
+HDF5
+JLD
+LegacyStrings # for julia-0.5

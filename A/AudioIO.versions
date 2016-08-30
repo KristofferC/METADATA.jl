@@ -1,0 +1,38 @@
+git://github.com/ssfrr/AudioIO.jl.git
+
+0.0.1
+-----
+c1212692a03fb091452c785995d2df481c04134a
+
+0.0.2
+-----
+c2fdb53925599e05411dbee9648ddb03785c0091
+BinDeps
+
+0.0.3
+-----
+c5587a9b47a824028439baf9e9b2638492aaba39
+julia 0.2-
+BinDeps
+@osx Homebrew
+
+0.0.4
+-----
+18f0cee2e550bddfad48df7e04c1ff4f6015b1a4
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.0
+-----
+f75de3299f9865f08c78892fd8172e47fa5aa230
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.1
+-----
+99ac59c936dd873481f28ee440e45b3477bd4aea
+julia 0.3-
+BinDeps
+@osx Homebrew

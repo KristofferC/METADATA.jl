@@ -1,0 +1,61 @@
+git://github.com/dmlc/MXNet.jl.git
+
+0.0.1
+-----
+7934f672e2449a6c221bb3088ed40c2c6256a134
+julia 0.4
+Formatting
+BinDeps
+
+0.0.2
+-----
+48f423017989d720ed8af3d88b3eb08a9a3272a6
+julia 0.4
+Formatting
+BinDeps
+
+0.0.3
+-----
+54e621e79b309d0c0c185858948e7f920a67782a
+julia 0.4
+Formatting
+BinDeps
+
+0.0.4
+-----
+189e755b0ba537d4f81e10d30579931ea727992a
+julia 0.4
+Formatting
+BinDeps
+
+0.0.5
+-----
+f099670c9d83c0b60d9dac9f41753dd1490e7eba
+julia 0.4
+Formatting
+BinDeps
+JSON
+
+0.0.6
+-----
+67c8bb2d6e319d7a95fc574a76736e5c20d05523
+julia 0.4
+Formatting
+BinDeps
+JSON
+
+0.0.7
+-----
+8edb94be2a4c6250ef4bb26e58ca5fb0b9fee6ff
+julia 0.4
+Formatting
+BinDeps
+JSON
+
+0.0.8
+-----
+ac709d12662484705c409911db00868509c6c9f4
+julia 0.4
+Formatting
+BinDeps
+JSON

@@ -1,0 +1,9 @@
+git://github.com/wavexx/Polyglot.jl.git
+
+0.0.1
+-----
+6afeee9c23c5be2b41d909476869c55e6221a3f0
+Compat 0.4.4
+Expect 0.1.2
+JSON
+julia 0.3

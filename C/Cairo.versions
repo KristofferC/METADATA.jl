@@ -1,0 +1,313 @@
+git://github.com/JuliaGraphics/Cairo.jl.git
+
+0.0.0
+-----
+c70bba60378bbe6bbaea34d5a9296038e8fe6d45
+julia 0.1- 0.2-
+Color
+BinDeps
+
+0.0.1
+-----
+678935371b0b31383ea7e301f5a5662b40a1b70c
+julia 0.2-
+Color
+BinDeps
+
+0.2.0
+-----
+82140cce77695fd5800626cb8012815baf6d0545
+julia 0.2-
+Color
+BinDeps
+
+0.2.1
+-----
+4cddb4fe0a0c715318dfeb607e04079dc9ffa5ff
+julia 0.2-
+Color
+BinDeps
+
+0.2.10
+------
+7bbf453044ba4736da8e106601717c30d87f0398
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.11
+------
+3d38413579ce4d0ab696d54321fc09c8a5b33ec6
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.12
+------
+f2f8203ff77b8459cc602e2a425f5133046879cf
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.13
+------
+5c1c751133cf1d00426dba6ca57e9f5869f7ef11
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.14
+------
+98007fca91c49f911770cb08f1aa01346ae32c24
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.15
+------
+07a1193847af08ffb234b8d00188632fca571def
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.16
+------
+b343cc6572feb1871c001994bee65a6942154ea7
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.17
+------
+c3aa6eaffb07399ca741229e07700ae234dc5d73
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.18
+------
+0448f94848b58af10b5eb87673d17d0a436d4fc9
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.19
+------
+4ebbc3a4ad8c23dbe5b81a5e239ec17e8b0b99f6
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.2
+-----
+d6c14465cef4759115ebbb42253cc818a8e74eb9
+julia 0.2-
+Color
+BinDeps
+
+0.2.20
+------
+96d35ffda2b224c872ce0d60420a4ac144350c35
+julia 0.3-
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.21
+------
+cd923b1b7d90c16006b2c923f0c16277ec2392e6
+julia 0.3
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.22
+------
+3b61438bc1ed36131a0f1548eeeebc00a5b6ecc9
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM
+
+0.2.23
+------
+2ad009c9369afa76383709097614e42e98a94272
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.24
+------
+8c7fe716d9440d562485eb6bab42f8fc20967d1f
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.25
+------
+51cc3050d30f36e56dbb179d57df9163f5d2d5b9
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.26
+------
+8c289524b1ac2a7f7ca58037a452647aeb7ed6ba
+Compat 0.3.5
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.27
+------
+39500969af774f0a7b687be5c42a3b1fb3118165
+Compat 0.3.5
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.28
+------
+65a8c771d47501cdcb4272b559244c78b0a36e7b
+Compat 0.3.5
+Color
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.29
+------
+9cda5dd33e9021a0db6f88a19dc8d60e8636d47f
+julia 0.3
+Compat 0.3.5
+Colors
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.3
+-----
+3c84b0eeca4640d151f43691994c3dabaaccd82d
+julia 0.2-
+Color
+BinDeps
+
+0.2.30
+------
+3ca577c4e3331afeee3770ec4ab1ea951cc450e5
+julia 0.3
+Compat 0.3.5
+Colors
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.31
+------
+8d340a7c3331a344c5d2dc419908a21fb79b7bb4
+julia 0.3
+Compat 0.3.5
+Colors
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.32
+------
+79c34782e384637b4d1a159a6a0b7fdd3805b2eb
+julia 0.3
+Compat 0.7.16
+Colors
+BinDeps
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.33
+------
+e288184dfa59242ed0d440b5ff7739ae8ce6621d
+julia 0.3
+Compat 0.8.0
+Colors
+BinDeps 0.3.21
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.34
+------
+18c56380dd90b48123bcf1cb579c1882fd320707
+julia 0.3
+Compat 0.8.0
+Colors
+BinDeps 0.3.21
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
+0.2.4
+-----
+4eac5aa41eab304000551ccd5ee352bc98482811
+julia 0.2-
+Color
+BinDeps
+
+0.2.5
+-----
+9a6a8ea7984861a41e34ebd29bef2fca631dd9f4
+julia 0.2-
+Color
+BinDeps
+
+0.2.6
+-----
+8d679af5205b42e9479e3a1e8836aa8f3cac280f
+julia 0.2-
+Color
+BinDeps
+
+0.2.7
+-----
+b980baf5151a21e9340d339f19da7e05b4596d2d
+julia 0.2-
+Color
+BinDeps
+
+0.2.8
+-----
+b81bc6315aff9e1234dcc88b615696cac6603a5b
+Color
+BinDeps
+0.2.9
+-----
+1f40f46bc2b11a342d80611c4e3f42ff2300011d
+Color
+BinDeps
+@osx Homebrew
+@windows WinRPM

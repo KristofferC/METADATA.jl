@@ -1,0 +1,83 @@
+git://github.com/JuliaDiff/ReverseDiffSource.jl.git
+
+0.0.1
+-----
+fb02a60aa1fd75c52602afa2e404448a7e8abbce
+
+0.0.2
+-----
+d2cdd63818801b4e78ff1e4db784b58590da33c7
+julia 0.2-
+
+0.0.3
+-----
+4e51837ddd0096bad24564731b28520844333fc4
+julia 0.2-
+
+0.0.4
+-----
+b2f46d5fdae5855984ecc7811596ada8813f6e8b
+julia 0.2-
+
+0.0.5
+-----
+a7efdbfd329265f8cd314234f66de3fc16d2f2ea
+julia 0.2-
+
+0.0.6
+-----
+c30d2250c95d5904eb2301a77bffc50d9fbbe4d3
+julia 0.3
+Compat
+
+0.1.0
+-----
+cd3b64222caf8773f3efe91db8dc1f8c5f0de38e
+julia 0.3-
+
+0.1.1
+-----
+fe2a9ffbc4ccf6fa346f3eb1b8ab0c1e4e902fa0
+julia 0.3-
+
+0.1.2
+-----
+a700b013457e8acbfe919d87ed41dc52f74b6f10
+julia 0.3-
+Compat
+
+0.1.3
+-----
+4112f6acb8952201f54d664e480a3f1957f35d22
+julia 0.3-
+Compat
+
+0.1.4
+-----
+9c8ad6d278e2a9c7848e3094756e203347b1b1a5
+julia 0.3
+Compat
+
+0.2.0
+-----
+4d3b0cb72646044cd68e5fa8a724c9df82be66d7
+julia 0.4
+Compat
+
+0.2.1
+-----
+95dd2f5319ab8783b8069b6d94d315db1e19a8ff
+julia 0.4
+Compat
+
+0.2.2
+-----
+f60a9ef208547b0e140a4cbbed9bdf251e16f34a
+julia 0.4
+Compat
+
+0.2.3
+-----
+89e1c0bf92f2252786d3d34be7ee69d8a204f077
+julia 0.4
+Compat

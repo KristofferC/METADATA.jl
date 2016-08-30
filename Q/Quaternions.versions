@@ -1,0 +1,37 @@
+git://github.com/JuliaGeometry/Quaternions.jl.git
+
+0.0.1
+-----
+5a68546879b1bf29973c672466d82b8c7134e9c0
+julia 0.2-
+DualNumbers
+
+0.0.2
+-----
+288d1d6faaef9049a6fc68619c5b056e428b4ff0julia 0.2-
+DualNumbers
+
+0.0.3
+-----
+bc13fc6ad83b0a14df67f3eb343a0a5be1126f16
+julia 0.2-
+DualNumbers
+
+0.0.4
+-----
+1a81c4d369cbf434e90fc63bd5fc299e075504e3
+julia 0.2-
+DualNumbers
+
+0.1.0
+-----
+edf1e6fcd1c06808ddbe131c80675d358ae34747
+julia 0.3
+DualNumbers
+
+0.1.1
+-----
+ac488e96c852e1c4cb4ae69abb12d7e12aeab154
+julia 0.3
+DualNumbers
+Compat 0.7.15

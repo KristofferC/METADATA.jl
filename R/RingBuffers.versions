@@ -1,0 +1,13 @@
+https://github.com/JuliaAudio/RingBuffers.jl.git
+
+0.0.1
+-----
+dfe68383404b93c17fc09750a0631d94a25dfb2d
+julia 0.4
+Devectorize
+
+0.1.0
+-----
+0cde5a48c95a6b83ac306e8b8e78f73ec2bac032
+julia 0.4
+Compat 0.8.8

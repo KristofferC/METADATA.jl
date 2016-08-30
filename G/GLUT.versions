@@ -1,0 +1,49 @@
+git://github.com/rennis250/GLUT.jl.git
+
+0.0.0
+-----
+3b14082735a369fbe0045da7e2d83797c0d6fab4
+GetC
+OpenGL
+
+0.1.0
+-----
+d1c945224e0537d828e9df018f3b68a0e4d1b30b
+OpenGL
+
+0.2.0
+-----
+aaf1f139f1e0c4b905769f37ab4e84b6e3dce307
+OpenGL
+
+0.3.0
+-----
+d3cf1e99413c585302ac5d2505fe543cd615428f
+OpenGL
+
+0.3.1
+-----
+c6e43549f57f9fec001fc5155738324019dbb512
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.3.2
+-----
+62ae518a6381562828a50fd8335abd6dfc555646
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-
+
+0.4.0
+-----
+30612ff3b1592b81a3ddf48e24bb33cf58f06f69
+OpenGL
+BinDeps
+@osx Homebrew
+@windows WinRPM
+julia 0.2-

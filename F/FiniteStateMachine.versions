@@ -1,0 +1,23 @@
+git://github.com/tinybike/FiniteStateMachine.jl.git
+
+0.0.1
+-----
+da371f844a0df9c5c5d57fe22762c79bce2e03c8
+julia 0.3-
+
+0.0.2
+-----
+fdd3cc0ed1a7c8deac82a55438996a54bdda840f
+julia 0.3-
+
+0.1.0
+-----
+792daa6d6a95316f5e1057ea92374fc19b3d2d9a
+Compat
+julia 0.3-
+
+0.1.1
+-----
+f0d80aed0b899436d149d1c12883b0734e8894df
+Compat
+julia 0.3

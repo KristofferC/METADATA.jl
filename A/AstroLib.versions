@@ -1,0 +1,33 @@
+git://github.com/JuliaAstro/AstroLib.jl.git
+
+0.0.1
+-----
+b6c64079a99df10569e414862921cd766457cc84
+julia 0.4
+
+0.0.2
+-----
+ad524aff42fc0a305fa80cf9223376ca03300b96
+julia 0.4
+
+0.0.3
+-----
+7044ea5978c0e6f0782c4b747e23e775091b91dd
+julia 0.4
+
+0.0.4
+-----
+4fd7a35f3936620b0c6a8a19ec0b688aa1a27968
+julia 0.4
+
+0.0.5
+-----
+ff2f34182481ec71652a638c5dedf103bd0e8048
+julia 0.4
+BinDeps
+
+0.0.6
+-----
+692255a109e5219ef9baaf5179730c151676c96c
+julia 0.4
+Compat

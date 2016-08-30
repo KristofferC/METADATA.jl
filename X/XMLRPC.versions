@@ -1,0 +1,8 @@
+git://github.com/sjkelly/XMLRPC.jl.git
+
+0.0.1
+-----
+d1d52f5c7983d90d24bd30bf4d2836d092d70265
+julia 0.4
+Requests
+LightXML

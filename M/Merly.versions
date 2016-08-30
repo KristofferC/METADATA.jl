@@ -1,0 +1,19 @@
+git://github.com/codeneomatrix/Merly.jl.git
+
+0.0.1
+-----
+0b1c81cf3f69e84ba77cb4ad4bbc99352ad23a2d
+julia 0.4
+HttpServer
+HttpCommon
+JSON
+XMLDict
+
+0.0.2
+-----
+6201923396f2362d6955daa04085a3c49c45c0f8
+julia 0.4
+HttpServer
+HttpCommon
+JSON
+XMLDict

@@ -1,0 +1,32 @@
+git://github.com/JuliaGeo/LibGEOS.jl.git
+
+0.0.1
+-----
+59c3d3f2481de7431660f30e6e1df6d424f1b3ac
+
+0.0.2
+-----
+b9c3494f208eee9d6ea8436b7dcaba09860ad488
+julia 0.3
+GeoInterface
+Compat
+
+0.0.3
+-----
+f882a4b17d3995a599d3f8c12ceb2a318c758716
+julia 0.3
+GeoInterface
+BinDeps
+@osx Homebrew
+Compat
+@windows WinRPM
+
+0.0.4
+-----
+97cd383cf89d31bf1626395910114ca438fe1e71
+julia 0.3
+GeoInterface
+BinDeps
+@osx Homebrew
+Compat
+@windows WinRPM

@@ -1,0 +1,223 @@
+git://github.com/samoconnor/AWSCore.jl.git
+
+0.0.1
+-----
+37e038615531670fc23c3dd4ca7047c87025c9aa
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.10
+------
+0bf97c66fd78270fa431337b45f03c70bac7d1f5
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.11
+------
+cbe91fdd4433eafd8f2fb052e5b07ce8e9e9dd0d
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.12
+------
+afcd9807717d667850730affba215f73edc0f159
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.13
+------
+9330a7b5131dde536ff6645f25822dd552c2c398
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.14
+------
+5938252aa70cbe39e338346899389efac326c536
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.15
+------
+0e3486694c67631136abab9a9001f85771fe546c
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.16
+------
+8f74d6fb6a202a60e09b35ee223ff07754aa5602
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.17
+------
+b7438b8ae62a6b2329cc1ad0093d959618fe849d
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+Compat
+
+0.0.2
+-----
+9caaa4f0d7144824e67d7bb340657ba9faa44031
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.3
+-----
+68ffd8a211d35d7fc0dea676cd05a2952bd414e4
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.4
+-----
+0302c87c850e83fbea9e4d8fa8490d3c46701d9a
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.5
+-----
+8b00f411ff26689ada6ee32af69d90abdac7bcc9
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.6
+-----
+9466ee0ef4b6c73c782eee26942c8aff8017c5e4
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.7
+-----
+84ad66140ca6ca34e38fbb8dc23669169793d830
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.8
+-----
+78d8052a9d511cdbe5948bb6e1ca1cd573cf31b8
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+
+0.0.9
+-----
+58cc2a156b93e562f86ced300982adc14a0ebfc3
+julia 0.4
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle

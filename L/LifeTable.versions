@@ -1,0 +1,17 @@
+git://github.com/klpn/LifeTable.jl.git
+
+0.0.1
+-----
+e7896df475c7a966d5244fd8a5d047cc62bb72fe
+julia 0.3
+DataFrames
+LsqFit
+GLM
+
+0.0.2
+-----
+67a653e2758bba155b7b77a15e1190472ce4dde8
+julia 0.3
+DataFrames
+LsqFit
+GLM

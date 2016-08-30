@@ -1,0 +1,18 @@
+https://github.com/nalimilan/StringEncodings.jl.git
+
+0.1.0
+-----
+b289eea73ce4d6611e2f70fb20800646e256d756
+julia 0.4
+BinDeps
+Compat
+@windows WinRPM
+
+0.1.1
+-----
+e6fd1bfa601a66207afc3061c479678548dd227f
+julia 0.4
+BinDeps
+Compat 0.8.0
+@windows WinRPM
+LegacyStrings 0.1.1

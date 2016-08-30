@@ -1,0 +1,13 @@
+git://github.com/JuliaML/MLDataUtils.jl.git
+
+0.0.1
+-----
+2334536c3f67c18cf9791fdbf1c95e91f979f33b
+julia 0.4
+StatsBase
+
+0.0.2
+-----
+b0b9a2eb698fda4ee84a3409d9902e572a363d7d
+julia 0.4
+StatsBase

@@ -1,0 +1,10 @@
+git://github.com/seung-lab/EMIRT.jl.git
+
+0.0.1
+-----
+cc12981f25aa3340b754c708214f8ab487e619d1
+julia 0.4
+PyCall
+PyPlot
+HDF5
+Compose

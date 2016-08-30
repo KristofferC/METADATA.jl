@@ -1,0 +1,225 @@
+git://github.com/andrewcooke/ParserCombinator.jl.git
+
+0.0.1
+-----
+33cafca80a56e5cd2f0413b407c87830fe00e739
+DataStructures
+Compat
+Debug
+
+0.0.2
+-----
+db4deb8ffa1c64dd19c871801ca95bbdd01963e8
+julia 0.3
+DataStructures
+Compat
+Debug
+
+1.0.0
+-----
+4cb6e869739d4a7760db0d32b319922e66fb2a9f
+julia 0.3
+DataStructures
+Compat
+Debug
+
+1.0.1
+-----
+0ca7f4a6c865a6d1f9dcf30345224d07c39ee5cd
+julia 0.3
+DataStructures
+Compat
+Debug
+
+1.1.0
+-----
+af92bd64fb3af55a9da61e1e1495d27c814130f2
+julia 0.3
+DataStructures
+Compat
+Debug
+
+1.1.1
+-----
+1fe85fb6f57574b3fe970e7eef3f7a2c0aa1345c
+julia 0.3
+Compat
+
+1.1.2
+-----
+5053ad4658f6659dea405f2b849d455e66a6b547
+julia 0.3
+Compat
+
+1.1.3
+-----
+451ce5856881357387077c15a23195f0d30e6aed
+julia 0.3
+Compat
+
+1.1.4
+-----
+5a50de6f1de749e6d9594ea777230f1c3565b967
+julia 0.3
+Compat
+
+1.2.0
+-----
+cffebc149f1188272c2b366172ae636a22b89aa4
+julia 0.3
+Compat
+AutoHashEquals
+
+1.2.1
+-----
+efcb17731574f9e3b66887f7a93decd233239960
+julia 0.3
+Compat
+AutoHashEquals
+
+1.3.0
+-----
+efcb17731574f9e3b66887f7a93decd233239960
+julia 0.3
+Compat
+AutoHashEquals
+
+1.4.0
+-----
+9b0d498e633d1285362b4e533ffd3cd683c0a2a6
+julia 0.3
+Compat
+AutoHashEquals
+
+1.5.0
+-----
+c7aee60b8637da487ae017ca969af275e8b3d203
+julia 0.3
+Compat
+AutoHashEquals
+
+1.5.1
+-----
+12672c5ddf6cc98b0b2847aa6a31a16ee0ca6812
+julia 0.3
+Compat
+AutoHashEquals
+
+1.5.2
+-----
+98b0d48491708afc794ab7a471663c9373cf4ca1
+julia 0.3
+Compat
+AutoHashEquals
+
+1.6.0
+-----
+c28742cf8c4af8e49d66384640abbb1dc4dfa6ae
+julia 0.3
+Compat
+AutoHashEquals
+
+1.6.1
+-----
+dc0965d9b6bd04b02bace7a2812dfb1e2ad7271e
+julia 0.3
+Compat
+AutoHashEquals
+
+1.6.2
+-----
+73d119b2f2a74544c75bef0c21b09b03e1d18e6f
+julia 0.3
+Compat
+AutoHashEquals
+
+1.6.3
+-----
+9106f09f433e111e4d0690f6f62a2f8cc862ae9b
+julia 0.3
+Compat
+AutoHashEquals
+
+1.7.0
+-----
+203085f06b1c0a125845b487e7e4d886a6b8a640
+julia 0.3
+Compat 0.7.6
+AutoHashEquals
+
+1.7.1
+-----
+b8bf5d3686110a7b031dc12fd41c8c70c5e228b1
+julia 0.3
+Compat 0.7.6
+AutoHashEquals
+
+1.7.10
+------
+0fdcd12cc8914022c07f5e3a191daab67d728e51
+julia 0.3
+Compat 0.7.12
+AutoHashEquals 0.0.8
+
+1.7.11
+------
+a0c0da6cbaa98ed707d4290c899589e7833dbec5
+julia 0.3
+Compat 0.7.12
+AutoHashEquals 0.0.8
+
+1.7.2
+-----
+b275b4eb786d9b6a1e8f4fbfbd8ec80c8e780515
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.3
+-----
+6024e47d167c08876cf2a7fdf3f01866640ff37d
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.4
+-----
+6c7045994dee1f1bc4d6bff0a8c96043a9599a5e
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.5
+-----
+34ee64d71709f57abaea8f186f20ee695a0a2a02
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.6
+-----
+34ee64d71709f57abaea8f186f20ee695a0a2a02
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.7
+-----
+865cf925f8fab5e3c3938cef186a1d5ce9ea3913
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.8
+-----
+c4fe807d72073847e8e8a84480a58e4b4650b915
+julia 0.3
+Compat 0.7.6
+AutoHashEquals 0.0.8
+
+1.7.9
+-----
+8cd7644b1c518b4cc2617faa9c51723cdf60958e
+julia 0.3
+Compat 0.7.12
+AutoHashEquals 0.0.8

@@ -1,0 +1,38 @@
+git://github.com/carlobaldassi/TextWrap.jl.git
+
+0.0.0
+-----
+9bb71a528aff3212afa160b7f0cc1266bc20b34b
+Options
+
+0.1.1
+-----
+ce11b13e1ac4c0a4c2c77716e464cacb6c57acfb
+julia 0.2-
+
+0.1.2
+-----
+bb63797032ce361db6118f1f46c72c49c162f231
+julia 0.2-
+
+0.1.3
+-----
+efe90ca4520b0f5a8daa3fe70128af81118fab9b
+julia 0.2-
+
+0.1.4
+-----
+5c05b2958d81c0653e142688f05d858678753763
+julia 0.2
+
+0.1.5
+-----
+869810f7e24422c0b96b32efd209f1934a29b130
+julia 0.3
+Compat 0.7.3
+
+0.1.6
+-----
+fb405bec9778ed9c8746992c7716676793101b5d
+julia 0.3
+Compat 0.7.15

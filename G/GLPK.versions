@@ -1,0 +1,92 @@
+git://github.com/JuliaOpt/GLPK.jl.git
+
+0.1.2
+-----
+d1ea5c38e0c6b5dceadbd26b9732c2d988996330
+julia 0.1- 0.2-
+BinDeps 0.0.0- 0.0.1-
+
+0.2.10
+------
+754c201c4fdbaf9866fa7d8a1b4f26f6403aba95
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+
+0.2.11
+------
+b22a471fd81914c097622af9b931aeb7668dcfe7
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+
+0.2.12
+------
+da2b074a65c5652df8f2ac09a16a7c6c33c435c7
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+
+0.2.13
+------
+b92d3f2a0a22d1100b5dcf2d0883e61782bc487c
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+
+0.2.14
+------
+ccc0811db3f4c29d135cc01f59cef05b7c7513ee
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+
+0.2.15
+------
+68603c3d7eb03735fc283582e0edca3245d8eff9
+julia 0.2-
+BinDeps 0.2.4-
+@osx Homebrew
+Compat 0.3.5
+
+0.2.16
+------
+f6fa76960508dd72502ecb3d4f671b32fcdcfb63
+julia 0.2
+BinDeps 0.3
+@osx Homebrew
+Compat 0.3.5
+
+0.2.17
+------
+1de8b577e482d659b9b858e7101d6fb683593941
+julia 0.3
+BinDeps
+@osx Homebrew
+Compat 0.7.1
+
+0.2.7
+-----
+67d60a8d831cd0bfa4283f5f8c2e5917ca9dc4e4
+julia 0.2-
+BinDeps 0.2.4-
+
+0.2.8
+-----
+df3d07cf225abad13dae5d089e9f8a117d1073c3
+julia 0.2-
+BinDeps 0.2.4-
+
+0.2.9
+-----
+754c201c4fdbaf9866fa7d8a1b4f26f6403aba95
+julia 0.2-
+BinDeps 0.2.4-
+
+0.3.0
+-----
+1674755b4f54c9aab64a80f07b2ef5246581e011
+julia 0.4
+BinDeps
+@osx Homebrew
+Compat 0.7.7

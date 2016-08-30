@@ -1,0 +1,18 @@
+git://github.com/wildart/Evolutionary.jl.git
+
+0.1.0
+-----
+4104e2c4322a23454e221384ac918127f81ce19f
+julia 0.3
+
+0.1.1
+-----
+68b6c2a1a7eb8aeb66a3f9f2aed962d6ad3ccad4
+julia 0.3
+Compat
+
+0.1.2
+-----
+68b6c2a1a7eb8aeb66a3f9f2aed962d6ad3ccad4
+julia 0.3
+Compat

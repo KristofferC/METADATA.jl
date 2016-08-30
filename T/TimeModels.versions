@@ -1,0 +1,42 @@
+git://github.com/JuliaStats/TimeModels.jl.git
+
+0.0.0
+-----
+e093c27f7458db9a26e71d06ddb58f8237b72bb7
+StatsBase
+DataFrames
+Calendar
+UTF16
+TimeSeries
+
+0.0.1
+-----
+8a9e91fbf40c00e3dc16cea42f23ddc3c4438ed5
+StatsBase
+DataFrames
+Datetime
+TimeSeries
+Winston
+
+0.0.2
+-----
+d0355042294c7513a8d2c47a6708b84223af2d08
+julia 0.3-
+Distributions
+StatsBase
+Datetime
+TimeSeries
+NLopt
+Optim 0.0 0.5
+
+0.0.3
+-----
+a47b875339c28a21509e19201384b0aa96aab04c
+julia 0.3 0.5-
+Compat
+Distributions
+StatsBase
+Dates
+TimeSeries 0.5.11
+NLopt
+Optim 0.0 0.5

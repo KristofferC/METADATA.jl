@@ -1,0 +1,29 @@
+git://github.com/stevengj/DecFP.jl.git
+
+0.1.0
+-----
+5fdc88fb24b86c364edc34a7e900f3d2c502f8c2
+julia 0.4-
+BinDeps
+Compat
+
+0.1.1
+-----
+8e98e5ebdf8c59488aab866dd6b22b19bd38a8d1
+julia 0.4-
+BinDeps
+Compat
+
+0.1.2
+-----
+2c58d1da858e15032690ccd31644f7615458a6bc
+julia 0.4
+BinDeps
+Compat
+
+0.1.3
+-----
+3669a757c746530d5aaf9ab60046ab74ec9f6ccd
+julia 0.4
+BinDeps
+Compat

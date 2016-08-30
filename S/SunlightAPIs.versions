@@ -1,0 +1,25 @@
+git://github.com/WestleyArgentum/SunlightAPIs.jl.git
+
+0.0.1
+-----
+ad92720b8d6110b452c9f0c3ed1653a6a03cfac4
+julia 0.2-
+JSON
+HttpCommon
+Requests
+
+0.0.2
+-----
+48d6659a778153894912353708ba612987f90f23
+julia 0.2-
+JSON
+HttpCommon
+Requests
+
+0.0.3
+-----
+ec84c412ec1f197d9f915dc6fc7f5a7f593976c6
+julia 0.2-
+JSON
+HttpCommon
+Requests

@@ -1,0 +1,130 @@
+git://github.com/JuliaStats/Clustering.jl.git
+
+0.0.0
+-----
+9d569373de6bd9d33caef93afb99ac25ab94d26b
+Options
+Devectorize
+Distance
+MLBase
+
+0.2.0
+-----
+bd084403ddb2348f9ae80eb98a46430fb8397684
+julia 0.2-
+Devectorize
+Distance
+MLBase
+
+0.2.1
+-----
+11a709c24493c2d83279a77da425321f4bb7fc1c
+julia 0.2-
+Devectorize
+Distance
+StatsBase
+
+0.2.2
+-----
+46f7ad51f365ac4a9e8219857296fb09b8ba0ac4
+julia 0.2-
+Devectorize
+Distance
+StatsBase
+
+0.2.3
+-----
+05d23c6c4d56f1177e1a0eecd1d629942b876a58
+Distance
+julia 0.2.0-
+NumericExtensions
+StatsBase
+
+0.2.4
+-----
+540a6122df714a3cffe3f8abf5ca3ff08abad326
+julia 0.2-
+NumericExtensions
+Distance
+StatsBase
+
+0.2.5
+-----
+f7c4e80923631626519633ffd8983dcb8bc67a3e
+julia 0.2-
+NumericExtensions
+Distance
+StatsBase 0.3-
+
+0.2.6
+-----
+646cead756d755f0faee08d552daf7fd3cd0a64b
+julia 0.3-
+ArrayViews 0.3-
+Distance 0.4-
+StatsBase 0.3-
+
+0.2.7
+-----
+a496ea01536d8b363567178b6a4cd2a8186980e4
+julia 0.3-
+ArrayViews 0.3-
+Distance 0.4-
+StatsBase 0.3-
+
+0.3.0
+-----
+eae74fa9295565ae136772a02db6685cfb03cf88
+julia 0.3-
+ArrayViews 0.3-
+Distance 0.4-
+StatsBase 0.3-
+
+0.3.1
+-----
+c72d19cd64b047c39473974d4ff1b2c8268e279e
+julia 0.3-
+ArrayViews 0.3-
+Distance 0.4-
+StatsBase 0.3-
+
+0.3.2
+-----
+4e43f006f9d66f8a481417a14ce9d8d42a183ee3
+julia 0.3-
+ArrayViews 0.3-
+Distances
+StatsBase 0.3-
+
+0.3.3
+-----
+b7dea1e783674c576eadbcc349a084285c794f6d
+julia 0.3-
+ArrayViews 0.4.8-
+Distances 0.2-
+StatsBase 0.6.9-
+
+0.4.0
+-----
+7b740ed9d2c2092ebf922d5dc87b6dbe1731976e
+julia 0.3-
+ArrayViews 0.4.8-
+Distances 0.2-
+StatsBase 0.6.9-
+
+0.5.0
+-----
+3f1fd76d943cc8a4ab600f692cc6622d1b8fba76
+julia 0.3
+ArrayViews 0.6.0
+Distances 0.2.0
+StatsBase 0.7.0
+Compat
+
+0.6.0
+-----
+3c4c28ec034931733735c8c49e60906f4b4bf989
+julia 0.4
+Distances 0.3.1
+StatsBase 0.9.0
+Compat 0.8.5

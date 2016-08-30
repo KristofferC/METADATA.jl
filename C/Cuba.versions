@@ -1,0 +1,55 @@
+git://github.com/giordano/Cuba.jl.git
+
+0.0.1
+-----
+31df0f54bd16d9147c4c2c5a1ee31badba43fbf8
+julia 0.4
+
+0.0.2
+-----
+bb46d5938256d1e033c47e5970d794e9336b4aa9
+julia 0.4
+
+0.0.3
+-----
+f824d18468feff7fbb6a0be2ad69ff2d706820a2
+julia 0.4
+
+0.0.4
+-----
+f4472c19d6590ed3e685a403c627bc2eaa9e7071
+julia 0.4
+
+0.0.5
+-----
+9cbe93367fdb3d60d25119606846109a814309e4
+julia 0.4
+
+0.1.0
+-----
+59bb97c6e04b11545427d6ad1b95a7f30d274a9d
+julia 0.4
+
+0.1.1
+-----
+25c6acebb85df8d2719d1191c21594c033338f18
+julia 0.4
+Compat 0.8.5
+
+0.1.2
+-----
+f64049187dca8e3cfe4b9ba5ec8fe66a6fb66bd5
+julia 0.4
+Compat 0.8.5
+
+0.1.3
+-----
+4b1c6085fd8d7d8712552a1c7c642cb046a9fc0c
+julia 0.4
+Compat 0.8.5
+
+0.1.4
+-----
+974f8d11980e3dfdc54b42eb44790839c316e54d
+julia 0.4
+Compat 0.8.5

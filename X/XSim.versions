@@ -1,0 +1,25 @@
+git://github.com/reworkhow/XSim.jl.git
+
+0.0.1
+-----
+d6fc6ad254cc277c6409c867b177c7088adaf901
+
+0.0.2
+-----
+94f4bb2fa966f9630a6e54621f492bfbef6771c7
+julia 0.3-
+Distributions
+
+0.0.3
+-----
+89e197ec72e584601beff6c1ee09ec1e392cde28
+julia 0.3
+Distributions
+
+0.1.0
+-----
+45e913ec7fbca4a5e46151f9521f6534767df74c
+julia 0.4
+DataFrames
+Distributions
+JWAS 0.1-

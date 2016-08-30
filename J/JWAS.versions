@@ -1,0 +1,33 @@
+git://github.com/reworkhow/JWAS.jl.git
+
+0.0.1
+-----
+f4dd784101e4b57341540b20e2195d259c3e8fea
+
+0.0.2
+-----
+8be356f52d7809e8178a9df54ae5f16adc663126
+julia 0.3-
+Distributions
+
+0.0.3
+-----
+e2bbb9b5672f76f21cca003f0126b2936d62ef5a
+julia 0.3
+Distributions
+
+0.1.0
+-----
+436520d133148ddb4264acd732db50ac086ab4f8
+julia 0.4
+Distributions
+DataFrames
+
+0.1.1
+-----
+645084951386b33670bb07e1e76992ce299dd6e0
+julia 0.4
+Distributions
+DataFrames
+ProgressMeter
+Plots

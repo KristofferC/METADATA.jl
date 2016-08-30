@@ -1,0 +1,18 @@
+git://github.com/yunjhongwu/TensorDecompositions.jl.git
+
+0.0.1
+-----
+0a203245ac9521512e8cca7459b2a7f9f083792e
+julia 0.3
+TensorOperations
+Distributions
+Compat
+
+0.1.0
+-----
+26190bb49f68eb33735aac22807d06e060244231
+julia 0.4
+TensorOperations
+Distributions
+ProgressMeter
+FactCheck

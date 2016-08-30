@@ -1,0 +1,24 @@
+git://github.com/kmsquire/MsgPack.jl.git
+
+0.0.1
+-----
+72c815023eac3c9d0b30de89fa553a3a2e0fd33f
+
+0.0.2
+-----
+f818753b4ff7bde8ce9f89011ea14b3e287cc4b7
+
+0.0.3
+-----
+b1c2fe62790ec63aee103ea3038fc26315e40da2
+
+0.0.4
+-----
+15fcfac2c8a486f746f3488a7dc30c409ec58c53
+julia 0.3
+
+0.0.5
+-----
+1fbe1ed3a2f69763b787fede3526816efa9975fa
+julia 0.3
+Compat

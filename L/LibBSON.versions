@@ -1,0 +1,87 @@
+git://github.com/pzion/LibBSON.jl.git
+
+0.0.1
+-----
+f3a98f426dd25a506885113940497dea87eb9b6a
+julia 0.3-
+FactCheck
+
+0.0.2
+-----
+e229d5917c8a486360dff4208301d85e2a5e84ea
+julia 0.3-
+
+0.1.0
+-----
+4334553ca107bb5c9a2f9eb51fc1dd799acfe7b5
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.1
+-----
+b2063406d098ff196d9b8551ad43a59b674bbf0a
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.2
+-----
+30230d3a847a17a07ec799e42cdc610ac85a9166
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.3
+-----
+a386f5944681e09fce841fb70524b8114f3021d9
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.4
+-----
+e2be51ede2a139a3db087630c3ae1c7330e78462
+julia 0.3-
+BinDeps
+@osx Homebrew
+
+0.1.5
+-----
+9cb897eb578756ea416331ef1992846d767d548c
+julia 0.3-
+BinDeps
+Compat
+@osx Homebrew
+
+0.1.6
+-----
+c854c7df053533070c7d1e8f2f6e708410ab438c
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+
+0.1.7
+-----
+c1e5379d49ce58ce91f6c89937b2f7c4d2fe7006
+julia 0.3
+BinDeps
+Compat
+@osx Homebrew
+
+0.2.0
+-----
+b4466e340188acc721e0ad4fc3594f3b1000cce5
+julia 0.4
+BinDeps
+Compat
+@osx Homebrew
+
+0.2.1
+-----
+588282c1efc2fd267aacbe16a3a929c4b4b4d38d
+julia 0.4
+BinDeps
+Compat
+@osx Homebrew

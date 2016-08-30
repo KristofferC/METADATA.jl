@@ -1,0 +1,38 @@
+git://github.com/PoisotLab/Brim.jl.git
+
+1.0.0
+-----
+c2f9c7ccefaf4b119c5cbdc2b2722483135e52b1
+julia 0.3-
+Cairo
+Color 0.2.10-
+DataFrames
+
+1.1.0
+-----
+4b2a17213c483fe088092bc1b9f5fce793de0a3d
+julia 0.3
+Cairo
+Color 0.2.10-
+DataFrames
+Lexicon
+Logging
+StatsBase
+
+1.2.1
+-----
+16cff41a99010ce38b1380fec4c005ee717ba741
+julia 0.4
+Cairo
+Colors
+DataFrames
+StatsBase
+
+1.2.2
+-----
+16cff41a99010ce38b1380fec4c005ee717ba741
+julia 0.4
+Cairo
+Colors
+DataFrames
+StatsBase

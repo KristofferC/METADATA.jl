@@ -1,0 +1,9 @@
+git://github.com/seung-lab/ImageRegistration.jl.git
+
+0.0.1
+-----
+4e971bad11a96bb9a14f2e6c65ce04dc5738ca14
+julia 0.4
+Images
+ImageView
+FixedPointNumbers

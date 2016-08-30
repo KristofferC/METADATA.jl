@@ -1,0 +1,35 @@
+git://github.com/andreasnoack/RNGTest.jl.git
+
+0.0.0
+-----
+7bd650f24df5288453bcdafaab7f2dedcde7a86d
+
+0.0.1
+-----
+13b2854f69d57a16b24214d3caef554a669577f1julia 0.2-
+0.0.2
+-----
+f2e8c98350dd2ca6ff1d816a22dd73b4dfcc25e7
+julia 0.2-
+
+0.0.3
+-----
+92c50127c3cfb9e1ae84e6d281fb10e678ad4203
+julia 0.2-
+
+0.0.4
+-----
+10c957fa276046102cf41896d81a53786607ae36
+julia 0.3
+
+0.0.5
+-----
+0f43c73e17ae5edd9f6f87ca348d7d41f4599fec
+julia 0.3
+Compat
+
+1.0.0
+-----
+f3558a9adc5780a5d049b929ef642ca7f8fed24f
+julia 0.3
+Compat

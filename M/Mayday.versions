@@ -1,0 +1,10 @@
+git://github.com/rdeits/Mayday.jl.git
+
+0.0.1
+-----
+88c8823b1e22a6df8ecfa02026a4c1f003cef4ce
+julia 0.4
+JuMP 0.12
+MultiPoly 0.1
+SCS
+DataStructures

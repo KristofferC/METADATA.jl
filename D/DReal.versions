@@ -1,0 +1,27 @@
+git://github.com/dreal/DReal.jl.git
+
+0.0.1
+-----
+4e7f27be8d33a42c134f6da0816ac4acfc0db0a4
+julia 0.3-
+AbstractDomains
+BinDeps
+Docile
+MathProgBase
+
+0.0.2
+-----
+1d46446b202dc8d976f57c687d249a0a117605ed
+julia 0.3-
+AbstractDomains
+BinDeps
+Docile
+MathProgBase
+
+0.1.0
+-----
+a195e8e492fc98e93304ce55b396e9babc171293
+julia 0.4
+AbstractDomains
+BinDeps
+MathProgBase

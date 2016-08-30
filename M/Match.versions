@@ -1,0 +1,85 @@
+git://github.com/kmsquire/Match.jl.git
+
+0.0.0
+-----
+0fb941d0b071050aa4484f23a333347b29b5d970
+julia 0.2-
+
+0.0.1
+-----
+c6328af4621141f2b58b18d9e7e5d4f3e59611fb
+julia 0.2-
+
+0.0.2
+-----
+59ca3fadb97a1526614aa39a5a5382e1d31feb7c
+julia 0.2-
+
+0.0.3
+-----
+cf3511f5fd597293e56081ab98370ab3816e1a86
+julia 0.2-
+
+0.0.4
+-----
+97f73ccd58b1c33c129c4b46af6ab74ab9c90225
+julia 0.2-
+
+0.0.5
+-----
+8318e38a5e5f7c528af6db02e042f5784ce079b7
+julia 0.2-
+
+0.0.6
+-----
+04301908e7b5f14dd9703ca45cdc3ace4f0b687f
+julia 0.3
+Compat
+
+0.1.0
+-----
+aa3465f838c56616009caba6bbd04f1e6395a898
+julia 0.3
+Compat
+
+0.1.1
+-----
+8cc1cade164a5b851102a09a64a97600e1ce5799
+julia 0.3
+Compat
+
+0.1.2
+-----
+d0d92ff5611336aa59dd30d2d3344b8de0fe7006
+julia 0.3
+Compat
+ArrayViews
+
+0.1.3
+-----
+05cf6bce064815978c4b56ecf23e600327d4e881
+julia 0.3
+Compat 0.3.3
+ArrayViews
+
+0.1.4
+-----
+4cf429650df0df1ef9c07ce7ac0d1e5a523a30ae
+julia 0.3
+Compat 0.3.3
+
+0.2.0
+-----
+81d95d7e85afa678e78cd166e60a0affe055061c
+julia 0.4
+
+0.2.1
+-----
+7b28ce1d562b56c1216a07bbfd465f86d015f46d
+julia 0.4
+
+0.2.2
+-----
+26d83a6b424c55b2cff557995dccb10f9cf278cb
+julia 0.4
+Compat 0.7.18

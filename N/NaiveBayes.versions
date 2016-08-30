@@ -1,0 +1,13 @@
+git://github.com/dfdx/NaiveBayes.jl.git
+
+0.1.0
+-----
+f4b7b280309b8b6ec8a77bc871f9939a6f44992c
+julia 0.3-
+Distributions 0.6+
+
+0.2.0
+-----
+3f3d0d9249030a9078e3121c27c645efa4646286
+julia 0.4
+Distributions 0.6+

@@ -1,0 +1,73 @@
+git://github.com/matthieugomez/FixedEffectModels.jl.git
+
+0.0.1
+-----
+e0773437ce09c0c5faa9dd3f0c3281955a5a3fedjulia 0.3
+Distributions 0.4.6
+Distances 0.1.1
+StatsBase 0.3
+DataArrays
+DataFrames 0.6
+GLM
+
+0.0.2
+-----
+d74e028bcfd4ab1c69a6509834bf33d13696376fjulia 0.3
+Distributions 0.4.6
+Distances 0.1.1
+StatsBase 0.3
+DataArrays
+DataFrames 0.6
+GLM
+
+0.0.3
+-----
+d85a650a11b281b90664a05789f32ae325b92c36julia 0.3
+Distributions 0.4.6
+Distances 0.1.1
+StatsBase 0.3
+DataArrays
+DataFrames 0.6
+GLM
+
+0.1.0
+-----
+081e40dbed568cda70b99bdcfe2fd9d2b80f92a0julia 0.3
+Distributions 0.4.6
+Distances 0.1.1
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+
+0.1.1
+-----
+a132380e51770f0c9eea1c51559a61ffde7b273ajulia 0.3
+Compat
+Distributions 0.4.6
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+0.2.0
+-----
+4d99970da5e60f394d8f66064a7bd3d8808b14bdjulia 0.4-
+Compat
+Distributions 0.4.6
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+0.2.1
+-----
+d20702ee51123e6bc5d9c30fd8ea047a270120f2julia 0.4-
+Compat
+Distributions 0.4.6
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+0.2.2
+-----
+78bf0ad10705e219e9a4ba2e94e9b38a0f80c3c4julia 0.4-
+Compat
+Distributions 0.4.6
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6

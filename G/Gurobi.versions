@@ -1,0 +1,218 @@
+git://github.com/JuliaOpt/Gurobi.jl.git
+
+0.1.10
+------
+75acc22732076014266324f60afef69383611f08
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.11
+------
+f870e3596cbbff8da1ff46968fa428f1f57d93b0
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.12
+------
+779a5ce0367dd8710248102b274e34a548c5464a
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.13
+------
+85f8771162106e5d4b8522dbc01ceacd22a53d60
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.14
+------
+923494be3d78bc53456d4399298919f368e8fe56
+julia 0.2
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.15
+------
+e0281a0e78e6c37e0882420ad692d08230bda37a
+julia 0.2
+BinDeps
+MathProgBase 0.1.6 0.3.0-
+
+0.1.16
+------
+73a3d7b65b8b43a4bcdb56e092873e9e57f5e38e
+julia 0.2
+BinDeps
+MathProgBase 0.1.6 0.3.0-
+
+0.1.17
+------
+1d1f4cf22e754c359c9e88e45a5f152668ca372d
+julia 0.2
+BinDeps
+MathProgBase 0.1.6 0.3.0-
+
+0.1.18
+------
+19f6fa03ea469d54e05b53d36eb3c804c6bf99ae
+julia 0.2
+BinDeps
+MathProgBase 0.1.6 0.3.0-
+
+0.1.19
+------
+e518b2d8a442746371510cf5d176fea6ce1f6cb1
+julia 0.2
+BinDeps
+MathProgBase 0.3.0-dev1 0.4.0-
+
+0.1.20
+------
+804e0822b8d3ebaefc9b3d49a4061e00597bd100
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+
+0.1.21
+------
+34a1d5a957ef5fc15d611fdf3125de108bcaeeea
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+
+0.1.22
+------
+9f31dd394d3a5c2a0af0789ecd6e64164fa8cfb5
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+
+0.1.23
+------
+f8c22d0413462840f365d19fc9a8e8f82679665c
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+
+0.1.24
+------
+8498bed9a35d3b66723fe09e0101fee2d089dd0b
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.25
+------
+d65c5b1beee09d6904678ebe1d32ed8dc91f23e6
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.26
+------
+b2988a8582d13ff1c7457db898a4e6d2763a5a18
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.27
+------
+0b206210e6a60df20dfe621a1cc87bff01fcc717
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.28
+------
+cc605d89910b84601c10005b4758bb535291442e
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.29
+------
+083dcfdd0545ca85d7fa99686d883a51253e00bd
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.30
+------
+fed04fe57577ebd2f4eeae9c8e1282acb0c02b81
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.31
+------
+c8b7f4ae47c6f61cd3e0546438d5baaba8d33a31
+julia 0.3
+MathProgBase 0.3.0 0.4.0-
+Compat
+
+0.1.4
+-----
+b664e423999b93d340456e6cbf1fc447d0e509d8
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.5
+-----
+6f9a2cc455dbe8be03964513614e51462e97f1d9
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.6
+-----
+897466cb5819d367b81e6056406df64dad43d0d3
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.7
+-----
+81f9b4f02ee4f941a2a39bcb2d99c404c0fd8d39
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.8
+-----
+980e70f8550b6e700263c8242e585473e3cf71cb
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.1.9
+-----
+fd4a3b0ef93a3d762383a009ed23575298ccec5b
+julia 0.2-
+BinDeps
+MathProgBase 0.0.0 0.3.0-
+
+0.2.0
+-----
+88d88800fb32295dcd5ad1f14718d001f942be05
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.2.1
+-----
+75d9d1dc34e5d6d82cedb381fecae0d7c341a861
+julia 0.4
+MathProgBase 0.4.0 0.5.0-
+
+0.2.2
+-----
+fbdf34849fe91150ed1658bde57df29383dbc646
+julia 0.4
+MathProgBase 0.5 0.6
+
+0.2.3
+-----
+796638934c8633baa06a0e48f6f2b7cc1590a8ec
+julia 0.4
+MathProgBase 0.5 0.6
+Compat 0.8.6

@@ -1,0 +1,24 @@
+git://github.com/peterkovesi/ImageProjectiveGeometry.jl.git
+
+0.1.0
+-----
+b47f688fa0b4fc582b049fb018cf6e36896e8e38
+julia      0.4
+Images     0.5
+PyPlot     2.0
+
+0.1.1
+-----
+db77d381297e35c7906b65b1cf1e31635b438827
+julia      0.4
+Images     0.5
+PyPlot     2.0
+
+0.1.2
+-----
+39180e341abd412e8a0bc167164b7563c1b04c53
+julia      0.4
+Images     0.5
+PyPlot     2.0
+Interpolations 
+Compat 0.8.7

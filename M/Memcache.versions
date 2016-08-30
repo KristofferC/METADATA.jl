@@ -1,0 +1,12 @@
+git://github.com/tanmaykm/Memcache.jl.git
+
+0.0.1
+-----
+2df712fb01d451cb98c173c182a4ba806c02b213
+julia 0.2-
+
+0.0.2
+-----
+5cd84a5f4c26f9f668a2e9547e60ca2d462c6f35
+julia 0.3.6-
+Compat
