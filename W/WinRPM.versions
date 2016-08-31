@@ -321,3 +321,16 @@ Zlib 0.1.4
 BinDeps 0.3
 SHA
 LegacyStrings
+
+0.2.1
+-----
+447e8fb8d0d923e2877df9265c1f41614533f93c
+julia 0.4
+Compat 0.7.20
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Libz
+BinDeps 0.3
+SHA
+LegacyStrings
