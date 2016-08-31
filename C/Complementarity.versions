@@ -35,3 +35,11 @@ julia 0.4
 JuMP 0.13.0
 PATHSolver 0.0.3
 NLsolve 0.7
+
+0.0.9
+-----
+6a9bb215477aad5eff80c33c52db1bf1e5f91834
+julia 0.4
+JuMP 0.14.0
+PATHSolver 0.0.6
+NLsolve 0.7
