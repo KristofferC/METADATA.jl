@@ -1,0 +1,32 @@
+https://github.com/jstrube/LCIO.jl.git
+
+0.1.0
+-----
+49704d5dad9bd4b26071a3f9272a384bf00c8115
+julia 0.4
+
+0.2.0
+-----
+2a9346fa12188238452e37dde11a13493fc3cdd8
+julia 0.4
+CxxWrap
+
+0.3.0
+-----
+27a4b8b246a8f1e849937ccd77a8802b59a31bfe
+julia 0.4
+CxxWrap
+
+0.4.0
+-----
+994db3fe8317b1d9f7215d809c32a69212b6a73e
+julia 0.4
+CxxWrap 0.1.6
+
+0.4.1
+-----
+4ab8d7f25d00443806b77f220f02091afc334b86
+julia 0.4
+BinDeps
+Compat
+CxxWrap 0.1.6

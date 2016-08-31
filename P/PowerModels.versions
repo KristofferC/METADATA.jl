@@ -1,0 +1,24 @@
+git://github.com/lanl-ansi/PowerModels.jl.git
+
+0.1.0
+-----
+9428c5e49ae8c846d583eded635eb7fe552ce781
+julia 0.4.6
+JSON
+JuMP
+
+0.2.0
+-----
+fed98621f96a7373efc665dc2df63749059c3a20
+julia 0.4.6
+JSON
+MathProgBase
+JuMP
+
+0.2.1
+-----
+95db77c55488bdd077acf872046ba1bb6b53bbd0
+julia 0.4.6
+JSON
+MathProgBase 0.5.4
+JuMP 0.14.0
