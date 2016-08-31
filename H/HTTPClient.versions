@@ -50,10 +50,3 @@ e5de2602479f17c628f854223c6ba7baea6ecab6
 julia 0.4
 Compat
 LibCURL
-
-0.2.1
------
-0cf86c1d4beb6787cce7a2c5eb79dd2050af19fd
-julia 0.4
-Compat 0.8.0
-LibCURL
