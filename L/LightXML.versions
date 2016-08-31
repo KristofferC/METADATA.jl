@@ -112,3 +112,10 @@ Compat
 julia 0.3
 Compat 0.8.3
 @windows WinRPM
+
+0.4.0
+-----
+069f51fd6bc10b364fa1f58b36b21b8936f86e25
+julia 0.4
+Compat 0.8.3
+@windows WinRPM
