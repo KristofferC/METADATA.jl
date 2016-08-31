@@ -20,3 +20,17 @@ Distributions
 Conda
 JLD
 FileIO
+
+0.2.0
+-----
+fdb66116b4dd84d9107b4ce6abbd598611638ad9
+julia 0.5-
+Requests
+BinDeps
+ProtoBuf
+PyCall
+Distributions
+Conda
+JLD
+FileIO
+MNIST
