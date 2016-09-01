@@ -34,3 +34,17 @@ Conda
 JLD
 FileIO
 MNIST
+
+0.2.1
+-----
+819dd49773a9cd38a142e84b68f913fb4bb79c68
+julia 0.5-
+Requests
+BinDeps
+ProtoBuf
+PyCall
+Distributions
+Conda
+JLD
+FileIO
+MNIST
