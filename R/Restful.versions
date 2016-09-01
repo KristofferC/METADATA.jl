@@ -2,7 +2,8 @@ git://github.com/ylxdzsw/Restful.jl.git
 
 0.0.4
 -----
-a7bff688d983edfb716ee8c0e16b3db7ae18314djulia 0.4
+a7bff688d983edfb716ee8c0e16b3db7ae18314d
+julia 0.4
 HttpServer
 JSON 0.0 0.6
 Requests
@@ -10,7 +11,8 @@ URIParser
 
 0.1.0
 -----
-1699210de0b488483bc6e6c443af1b275442a6a9julia 0.4
+1699210de0b488483bc6e6c443af1b275442a6a9
+julia 0.4
 HttpServer
 JSON 0.0 0.6
 Requests
@@ -18,7 +20,8 @@ URIParser
 
 0.2.0
 -----
-4d91473348db4bdca6c82859c27368c6f4131981julia 0.4
+4d91473348db4bdca6c82859c27368c6f4131981
+julia 0.4
 HttpServer
 JSON 0.0 0.6
 Requests
@@ -26,7 +29,8 @@ URIParser
 
 0.3.0
 -----
-ef86983ab8df3b35a8d1749513c0b4f9d304af77julia 0.5.0-rc2
+ef86983ab8df3b35a8d1749513c0b4f9d304af77
+julia 0.5.0-rc2
 HttpServer
 JSON
 Requests

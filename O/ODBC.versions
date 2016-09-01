@@ -8,35 +8,40 @@ DataFrames v0.1.0
 
 0.2.0
 -----
-f450a51e6674c864be9e73530882d250d8e2264bDataFrames v0.2.0
+f450a51e6674c864be9e73530882d250d8e2264b
+DataFrames v0.2.0
 Datetime
 ProgressMeter
 julia 0.2-
 
 0.2.1
 -----
-3dc859a49fcb89bdce160f77db5e8740f3944541DataFrames v0.2.0
+3dc859a49fcb89bdce160f77db5e8740f3944541
+DataFrames v0.2.0
 Datetime
 ProgressMeter
 julia 0.2-
 
 0.3.0
 -----
-c48347ff45bc7496e994eeb3cba81cc3d7af8510DataFrames v0.2.0
+c48347ff45bc7496e994eeb3cba81cc3d7af8510
+DataFrames v0.2.0
 Datetime
 UTF16
 julia 0.2-
 
 0.3.1
 -----
-8fb00af72d4357d64d2b6d68238d73031e63711bDataFrames 0.3-
+8fb00af72d4357d64d2b6d68238d73031e63711b
+DataFrames 0.3-
 Datetime 0.1-
 UTF16
 julia 0.2-
 
 0.3.10
 ------
-65ed481c112a79f342fcf4618aa8a51b23bc095dDataFrames 0.5.2
+65ed481c112a79f342fcf4618aa8a51b23bc095d
+DataFrames 0.5.2
 Dates 0.3.1-
 julia 0.3-
 
@@ -49,25 +54,29 @@ julia 0.3 0.5-
 
 0.3.2
 -----
-0d2144638d34a8cd98022abbec89e29725285a0cDataFrames 0.4-
+0d2144638d34a8cd98022abbec89e29725285a0c
+DataFrames 0.4-
 Datetime 0.1-
 julia 0.3-
 
 0.3.3
 -----
-d79b72f8a951d6a19e96336f8c9ee83ab99b0467DataFrames 0.4-
+d79b72f8a951d6a19e96336f8c9ee83ab99b0467
+DataFrames 0.4-
 Datetime 0.1-
 julia 0.3-
 
 0.3.4
 -----
-837c361c91564e6108df8f77861ee2ae1df91229DataFrames 0.4-
+837c361c91564e6108df8f77861ee2ae1df91229
+DataFrames 0.4-
 Datetime 0.1-
 julia 0.3-
 
 0.3.5
 -----
-e30fa4c60d7e71b86facea775f71b9a7b447bd67DataFrames 0.4-
+e30fa4c60d7e71b86facea775f71b9a7b447bd67
+DataFrames 0.4-
 Datetime 0.1-
 julia 0.3-
 
@@ -87,13 +96,15 @@ julia 0.3-
 
 0.3.8
 -----
-f614eb01596a5fc517c277e6460132eaccc49806DataFrames 0.5.2
+f614eb01596a5fc517c277e6460132eaccc49806
+DataFrames 0.5.2
 Datetime 0.1.2
 julia 0.3-
 
 0.3.9
 -----
-7bc22671adbc51660c99083ee7560d4c6ddb6d08DataFrames 0.5.2
+7bc22671adbc51660c99083ee7560d4c6ddb6d08
+DataFrames 0.5.2
 Dates 0.3.1-
 julia 0.3-
 

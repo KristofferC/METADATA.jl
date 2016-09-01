@@ -2,7 +2,8 @@ git://github.com/JuliaDB/SQLite.jl.git
 
 0.1.0
 -----
-8989864da53416f68515dd85eb4a14a3b46dea53DataFrames 0.2
+8989864da53416f68515dd85eb4a14a3b46dea53
+DataFrames 0.2
 julia 0.2-
 
 0.1.1
@@ -62,7 +63,8 @@ BinDeps
 
 0.2.0
 -----
-6eb988ae3b01641369ad0cd881e70926da4d8e92julia 0.3
+6eb988ae3b01641369ad0cd881e70926da4d8e92
+julia 0.3
 BinDeps
 @osx Homebrew
 @windows WinRPM

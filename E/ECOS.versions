@@ -2,7 +2,8 @@ git://github.com/JuliaOpt/ECOS.jl.git
 
 0.1.0
 -----
-b7e4a20cf40693d35452b24a0d73789d19bd0d76julia 0.2
+b7e4a20cf40693d35452b24a0d73789d19bd0d76
+julia 0.2
 BinDeps
 MathProgBase 0.0.0 0.3.0-
 @osx Homebrew
