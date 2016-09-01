@@ -5,6 +5,7 @@ git://github.com/pygy/TOML.jl.git
 c6b6c19ba2fb7ab695c08fc7bd1810dad49e07af
 Calendar
 JSON # (for the tests)
+
 0.1.0
 -----
 15c585d01d9b73479dc952b0fbdcd541962a6e28

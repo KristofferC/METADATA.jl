@@ -4,10 +4,12 @@ git://github.com/Keno/REPLCompletions.jl.git
 -----
 34143ee9b0529a49bbe4084570132a59ffa7f6ff
 julia 0.2- 0.3-
+
 0.0.1
 -----
 766e5ae3a9f5a75cfa2e6c44587767a79db90200
 julia 0.2 0.3
+
 0.0.2
 -----
 8290261ee6205e97fce8584df449f44f5e2be9f9

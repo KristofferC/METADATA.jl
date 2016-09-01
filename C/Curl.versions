@@ -4,6 +4,7 @@ git://github.com/forio/Curl.jl.git
 -----
 6d25335395e3330611d7111cb9a62064a78f7e85
 julia 0.2 0.4
+
 0.0.1
 -----
 b8d68e4f38f85556ab912f6ba331b8bbc05c4cad
@@ -13,6 +14,7 @@ julia 0.2 0.4
 -----
 918afc2a1272c125c960abe1743bfc3a9de4a027
 julia 0.2 0.4
+
 0.0.3
 -----
 fd0e393f4f3b5c78f4174ccc2d62b239a8370ad4julia 0.2 0.4

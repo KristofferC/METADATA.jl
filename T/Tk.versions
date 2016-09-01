@@ -26,6 +26,7 @@ BinDeps
 72a60375a79b43c6bdb6806d6da3024407eefb03
 Cairo
 BinDeps
+
 0.2.10
 ------
 52218844bc4ab8fdd3da41608d8a2bf7294c23de
@@ -98,11 +99,13 @@ BinDeps 0.2.2-
 ca82bf6d24460b10a686ecacccb24ade98892ec8
 Cairo
 BinDeps
+
 0.2.3
 -----
 ba52b7223db16fa19beec5a98ffcf97462f06afe
 Cairo
 BinDeps
+
 0.2.4
 -----
 3d1238ae106c6e0b9a391c1ef6a916bb7129aab3

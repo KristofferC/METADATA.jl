@@ -4,10 +4,12 @@ git://github.com/vtjnash/Polynomial.jl.git
 -----
 ba44fbb69c281ed9167361ff627ca272627a9c50
 julia 0.2 0.4
+
 0.1.0
 -----
 54b55bf545f6e3b43b2121b25d1a47e5082e9893
 julia 0.2 0.4
+
 0.1.1
 -----
 93eaa8c3a5eab20f44f2ea009c630d34623de2fd

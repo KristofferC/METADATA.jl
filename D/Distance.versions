@@ -23,6 +23,7 @@ Devectorize
 d5280d883bd80e459cffb575aacaaf09f89ec7b7
 julia 0.2.0- 0.4
 Devectorize
+
 0.2.3
 -----
 0e1cea2371875ea9dc3d33b7292f1a478813bf8b
@@ -58,6 +59,7 @@ NumericExtensions 0.4-
 f4131bae8d0d8ccc6b8f7994453bb6bde20da4ef
 julia 0.2- 0.4
 NumericExtensions 0.4-
+
 0.3.2
 -----
 08904f5116b5c90345aae67ae3dddaa4bf48f327
@@ -70,6 +72,7 @@ NumericExtensions 0.4-
 9bd05a6b0b3a2a4b6915281cb221797cf4c56ec7
 julia 0.3- 0.4
 ArrayViews 0.4-
+
 0.5.0
 -----
 2b9d1e447133929ea2a441bbc69d7c76db6137f3
