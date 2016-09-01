@@ -84,3 +84,11 @@ a49c474051629e1c3449783c08f2488dc913d4b6
 julia 0.4
 Compat
 Combinatorics
+
+0.5.2
+-----
+53a4a939945c07184307e60b597a82daf4d6025d
+julia 0.4
+Compat
+Combinatorics
+DataStructures 0.4.4
