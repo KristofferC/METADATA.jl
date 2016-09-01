@@ -14,6 +14,15 @@ DataFrames
 NullableArrays
 WeakRefStrings 0.1.3
 
+0.0.11
+------
+6a9996b1be3ad208d0eefad0c57958a34db19f4a
+julia 0.4
+DataFrames
+NullableArrays 0.0.8
+CategoricalArrays 0.0.3
+WeakRefStrings 0.1.3
+
 0.0.2
 -----
 5ae8d79f1356741c74ee55e36794407eb46c9cbd

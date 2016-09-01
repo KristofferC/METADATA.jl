@@ -21,3 +21,14 @@ LegacyStrings
 5bfb17cde0044776b7b77b776b2cdc4d11d22892
 julia 0.4
 LegacyStrings
+
+0.1.4
+-----
+b4d12a0731d104841dfb049d088dd352e08d3f6f
+julia 0.4 0.5
+LegacyStrings
+
+0.2.0
+-----
+34d5207e0c3e0c4b133ccc8d226a9e509e530df1
+julia 0.5-
