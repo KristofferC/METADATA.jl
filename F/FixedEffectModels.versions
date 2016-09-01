@@ -71,3 +71,11 @@ Distributions 0.4.6
 StatsBase 0.7.1
 DataArrays
 DataFrames 0.6
+0.3.0
+-----
+5619b4f38aa64253751e44bb28aa280d1489f955julia 0.5-
+Compat
+Distributions 0.4.6
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
