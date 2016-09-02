@@ -1,0 +1,17 @@
+git://github.com/bstellato/SwitchTimeOpt.jl.git
+
+0.0.1
+-----
+f3f9681dac67f792f60f6874e5a033edae7e05f1
+julia 0.4
+MathProgBase
+ODE
+Ipopt
+
+0.0.2
+-----
+712c9cf2c5f4cab89311eef0b159b93f3d7f3739
+julia 0.4
+MathProgBase
+ODE
+Ipopt

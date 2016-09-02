@@ -139,3 +139,21 @@ TimeSeries 0.6.0
 96ec4be5ca852cd3ec10b10bc5655e5d165dbfde
 julia 0.4 0.5-
 TimeSeries 0.6.0
+
+0.3.7
+-----
+5aaac5677a76ab9f654fdef1225e1038c092e8fd
+julia 0.4
+TimeSeries 0.8.0
+
+0.3.8
+-----
+37dc75a2ebfcf5aa84dfbf722f10727a68bad977
+julia 0.4
+TimeSeries 0.6.0
+
+0.4.0
+-----
+aea13f256d7286b490003229d49ceebd1c4bddc5
+julia 0.4
+TimeSeries 0.8.0
