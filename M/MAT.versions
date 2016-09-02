@@ -116,3 +116,12 @@ julia 0.3-
 HDF5
 Zlib
 Compat
+
+0.3.0
+-----
+dc8e9841502f3cc9b1397c71c8480d575b6f2fa0
+julia 0.4
+HDF5
+BufferedStreams
+Libz
+Compat 0.7.19
