@@ -122,7 +122,25 @@ BinDeps
 1.0.0
 -----
 c7ba6a63909faee647a75e1ca8d79a42fd498d21
-julia 0.5-
+julia 0.5.0-rc3
+Mamba 0.10
+Gadfly 0.4.3
+BinDeps 0.4.3
+@osx Homebrew
+
+1.0.1
+-----
+f5e8157b26aaf37bd25dacbec1a694d93c2d5395
+julia 0.5.0-rc3
+Mamba 0.10
+Gadfly 0.4.3
+BinDeps 0.4.3
+@osx Homebrew
+
+1.0.2
+-----
+fbcf3ebf97c97b159ac2877118d29edb8c6a19b3
+julia 0.5.0-rc3
 Mamba 0.10
 Gadfly 0.4.3
 BinDeps 0.4.3
