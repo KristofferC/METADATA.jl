@@ -1,0 +1,10 @@
+git://github.com/symengine/SymEngine.jl.git
+
+0.1.0
+-----
+139f6133e2bbb05cbcaca2cd138eba27819dd01a
+julia 0.4
+Compat 0.8.5
+RecipesBase 0.0.6
+BinDeps
+Conda
