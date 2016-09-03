@@ -16,3 +16,9 @@ Compat
 347a91e675a8a5f37fb8bc32212d18cdfc72e029
 julia 0.3
 Compat
+
+0.1.0
+-----
+b4787178533115a08da42491ce8c5c65f09c532c
+julia 0.4
+Compat 0.8.8

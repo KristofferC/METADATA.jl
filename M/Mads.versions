@@ -643,3 +643,31 @@ Optim 0.5
 BlackBoxOptim
 Docile
 Lexicon
+
+0.2.3
+-----
+33972a533ee3d937047fc88ffb300b97e8e27db1
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
