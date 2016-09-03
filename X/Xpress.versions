@@ -5,3 +5,10 @@ git://github.com/JuliaOpt/Xpress.jl.git
 868c7b6925e8c2dd5f55fa77a5658dabd39a34f5
 julia 0.4
 MathProgBase 0.5 0.6
+
+0.0.2
+-----
+d060565193ea8ed821a8d7d44fda7c7292f46160
+julia 0.4
+MathProgBase 0.5 0.6
+Compat 0.8.6
