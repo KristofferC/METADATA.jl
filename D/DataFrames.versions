@@ -607,3 +607,26 @@ GZip
 SortingAlgorithms
 Reexport
 Compat 0.8
+
+0.8.0
+-----
+2fcc122b603786041b330f64ccb839b403f0a250
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8
+
+0.8.1
+-----
+058c65bcb532da80ca9d9229d9ee75cbcf08ae78
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8.4
+FileIO 0.1.2
