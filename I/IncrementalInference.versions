@@ -11,3 +11,17 @@ Colors
 NLsolve
 Distributions
 KernelDensityEstimate
+
+0.0.2
+-----
+e7d0093c52ef9ab64c09a6f950dd2a5b9a154958
+julia 0.4
+Graphs
+GraphViz
+Gadfly
+Colors
+NLsolve
+Distributions
+KernelDensityEstimate
+TransformUtils
+#CloudGraphs
