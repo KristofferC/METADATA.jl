@@ -30,5 +30,5 @@ Compat 0.8.4
 -----
 36019dcaab8b878ab66af03cb1b7817d473c6c84
 julia 0.4
-ApproxFun 0.3
+ApproxFun 0.3 0.3.1-
 Compat 0.8.4

@@ -5,3 +5,9 @@ git://github.com/denizyuret/AutoGrad.jl.git
 c049c0d75654c32e0d9f704451698f471efea68d
 julia 0.4
 Compat
+
+0.0.2
+-----
+bbc541956f4be98e9ce9a37418ae7597cf8949a4
+julia 0.4
+Compat 0.7.9
