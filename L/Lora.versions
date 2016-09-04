@@ -125,3 +125,13 @@ ForwardDiff 0.2.0
 Graphs 0.5.5
 ReverseDiffSource 0.2.1
 StatsBase 0.7.4
+
+0.5.5
+-----
+ed947107fdf1dc1e2168b2295ad109d867ed7333
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.2.0
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4
