@@ -31,3 +31,10 @@ Compat 0.7.3
 julia 0.3
 GZip
 Compat 0.7.20
+
+0.2.0
+-----
+478248290fe247d08a2947e37e62a5d0e55a8c7b
+julia 0.4
+GZip 0.2.20
+Compat 0.8.0
