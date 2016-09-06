@@ -432,6 +432,16 @@ Distributions
 GraphMatrices
 MatrixDepot
 
+0.6.2
+-----
+9eb58904f58a93ce0e13134e0e8457801264e358
+julia 0.4 0.5-
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Distributions
+
 0.7.0
 -----
 991de1a99893283637a9235908a50ea56a3b0bc1
