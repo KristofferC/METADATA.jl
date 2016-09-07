@@ -85,3 +85,25 @@ Blink 0.3.3
 Colors
 Compat 0.7.16
 LaTeXStrings
+
+0.4.0
+-----
+d348793218c3f6c29e205b3cfb08640d5c84c53f
+julia 0.4
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.8.4
+LaTeXStrings
+DocStringExtensions
+
+0.4.1
+-----
+d8a0369f7ec3db300c583a26027078ccb6739529
+julia 0.4
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.8.4
+LaTeXStrings
+DocStringExtensions
