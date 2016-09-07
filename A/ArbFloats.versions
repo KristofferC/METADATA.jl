@@ -1,0 +1,22 @@
+git://github.com/JuliaArbTypes/ArbFloats.jl.git
+
+0.1.0
+-----
+7e7d7d5af2fb055cd07da0f2e20bed7c07bdd020
+julia 0.5-
+Nemo
+FactCheck
+
+0.1.1
+-----
+6ce4a9396e0e445e0e3b0e28a749099b22b55b9a
+julia 0.5-
+Nemo
+FactCheck
+
+0.1.2
+-----
+d8c8d9d4587a592137d627d6e2a0ea05140a55a7
+julia 0.5-
+Nemo
+FactCheck
