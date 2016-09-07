@@ -6,3 +6,10 @@ git://github.com/JuliaCloud/LibCloud.jl.git
 julia 0.4.6
 Compat 0.8.0
 PyCall
+
+0.0.2
+-----
+27fe9b7751b684f13a080a73dfb1881caa8b7f9d
+julia 0.4
+Compat 0.8.0
+PyCall

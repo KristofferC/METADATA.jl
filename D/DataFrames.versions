@@ -630,3 +630,15 @@ SortingAlgorithms
 Reexport
 Compat 0.8.4
 FileIO 0.1.2
+
+0.8.2
+-----
+d1fc34062eae0b2a899e44e596e20105d900a336
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8.4
+FileIO 0.1.2
