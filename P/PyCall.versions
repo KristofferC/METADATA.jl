@@ -1,4 +1,4 @@
-git://github.com/stevengj/PyCall.jl.git
+git://github.com/JuliaPy/PyCall.jl.git
 
 0.0.0
 -----
@@ -316,6 +316,14 @@ MacroTools 0.2
 1.7.1
 -----
 0c8e5165d61fccd7a2666d94d68ca5507abe1624
+julia 0.4
+Compat 0.8.0
+Conda 0.2
+MacroTools 0.2
+
+1.7.2
+-----
+be354e07d0ae5b70f819bd93f7f10b914bbf170c
 julia 0.4
 Compat 0.8.0
 Conda 0.2

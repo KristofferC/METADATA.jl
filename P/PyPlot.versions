@@ -1,4 +1,4 @@
-git://github.com/stevengj/PyPlot.jl.git
+git://github.com/JuliaPy/PyPlot.jl.git
 
 0.0.0
 -----
@@ -332,6 +332,15 @@ Conda
 2.2.1
 -----
 eab4c673d75db1c3dc441917b39a95ec25bc2476
+julia 0.4
+PyCall 1.6.2
+Colors
+LaTeXStrings
+Compat 0.8.0
+
+2.2.2
+-----
+06e800c4458279a17fc957a80988bb3d0fddd7e5
 julia 0.4
 PyCall 1.6.2
 Colors
