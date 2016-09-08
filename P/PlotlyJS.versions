@@ -107,3 +107,14 @@ Colors
 Compat 0.8.4
 LaTeXStrings
 DocStringExtensions
+
+0.4.2
+-----
+cb8896e48bff9b5483c538f58e992fe6cdf55207
+julia 0.4
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.8.4
+LaTeXStrings
+DocStringExtensions
