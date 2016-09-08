@@ -51,3 +51,13 @@ julia 0.3
 DataFrames
 Reexport
 Compat
+
+0.2.0
+-----
+a4b9dffdee5d76d079dcdbc6f6d0e488ef989f2f
+julia 0.4
+DataFrames
+Reexport
+Compat
+RData
+FileIO
