@@ -13,3 +13,11 @@ julia 0.4
 SIUnits
 FixedPointNumbers
 Compat 0.8.8
+
+0.2.0
+-----
+4281a2f56ea644c6632c83c5fb472011f74197a3
+julia 0.4
+SIUnits
+FixedPointNumbers
+Compat 0.8.8
