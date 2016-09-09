@@ -63,3 +63,11 @@ julia 0.4
 LibBSON 0.2.0
 BinDeps
 @osx Homebrew
+
+0.2.1
+-----
+e01ac77000c2eb54184af25333192c81827a5fe7
+julia 0.4
+LibBSON 0.2.3
+BinDeps
+@osx Homebrew
