@@ -11,3 +11,13 @@ Distributions 0.6+
 3f3d0d9249030a9078e3121c27c645efa4646286
 julia 0.4
 Distributions 0.6+
+
+0.3.0
+-----
+989e41bb1478512c648db3d5f8972b5c99b7714f
+julia 0.4
+Distributions 0.6+
+HDF5
+KernelDensity 0.2.0 0.3.0
+Grid
+StatsBase
