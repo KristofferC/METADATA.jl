@@ -7,13 +7,13 @@ julia 0.4
 Compat
 NullableArrays
 Libz
-DataStreams
+DataStreams 0.0.1 0.0.13
 
 0.0.11
 ------
 e9f151b085d0ceb1ab157c8ae5d91d80446c6de4
 julia 0.4.1
-DataStreams 0.0.8
+DataStreams 0.0.8 0.0.13
 DataFrames
 WeakRefStrings 0.1.2
 
@@ -21,7 +21,7 @@ WeakRefStrings 0.1.2
 ------
 9e0f1da839dccc001177c3dff83fa60413c4de43
 julia 0.4.1
-DataStreams 0.0.10
+DataStreams 0.0.10 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 
@@ -29,7 +29,7 @@ WeakRefStrings 0.1.3
 ------
 7e0c5fba80012f29d7365f2d85e7dd1d3ee08a20
 julia 0.4.1
-DataStreams 0.0.12
+DataStreams 0.0.12 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 
@@ -40,7 +40,7 @@ julia 0.4
 Compat
 NullableArrays
 Libz
-DataStreams
+DataStreams 0.0.1 0.0.13
 
 0.0.3
 -----
@@ -49,7 +49,7 @@ julia 0.4.1
 Compat
 NullableArrays
 Libz
-DataStreams
+DataStreams 0.0.1 0.0.13
 
 0.0.4
 -----
@@ -58,7 +58,7 @@ julia 0.4.1
 Compat
 NullableArrays
 Libz
-DataStreams
+DataStreams 0.0.1 0.0.13
 
 0.0.5
 -----
@@ -66,13 +66,13 @@ DataStreams
 julia 0.4.1
 Compat
 NullableArrays
-DataStreams
+DataStreams 0.0.1 0.0.13
 
 0.0.6
 -----
 042a38abaa1e1efdca8503a30a6735625d3fb7e7
 julia 0.4.1
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings
@@ -81,7 +81,7 @@ WeakRefStrings
 -----
 e4e772bb613c8eea6b76fd37e0e0754e11d27673
 julia 0.4.1
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings
@@ -90,7 +90,7 @@ WeakRefStrings
 -----
 f8826a278862d70f7d180b1fb31acd0d68dd1f77
 julia 0.4.1
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings
@@ -99,7 +99,7 @@ WeakRefStrings
 -----
 8b43c4d01d18c891c0af90ebf8dfd889856b3a93
 julia 0.4.1
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings

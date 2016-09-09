@@ -4,19 +4,19 @@ git://github.com/JuliaDB/SQLite.jl.git
 -----
 8989864da53416f68515dd85eb4a14a3b46dea53
 DataFrames 0.2
-julia 0.2-
+julia 0.2- 0.4
 
 0.1.1
 -----
 ea203134508e7fb46f37538098330675c8785bf4
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 
 0.1.2
 -----
 6d7b15860aa1ee3725cdd2a9c1f113ea9a9504a2
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 BinDeps
@@ -24,7 +24,7 @@ BinDeps
 0.1.3
 -----
 b417021503fb34c37ac3c8b31f608bcb96e19602
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 BinDeps
@@ -34,7 +34,7 @@ BinDeps
 0.1.4
 -----
 3342a60eceada1cc2d3406ce7c258e4f2028fd85
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 BinDeps
@@ -44,7 +44,7 @@ BinDeps
 0.1.5
 -----
 08267a97c6608dc3bd6009fe5ccb709f3d492da1
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 BinDeps
@@ -54,7 +54,7 @@ BinDeps
 0.1.6
 -----
 cd5970384f4a4a72c27d360d789132a41ab3b564
-julia 0.2-
+julia 0.2- 0.4
 DataFrames
 DataArrays
 BinDeps
@@ -64,7 +64,7 @@ BinDeps
 0.2.0
 -----
 6eb988ae3b01641369ad0cd881e70926da4d8e92
-julia 0.3
+julia 0.3 0.4
 BinDeps
 @osx Homebrew
 @windows WinRPM
@@ -72,7 +72,7 @@ BinDeps
 0.2.1
 -----
 1e39325312ec2e6938ef86bd6134fa19177c1391
-julia 0.3
+julia 0.3 0.4
 BinDeps
 Compat
 @osx Homebrew
@@ -84,7 +84,7 @@ Compat
 julia 0.4
 BinDeps
 Compat
-DataStreams
+DataStreams 0.0.1 0.0.13
 NullableArrays
 CSV
 @osx Homebrew
@@ -96,7 +96,7 @@ CSV
 julia 0.4
 BinDeps
 Compat
-DataStreams
+DataStreams 0.0.1 0.0.13
 NullableArrays
 CSV
 @osx Homebrew
@@ -108,7 +108,7 @@ a227bc47d3a70bd533e4a8922df8c547a028aba4
 julia 0.4.1
 BinDeps
 Compat
-DataStreams
+DataStreams 0.0.1 0.0.13
 NullableArrays
 CSV
 @osx Homebrew
@@ -120,7 +120,7 @@ CSV
 julia 0.4.1
 BinDeps
 CSV 0.0.8
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings
@@ -133,7 +133,7 @@ WeakRefStrings
 julia 0.4.1
 BinDeps
 CSV 0.0.8
-DataStreams
+DataStreams 0.0.1 0.0.13
 DataFrames
 NullableArrays
 WeakRefStrings
@@ -147,7 +147,7 @@ julia 0.4.1
 BinDeps
 @osx Homebrew
 @windows WinRPM
-DataStreams 0.0.9
+DataStreams 0.0.9 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 LegacyStrings
@@ -159,7 +159,7 @@ julia 0.4.1
 BinDeps
 @osx Homebrew
 @windows WinRPM
-DataStreams 0.0.10
+DataStreams 0.0.10 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 LegacyStrings
@@ -171,7 +171,7 @@ julia 0.4.1
 BinDeps
 @osx Homebrew
 @windows WinRPM
-DataStreams 0.0.12
+DataStreams 0.0.12 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 LegacyStrings
