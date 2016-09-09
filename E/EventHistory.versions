@@ -1,0 +1,19 @@
+git://github.com/kkholst/EventHistory.jl.git
+
+0.0.1
+-----
+6562609950ab283ab3a665a4725c253ab717703d
+julia 0.4
+DataFrames 0.4
+Distributions 0.2.0
+StatsBase 0.3
+Calculus 0.1.3
+
+0.0.2
+-----
+a251c0228f5ed197a98c17b7dce8801b271e18c6
+julia 0.4
+DataFrames 0.4
+Distributions 0.2.0
+StatsBase 0.3
+Calculus 0.1.3
