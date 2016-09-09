@@ -6,3 +6,10 @@ https://github.com/robertdj/SparseGrids.jl.git
 julia 0.4.0-rc1
 FastGaussQuadrature
 Iterators 0.1.9
+
+0.1.1
+-----
+4d82e68efda00cd5ad681260e9b702083fdd1b18
+julia 0.4
+FastGaussQuadrature 0.0.3
+Iterators 0.1.9
