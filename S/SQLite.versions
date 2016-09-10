@@ -175,3 +175,15 @@ DataStreams 0.0.12 0.0.13
 DataFrames
 WeakRefStrings 0.1.3
 LegacyStrings
+
+0.3.7
+-----
+73d26f5b3ce4f54066d87484190d1e42e3d23465
+julia 0.4.1
+BinDeps
+@osx Homebrew
+@windows WinRPM
+DataStreams 0.0.13
+DataFrames
+WeakRefStrings 0.1.3
+LegacyStrings
