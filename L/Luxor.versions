@@ -1,0 +1,16 @@
+https://github.com/cormullion/Luxor.jl.git
+
+0.1.0
+-----
+7ae38f5445092423c78b23ed228380ac056788fe
+julia 0.4
+Colors
+Cairo
+
+0.2.0
+-----
+a0e8a4c5cdb6856eafe3f27d214bbf64b9d1de4c
+julia 0.4
+Colors
+Cairo
+Compat 0.9.1
