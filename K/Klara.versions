@@ -1,0 +1,11 @@
+git://github.com/JuliaStats/Klara.jl.git
+
+0.6.0
+-----
+4afbfc1cbea42349e090daddc1a02463607e0f79
+julia 0.4
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.2.0
+ReverseDiffSource 0.2.1
+StatsBase 0.7.4
