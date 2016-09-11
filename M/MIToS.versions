@@ -58,3 +58,21 @@ Clustering
 FixedSizeArrays
 FastaIO
 PlotRecipes
+
+1.2.0
+-----
+ba72d73ddbf0292bcd0f3fbd7d8cdab5298216e1
+julia 0.4
+LightXML
+GZip
+AutoHashEquals
+DataStructures
+Formatting
+IndexedArrays
+PairwiseListMatrices
+ArgParse
+ROCAnalysis
+Clustering
+FixedSizeArrays 0.2.3
+FastaIO 0.2
+RecipesBase
