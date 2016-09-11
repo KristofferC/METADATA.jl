@@ -113,3 +113,12 @@ ColorTypes 0.2
 FixedPointNumbers 0.1
 Reexport
 Compat 0.8.0
+
+0.6.7
+-----
+9f69a2a734855116336838a6a73b53afddf4c36f
+julia 0.4
+ColorTypes 0.2
+FixedPointNumbers 0.1
+Reexport
+Compat 0.9.1

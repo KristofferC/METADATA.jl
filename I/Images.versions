@@ -1121,6 +1121,20 @@ Zlib
 Graphics 0.1
 FileIO
 
+0.5.10
+------
+6a3f1ce49a432567b726696f70e3b650650919ec
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.9.1
+StatsBase   # for histrange
+
 0.5.2
 -----
 efac0091c9df6f9fe7240fa9f55441afdcdde0d6
