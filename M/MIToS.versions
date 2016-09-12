@@ -76,3 +76,39 @@ Clustering
 FixedSizeArrays 0.2.3
 FastaIO 0.2
 RecipesBase
+
+1.2.1
+-----
+53f713ddc948fe36ce335f61a0b66c0b2a45ef84
+julia 0.4
+LightXML
+GZip
+AutoHashEquals
+DataStructures
+Formatting
+IndexedArrays
+PairwiseListMatrices
+ArgParse
+ROCAnalysis
+Clustering
+FixedSizeArrays 0.2.3
+FastaIO
+RecipesBase
+
+1.2.2
+-----
+e3bedd8ec526a100bc9fa8a2931a59d4885cf0c9
+julia 0.4
+LightXML
+GZip
+AutoHashEquals
+DataStructures
+Formatting
+IndexedArrays
+PairwiseListMatrices
+ArgParse
+ROCAnalysis
+Clustering
+FixedSizeArrays 0.2.3
+FastaIO
+RecipesBase
