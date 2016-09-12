@@ -1,0 +1,8 @@
+https://github.com/JuliaArrays/CatIndices.jl.git
+
+0.0.1
+-----
+e2077d5e20b8d362338745c3f4282a7f567767f6
+julia 0.5-
+OffsetArrays
+CustomUnitRanges
