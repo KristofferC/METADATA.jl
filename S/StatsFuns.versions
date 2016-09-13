@@ -72,3 +72,10 @@ b8e379c6a67744b9fbcbbb11fecb2c1116767241
 julia 0.4
 Compat 0.8.4
 Rmath 0.1.0
+
+0.3.1
+-----
+5de325f64b4528273310cdcf5532d994c1aa5067
+julia 0.4
+Compat 0.9.1
+Rmath 0.1.0

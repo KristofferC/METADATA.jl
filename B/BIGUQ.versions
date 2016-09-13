@@ -77,3 +77,15 @@ BlackBoxOptim
 Distributions
 RobustPmap
 Mads
+
+0.1.7
+-----
+cdb6eaa6e2415b53ad87a934f0f8136dc940d2e8
+julia 0.4
+DataFrames
+Klara 0.6
+ForwardDiff
+BlackBoxOptim
+Distributions
+RobustPmap
+Mads
