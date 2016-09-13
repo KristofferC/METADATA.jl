@@ -22,3 +22,15 @@ SampledSignals 0.1.0
 RingBuffers 0.1.0
 @osx Homebrew
 @windows WinRPM
+
+0.4.0
+-----
+eaa5aa96bb0ba61b70be9d0608abeed5654c8704
+julia 0.4
+Compat 0.8.8
+BinDeps
+Devectorize
+SampledSignals 0.2.0
+RingBuffers 0.1.0
+@osx Homebrew
+@windows WinRPM
