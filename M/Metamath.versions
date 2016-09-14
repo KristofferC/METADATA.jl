@@ -4,5 +4,5 @@ git://github.com/getzdan/Metamath.jl.git
 -----
 8a527d4b7b7a99936e490e045f6ddfc91925f323
 julia 0.4.1
-CSV 0.0.5
+CSV 0.0.5 0.0.6
 Compat
