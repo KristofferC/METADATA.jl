@@ -1,0 +1,8 @@
+git://github.com/SCIP-Interfaces/SCIP.jl.git
+
+0.1.0
+-----
+82318184c4143d223831b8d9effde30bf1c114fe
+julia 0.4
+BinDeps
+MathProgBase 0.5 0.6
