@@ -58,3 +58,14 @@ URIParser
 Mustache
 JSON
 Compat 0.8.6
+
+0.0.7
+-----
+7ecfa21713b20ccb04de62c2e5733e6e196386a3
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+Compat 0.8.6
