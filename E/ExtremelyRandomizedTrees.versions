@@ -7,6 +7,7 @@ git://github.com/rened/ExtremelyRandomizedTrees.jl.git
 0.0.10
 ------
 6036a9db7950f6545a1f85f950ba4aa10390e236
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -14,6 +15,7 @@ Compat
 0.0.11
 ------
 6036a9db7950f6545a1f85f950ba4aa10390e236
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -25,23 +27,27 @@ Compat
 0.0.3
 -----
 796a468c404f951a3f783bea50f584bdec14b659
+julia 0.0 0.4
 FunctionalDataUtils
 
 0.0.4
 -----
 727714ccb0ae8888a5fd6985a525fd052c3d45a9
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 
 0.0.5
 -----
 1a3fc3987c9ccf73c027fdb568c6c22f7b60e677
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 
 0.0.6
 -----
 5790da39c7f2499b8bdc63a2d74634a04d0d20a0
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -49,6 +55,7 @@ Compat
 0.0.7
 -----
 03613362bddd8c1e69622dc46802b0e48a9480aa
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -56,6 +63,7 @@ Compat
 0.0.8
 -----
 6b88d638132a18920828c2a7410f9edf75dc5a7a
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -63,6 +71,7 @@ Compat
 0.0.9
 -----
 4e5d937fb5468aa776a9279c17d1bf1671d48a89
+julia 0.0 0.4
 FunctionalDataUtils
 ProgressMeter
 Compat
@@ -73,3 +82,4 @@ Compat
 julia 0.4-
 FunctionalDataUtils
 ProgressMeter
+FunctionalData 0.0 0.1.2

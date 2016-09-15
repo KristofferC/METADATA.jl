@@ -3,18 +3,21 @@ git://github.com/rened/KShiftsClustering.jl.git
 0.0.1
 -----
 438e0db14d216a3fbc58809741c0d7a2fa7c0555
+julia 0.0 0.4
 FunctionalDataUtils
 KDTrees
 
 0.0.2
 -----
 438e0db14d216a3fbc58809741c0d7a2fa7c0555
+julia 0.0 0.4
 FunctionalDataUtils
 KDTrees
 
 0.0.3
 -----
 1bcb9258d2ebba7c9efabd83cf6dc056efbc19f3
+julia 0.0 0.4
 FunctionalDataUtils
 KDTrees
 
@@ -24,3 +27,4 @@ KDTrees
 julia 0.4-
 FunctionalDataUtils
 KDTrees
+FunctionalData 0.0 0.1.2

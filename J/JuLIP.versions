@@ -1,0 +1,14 @@
+https://github.com/libAtoms/JuLIP.jl.git
+
+0.0.1
+-----
+7ed60948798d22774c502e09e144336d4fbdac90
+julia 0.5-
+PyCall
+StaticArrays
+Optim
+Calculus
+PyAMG
+JSON
+Reexport
+FunctionWrappers

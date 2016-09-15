@@ -7,17 +7,20 @@ git://github.com/rened/InformedDifferentialEvolution.jl.git
 0.0.2
 -----
 28e9dbf696ed46aa54637ed5284b239a8ef44d56
+julia 0.0 0.4
 PyPlot
 
 0.0.3
 -----
 33e6a2003530dfc0af4c8fa07a8156ec124894f9
+julia 0.0 0.4
 PyPlot
 FunctionalDataUtils
 
 0.0.4
 -----
 fd162b6b95d9f00216b15c868696178fc09d1e6c
+julia 0.0 0.4
 PyPlot
 Compat
 FunctionalDataUtils
@@ -27,6 +30,7 @@ FunctionalDataUtils
 c99c9fb9cd5a2032dd6957103acda73fe3af5c54
 julia 0.4-
 FunctionalDataUtils
+FunctionalData 0.0 0.1.2
 
 0.2.0
 -----

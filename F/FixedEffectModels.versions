@@ -8,7 +8,7 @@ Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 GLM
 
 0.0.2
@@ -19,7 +19,7 @@ Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 GLM
 
 0.0.3
@@ -30,7 +30,7 @@ Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 GLM
 
 0.1.0
@@ -41,7 +41,7 @@ Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.7.1
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 
 0.1.1
 -----
@@ -51,7 +51,7 @@ Compat
 Distributions 0.4.6
 StatsBase 0.7.1
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 
 0.2.0
 -----
@@ -61,7 +61,7 @@ Compat
 Distributions 0.4.6
 StatsBase 0.7.1
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 
 0.2.1
 -----
@@ -71,7 +71,7 @@ Compat
 Distributions 0.4.6
 StatsBase 0.7.1
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 
 0.2.2
 -----
@@ -81,7 +81,7 @@ Compat
 Distributions 0.4.6
 StatsBase 0.7.1
 DataArrays
-DataFrames 0.6 0.8.0
+DataFrames 0.6 0.7.7
 
 0.3.0
 -----
