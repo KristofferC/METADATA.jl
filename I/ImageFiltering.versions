@@ -1,0 +1,18 @@
+https://github.com/JuliaImages/ImageFiltering.jl.git
+
+0.0.1
+-----
+eb9752d8453fcc7cbc033f5714ee88e90d1fdda8
+julia 0.5-
+FixedPointNumbers
+Colors
+ColorVectorSpace
+ImageCore
+OffsetArrays
+CatIndices
+StaticArrays 0.0.5
+MappedArrays
+FFTViews
+ComputationalResources
+DataStructures 0.4.6
+TiledIteration

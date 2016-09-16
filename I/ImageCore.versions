@@ -1,0 +1,10 @@
+https://github.com/JuliaImages/ImageCore.jl.git
+
+0.0.1
+-----
+88efe950f8e9ec36d1563522784b6e91e064d541
+julia 0.5-
+FixedPointNumbers
+Colors
+MappedArrays
+Graphics
