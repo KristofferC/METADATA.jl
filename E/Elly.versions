@@ -71,3 +71,12 @@ Compat 0.8.0
 ProtoBuf
 URIParser
 CRC
+
+0.0.9
+-----
+1c121bdabb907b09a6a7911bc30dca2a1b03b8a0
+julia 0.4.3
+Compat 0.8.0
+ProtoBuf
+URIParser
+CRC
