@@ -50,3 +50,9 @@ julia 0.4
 -----
 ebd00cd0ea77351a2cf95548d48963622296642c
 julia 0.4
+
+0.2.0
+-----
+0292cbb880a4641cf7c70fa798fc217d9433e3a4
+julia 0.5
+StatsBase

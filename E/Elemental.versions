@@ -13,3 +13,10 @@ d047d61993fed5547842ff834821d5357ce4a08d
 julia 0.4
 Compat
 DistributedArrays 0.2.0
+
+0.1.2
+-----
+94af2a2c58371d695736cf13a790186d559f6869
+julia 0.4
+Compat
+DistributedArrays 0.2.0
