@@ -3,6 +3,7 @@ git://github.com/rened/ExtremelyRandomizedTrees.jl.git
 0.0.1
 -----
 7760c900b756866aa25eac32abc954cb5faa5a40
+julia 0.0 0.4
 
 0.0.10
 ------
@@ -23,6 +24,7 @@ Compat
 0.0.2
 -----
 259710c5fee519d2495a9c226587eb472d6411e8
+julia 0.0 0.4
 
 0.0.3
 -----
