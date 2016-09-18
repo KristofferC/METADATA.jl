@@ -161,3 +161,17 @@ DataFrames
 TikzGraphs
 LightXML
 Reexport
+
+1.0.2
+-----
+906770b21daa9a0745e6274cf53d81ffedd33f6a
+julia 0.4
+Compat
+Distributions
+Discretizers
+Iterators
+LightGraphs
+DataFrames
+TikzGraphs
+LightXML
+Reexport

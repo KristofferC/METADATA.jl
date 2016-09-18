@@ -6,3 +6,10 @@ git://github.com/jbn/WordNet.jl.git
 julia 0.3
 Compat
 FactCheck
+
+0.1.0
+-----
+fffe1dacfe4252a5afc8e1fd52f63ac1f1998578
+julia 0.4
+Compat
+FactCheck
