@@ -14,6 +14,16 @@ Libz
 DataStructures
 DataFrames
 
+0.1.10
+------
+10a3f9e63191ecc073eb4ecd5e1f3771c5fd3545
+julia 0.4
+GZip
+DataStructures
+DataFrames
+SHA
+Compat
+
 0.1.2
 -----
 f4e46ab283307a8a2bc95f75e4956dcf1d543027
