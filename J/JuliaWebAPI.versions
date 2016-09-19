@@ -54,3 +54,14 @@ Logging
 HttpCommon
 HttpServer
 Compat
+
+0.1.0
+-----
+b128b8ff503bc12585432f25b76c5a2d11c0a812
+julia 0.4
+ZMQ
+JSON
+Logging
+HttpCommon
+HttpServer
+Compat 0.8.0

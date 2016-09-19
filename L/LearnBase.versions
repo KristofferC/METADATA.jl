@@ -5,3 +5,9 @@ git://github.com/JuliaML/LearnBase.jl.git
 ae22d4cb8713fd09e10c2c07ce30ac1debe399f0
 julia 0.4
 StatsBase
+
+0.0.2
+-----
+8df011a638d82c64e935571f7362200f9a3cfa74
+julia 0.4
+StatsBase

@@ -1,0 +1,30 @@
+git://github.com/denizyuret/Knet.jl.git
+
+0.7.3
+-----
+dd76cb25557a618e974dedba8ec50dc63b7c2281
+julia 0.4 0.5-
+# These are required for gpu support:
+# CUDArt
+# CUBLAS
+# CUSPARSE 0.3 0.4-
+# CUDNN
+# These are required for some examples:
+# ArgParse
+# GZip
+# JLD
+# This is not used any more:
+# Compat
+
+0.8.0
+-----
+038c46a4c016745a54123e34189aab642bf9356c
+# These are required, the rest is optional.
+julia 0.4
+AutoGrad 0.0.3
+# We need these for some examples:
+# ArgParse
+# JLD
+# GZip
+# We will need this for 0.6 compat:
+# Compat 0.7.15 # for sin.(x) etc.

@@ -16,3 +16,10 @@ BinDeps
 63e03e98f542c088e66736900eec9a7486bdc4a5
 julia 0.3
 BinDeps
+
+0.1.0
+-----
+9dce9819022523f4ea5d59252965e620e4f586cf
+julia 0.4
+BinDeps
+BaseTestNext

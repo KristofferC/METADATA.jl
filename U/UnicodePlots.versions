@@ -56,3 +56,9 @@ julia 0.4
 0292cbb880a4641cf7c70fa798fc217d9433e3a4
 julia 0.5
 StatsBase
+
+0.2.1
+-----
+50805fcc20a64982e367d70061d92454fde220e2
+julia 0.5-
+StatsBase
