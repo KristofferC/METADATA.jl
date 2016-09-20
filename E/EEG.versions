@@ -123,3 +123,22 @@ FileFind
 Images
 MAT
 Plots
+
+0.2.0
+-----
+49aeb6759e3c0ea822a2515279f5d7395e1d79ee
+julia 0.5-
+AWS
+DSP
+BDF
+DataFrames
+SIUnits
+ProgressMeter
+Distributions
+Distances
+Logging
+Synchrony
+FileFind
+Images
+MAT
+Plots
