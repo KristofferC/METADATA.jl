@@ -14,3 +14,11 @@ julia 0.4
 Colors
 Cairo
 Compat 0.9.1
+
+0.3.0
+-----
+57d0dab257d107491d02dd883ce551d0388a356b
+julia 0.4
+Compat 0.9.1
+Colors
+Cairo
