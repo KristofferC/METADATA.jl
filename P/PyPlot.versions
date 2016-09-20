@@ -346,3 +346,12 @@ PyCall 1.6.2
 Colors
 LaTeXStrings
 Compat 0.8.0
+
+2.2.3
+-----
+511a2adcd0d05a7949b7ac58475e3aaff9b12a39
+julia 0.4
+PyCall 1.6.2
+Colors
+LaTeXStrings
+Compat 0.8.0
