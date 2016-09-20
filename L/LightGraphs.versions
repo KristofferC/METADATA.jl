@@ -442,6 +442,16 @@ ParserCombinator 1.7.3
 JLD
 Distributions
 
+0.6.3
+-----
+eed0302226da08c5b3556d7357c2ccd96a4e614a
+julia 0.4 0.5-
+GZip 0.2.18
+LightXML 0.2.1
+ParserCombinator 1.7.3
+JLD
+Distributions
+
 0.7.0
 -----
 991de1a99893283637a9235908a50ea56a3b0bc1
