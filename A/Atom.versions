@@ -161,3 +161,21 @@ MacroTools
 Requires
 ASTInterpreter
 Gallium
+
+0.5.1
+-----
+c45d7622da1c5b7afb33cd78370924320fe8ea18
+julia 0.5-
+Juno
+Lazy
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+Requires
+ASTInterpreter
+Gallium
