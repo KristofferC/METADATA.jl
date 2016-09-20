@@ -1,0 +1,10 @@
+https://github.com/BBN-Q/QuantumTomography.jl.git
+
+0.0.1
+-----
+0505795fde051a08fb889c7295891785b1a220a9
+julia 0.4.0
+Convex
+Distributions
+QuantumInfo 0.0.2
+SCS
