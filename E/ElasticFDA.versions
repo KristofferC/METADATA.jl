@@ -191,3 +191,13 @@ Dierckx
 NLopt
 ProgressMeter
 Distributions
+
+0.4.0
+-----
+dc52f5876937113723688ef3250ecdb2236c9ada
+julia 0.5
+Interpolations
+Dierckx
+NLopt
+ProgressMeter
+Distributions
