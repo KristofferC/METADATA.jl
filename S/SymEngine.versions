@@ -8,3 +8,12 @@ Compat 0.8.5
 RecipesBase 0.0.6
 BinDeps
 Conda
+
+0.1.1
+-----
+fb40ba1016b714371ce38b3535a109f7d4cccc1b
+julia 0.4
+Compat 0.8.5
+RecipesBase 0.0.6
+BinDeps 0.4.0
+Conda 0.3.0
