@@ -163,3 +163,15 @@ Colors
 Graphics 0.1
 FileIO
 Compat 0.8.0
+
+0.1.4
+-----
+a350901b0f9a2463d802d7abb7b8a34bfa02bfea
+julia 0.4
+Gtk
+GtkUtilities
+Cairo 0.2.5
+Colors
+Graphics 0.1
+FileIO
+Compat 0.8.0
