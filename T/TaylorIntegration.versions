@@ -1,0 +1,9 @@
+git://github.com/PerezHz/TaylorIntegration.jl.git
+
+0.0.1
+-----
+0b095efa8dbe54913d01628ca24b83eae579908c
+julia 0.4
+TaylorSeries 0.2.0
+FactCheck 0.4.2
+Compat 0.9.1
