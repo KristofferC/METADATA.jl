@@ -4,3 +4,8 @@ git://github.com/Voxel8/Voronoi.jl.git
 -----
 37d52f072f7e82a15b86e32f3722c5d95f0d98b0
 julia 0.4
+
+0.1.0
+-----
+274fcf2a8a61b2157edd6e5164e6bb2fce5dcb8b
+julia 0.5

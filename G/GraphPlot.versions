@@ -1,0 +1,11 @@
+https://github.com/JuliaGraphs/GraphPlot.jl.git
+
+0.1.0
+-----
+35520bad8e2528cfee5a42bc6e3ae800fe3997d5
+julia 0.5-
+Colors
+ColorTypes
+Compose
+LightGraphs
+Graphs
