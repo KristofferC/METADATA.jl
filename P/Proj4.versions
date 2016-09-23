@@ -1,0 +1,9 @@
+https://github.com/JuliaGeo/Proj4.jl.git
+
+0.0.1
+-----
+c7bac29f3aa79f071417347dc609edb14626d829
+julia 0.4
+BinDeps
+Compat 0.8
+@osx Homebrew
