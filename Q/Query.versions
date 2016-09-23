@@ -32,3 +32,14 @@ DataStructures 0.4.5
 Requires 0.3.0
 Documenter 0.3.0
 NullableArrays 0.0.7
+
+0.0.4
+-----
+5361ef26bf94d4005067de8327671a9d20d36287
+julia 0.5
+NamedTuples 1.0.0
+FunctionWrappers 0.0.1
+DataStructures 0.4.5
+Requires 0.3.0
+Documenter 0.3.0
+NullableArrays 0.0.7

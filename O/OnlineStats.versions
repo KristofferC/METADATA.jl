@@ -139,3 +139,11 @@ julia 0.4
 StatsBase
 Distributions
 RecipesBase
+
+0.7.0
+-----
+d22ef46f4a6a33345cf644b5abec9ed9735229a8
+julia 0.5-
+StatsBase
+Distributions
+RecipesBase
