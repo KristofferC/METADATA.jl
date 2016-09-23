@@ -52,3 +52,11 @@ DataArrays 0.2.10
 StatsBase
 Compat
 Lint
+
+0.3.1
+-----
+728a1281c1c2ab4997983dc7eb49ede6dab8725a
+julia 0.4
+DataArrays 0.2.10
+StatsBase 0.8.0
+Compat 0.8.0
