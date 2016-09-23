@@ -1,0 +1,9 @@
+https://github.com/c42f/Displaz.jl.git
+
+0.0.1
+-----
+a71e61b690d00c7149d83d900679b0de849a667c
+julia 0.4
+Compat
+FixedSizeArrays 0.0.8
+Colors
