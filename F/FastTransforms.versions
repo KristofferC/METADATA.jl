@@ -28,3 +28,10 @@ b6e4fdf35a2160f0d9948e6565fd69c2177f4d82
 julia 0.4
 ToeplitzMatrices 0.1
 Compat 0.8.4
+
+0.0.6
+-----
+eb9f1612f174cc1f7c3bc349deee94aedde77825
+julia 0.4
+ToeplitzMatrices 0.1
+Compat 0.8.4
