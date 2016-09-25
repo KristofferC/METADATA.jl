@@ -71,3 +71,12 @@ julia 0.4
 Distributions
 MetaProgTools
 JLD
+
+0.1.9
+-----
+d343968913581054be59be6ad7e37513d6a48512
+julia 0.4
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
