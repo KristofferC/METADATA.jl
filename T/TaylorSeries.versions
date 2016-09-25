@@ -53,3 +53,17 @@ de86b7d311a0d46f4531d92bbbc57fa8ee73a08f
 julia 0.4
 Compat 0.6
 FactCheck 0.4.2
+
+0.2.1
+-----
+28a50e41dd132856691c5b8360b29cb498299003
+julia 0.4
+Compat 0.6
+FactCheck 0.4.2
+
+0.3.0
+-----
+1db3c5a1a66d2c40958122eb18e63af12d907aa8
+julia 0.4
+Compat 0.7.15
+FactCheck 0.4.2
