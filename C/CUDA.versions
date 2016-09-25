@@ -3,7 +3,7 @@ git://github.com/JuliaGPU/CUDA.jl.git
 0.0.0
 -----
 3e81634d29c649fea5165fafaa9438072fc8f6be
-julia 0.2-
+julia 0.2- 0.5-
 
 0.1.0
 -----
@@ -13,14 +13,19 @@ julia 0.2-
 0.2.0
 -----
 1265ee03bc2f1fdfddf02d5d4fcc7de32789cc54
-julia 0.4
+julia 0.4 0.5-
 
 0.2.1
 -----
 2cb229c193f2d9efb003ba585ddb20203f67268a
-julia 0.4
+julia 0.4 0.5-
 
 0.2.2
 -----
 c126f7bd1fb864f98812f371315831009c2c3603
+julia 0.4 0.5-
+
+0.3.0
+-----
+ecbf020678ecfff7a1888429b0d3b0575d29c762
 julia 0.4
