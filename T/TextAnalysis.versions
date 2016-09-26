@@ -45,3 +45,12 @@ Languages
 DataFrames
 BinDeps
 Compat
+
+0.1.0
+-----
+0a1c2b1a5d62b715ae3e919f39a10b316fc8e631
+julia 0.4
+Languages 0.0.5+
+DataFrames
+BinDeps
+Compat 0.8.8
