@@ -92,3 +92,11 @@ StackTraces
 julia 0.4
 JSON
 StackTraces 0.1
+
+2.1.0
+-----
+27fd2f4b19436b0cb70f3f922235980adebfa0ca
+julia 0.4
+JSON
+StackTraces 0.1
+Mocking
