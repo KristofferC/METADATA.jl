@@ -108,3 +108,12 @@ JSON
 Compat 0.7
 Reactive 0.3
 DataStructures 0.2.10
+
+0.3.4
+-----
+a1d2f9782a9a91c50699fceb94284eb0f8758075
+julia 0.4
+JSON
+Compat 0.8.0
+Reactive 0.3
+DataStructures 0.2.10
