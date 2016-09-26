@@ -23,3 +23,11 @@ julia 0.4
 FixedPointNumbers 0.1
 Images
 FileIO
+
+0.1.1
+-----
+85d3b6d85d4ff8904bbad6a43cc78596207f3ead
+julia 0.4
+FixedPointNumbers 0.1.8
+Images
+FileIO

@@ -103,3 +103,11 @@ julia 0.4
 ColorTypes 0.2
 FixedPointNumbers 0.1
 Compat 0.9.1
+
+0.1.9
+-----
+6cf4eb0239888e72e6fe6173abffe93419de4534
+julia 0.4
+ColorTypes 0.2.7
+FixedPointNumbers 0.1.8
+Compat 0.9.1
