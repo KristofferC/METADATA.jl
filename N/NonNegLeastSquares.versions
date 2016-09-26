@@ -4,3 +4,8 @@ git://github.com/ahwillia/NonNegLeastSquares.jl.git
 -----
 00849573c8a5e35fb0dbd1ec9c42e4412d46a377
 julia 0.4
+
+0.1.0
+-----
+be3eb0d66911a7887df81ed4eadf4dc6a5b0da78
+julia 0.5
