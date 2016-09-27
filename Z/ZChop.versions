@@ -8,3 +8,14 @@ a4316a50f81399f5ab875b25080a8d5b53479560
 -----
 2631df1d5969b5b658566f2b26c4ef3dc2f07371
 Compat
+
+0.1.1
+-----
+008a63dff6d60f3773b72e6c09a17dc46f084f66
+julia 0.4
+Compat
+
+0.1.2
+-----
+1cc0f4c52b80bd47c47d1cc1a6c59ffad2d7cdfb
+julia 0.4
