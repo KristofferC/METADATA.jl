@@ -175,6 +175,18 @@ Tk
 Compat 0.2.5
 Graphics 0.1
 
+0.12.0
+------
+7a267e651a23d16f37222c697c6380a03e0a56ec
+julia 0.4
+Cairo
+Colors
+IniFile
+Tk
+Compat 0.7.16
+Graphics 0.1
+Dates
+
 0.3.0
 -----
 0b9ea91f8aece44563555b83e8a7a507e7b0e469
