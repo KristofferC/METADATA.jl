@@ -135,3 +135,17 @@ GenericSVD
 Compat
 Plots
 InplaceOps
+
+0.4.0
+-----
+d4f35822bbc9882fbfc6951330acfbd26d99a7ed
+julia 0.5
+Parameters 0.3.1
+ForwardDiff 0.2.4
+ChunkedArrays 0.0.2
+IterativeSolvers 0.2.2
+GenericSVD 0.0.2
+Compat 0.8.8
+Plots 0.9.2
+InplaceOps 0.0.5
+SIUnits 0.0.6
