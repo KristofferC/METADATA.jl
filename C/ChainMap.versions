@@ -59,3 +59,11 @@ MacroTools 0.2.0
 8b171525a426610efe26db052de6da46d9424e0d
 julia 0.4
 MacroTools 0.2.0
+
+0.1.0
+-----
+7217dd05ee494751a81469cd0082a0972e95591b
+julia 0.5
+MacroTools
+DataStructures
+NullableArrays
