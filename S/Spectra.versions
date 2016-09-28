@@ -139,3 +139,18 @@ JLD
 LsqFit
 PyCall
 Conda
+
+0.1.8
+-----
+90ec96abb45ba81d782ddea4f11d78d53617c3c6
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
