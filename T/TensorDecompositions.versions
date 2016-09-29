@@ -16,3 +16,13 @@ TensorOperations
 Distributions
 ProgressMeter
 FactCheck
+
+0.2.0
+-----
+6ad5981410eb663c5fc1e45c85f65a53d7d4e469
+julia 0.5
+TensorOperations
+Distributions
+ProgressMeter
+FactCheck
+StatsBase
