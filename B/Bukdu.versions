@@ -19,3 +19,14 @@ HttpServer
 URIParser
 Mustache
 JSON
+
+0.0.3
+-----
+c21e991a43c55a713044ea2bc5ee05d525c37f0d
+julia 0.5-
+HttpCommon
+HttpServer
+URIParser
+Mustache
+JSON
+Requests
