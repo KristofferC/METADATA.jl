@@ -21,6 +21,13 @@ julia 0.4
 JSON v0.5.4
 AWS v0.2.0
 
+0.0.12
+------
+c0b1638d9f986ead4b3dac4649db76d6d901c177
+julia 0.4
+JSON v0.5.4
+AWS v0.2.0
+
 0.0.2
 -----
 f971b5b7a1fd2b621d4507c658f8eabdb25141ea

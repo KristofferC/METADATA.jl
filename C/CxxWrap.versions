@@ -1,4 +1,4 @@
-git://github.com/barche/CxxWrap.jl.git
+git://github.com/JuliaInterop/CxxWrap.jl.git
 
 0.1.0
 -----
@@ -40,6 +40,13 @@ Compat 0.8.2
 0.1.6
 -----
 249a6f5e3f3f56c19e1dc42ebdfc1d9cd189222c
+julia 0.4
+BinDeps
+Compat 0.8.2
+
+0.1.7
+-----
+ef510e1488450a31d2651dc5474bd70e4c4ca0d8
 julia 0.4
 BinDeps
 Compat 0.8.2
