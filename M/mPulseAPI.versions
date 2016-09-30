@@ -1,0 +1,12 @@
+git://github.com/SOASTA/mPulseAPI.jl.git
+
+1.0.0
+-----
+a890b49b4c3e1534ebe3ee0d12b02a4d8044a261
+julia 0.4
+Requests
+LightXML
+HttpCommon
+JSON
+DataFrames
+Formatting
