@@ -4,3 +4,8 @@ git://github.com/ChrisRackauckas/ParallelDataTransfer.jl.git
 -----
 c654163d3ff5cfdff3bc6531f5c3391cc10b00aa
 julia 0.5-
+
+0.1.0
+-----
+9f3c402f5223b4bf23acedf208953228701264ae
+julia 0.5
