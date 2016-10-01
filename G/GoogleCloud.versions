@@ -1,0 +1,18 @@
+https://github.com/joshbode/GoogleCloud.jl.git
+
+0.0.1
+-----
+cd089cc3a813c83f3bf48c015bc1538cf11d8725
+julia 0.5.0
+Requests
+JSON
+URIParser
+
+0.0.2
+-----
+b36b3610b4224990d967b275c4fa6a091289f6e7
+julia 0.5.0
+Requests
+MbedTLS
+JSON
+URIParser
