@@ -37,3 +37,10 @@ OpenCL
 d27356ed544fad4f9c979fc2f25dfb5b89798360
 julia 0.4
 OpenCL
+
+0.3.0
+-----
+8b37590cd55ece6edc4759e006fdd520944bb4fd
+julia 0.5-
+OpenCL
+Primes
