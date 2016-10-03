@@ -45,6 +45,16 @@ Compat 0.8.4
 c5b2af54a1465695fcac959549abeccd64884a27
 julia 0.2- 0.3
 
+0.11.0
+------
+091cad865281c92746dc455cc50f4b2a311d3dd9
+julia 0.4
+PDMats 0.5
+StatsFuns 0.3.1
+Calculus
+StatsBase 0.8.3
+Compat 0.9.2
+
 0.1.2
 -----
 9c2eb72f9ff8e29df90379a07da95f8a9b3afac7
