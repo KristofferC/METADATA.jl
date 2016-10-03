@@ -91,3 +91,19 @@ Conda 0.2.3
 JLD 0.6.3
 FileIO 0.1.2
 MNIST 0.0.2
+
+0.4.1
+-----
+0c7fa9b48683036f751b1cdcb77551956d39485b
+julia 0.5-
+Requests 0.3.10
+BinDeps 0.4.4
+ProtoBuf 0.2.0
+PyCall 1.7.1
+Distributions 0.10.2
+Conda 0.2.3
+JLD 0.6.3
+FileIO 0.1.2
+MNIST 0.0.2
+Media 0.2.2
+Juno 
