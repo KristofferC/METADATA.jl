@@ -141,3 +141,14 @@ DataFrames
 NullableArrays
 WeakRefStrings
 DecFP
+
+0.5.0
+-----
+880d4b1a8120236df6cb7a02264226f92f76cb62
+julia 0.5
+DataStreams 0.1.0
+DataFrames
+NullableArrays 0.0.9
+CategoricalArrays 0.0.5
+WeakRefStrings
+@unix DecFP
