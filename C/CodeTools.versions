@@ -62,3 +62,11 @@ JuliaParser
 MacroTools
 Compat
 Requires
+
+0.4.2
+-----
+65f84c20825f05b9e1f665ee771e15d0eb8d3913
+julia 0.5-
+Lazy
+MacroTools
+LNR

@@ -44,3 +44,10 @@ julia 0.4
 Requires
 Lazy
 MacroTools
+
+0.2.3
+-----
+2fae93a4168816c5b44fa2aac4b86d62fbc483aa
+julia 0.4
+Lazy 0.11.3
+MacroTools
