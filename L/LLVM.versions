@@ -5,3 +5,9 @@ https://github.com/maleadt/LLVM.jl.git
 9ef8150d38b90867e9bc69478427166ea1fbb84a
 julia 0.5-
 Compat 0.9.1
+
+0.1.1
+-----
+3d993b5b61fd2682aa581539f4b86eff94a1bc99
+julia 0.5-
+Compat 0.9.1
