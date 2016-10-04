@@ -37,3 +37,10 @@ Requires
 julia 0.4
 IndexedArrays
 Requires
+
+0.4.0
+-----
+b77f0bb65628d4e818984e5e1191bb9b042ce47a
+julia 0.5
+IndexedArrays
+Requires

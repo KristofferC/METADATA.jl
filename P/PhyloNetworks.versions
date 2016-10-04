@@ -51,3 +51,15 @@ NLopt
 ColorTypes
 Gadfly
 GLM
+
+0.3.0
+-----
+ccd85899ea9d914f24337b76471a83422c6658b8
+julia 0.4
+Compat 0.8
+StatsBase 0.9
+DataFrames 0.7
+NLopt 0.3
+ColorTypes 0.2
+Gadfly 0.4
+GLM 0.5

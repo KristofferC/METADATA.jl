@@ -27,3 +27,17 @@ a1af8514e71995dec1967b384a47eb786f68e695
 julia 0.3
 @windows WinRPM
 Compat
+
+1.0.4
+-----
+7ddd4dc4a3aafefa098f7f8d75286815dcd67ad3
+julia 0.4
+@windows WinRPM
+Compat 0.9.2
+
+1.1.0
+-----
+1f6380c0efdb988db74ba3bce859a2b1b64445cd
+julia 0.4
+@windows WinRPM
+Compat 0.9.2

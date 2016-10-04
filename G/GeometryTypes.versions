@@ -77,3 +77,12 @@ julia 0.4
 FixedSizeArrays
 ColorTypes
 Compat 0.7.15
+
+0.2.0
+-----
+5e359abd18da947606233cbb0e36257ce4f854e9
+julia 0.4
+FixedSizeArrays
+ColorTypes
+Compat 0.7.15
+Iterators
