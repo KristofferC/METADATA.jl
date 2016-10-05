@@ -16,6 +16,15 @@ Distributions
 MetaProgTools
 Mads
 
+0.1.10
+------
+84cbe0bd664f57cc511524ca84d7e0472b0eb244
+julia 0.4
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
+
 0.1.2
 -----
 1b6f7d35086c62a2afc18cc838af34eb5cc2cd1f
