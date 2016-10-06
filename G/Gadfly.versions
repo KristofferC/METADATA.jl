@@ -1114,3 +1114,23 @@ KernelDensity
 Loess
 Showoff 0.0.3
 StatsBase
+
+0.5.0
+-----
+8dda4921711d5b2f7769affc9f55851b87497842
+julia 0.4
+Colors 0.3.4
+Compat 0.8.5
+Compose 0.4.4
+Contour 0.1.1
+DataFrames 0.4.2
+DataStructures
+Distributions
+Hexagons
+Iterators 0.1.5
+JSON
+KernelDensity
+Loess
+Showoff 0.0.3
+StatsBase
+Juno
