@@ -44,3 +44,9 @@ fdc316d4b0e534efc1ce1e7cbb69a526aeb6e912
 julia 0.3
 ArgParse
 Compat
+
+1.2.0
+-----
+a7b42744cc7f7024446a29b09a17e1b04aed94b4
+julia 0.4
+ArgParse

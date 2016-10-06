@@ -145,6 +145,21 @@ Reexport
 MacroTools
 Requires
 
+0.4.6
+-----
+80576fae22a41c5dffb33f71874d17337d0fd89d
+julia 0.4
+Lazy
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+Requires
+
 0.5.0
 -----
 fd3b0787ebc43cd9d1e0ce0fb31f1f74fceca92e
@@ -201,6 +216,23 @@ Gallium
 0.5.3
 -----
 0e40e57997aba23623515402ae8a9f7695deb310
+julia 0.5-
+Juno
+Lazy 0.11.3
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+ASTInterpreter
+Gallium
+
+0.5.4
+-----
+cbbe3a718d64b209f8caa83e0729f4a3072afef8
 julia 0.5-
 Juno
 Lazy 0.11.3
