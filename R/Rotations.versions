@@ -27,3 +27,9 @@ Quaternions
 760f1fa3100adbfea9916630ead7cfa3abfeb503
 julia 0.5-
 StaticArrays 0.0.3
+
+0.3.1
+-----
+5135a03ec7ef5ecebe063b19280963947645ff25
+julia 0.5-
+StaticArrays 0.0.3

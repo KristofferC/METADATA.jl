@@ -16,3 +16,12 @@ Requests
 MbedTLS
 JSON
 URIParser
+
+0.0.3
+-----
+ef194c835193ad2fabaef29e32b52ed598d12251
+julia 0.5.0
+Requests
+MbedTLS
+JSON
+URIParser

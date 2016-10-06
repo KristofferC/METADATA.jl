@@ -186,3 +186,12 @@ HttpCommon
 HttpParser
 MbedTLS
 Compat 0.7.16
+
+0.1.7
+-----
+412e3003994a67ede779cf33d8c5f57cd0fc5244
+julia 0.4
+HttpCommon
+HttpParser
+MbedTLS
+Compat 0.7.16
