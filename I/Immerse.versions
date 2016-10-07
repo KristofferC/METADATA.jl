@@ -35,6 +35,18 @@ Gtk
 GtkUtilities 0.0.8
 Reexport
 
+0.0.12
+------
+519f02b90a6b89de1bc2b06d225f51cb972e02f4
+julia 0.4
+Gadfly
+Compose 0.3.19
+Measures
+Colors
+Gtk
+GtkUtilities 0.0.8
+Reexport
+
 0.0.2
 -----
 2f3aa049d09e58af44790d83e65752eddc121caf
