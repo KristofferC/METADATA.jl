@@ -36,3 +36,10 @@ TexExtensions
 julia 0.3
 TexExtensions
 Compat
+
+0.1.0
+-----
+05a6da23847dac082879496be7a22cad1d4db56d
+julia 0.4
+TexExtensions
+Compat 0.8.0
