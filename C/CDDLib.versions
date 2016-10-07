@@ -6,3 +6,12 @@ fe45e13a9baa88ea5fa5193dc9cd3b366d639b40
 julia 0.4
 BinDeps
 MathProgBase
+
+0.1.0
+-----
+31aa7ffe2d92bcc8010b32fe2962889550fcd75d
+julia 0.5
+BinDeps
+MathProgBase
+Polyhedra
+@windows WinRPM
