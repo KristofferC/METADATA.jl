@@ -9,3 +9,12 @@ ea508d796696032fdc0923abcb9cda0e22fe0d8d
 b36b91c46f25e77d93fe5b94298e16e3de50ec48
 julia 0.3
 Compat
+
+0.1.0
+-----
+974b9a7f6b1026a18cfdf391c24f2838bd5f8a84
+julia 0.4
+Compat 0.9.0
+BinDeps 0.3.21
+@osx Homebrew
+@windows WinRPM
