@@ -1,0 +1,9 @@
+https://github.com/IshitaTakeshi/KSVD.jl.git
+
+0.0.1
+-----
+a5ee909347c20c191e29bf8d6c080559c656515c
+julia 0.5
+DataStructures
+ProgressMeter
+PyCall

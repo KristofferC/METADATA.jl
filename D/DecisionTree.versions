@@ -108,3 +108,10 @@ Compat
 julia 0.3
 ScikitLearnBase 0.0.4
 Compat
+
+0.5.0
+-----
+aafb23a592716ad8d9f4a61b64ebe11511d56229
+julia 0.4
+ScikitLearnBase 0.0.4
+Compat 0.8.4

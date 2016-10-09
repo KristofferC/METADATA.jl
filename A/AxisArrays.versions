@@ -1,0 +1,9 @@
+https://github.com/JuliaArrays/AxisArrays.jl.git
+
+0.0.1
+-----
+b334d9055283f00b59ca116ac8e0a783b2db4b31
+julia 0.5
+IntervalSets
+Iterators
+RangeArrays

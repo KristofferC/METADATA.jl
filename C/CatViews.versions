@@ -5,3 +5,9 @@ https://github.com/ahwillia/CatViews.jl.git
 6ae27341324fcf637ff1a60171600f42472568a0
 julia 0.5-
 Iterators
+
+0.1.0
+-----
+7f64ce9d79001d25eb1de06fb226b10f525dcff9
+julia 0.5
+Iterators

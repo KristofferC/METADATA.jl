@@ -3,3 +3,8 @@ git://github.com/jakebolewski/PicoSAT.jl.git
 0.1.0
 -----
 b9a4fd76ffe1e8374b5d1223f8630d8a92b3fd4e
+
+0.2.0
+-----
+ad90d6ee4a2fd0623b28fb11defac12b284ded8f
+julia 0.5

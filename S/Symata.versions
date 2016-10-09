@@ -1,0 +1,10 @@
+https://github.com/jlapeyre/Symata.jl.git
+
+0.0.14
+------
+83daade1b25df920966cdf55f54f164126c9d909
+julia 0.4
+Compat 0.7.15
+PyCall 1.7.0
+Combinatorics 0.2.1
+Primes 0.1.1
