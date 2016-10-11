@@ -70,3 +70,45 @@ Requires 0.2.0
 ScikitLearnBase 0.0.6
 StatsBase 0.8.0
 Iterators 0.1.9
+
+0.2.0
+-----
+36e79be0a95f05fe4cfee976ecef5d68fd42915e
+julia 0.4
+PyCall 1.6.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+Iterators 0.1.9
+Compat 0.9.2
+
+0.2.1
+-----
+ac27ecbcb0d2a69ba34000de6959100ba75f2f90
+julia 0.4
+PyCall 1.6.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+Iterators 0.1.9
+Compat 0.9.2
+
+0.2.2
+-----
+ebf176a519fb0da6dfba61e3bfd398147ad7d7b2
+julia 0.4
+PyCall 1.6.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+Iterators 0.1.9
+Compat 0.9.2
