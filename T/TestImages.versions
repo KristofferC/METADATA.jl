@@ -60,3 +60,10 @@ ZipFile
 julia 0.4
 Images 0.5
 ZipFile
+
+0.1.2
+-----
+ce937376e7b0cf385add99e23f4a218802afe245
+julia 0.4
+FileIO
+ZipFile

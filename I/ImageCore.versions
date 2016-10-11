@@ -26,3 +26,12 @@ FixedPointNumbers
 Colors
 MappedArrays
 Graphics
+
+0.0.4
+-----
+86bfc0ff9ca727df058f04fe28c90fc9a23297ac
+julia 0.5-
+FixedPointNumbers
+Colors
+MappedArrays 0.0.3
+Graphics
