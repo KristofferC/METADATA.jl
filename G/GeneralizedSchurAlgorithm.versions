@@ -6,3 +6,10 @@ https://github.com/KTH-AC/GeneralizedSchurAlgorithm.jl.git
 julia 0.4
 ToeplitzMatrices 0.1.1
 Compat 0.9.0
+
+0.0.2
+-----
+af47db31c3ca21a4f562116cdd6a7c2dd594db54
+julia 0.4
+ToeplitzMatrices 0.1.1
+Compat 0.9.0

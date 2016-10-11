@@ -30,3 +30,16 @@ URIParser
 Mustache
 JSON
 Requests
+
+0.0.4
+-----
+010dd2229cf9d701fc49dc26769d96182ecb6438
+julia 0.5-
+HttpCommon
+HttpServer
+URIParser
+Mustache
+JSON
+Requests
+MbedTLS
+Libz
