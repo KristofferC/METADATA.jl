@@ -59,3 +59,12 @@ Compat 0.8
 Mocking 0.2
 # Only required for building
 @windows LightXML
+
+0.2.3
+-----
+94c725c0125dbe174bea293f568ecbd296f346ac
+julia 0.4
+Compat 0.8
+Mocking 0.2
+# Only required for building
+@windows LightXML
