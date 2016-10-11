@@ -1,0 +1,11 @@
+https://github.com/JuliaImages/ImageAxes.jl.git
+
+0.0.1
+-----
+e725c52377950b233898a3077e4742ad00995ed4
+julia 0.5
+ImageCore
+AxisArrays
+SimpleTraits
+Reexport
+Colors

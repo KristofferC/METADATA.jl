@@ -1,0 +1,12 @@
+https://github.com/JuliaImages/ImageMetadata.jl.git
+
+0.0.1
+-----
+b8e5c162b71babe457b56669e4cb8530964407f3
+julia 0.5
+IndirectArrays
+FixedPointNumbers
+Colors
+ColorVectorSpace 0.1.11
+ImageCore
+ImageAxes
