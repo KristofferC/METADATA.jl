@@ -42,3 +42,9 @@ CUDArt
 dddd92a218d06b00239a00be15e3e107779a2833
 julia 0.4
 CUDArt
+
+0.5.0
+-----
+0f31aa131ee5a4f988dbd17fe38db84a2ebdd489
+julia 0.5
+CUDArt
