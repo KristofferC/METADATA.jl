@@ -36,3 +36,14 @@ Compat 0.8.8
 SIUnits
 @osx Homebrew
 @windows WinRPM
+
+0.5.0
+-----
+c36a10f95d1db4169bf0af7d5f6fafffbf21c862
+julia 0.4
+BinDeps
+FileIO 0.1.1
+SampledSignals 0.3.0
+Compat 0.8.8
+@osx Homebrew
+@windows WinRPM

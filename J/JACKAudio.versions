@@ -6,3 +6,16 @@ https://github.com/JuliaAudio/JACKAudio.jl.git
 julia 0.4
 SampledSignals
 SIUnits
+
+0.1.0
+-----
+d004ac8e38e78432f1b3180e879d27b964a54640
+julia 0.4
+SampledSignals 0.3.0
+
+0.1.1
+-----
+87e1e8a0b904e4d7d16f43baeca797a903a21e5a
+julia 0.4
+SampledSignals 0.3.0
+Compat 0.8.6
