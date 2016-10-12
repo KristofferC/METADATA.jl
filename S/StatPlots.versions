@@ -43,3 +43,14 @@ StatsBase
 Distributions
 DataFrames
 KernelDensity
+
+0.1.1
+-----
+5be00a21c589d6d7d70913287c18c229d33180ae
+julia 0.5-
+Reexport
+Plots
+StatsBase
+Distributions
+DataFrames
+KernelDensity
