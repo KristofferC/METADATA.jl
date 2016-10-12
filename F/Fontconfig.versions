@@ -18,3 +18,12 @@ Compat 0.9.0
 BinDeps 0.3.21
 @osx Homebrew
 @windows WinRPM
+
+0.1.1
+-----
+b7128c8cd3c64d8dc982b1b7b463bcd7ab8f809d
+julia 0.4
+Compat 0.9.0
+BinDeps 0.3.21
+@osx Homebrew
+@windows WinRPM
