@@ -1,0 +1,10 @@
+https://github.com/PoisotLab/BioEnergeticFoodWebs.jl.git
+
+0.1.0
+-----
+40ff35ce918e2c826b82821ede24295859ad1d19
+julia 0.4
+Distributions
+ODE
+JSON
+JLD

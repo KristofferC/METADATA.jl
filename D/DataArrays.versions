@@ -326,3 +326,11 @@ julia 0.4
 StatsBase 0.3
 Compat 0.8.6
 Reexport
+
+0.3.9
+-----
+40dcd9e155a982a387dad58c5186fc4d5d57c855
+julia 0.4
+StatsBase 0.3
+Compat 0.8.6
+Reexport
