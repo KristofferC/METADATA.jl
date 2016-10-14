@@ -48,3 +48,12 @@ julia 0.4
 PyCall 1.1.2
 PyPlot 2.1.1
 SymPy 0.2.31
+
+0.4.0
+-----
+d49b05f058ae2c09cb2a9719829ec424590f39fe
+julia 0.5
+PyCall 1.1.2
+PyPlot 2.1.1
+SymPy 0.2.31
+Conda
