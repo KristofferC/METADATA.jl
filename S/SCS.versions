@@ -163,3 +163,12 @@ MathProgBase 0.5 0.6
 BinDeps
 Compat 0.8.6
 @osx Homebrew
+
+0.2.7
+-----
+fe5e5d790548a23a222cf0451ede8630464af1e3
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+Compat 0.8.6
+@osx Homebrew
