@@ -334,3 +334,16 @@ Libz
 BinDeps 0.3
 SHA
 LegacyStrings
+
+0.2.2
+-----
+7d6b190d9a264d68458810645a3d02f5e81d2238
+julia 0.4
+Compat 0.7.20
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.0.3
+Libz
+BinDeps 0.3
+SHA
+LegacyStrings
