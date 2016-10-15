@@ -1,0 +1,8 @@
+https://github.com/JuliaSmoothOptimizers/NLPModels.jl.git
+
+0.0.1
+-----
+2afe2ef7fce406571ab8196ea33ed9a54400a4ea
+julia 0.4
+Compat 0.7.15
+LinearOperators 0.2.0
