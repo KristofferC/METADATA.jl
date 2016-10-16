@@ -67,3 +67,10 @@ ce937376e7b0cf385add99e23f4a218802afe245
 julia 0.4
 FileIO
 ZipFile
+
+0.1.3
+-----
+2c6f848f69a370b5a599b89903b08cd7b059f6af
+julia 0.4
+FileIO
+ZipFile
