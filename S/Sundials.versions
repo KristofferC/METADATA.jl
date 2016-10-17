@@ -48,3 +48,10 @@ e3cbb0969dd5783160f4cb0c1d090e10718b0e3d
 julia 0.4
 BinDeps 0.3
 Compat
+
+0.3.0
+-----
+c33c56e25c6682a99aca625fb79f2f07aec689bb
+julia 0.4
+BinDeps 0.4.3
+Compat 0.9.0
