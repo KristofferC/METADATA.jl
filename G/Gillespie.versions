@@ -9,3 +9,12 @@ StatsBase
 DataFrames
 Docile
 Lexicon
+
+0.0.2
+-----
+39fb53516cc1d736c18ba7ac62d51e81287f9246
+julia 0.4
+Compat 0.8.6
+Distributions
+StatsBase
+DataFrames

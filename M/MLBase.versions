@@ -146,3 +146,12 @@ ArrayViews 0.4.8-
 StatsBase 0.6.9-
 Iterators
 Compat
+
+0.6.0
+-----
+8903112732bddee02d25cadc44a5a1cfde3431dd
+julia 0.4
+Reexport
+StatsBase 0.6.9-
+Iterators
+Compat 0.8.7
