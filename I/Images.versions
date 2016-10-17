@@ -1177,6 +1177,20 @@ FileIO
 Compat 0.9.1
 StatsBase   # for histrange
 
+0.5.14
+------
+1b3536e6700d1f56e85de03e8a41cb5357daeaae
+julia 0.4
+Colors 0.6
+ColorVectorSpace 0.1
+FixedPointNumbers 0.1
+SIUnits
+Zlib
+Graphics 0.1
+FileIO
+Compat 0.9.1
+StatsBase   # for histrange
+
 0.5.2
 -----
 efac0091c9df6f9fe7240fa9f55441afdcdde0d6
