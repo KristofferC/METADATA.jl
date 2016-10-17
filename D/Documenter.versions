@@ -126,3 +126,10 @@ Requests 0.3.10
 julia 0.4
 Compat 0.8
 DocStringExtensions 0.2
+
+0.6.0
+-----
+b7c4d5d2a909fb432bec8679b80d3266e0d00366
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
