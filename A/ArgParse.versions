@@ -87,3 +87,10 @@ afd2a6c265bd8fb68c456ea2759d93c31a56cc2b
 julia 0.3
 Compat 0.8.0
 TextWrap 0.1.4
+
+0.4.0
+-----
+22f6672041f4285e7805bf67778dc4dc9050dc48
+julia 0.4
+Compat 0.8.0
+TextWrap 0.1.4
