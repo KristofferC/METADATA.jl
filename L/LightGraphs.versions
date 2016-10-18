@@ -473,3 +473,14 @@ ParserCombinator 1.7.11
 JLD 0.6.3
 Distributions 0.10.2
 StatsBase 0.9.0
+
+0.7.2
+-----
+0bbc5f63ebf06a89dc4ab25e4b96e601167c12b9
+julia 0.5-
+GZip 0.2.20
+LightXML 0.4.0
+ParserCombinator 1.7.11
+JLD 0.6.3
+Distributions 0.10.2
+StatsBase 0.9.0

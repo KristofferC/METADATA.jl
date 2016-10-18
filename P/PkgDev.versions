@@ -21,3 +21,11 @@ julia 0.5-
 JSON
 URIParser
 Compat
+
+0.1.3
+-----
+707a172605667c46896cfee2291568976c0042ca
+julia 0.5-
+JSON
+URIParser
+Compat 0.7.9
