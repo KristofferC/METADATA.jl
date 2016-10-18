@@ -1,0 +1,8 @@
+https://github.com/JuliaDiffEq/ParameterizedFunctions.jl.git
+
+0.0.1
+-----
+3c5c91a02a3fe3739630e7991758c98dc8487454
+julia 0.5
+SymEngine 0.1.1
+DataStructures 0.4.6

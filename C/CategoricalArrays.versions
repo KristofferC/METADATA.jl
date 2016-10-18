@@ -1,4 +1,4 @@
-https://github.com/nalimilan/CategoricalArrays.jl.git
+https://github.com/JuliaData/CategoricalArrays.jl.git
 
 0.0.1
 -----
@@ -35,3 +35,10 @@ Compat 0.8.1
 b176bb45f0f9017d8845d5d6bd7e850978ab6b3a
 julia 0.4.0
 Compat 0.8.1
+
+0.1.0
+-----
+267b1025e4dd737b9cf54343c3f2803a8317d9b6
+julia 0.5.0-
+Compat 0.8.1
+NullableArrays
