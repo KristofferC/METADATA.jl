@@ -21,3 +21,13 @@ julia 0.4 0.5-
 JuMP 0.13.2
 LightGraphs
 GraphMatrices
+
+0.1.0
+-----
+63b870cec7a4e4541575b9e2e9fef2424ca0c130
+julia 0.5-
+LightGraphs 0.7.2
+JuMP 0.13.2
+MatrixDepot
+Clustering
+BlossomV 0.1
