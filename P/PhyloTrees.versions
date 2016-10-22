@@ -37,3 +37,10 @@ e508085a2339cb272652d3cf35e693d7db9d0666
 julia 0.4
 Distributions
 RecipesBase
+
+0.5.0
+-----
+92e56083efbe2789199a863f05a1f5fa3fece1fd
+julia 0.5
+Distributions
+RecipesBase
