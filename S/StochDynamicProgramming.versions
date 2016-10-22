@@ -45,3 +45,23 @@ Distributions
 ProgressMeter
 Interpolations
 Iterators
+
+0.2.0
+-----
+f11f9866889ebd6ae75b9ce0b8b9025e5cfff27a
+julia 0.4
+JuMP 0.13
+Distributions
+ProgressMeter
+Interpolations
+Iterators
+
+0.2.1
+-----
+2ff4eb95f9b2ad286fe76df9ea739320235cbef9
+julia 0.4
+JuMP 0.13
+Distributions
+ProgressMeter
+Interpolations
+Iterators
