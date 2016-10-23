@@ -77,3 +77,10 @@ Compat 0.8.4
 58c0b7538fe45fb335ed64924b99952e5924a9a3
 julia 0.4
 Compat 0.8.4
+
+1.2.0
+-----
+4e48ad77b3a100810d20de7cd994806cf9acd449
+julia 0.5
+BinDeps
+@osx Homebrew
