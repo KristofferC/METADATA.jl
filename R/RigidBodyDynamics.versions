@@ -1,0 +1,11 @@
+https://github.com/tkoolen/RigidBodyDynamics.jl.git
+
+0.0.1
+-----
+40fc23fe31db29fdd7a7b5e046c81d2db09d74a2
+julia 0.5
+StaticArrays 0.0.4
+Quaternions 0.1
+DataStructures 0.4.6
+LightXML 0.4.0
+ODE 0.2.1
