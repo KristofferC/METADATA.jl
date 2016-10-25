@@ -4,3 +4,10 @@ git://github.com/shashi/Reel.jl.git
 -----
 4f12c3f25fe61d2bc33300dee61eb54956ff962b
 Compat
+
+0.2.0
+-----
+06b9cc96c9ecbb3e09aee92995105cdf614bf497
+julia 0.4
+Compat 0.9.2
+VideoIO 0.1.0
