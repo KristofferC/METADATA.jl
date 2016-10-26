@@ -55,3 +55,11 @@ a78f6e502227c0e37080dca8ca06fb1ce18e6370
 julia 0.4
 Interpolations
 Requires
+
+0.1.5
+-----
+7c7616ce8c8ec27aa0fc9daf29101d471a19e654
+julia 0.4
+Interpolations
+Requires
+Compat 0.7.15

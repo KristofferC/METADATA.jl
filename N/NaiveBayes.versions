@@ -21,3 +21,13 @@ HDF5
 KernelDensity 0.2.0 0.3.0
 Grid
 StatsBase
+
+0.3.1
+-----
+1e84bc50771d741d19a9b8313ba060a6136e1576
+julia 0.4
+Distributions 0.6
+HDF5
+KernelDensity 0.2.0 0.3.0
+Grid
+StatsBase
