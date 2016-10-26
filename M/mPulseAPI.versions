@@ -32,3 +32,14 @@ HttpCommon
 JSON
 DataFrames
 Formatting
+
+1.0.3
+-----
+b940902fdd4c5a9e87f0fee84d79efc218e83c0f
+julia 0.4
+Requests 0.3.9
+LightXML
+HttpCommon
+JSON
+DataFrames
+Formatting
