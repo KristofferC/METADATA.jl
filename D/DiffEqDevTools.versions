@@ -1,0 +1,11 @@
+https://github.com/JuliaDiffEq/DiffEqDevTools.jl.git
+
+0.0.1
+-----
+2542db60e825b7649a3db3919afdcd80ead0a810
+julia 0.5
+RecipesBase 0.1.0
+DiffEqBase
+StochasticDiffEq
+OrdinaryDiffEq
+FiniteElementDiffEq

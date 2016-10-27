@@ -237,3 +237,10 @@ eb15908c640875c33fbb30186c9ba96fd3dc75d0
 julia 0.4
 MathProgBase 0.5 0.6
 Compat 0.8.6
+
+0.2.7
+-----
+3658c1adce992138219102066dbf1bfe36306257
+julia 0.4
+MathProgBase 0.5 0.6
+Compat 0.8.6

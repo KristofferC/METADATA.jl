@@ -6,3 +6,9 @@ git://github.com/ChrisRackauckas/VectorizedRoutines.jl.git
 julia 0.5-
 Distributions
 StatsFuns
+
+0.0.2
+-----
+66ee005806eb8e7410c7b84cb902771a8396dbe0
+julia 0.5-
+Distributions

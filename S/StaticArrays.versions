@@ -5,6 +5,11 @@ https://github.com/JuliaArrays/StaticArrays.jl.git
 cd71bb8cc916c24403232a41874aacd62fce5f90
 julia 0.5-
 
+0.0.10
+------
+eaf6a55406b1df38a05ba113ca507e07c1f56484
+julia 0.5-
+
 0.0.2
 -----
 afcb14581431c6b2f53b05a650eeb805a7d546f6

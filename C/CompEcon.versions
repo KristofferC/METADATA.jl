@@ -1,7 +1,15 @@
-git://github.com/spencerlyon2/CompEcon.jl.git
+https://github.com/QuantEcon/CompEcon.jl.git
 
 0.1.0
 -----
 c2f91cfd4e43c6a9768d15b49d3e0b2da22e02ac
 julia 0.4
 QuantEcon
+
+0.2.0
+-----
+20fa71a6378317c87691ce1b8147a7221a9f969c
+julia 0.4
+QuantEcon
+BasisMatrices
+Reexport
