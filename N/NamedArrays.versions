@@ -92,3 +92,10 @@ julia 0.4
 Compat
 Combinatorics
 DataStructures 0.4.4
+
+0.5.3
+-----
+f9dbffcab67cede7227538f98ac71eda96eb78d9
+julia 0.4
+Combinatorics 0.2.1
+DataStructures 0.4.4

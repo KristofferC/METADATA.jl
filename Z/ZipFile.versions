@@ -56,3 +56,9 @@ d341159861d3ff015a19bbda2c11059cb619feb2
 julia 0.3
 Zlib 0.1.2-
 Compat 0.2
+
+0.3.0
+-----
+1dd2d433bdbe9520cba2dbafdbef46badac1ca57
+julia 0.4
+Compat 0.8.4
