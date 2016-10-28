@@ -55,6 +55,18 @@ BinDeps
 Compat 0.8.0
 BaseTestNext
 
+0.10.4
+------
+7d7ff7459b427b9ebc867be911e5332360e2cb57
+julia 0.4
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+Compat 0.8.0
+BaseTestNext
+
 0.2.0
 -----
 212591fafb8b52a44169ba2d87eec44aea29f570

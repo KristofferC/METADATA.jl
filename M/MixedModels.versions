@@ -498,3 +498,19 @@ StatsBase 0.11
 StatsFuns 0.3
 CategoricalArrays
 NullableArrays
+
+0.6.3
+-----
+9a2686c28340ba4e7d1c81a2b4fea15770bf4a0f
+julia 0.5
+DataArrays
+DataFrames 0.8.4
+Distributions 0.11
+GLM 0.6.1
+NamedArrays
+NLopt 0.3
+Showoff
+StatsBase 0.11
+StatsFuns 0.3
+CategoricalArrays
+NullableArrays
