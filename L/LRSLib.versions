@@ -1,0 +1,8 @@
+git://github.com/blegat/LRSLib.jl.git
+
+0.0.1
+-----
+547753ffb7cbabe9eb6b7591d20d031c0d5e2b09
+julia 0.5
+BinDeps
+Polyhedra 0.1.1
