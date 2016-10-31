@@ -51,3 +51,11 @@ julia 0.4
 Compat
 ArgParse
 JLD
+
+0.2.0
+-----
+bfd163e50fdc2b55af7e88a7bfdb7e9a0610fa0f
+julia 0.5
+Compat
+ArgParse
+JLD
