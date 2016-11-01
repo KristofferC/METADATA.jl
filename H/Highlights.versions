@@ -1,0 +1,8 @@
+git://github.com/JuliaDocs/Highlights.jl.git
+
+0.1.0
+-----
+84d115a7bf07e9566a98ec96fb87f114f5b20c0c
+julia 0.4
+Compat 0.9
+DocStringExtensions 0.2.1
