@@ -1,0 +1,12 @@
+https://github.com/JuliaDiffEq/DiffEqProblemLibrary.jl.git
+
+0.0.1
+-----
+02c440d405ac8c049b6e351a54939f99425ae049
+julia 0.5
+ParameterizedFunctions 0.2.0
+OrdinaryDiffEq
+StochasticDiffEq
+FiniteElementDiffEq
+AlgebraicDiffEq
+JLD 0.6.5
