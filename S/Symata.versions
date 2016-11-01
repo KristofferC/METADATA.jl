@@ -44,3 +44,12 @@ Compat 0.7.15
 PyCall 1.7.0
 Combinatorics 0.2.1
 Primes 0.1.1
+
+0.1.0
+-----
+afcdadb09324def65ee1d1343b44739320ebff72
+julia 0.4
+Compat 0.7.15
+PyCall 1.7.0
+Combinatorics 0.2.1
+Primes 0.1.1
