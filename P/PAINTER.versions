@@ -47,3 +47,13 @@ Wavelets
 OIFITS
 JLD
 OptimPack
+
+0.4.0
+-----
+fea9040953fe4f4f292f5fabea63ef6f36771525
+julia 0.5
+NFFT
+Wavelets
+OIFITS
+JLD
+OptimPack

@@ -9,3 +9,14 @@ DiffEqBase
 StochasticDiffEq
 OrdinaryDiffEq
 FiniteElementDiffEq
+
+0.0.2
+-----
+9d4eebe1b68f0c8c4d32de9524b8afa8d66009ed
+julia 0.5
+RecipesBase 0.1.0
+DiffEqBase
+StochasticDiffEq
+OrdinaryDiffEq
+FiniteElementDiffEq
+RecursiveArrayTools

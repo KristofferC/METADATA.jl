@@ -4,3 +4,8 @@ git://github.com/JuliaGraphics/SignedDistanceFields.jl.git
 -----
 a97a950ceeb054d833a4aaed6b0aad3099b28772
 julia 0.3
+
+0.1.0
+-----
+150c9eb45fc77a2606d38491a8b67967aed013e1
+julia 0.4

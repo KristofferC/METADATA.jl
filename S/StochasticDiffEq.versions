@@ -16,3 +16,12 @@ ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase
+
+0.0.3
+-----
+a0b62a7b672c33115a4e588f358af2070264434a
+julia 0.5
+ParameterizedFunctions 0.1.0
+Parameters 0.5.0
+ChunkedArrays 0.1.0
+DiffEqBase
