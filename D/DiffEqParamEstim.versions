@@ -1,0 +1,11 @@
+https://github.com/JuliaDiffEq/DiffEqParamEstim.jl.git
+
+0.0.1
+-----
+de5e0643aefb917b144a8a0e9c184b3ce1fee287
+julia 0.5
+OrdinaryDiffEq
+LsqFit
+DiffEqBase
+LossFunctions
+RecursiveArrayTools
