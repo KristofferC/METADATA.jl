@@ -271,6 +271,14 @@ StatsBase 0.3
 Compat 0.7.19
 Reexport
 
+0.3.10
+------
+c3fe3a2a18ec5d44ed464a9f3c24354a30ed7aa4
+julia 0.4
+StatsBase 0.3
+Compat 0.8.6
+Reexport
+
 0.3.2
 -----
 d8999c7c372720ea2078c9c75987c5695749cf5c
