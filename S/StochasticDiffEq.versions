@@ -25,3 +25,22 @@ ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase
+
+0.0.4
+-----
+8b36f2136ddc289bed722cff2d02c6bb550048e1
+julia 0.5
+ParameterizedFunctions 0.1.0
+Parameters 0.5.0
+ChunkedArrays 0.1.0
+DiffEqBase
+RecursiveArrayTools
+
+0.0.5
+-----
+9dc049ee667848f3aa23cfa2d471ef88c609c83a
+julia 0.5
+Parameters 0.5.0
+ChunkedArrays 0.1.0
+DiffEqBase
+RecursiveArrayTools
