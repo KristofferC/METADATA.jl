@@ -10,6 +10,19 @@ julia 0.4
 06a05a03cafe5908c894d4903ab4fd681d45c774
 julia 0.4
 
+0.1.10
+------
+2d350f47f7b622fe54b5d829abbf932e79576fd5
+julia 0.4
+JLD
+
+0.1.11
+------
+c6995c082d86ca941be35324d56bf6c49e3593af
+julia 0.4
+JLD
+Compat 0.7.15
+
 0.1.2
 -----
 81157ce162d53b3f90a9c114d139efcba7a1014a

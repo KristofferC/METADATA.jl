@@ -10,3 +10,15 @@ PyPlot 2.1.1
 Distributions 0.8.7 0.9-
 Sundials 0.1.3
 JLD 0.5.9
+
+0.0.2
+-----
+7b93214385c293ee063279ca260bdc3aba7cbe78
+julia 0.4.5
+Compat 0.7.6
+IJulia 1.1.7
+PyPlot 2.1.1
+Distributions 0.9
+Sundials 0.1.3
+JLD 0.5.9
+PDMats
