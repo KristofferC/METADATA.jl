@@ -40,3 +40,10 @@ e54c822a5858f93fba0c94695a728438655bf72c
 julia 0.4
 Iterators
 Compat
+
+0.4.0
+-----
+7a9df0a0b1aca12989ab8058bf66e08d1be832c0
+julia 0.5
+Iterators
+StaticArrays
