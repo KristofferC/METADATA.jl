@@ -5,3 +5,9 @@ git://github.com/JuliaGPU/CUDAdrv.jl.git
 c0cb8c0ea447ab4c9943e2a3653b0cebf8feb216
 julia 0.4
 Compat 0.7.20
+
+0.1.1
+-----
+5ab568e18ff324887f05b0c12fbd4783e09a0eb2
+julia 0.4
+Compat 0.7.20

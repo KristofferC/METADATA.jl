@@ -124,3 +124,12 @@ HDF5
 Compat 0.8.0
 FileIO
 LegacyStrings  # for julia-0.5
+
+0.6.6
+-----
+0d8894380f5567f22e4cf0a545093a0502f8b7b4
+julia 0.4
+HDF5
+Compat 0.8.0
+FileIO
+LegacyStrings  # for julia-0.5
