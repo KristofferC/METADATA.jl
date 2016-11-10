@@ -1,0 +1,15 @@
+https://github.com/opencobra/COBRA.jl.git
+
+0.0.1
+-----
+a373c7da987ab7810b79c939a416096bd2718d74
+julia 0.5
+MathProgBase 0.5.7
+MAT 0.3.1
+
+0.0.2
+-----
+a373c7da987ab7810b79c939a416096bd2718d74
+julia 0.5
+MathProgBase 0.5.7
+MAT 0.3.1
