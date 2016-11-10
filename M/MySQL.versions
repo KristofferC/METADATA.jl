@@ -15,3 +15,11 @@ julia 0.3
 DataFrames
 Compat
 Dates
+
+0.1.0
+-----
+90abdef9c497da238d8f98aa4cf7e68545018958
+julia 0.4
+DataFrames
+Compat 0.8.0
+ConfParser
