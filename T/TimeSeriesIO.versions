@@ -1,0 +1,15 @@
+https://github.com/femtotrader/TimeSeriesIO.jl.git
+
+0.0.1
+-----
+8346cdc2b31a577241a7173b4995415347a1ddb1
+julia 0.5
+DataFrames
+TimeSeries
+
+0.0.2
+-----
+408638e7bc4d92bb665a0058f0c3cce21bbe05dd
+julia 0.5
+DataFrames
+TimeSeries
