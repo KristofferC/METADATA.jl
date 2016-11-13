@@ -13,3 +13,10 @@ TimeSeries
 julia 0.5
 DataFrames
 TimeSeries
+
+0.0.3
+-----
+33d518a05d2f8fe2992027d61ef794f3e93f5eae
+julia 0.5
+DataFrames
+TimeSeries
