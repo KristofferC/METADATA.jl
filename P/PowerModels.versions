@@ -22,3 +22,12 @@ julia 0.4.6
 JSON
 MathProgBase 0.5.4
 JuMP 0.14.0
+
+0.2.2
+-----
+2682fa539065f3351b2b3f43f0817924412ba5c7
+julia 0.4.6
+JSON
+MathProgBase 0.5.4
+JuMP 0.14.0
+Compat

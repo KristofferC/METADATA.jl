@@ -193,3 +193,19 @@ InplaceOps 0.0.5
 NLsolve 0.7.3
 Sundials 0.3.0
 Ranges 0.0.1
+
+1.0.0
+-----
+db1a0294d1b75cec5973f4076a2fa0a797c1b417
+julia 0.5
+Reexport
+DiffEqBase
+StochasticDiffEq
+FiniteElementDiffEq
+DiffEqDevTools
+OrdinaryDiffEq
+AlgebraicDiffEq
+StokesDiffEq
+DiffEqParamEstim
+DiffEqSensitivity
+Sundials
