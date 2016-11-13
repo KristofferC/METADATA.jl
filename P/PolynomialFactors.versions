@@ -1,0 +1,10 @@
+git://github.com/jverzani/PolynomialFactors.jl.git
+
+0.0.1
+-----
+e627f82eee4946e6089838228de8468261cf2c28
+julia 0.4
+Compat 0.7.15
+Iterators 0.1.0
+Combinatorics 0.2.1
+Primes 0.1.1

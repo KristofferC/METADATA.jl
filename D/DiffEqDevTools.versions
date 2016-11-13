@@ -20,3 +20,14 @@ StochasticDiffEq
 OrdinaryDiffEq
 FiniteElementDiffEq
 RecursiveArrayTools
+
+0.1.0
+-----
+80172145e8a170380d16d34954228df1e7121a84
+julia 0.5
+RecipesBase 0.1.0
+DiffEqBase
+StochasticDiffEq
+OrdinaryDiffEq
+FiniteElementDiffEq
+RecursiveArrayTools

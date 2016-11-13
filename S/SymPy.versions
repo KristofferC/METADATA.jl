@@ -352,3 +352,11 @@ julia 0.4
 Compat 0.8.6
 PyCall 1.6.0
 RecipesBase 0.0.4
+
+0.4.0
+-----
+44ef174582746df1e7eb7e2763a3088c7eb9abaa
+julia 0.4
+Compat 0.8.6
+PyCall 1.6.0
+RecipesBase 0.0.4

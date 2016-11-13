@@ -77,3 +77,19 @@ Sundials 0.3.0
 Ranges 0.0.1
 RecipesBase 0.1.0
 RecursiveArrayTools
+
+0.1.0
+-----
+9012f56c98f7d8f2bf3c1579633b33069f775e35
+julia 0.5
+DiffEqBase
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.7.3
+Ranges 0.0.1
+RecipesBase 0.1.0
+RecursiveArrayTools
+Juno

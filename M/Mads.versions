@@ -674,6 +674,35 @@ BlackBoxOptim
 Documenter
 Compat 0.7.15
 
+0.2.12
+------
+684d42ffca8ac817f362c1083c1ca92b630f3eee
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.5
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
 0.2.2
 -----
 caae69cd519007fbbae7389cff3613a7b4c016cd

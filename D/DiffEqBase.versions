@@ -26,3 +26,21 @@ f5a8a8b23809c4eace6400919a0ddf4807cde2cf
 julia 0.5
 RecipesBase 0.1.0
 Ranges 0.0.1
+
+0.1.0
+-----
+e87054faf09e6d720f59ccf6b8bc11578b1bbf94
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters
+RecursiveArrayTools
+
+0.1.1
+-----
+742048aff0532c69c082185f078f25ae5b1695bd
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters
+RecursiveArrayTools
