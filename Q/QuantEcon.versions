@@ -199,3 +199,14 @@ LightGraphs
 Primes
 Compat 0.8.4
 StatsBase
+
+0.8.0
+-----
+29de48b19c2727e0e73f52e06451b809a77aa930
+julia 0.4
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.8.4
+StatsBase
