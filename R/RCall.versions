@@ -151,3 +151,14 @@ NullableArrays 0.0.10
 CategoricalArrays 0.0.6
 Compat 0.8
 @windows WinReg 0.2.0
+
+0.6.1
+-----
+13d1cb6290208fd0220defeded1de112e8a287fe
+julia 0.5
+DataStructures 0.4.3
+DataFrames 0.8.4
+NullableArrays 0.0.10
+CategoricalArrays 0.0.6
+Compat 0.8
+@windows WinReg 0.2.0
