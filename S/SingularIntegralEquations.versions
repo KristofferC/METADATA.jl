@@ -37,12 +37,12 @@ Compat 0.8.4
 -----
 dafbed0918e1ed829728b52b6b30d4d9e086db30
 julia 0.4
-ApproxFun 0.3.1
+ApproxFun 0.3.1 0.4-
 Compat 0.8.4
 
 0.1.5
 -----
 31a446b03c7f31307c3a644f1217f53f9b2e52cc
 julia 0.4
-ApproxFun 0.3.2
+ApproxFun 0.3.2 0.4-
 Compat 0.8.4

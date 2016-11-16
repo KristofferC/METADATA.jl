@@ -131,3 +131,16 @@ Compat 0.8.6
 DualNumbers 0.2.2
 BandedMatrices 0.1.1
 ToeplitzMatrices 0.1.1
+
+0.4.0
+-----
+7c6dad842f227bab7fb5234d5c8c11d6467fbca1
+julia 0.4
+FastGaussQuadrature 0.1
+FastTransforms 0.0.6
+Plots 0.8.2
+Compat 0.8.6
+DualNumbers 0.2.2
+BandedMatrices 0.1.2
+ToeplitzMatrices 0.1.1
+Calculus 0.1.15
