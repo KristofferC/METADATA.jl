@@ -29,3 +29,13 @@ Cairo
 Fontconfig
 Gadfly
 Colors
+
+0.1.0
+-----
+0df89a16007553324a87e03702ea6503760fa252
+julia 0.4
+Cairo
+Fontconfig
+Gadfly
+Colors
+Compose

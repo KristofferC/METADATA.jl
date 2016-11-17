@@ -55,3 +55,11 @@ c33c56e25c6682a99aca625fb79f2f07aec689bb
 julia 0.4
 BinDeps 0.4.3
 Compat 0.9.0
+
+0.4.0
+-----
+1c6ac7466bb4b5bc3a9dbc50b52ac5a1f0cee772
+julia 0.5
+BinDeps 0.4.3
+Compat 0.9.0
+DiffEqBase
