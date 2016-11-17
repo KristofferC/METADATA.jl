@@ -232,3 +232,30 @@ Images
 FreeType
 MeshIO
 Compose
+
+0.1.0
+-----
+1da0c4b672250fcc38277676bb20cb19417c7fd6
+julia 0.4
+GLFW
+GLWindow
+GLAbstraction
+ModernGL
+FixedSizeArrays
+GeometryTypes
+ColorTypes
+Colors
+Reactive
+Quaternions
+Compat 0.8.0
+FixedPointNumbers
+FileIO
+Packing
+SignedDistanceFields
+Images
+FreeType
+MeshIO
+Compose
+Iterators
+UnicodeFun
+ColorVectorSpace

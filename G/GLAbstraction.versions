@@ -210,3 +210,17 @@ ColorTypes
 Compat 0.7.15
 Mustache
 FileIO
+
+0.2.0
+-----
+1569d30a5ec939707fd87e52c09ec51b7832e145
+julia 0.4
+Quaternions
+FixedSizeArrays
+GeometryTypes
+ModernGL
+Reactive
+FixedPointNumbers
+ColorTypes
+Compat 0.8.0
+FileIO
