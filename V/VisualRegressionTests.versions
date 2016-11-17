@@ -51,3 +51,12 @@ Images
 @windows ImageMagick
 @linux ImageMagick
 @osx QuartzImageIO
+
+0.1.0
+-----
+48c469903aca5de8721eee511ad327037320fc4a
+julia 0.5
+Images
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
