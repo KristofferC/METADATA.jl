@@ -67,3 +67,11 @@ julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
 DiffEqBase 0.1.0
+
+0.3.3
+-----
+d4574c0b0f3c36bf81f244ddd04639a0a54cb064
+julia 0.5
+SymEngine 0.1.2
+DataStructures 0.4.6
+DiffEqBase 0.2.0
