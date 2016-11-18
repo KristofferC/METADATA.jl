@@ -21,6 +21,18 @@ julia 0.4-
 Colors
 FactCheck
 
+0.10.0
+------
+436ab89d2d4a90a6004386bfcfc56cd4d3810345
+julia 0.5
+RecipesBase
+PlotUtils
+PlotThemes
+Reexport
+FixedSizeArrays
+Measures
+Showoff
+
 0.1.1
 -----
 8023e15bb97cfc6eaa81ae1ec9c0abaa08669aa2

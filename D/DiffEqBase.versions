@@ -71,3 +71,13 @@ RecipesBase 0.1.0
 Ranges 0.0.1
 Parameters 0.5.0
 RecursiveArrayTools 0.0.2
+
+0.3.0
+-----
+b12cdfdf5d45ff6ec4b290d0294f50d3665238f3
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.0.2
+SimpleTraits 0.1.1
