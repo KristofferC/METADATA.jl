@@ -21,3 +21,14 @@ StochasticDiffEq
 FiniteElementDiffEq
 AlgebraicDiffEq
 JLD 0.6.5
+
+0.2.0
+-----
+ef037a7865ef322872e505f29393d332c6ff8761
+julia 0.5
+ParameterizedFunctions 0.2.0
+DiffEqBase 0.2.0
+StochasticDiffEq 0.1.0
+FiniteElementDiffEq 0.0.5
+AlgebraicDiffEq 0.0.2
+JLD 0.6.5

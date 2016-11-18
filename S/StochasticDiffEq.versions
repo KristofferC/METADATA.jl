@@ -44,3 +44,12 @@ Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase
 RecursiveArrayTools
+
+0.1.0
+-----
+ee764f902e0994e177756e938945eb2b76753869
+julia 0.5
+Parameters 0.5.0
+ChunkedArrays 0.1.0
+DiffEqBase 0.2.0
+RecursiveArrayTools 0.0.2
