@@ -224,3 +224,18 @@ FixedPointNumbers
 ColorTypes
 Compat 0.8.0
 FileIO
+
+0.2.1
+-----
+a88532d45c41c8b47e83a8bdf2ba2975a2aa56b2
+julia 0.4
+Quaternions
+FixedSizeArrays
+GeometryTypes
+ModernGL
+Reactive
+FixedPointNumbers
+ColorTypes
+Compat 0.8.0
+FileIO
+GLFW
