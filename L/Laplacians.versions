@@ -6,3 +6,11 @@ f0284dd1dab25976f3bd7fa626dd6372a41f0335
 julia 0.4
 PyPlot
 DataStructures
+
+0.0.2
+-----
+6137bf024e1b8edd3750568ac225e98b12052156
+julia 0.4
+PyPlot 
+DataStructures
+PyAMG
