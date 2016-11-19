@@ -51,3 +51,11 @@ RecipesBase 0.1.0
 DiffEqBase 0.2.0
 FiniteElementDiffEq 0.0.5
 RecursiveArrayTools 0.0.2
+
+0.2.1
+-----
+7b740e27cc24ea42e1001346cc587711ab86cf84
+julia 0.5
+RecipesBase 0.1.0
+DiffEqBase 0.3.0
+RecursiveArrayTools 0.0.2

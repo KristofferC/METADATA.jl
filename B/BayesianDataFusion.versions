@@ -68,3 +68,13 @@ DataFrames
 Distributions 0.7.3
 Iterators
 Compat 0.4.4
+
+1.2.0
+-----
+2db95be7857157c367723d09082aac8677f99c9a
+julia 0.4
+DataFrames 0.8
+Distributions 0.10
+Iterators 0.2.0
+Compat 0.9
+PDMats 0.5

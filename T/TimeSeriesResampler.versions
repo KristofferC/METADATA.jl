@@ -27,3 +27,17 @@ TimeFrames
 julia 0.5
 TimeSeries
 TimeFrames
+
+0.0.5
+-----
+63435b26bcda413b4a9e337ffc4ef8b15fef2e4d
+julia 0.5
+TimeSeries
+TimeFrames 0.0.5
+
+0.0.6
+-----
+63435b26bcda413b4a9e337ffc4ef8b15fef2e4d
+julia 0.5
+TimeSeries
+TimeFrames 0.0.5
