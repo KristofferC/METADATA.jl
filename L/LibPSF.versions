@@ -4,3 +4,8 @@ git://github.com/ma-laforge/LibPSF.jl.git
 -----
 bb94e90af02e78081d55225485ffb02143553b03
 julia 0.4
+
+0.1.0
+-----
+0009fc6d58facafb5da5881b1c280bf3d9ae9d6d
+julia 0.5
