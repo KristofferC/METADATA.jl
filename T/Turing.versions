@@ -27,3 +27,11 @@ f88e5eee70bfd268596f997bd4d3387d2dcbc1cb
 julia 0.4
 Distributions
 ConjugatePriors
+
+0.1.0
+-----
+0fe926e429176f2417ac37d749358c24d69c4442
+julia 0.5
+Distributions 0.11.0
+PDMats 0.5.1
+ForwardDiff
