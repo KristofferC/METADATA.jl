@@ -33,6 +33,18 @@ FixedSizeArrays
 Measures
 Showoff
 
+0.10.1
+------
+eba1e366bb21b44d719cfee568aaaadc1721651e
+julia 0.5
+RecipesBase
+PlotUtils
+PlotThemes
+Reexport
+FixedSizeArrays
+Measures
+Showoff
+
 0.1.1
 -----
 8023e15bb97cfc6eaa81ae1ec9c0abaa08669aa2

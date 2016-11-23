@@ -112,3 +112,17 @@ ScikitLearnBase 0.0.6
 StatsBase 0.8.0
 Iterators 0.1.9
 Compat 0.9.2
+
+0.2.3
+-----
+4d29bb828f624e3a2c06d2a836edd8bdbfcda8fa
+julia 0.4
+PyCall 1.6.2
+Parameters 0.3.0
+MacroTools 0.3.0
+Conda
+Requires 0.2.0
+ScikitLearnBase 0.0.6
+StatsBase 0.8.0
+Iterators 0.1.9
+Compat 0.9.2

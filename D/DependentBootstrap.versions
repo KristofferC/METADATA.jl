@@ -1,0 +1,8 @@
+https://github.com/colintbowers/DependentBootstrap.jl.git
+
+0.0.1
+-----
+996d3c22c08c49b55b475a26192e35c1e7b94759
+julia 0.5
+StatsBase 0.11.0
+Distributions 0.11.0

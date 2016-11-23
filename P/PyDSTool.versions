@@ -1,0 +1,8 @@
+https://github.com/JuliaDiffEq/PyDSTool.jl.git
+
+0.0.1
+-----
+3845c92bb15024c4eb690bdccb02b6d693423cae
+julia 0.5
+PyCall
+DataStructures
