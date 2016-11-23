@@ -6,3 +6,11 @@ https://github.com/JuliaDiffEq/PyDSTool.jl.git
 julia 0.5
 PyCall
 DataStructures
+
+0.0.2
+-----
+b8abe9647e4910fcfb817c90cd16392199248978
+julia 0.5
+PyCall
+DataStructures
+Conda
