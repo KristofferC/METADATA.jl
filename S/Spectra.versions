@@ -155,6 +155,21 @@ JLD
 LsqFit
 PyCall
 
+0.1.9
+-----
+75f5999fa3b550b023a0c4c1e47c67db3e2789c3
+julia 0.4
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
 0.2.0
 -----
 75f5999fa3b550b023a0c4c1e47c67db3e2789c3
@@ -207,6 +222,36 @@ PyCall
 135e3955da199c5f7cb290c3afa0ed3d8e12c268
 julia 0.4
 Compat 0.7.19
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.2.4
+-----
+30f8fddd279b5200ef07a1b0993367692a2927db
+julia 0.5
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+
+0.3.0
+-----
+30f8fddd279b5200ef07a1b0993367692a2927db
+julia 0.5
 IJulia
 PyPlot
 JuMP 0.13

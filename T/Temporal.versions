@@ -57,3 +57,9 @@ f121296805e5917d9c4b828df84459c4da303cff
 julia 0.5-
 Dates
 Requests
+
+0.2.0
+-----
+e66ad082ff324ebaea7fe8255c3afcdbd6c69a73
+julia 0.5
+Requests
