@@ -30,3 +30,11 @@ julia 0.4
 MathProgBase 0.4 0.6
 JuMP 0.13
 ConicNonlinearBridge
+
+0.3.0
+-----
+dc2afcb4eeccdfdc1a771663040e05b328823378
+julia 0.5
+MathProgBase 0.4 0.6
+JuMP 0.14
+ConicNonlinearBridge
