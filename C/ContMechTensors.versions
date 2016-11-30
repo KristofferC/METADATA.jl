@@ -4,3 +4,9 @@ https://github.com/KristofferC/ContMechTensors.jl.git
 -----
 c6a1255d82593273b4e7fd95a973ff93ff0b162f
 julia 0.5
+
+0.2.0
+-----
+c0c28e9196f72d525523dabd7db51833c662c164
+julia 0.5
+StaticArrays
