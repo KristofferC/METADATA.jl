@@ -122,3 +122,21 @@ julia 0.4
 Compat 0.8.6
 Calculus
 NaNMath
+
+0.3.0
+-----
+76715d249bb58cc9feab5606d3986e1b65162b8d
+julia 0.4
+DiffBase 0.0.1
+Compat 0.8.6
+Calculus 0.1.15
+NaNMath 0.2.1
+
+0.3.1
+-----
+9fb6582e19c9987ec763cbaa27f1ae833995a5d1
+julia 0.4
+DiffBase 0.0.1
+Compat 0.8.6
+Calculus 0.1.15
+NaNMath 0.2.1

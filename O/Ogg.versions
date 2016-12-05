@@ -7,3 +7,11 @@ julia 0.4
 @osx Homebrew
 BinDeps
 FileIO
+
+0.0.2
+-----
+e311333e3d725991450adab1cb4e7b95707d28ef
+julia 0.4
+@osx Homebrew
+BinDeps
+FileIO

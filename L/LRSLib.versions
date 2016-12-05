@@ -6,3 +6,11 @@ git://github.com/blegat/LRSLib.jl.git
 julia 0.5
 BinDeps
 Polyhedra 0.1.1
+
+0.0.2
+-----
+3f0caf4b378b7951ee76d91d436ee958d1d4840a
+julia 0.5
+BinDeps
+Polyhedra 0.1.2
+@osx Homebrew
