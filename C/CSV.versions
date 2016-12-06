@@ -127,3 +127,11 @@ julia 0.5
 DataStreams 0.1.0
 DataFrames
 WeakRefStrings 0.1.3
+
+0.1.2
+-----
+38a36939e086fd97f44912beea812d9fcfeaf33c
+julia 0.5
+DataStreams 0.1.0
+DataFrames
+WeakRefStrings 0.1.3
