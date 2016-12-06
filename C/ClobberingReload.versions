@@ -5,3 +5,9 @@ https://github.com/cstjean/ClobberingReload.jl.git
 6dc1dc528527a32f6ae5a4845ab3bd53e74d622b
 julia 0.5.0-
 MacroTools 0.3.2
+
+0.0.2
+-----
+e1917f044e754c36949d24503d4a9a1440021451
+julia 0.5.0
+MacroTools 0.3.2

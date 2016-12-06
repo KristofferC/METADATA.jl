@@ -1,0 +1,9 @@
+https://github.com/colintbowers/ForecastEval.jl.git
+
+0.0.1
+-----
+fba1e15ca7e314d45269d5afbe3e85c386caa35a
+julia 0.5
+StatsBase 0.11.0
+Distributions 0.11.0
+DependentBootstrap 0.0.1

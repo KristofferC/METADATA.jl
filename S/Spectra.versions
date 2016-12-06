@@ -262,3 +262,18 @@ Distributions
 JLD
 LsqFit
 PyCall
+
+0.3.1
+-----
+db1775e2a82717515eb56cfff7b492627e131b3a
+julia 0.5
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall

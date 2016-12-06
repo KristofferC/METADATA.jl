@@ -81,3 +81,12 @@ cddac8059828503b331b26ba3619bcc86b10cdfd
 julia 0.5
 MacroTools
 DataStructures
+
+0.1.3
+-----
+d3feef9aa7ec72ee73da03d633e81cfa3a5190e8
+julia 0.5
+MacroTools
+DataStructures
+StructuredQueries
+Documenter
