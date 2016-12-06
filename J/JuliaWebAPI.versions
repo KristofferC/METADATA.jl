@@ -87,3 +87,14 @@ Logging 0.3.1
 HttpCommon
 HttpServer 0.0.12
 Compat 0.8.0
+
+0.2.0
+-----
+f9d31c313bb399ae422fcf2727f42d4a15f9956f
+julia 0.4
+ZMQ 0.3.3
+JSON
+Logging 0.3.1
+HttpCommon
+HttpServer 0.0.12
+Compat 0.8.0
