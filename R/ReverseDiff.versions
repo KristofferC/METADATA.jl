@@ -1,0 +1,9 @@
+git://github.com/JuliaDiff/ReverseDiff.jl.git
+
+0.0.1
+-----
+eec3108a648e37e832db9c826c39b43003d28391
+julia 0.5
+DiffBase 0.0.2
+ForwardDiff 0.3.2
+Calculus 0.1.15
