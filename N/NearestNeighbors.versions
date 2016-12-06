@@ -42,3 +42,11 @@ julia 0.5-
 Distances 0.3 0.4
 StaticArrays 0.0.4
 Compat 0.8.4
+
+0.1.1
+-----
+88368b584faed8850688767ed807882037d12963
+julia 0.5-
+Distances 0.3 0.4
+StaticArrays 0.0.4
+Compat 0.8.4
