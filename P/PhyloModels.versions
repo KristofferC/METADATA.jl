@@ -1,0 +1,8 @@
+https://github.com/jangevaare/PhyloModels.jl.git
+
+0.1.0
+-----
+bf446f24c27de33ad58170b539621e2983472004
+julia 0.5
+PhyloTrees 0.6.0
+Distributions
