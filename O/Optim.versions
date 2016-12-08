@@ -170,3 +170,13 @@ Calculus
 ForwardDiff 0.2.0 0.3.0
 PositiveFactorizations
 Compat 0.8.4
+
+0.7.0
+-----
+1ef7694c2837af1b30f2b8b58bfb6401ca8ad166
+julia 0.4
+Calculus
+ForwardDiff 0.3.0 0.4.0
+PositiveFactorizations
+Compat 0.8.4
+LineSearches 0.1.0
