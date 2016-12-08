@@ -15,3 +15,10 @@ julia 0.4
 MathProgBase
 ODE
 Ipopt
+
+0.1.0
+-----
+95918f9a7ddb5f7bd79493e31e92168e16f9daa1
+julia 0.5
+MathProgBase
+ODE
