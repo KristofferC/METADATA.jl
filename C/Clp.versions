@@ -80,3 +80,10 @@ julia 0.4
 Cbc
 MathProgBase 0.5 0.6
 Compat 0.8.6
+
+0.3.0
+-----
+ce11ac71c8817fee585350a43bff2e24daef601c
+julia 0.5
+Cbc
+MathProgBase 0.5 0.6

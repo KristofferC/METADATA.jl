@@ -172,3 +172,12 @@ MathProgBase 0.5.5 0.6
 Compat 0.8.6
 @osx Homebrew
 @windows WinRPM
+
+0.3.0
+-----
+aed0d73a5611a2bede96d73f26069048f16d321c
+julia 0.5
+BinDeps
+MathProgBase 0.5.5 0.6
+@osx Homebrew
+@windows WinRPM
