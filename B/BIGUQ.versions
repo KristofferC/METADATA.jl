@@ -101,3 +101,15 @@ BlackBoxOptim
 Distributions
 RobustPmap
 Mads
+
+0.1.9
+-----
+63a4557965bba3e58f9d46fe385ddb0307c746b8
+julia 0.4
+RobustPmap
+AffineInvariantMCMC
+Klara 0.6
+DataFrames
+ForwardDiff
+BlackBoxOptim
+Distributions

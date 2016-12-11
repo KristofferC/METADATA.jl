@@ -71,3 +71,15 @@ Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.2.0
 RecursiveArrayTools 0.0.2
+
+0.3.0
+-----
+e2cc207a3570f9b5c04ed07817ae64cee0c1b5e7
+julia 0.5
+Parameters 0.5.0
+ChunkedArrays 0.1.0
+DiffEqBase 0.2.0
+RecursiveArrayTools 0.0.2
+DataStructures
+ResettableStacks
+Juno

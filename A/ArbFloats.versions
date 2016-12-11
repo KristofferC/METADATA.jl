@@ -14,6 +14,13 @@ julia 0.5-
 Nemo
 FactCheck
 
+0.1.11
+------
+3e49ec3ed2be9de9bb7410513435400b9bd6c49a
+julia 0.5.0
+BinDeps 0.4.5
+Compat 0.9.5
+
 0.1.2
 -----
 d8c8d9d4587a592137d627d6e2a0ea05140a55a7
