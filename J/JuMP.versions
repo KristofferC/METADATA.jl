@@ -165,6 +165,16 @@ ForwardDiff 0.2 0.3
 Calculus
 Compat 0.8.6
 
+0.14.2
+------
+45bf62e187852b8f707ad959e0586c075a9b377f
+julia 0.4
+MathProgBase 0.5.1 0.6
+ReverseDiffSparse 0.5.3 0.6
+ForwardDiff 0.2 0.3
+Calculus
+Compat 0.8.6
+
 0.2.0
 -----
 c35353c0a16a906aa57ecfa26076a13d224d1a23
