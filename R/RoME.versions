@@ -1,0 +1,15 @@
+https://github.com/dehann/RoME.jl.git
+
+0.0.1
+-----
+e4bcfc1ff97ea2f6970e5915cd5ac06b2cfee5c9
+julia 0.5
+IncrementalInference
+Graphs
+TransformUtils
+KernelDensityEstimate
+Distributions
+Colors
+Gadfly
+JLD
+HDF5

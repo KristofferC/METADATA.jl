@@ -40,3 +40,16 @@ KernelDensityEstimate
 TransformUtils
 #CloudGraphs
 #Neo4j
+
+0.2.0
+-----
+4bca1d41497fe6fe40644fe3d78a70529d2e8a75
+julia 0.5
+Graphs 0.7.1
+GraphViz
+Gadfly
+Colors
+NLsolve
+Distributions
+KernelDensityEstimate
+TransformUtils

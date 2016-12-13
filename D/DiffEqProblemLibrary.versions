@@ -52,3 +52,13 @@ DiffEqBase 0.2.0
 FiniteElementDiffEq 0.0.5
 AlgebraicDiffEq 0.0.2
 JLD 0.6.5
+
+0.3.2
+-----
+e8d4dcb213b93f330ead1955a6db108ad6d2b417
+julia 0.5
+ParameterizedFunctions 0.2.0
+DiffEqBase 0.2.0
+FiniteElementDiffEq 0.0.5
+AlgebraicDiffEq 0.0.2
+JLD 0.6.5

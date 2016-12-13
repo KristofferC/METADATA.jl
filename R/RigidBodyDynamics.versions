@@ -28,3 +28,12 @@ StaticArrays 0.1.0
 Quaternions 0.1
 DataStructures 0.4.6
 LightXML 0.4.0
+
+0.0.4
+-----
+72ed4ce112e9df818f39664317f397cc28256600
+julia 0.5
+StaticArrays 0.1.0
+Rotations 0.3.3
+DataStructures 0.4.6
+LightXML 0.4.0

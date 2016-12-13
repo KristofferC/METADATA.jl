@@ -39,3 +39,13 @@ Fontconfig
 Gadfly
 Colors
 Compose
+
+0.2.0
+-----
+4fab1d22dea7ecc08deb52a41005f08ddf858c81
+julia 0.5
+Cairo
+Fontconfig
+Gadfly
+Colors
+Compose

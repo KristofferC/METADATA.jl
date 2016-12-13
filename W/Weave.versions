@@ -66,3 +66,11 @@ c61adf1230dce157821ef535143d2f5bdbfaf7bf
 julia 0.5
 ArgParse
 JLD
+
+0.2.2
+-----
+985b3b1972971edfca9fcbcd41c6d1b87f6c3c38
+julia 0.5
+ArgParse
+JLD
+JSON
