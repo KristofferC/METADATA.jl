@@ -51,7 +51,16 @@ Compat 0.8.4
 -----
 663af619ea570340d524da51b0148e599fd2009c
 julia 0.5
-ApproxFun 0.4
+ApproxFun 0.4 0.4.1
 BandedMatrices 0.1.2
 Compat 0.8.4
+DualNumbers 0.2.3
+
+0.2.1
+-----
+c214df8c6440ae0c0e95ab8d5ef9e9b8e2781e63
+julia 0.5
+ApproxFun 0.4.1
+BandedMatrices 0.1.2
+Compat 0.9.5
 DualNumbers 0.2.3

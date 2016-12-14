@@ -1,0 +1,14 @@
+https://github.com/JuliaDiffEq/DASKR.jl.git
+
+0.0.1
+-----
+dc7b06f16fbe46877c8bd5d77e4300e18549ba97
+julia 0.5
+DiffEqBase
+
+0.0.2
+-----
+3600e06ddb2bed768a3c71e36a37afde70136d13
+julia 0.5
+DiffEqBase
+Compat

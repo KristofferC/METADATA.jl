@@ -1,0 +1,25 @@
+https://github.com/ContaTP/ClinicalTrialSampleSize.jl.git
+
+0.0.1
+-----
+2a3bc7b92f3e9c8f287d1e9a3ea8bcceb6846028
+julia 0.5.0+
+Distributions
+Roots
+DocStringExtensions
+
+0.0.2
+-----
+afc67477c548643a81ad31dab4159c9d865ea419
+julia 0.5.0
+Distributions
+Roots
+DocStringExtensions
+
+0.0.3
+-----
+5fbf45e803990755462c18e3f7fff7de9caf6a29
+julia 0.5.0
+Distributions
+Roots
+DocStringExtensions

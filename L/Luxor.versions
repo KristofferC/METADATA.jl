@@ -47,3 +47,12 @@ Compat 0.9.1
 Colors
 Cairo
 BaseTestNext
+
+0.7.0
+-----
+94700cb92bd103f7ff4cd3009a5b866ebb4402e3
+julia 0.4
+Compat 0.9.1
+Colors
+Cairo
+FileIO
