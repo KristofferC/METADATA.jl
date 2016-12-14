@@ -23,3 +23,12 @@ julia 0.4
 ValidatedNumerics 0.5
 MacroTools 0.3
 Compat 0.7.14
+
+0.3.0
+-----
+18ff6d9c2819d63201b7cd74e8e4207b42155189
+julia 0.4
+ValidatedNumerics 0.5
+MacroTools 0.3
+Compat 0.7.14
+FixedSizeArrays 0.1.2
