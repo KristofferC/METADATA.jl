@@ -13,3 +13,8 @@ git://github.com/vtjnash/Glob.jl.git
 527b069a55489afec1187ece9517020c53c57902
 julia 0.3
 Compat
+
+1.1.0
+-----
+f13ac1ec27a8514188c4a607aae7d6f7cb2d738f
+julia 0.5
