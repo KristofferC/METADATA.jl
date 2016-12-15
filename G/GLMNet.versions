@@ -32,3 +32,11 @@ julia 0.3
 DataFrames
 Distributions
 Compat
+
+0.2.0
+-----
+6a5522cc1799dddb248c325747b2a0ac81f7e626
+julia 0.4
+Distributions
+StatsBase
+Compat 0.9.3
