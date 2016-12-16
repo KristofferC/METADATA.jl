@@ -306,3 +306,11 @@ julia 0.5
 TimeSeries 0.9.0
 DataFrames
 Requests
+
+0.6.1
+-----
+d8ae4e242226ad92a95cd8662b4d15f600c9a893
+julia 0.5
+TimeSeries 0.9.0
+DataFrames
+Requests
