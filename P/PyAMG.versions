@@ -41,3 +41,9 @@ PyCall
 b147f3c2cbeb2c614f2053c8dd89fc511cc1063b
 julia 0.4
 PyCall
+
+0.0.8
+-----
+773d3f8bd4bbfb3dca983b1cee73b7f8c7aec4f0
+julia 0.4
+PyCall
