@@ -21,6 +21,14 @@ julia 0.5.0
 BinDeps 0.4.5
 Compat 0.9.5
 
+0.1.13
+------
+4655010eb6da712507280c823095473bf80f5fec
+julia 0.5
+BinDeps 0.4
+Compat 0.9
+Nemo 0.5
+
 0.1.2
 -----
 d8c8d9d4587a592137d627d6e2a0ea05140a55a7
