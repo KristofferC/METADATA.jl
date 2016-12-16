@@ -36,3 +36,13 @@ Distributions
 GLM 0.4.8
 Reexport
 Compat
+
+0.1.0
+-----
+1435f112b01def833a57d995b0fc790b2e5fc4c6
+julia 0.5
+StatsBase 0.8
+Distributions
+GLM 0.6.1
+Reexport
+MLBase
