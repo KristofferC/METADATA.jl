@@ -10,3 +10,10 @@ julia 0.5
 c0c28e9196f72d525523dabd7db51833c662c164
 julia 0.5
 StaticArrays
+
+0.3.0
+-----
+9838b3b33f5149f15b38db73cbbe23cd1a8fde04
+julia 0.5
+StaticArrays
+ForwardDiff
