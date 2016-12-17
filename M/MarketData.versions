@@ -163,3 +163,10 @@ TimeSeries 0.8.0
 1d593c2a3a2a4dbdba9c197a32ac7dda75c34f40
 julia 0.5
 TimeSeries 0.9.0
+
+0.6.0
+-----
+fb023532cc53209d917e0fc85a282d4db85dc753
+julia 0.5
+TimeSeries 0.9.0
+Requests
