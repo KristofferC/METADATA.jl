@@ -1,0 +1,9 @@
+https://github.com/Ward9250/SpeedDate.jl.git
+
+0.0.1
+-----
+61edac839b41c38ac0b39a4518c4ac59ff8b75c7
+julia 0.5
+Bio 0.4.3
+ArgParse 0.4
+Gtk 0.10.4

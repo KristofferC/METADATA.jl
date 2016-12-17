@@ -1,0 +1,10 @@
+https://github.com/JuliaOpt/CSDP.jl.git
+
+0.0.1
+-----
+57392715628b9612aba7a1b81a1c3c6396a37475
+julia 0.5
+BinDeps
+Glob
+MathProgBase 0.5 0.6
+SemidefiniteModels

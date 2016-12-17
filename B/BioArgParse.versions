@@ -1,0 +1,8 @@
+https://github.com/Ward9250/BioArgParse.jl.git
+
+0.0.1
+-----
+f1cbd4c4058284b583a3cdd4a8fa0ac82602f8cf
+julia 0.5
+Bio 0.4.3
+ArgParse 0.4.0

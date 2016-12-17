@@ -1,0 +1,9 @@
+https://github.com/Balinus/ClimateTools.jl.git
+
+0.0.2
+-----
+9d5b4299dd1a016a3ce1b82e6bac00acb351a510
+julia 0.5
+NetCDF 0.4.1
+PyPlot 2.2.4
+PyCall 1.7.2

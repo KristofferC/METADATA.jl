@@ -1,0 +1,14 @@
+https://github.com/jtramm/ConstructiveSolidGeometry.jl.git
+
+0.0.1
+-----
+12447c5f28744a30c0b4cfd25580d4ed4709b2da
+julia 0.5
+Plots 0.10.1
+
+0.0.2
+-----
+2be7c1e3406237886dc5a5c2f425276b75798661
+julia 0.5
+Plots 0.10.1
+PyPlot 2.2.4
