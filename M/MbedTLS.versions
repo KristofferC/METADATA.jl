@@ -96,3 +96,17 @@ julia 0.4
 BinDeps
 Compat 0.8.0
 @osx Homebrew
+
+0.4.1
+-----
+780c9187bf2d02b2f063052ec3e1c29cc04e752d
+julia 0.5
+BinDeps
+@osx Homebrew
+
+0.4.2
+-----
+d77b6d1ed576f99ea3adbcbcec2c359d692038bf
+julia 0.5
+BinDeps
+@osx Homebrew
