@@ -26,3 +26,10 @@ julia 0.3
 Lazy
 MacroTools
 Compat 0.8.2
+
+0.1.1
+-----
+dc648d31d29726583b5c0bfedeff716b45a6f4e6
+julia 0.5
+MacroTools 0.3.4
+Compat 0.8.2
