@@ -10,3 +10,25 @@ git://github.com/tshort/Sims.jl.git
 julia 0.3-
 Requires
 Sundials
+
+0.2.1
+-----
+48ec678b34ca912b71a6cfc36402043c152d8683
+julia 0.5
+Documenter
+Ipopt
+JuMP
+Plots
+ReactiveBasics 
+Sundials
+
+0.2.4
+-----
+753a74faa605fef22449b3f35bbc0f5024e3cdc3
+julia 0.5
+Documenter
+Ipopt
+JuMP
+Plots
+ReactiveBasics 
+Sundials

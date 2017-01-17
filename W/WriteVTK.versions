@@ -136,3 +136,12 @@ LightXML 0.4.0
 Libz 0.2.0
 BufferedStreams 0.2.0
 Compat 0.9.4
+
+0.4.5
+-----
+b22db692e70b4846082af3fd217e869e2530302b
+julia 0.4
+LightXML 0.4.0
+Libz 0.2.1
+BufferedStreams 0.2.0
+Compat 0.9.4

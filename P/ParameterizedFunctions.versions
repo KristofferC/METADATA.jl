@@ -6,6 +6,7 @@ https://github.com/JuliaDiffEq/ParameterizedFunctions.jl.git
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
+DiffEqBase 0.0 0.5.0
 
 0.1.0
 -----
@@ -13,6 +14,7 @@ e84b50328b6e3139f5300f023472ecf43e2b8242
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
+DiffEqBase 0.0 0.5.0
 
 0.1.1
 -----
@@ -20,6 +22,7 @@ DataStructures 0.4.6
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
+DiffEqBase 0.0 0.5.0
 
 0.2.0
 -----
@@ -27,6 +30,7 @@ DataStructures 0.4.6
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
+DiffEqBase 0.0 0.5.0
 
 0.2.1
 -----
@@ -34,7 +38,7 @@ DataStructures 0.4.6
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
-DiffEqBase
+DiffEqBase 0.0 0.5.0
 
 0.2.2
 -----
@@ -42,7 +46,7 @@ DiffEqBase
 julia 0.5
 SymEngine 0.1.1
 DataStructures 0.4.6
-DiffEqBase
+DiffEqBase 0.0 0.5.0
 
 0.3.0
 -----
@@ -50,7 +54,7 @@ DiffEqBase
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.1.0
+DiffEqBase 0.1.0 0.5.0
 
 0.3.1
 -----
@@ -58,7 +62,7 @@ DiffEqBase 0.1.0
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.1.0
+DiffEqBase 0.1.0 0.5.0
 
 0.3.2
 -----
@@ -66,7 +70,7 @@ e77b02c4a0ab5f280ee17d8a7fac3461fec69fc8
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.1.0
+DiffEqBase 0.1.0 0.5.0
 
 0.3.3
 -----
@@ -74,7 +78,7 @@ d4574c0b0f3c36bf81f244ddd04639a0a54cb064
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.5.0
 
 0.4.0
 -----
@@ -82,7 +86,7 @@ DiffEqBase 0.2.0
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.5.0
 SimpleTraits 0.1.1
 
 0.4.1
@@ -91,7 +95,7 @@ fcb7e72ed923283496095dc78696e620b0754893
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.5.0
 SimpleTraits 0.1.1
 
 0.4.2
@@ -100,5 +104,32 @@ SimpleTraits 0.1.1
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.5.0
+SimpleTraits 0.1.1
+
+0.5.0
+-----
+a5fa1c0224b32d8dc7dc5cb5455b5c1cef6d0069
+julia 0.5
+SymEngine 0.1.2
+DataStructures 0.4.6
+DiffEqBase 0.4.0 0.5.0
+SimpleTraits 0.1.1
+
+0.5.1
+-----
+525fb3e8eb6ab246afc52d6cde248cdd0db4d6ad
+julia 0.5
+SymEngine 0.1.2
+DataStructures 0.4.6
+DiffEqBase 0.4.0 0.5.0
+SimpleTraits 0.1.1
+
+0.6.0
+-----
+19eabb49f1f510e9e6ecd44837ffa88c5587b359
+julia 0.5
+SymEngine 0.1.2
+DataStructures 0.4.6
+DiffEqBase 0.5.0
 SimpleTraits 0.1.1

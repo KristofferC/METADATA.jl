@@ -200,3 +200,23 @@ ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
 LineSearches 0.1.0
+
+0.7.3
+-----
+69e9d09453a6e6552b490c6fb4c6ce79a74078c3
+julia 0.4
+Calculus
+ForwardDiff 0.3.0 0.4.0
+PositiveFactorizations
+Compat 0.8.4
+LineSearches 0.1.2
+
+0.7.4
+-----
+f29374a69b59c470a4b23d99f6db541efec4a233
+julia 0.4
+Calculus
+ForwardDiff 0.3.0 0.4.0
+PositiveFactorizations
+Compat 0.8.4
+LineSearches 0.1.2

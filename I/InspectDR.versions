@@ -62,3 +62,23 @@ Gtk
 Graphics
 Cairo
 NumericIO
+
+0.1.1
+-----
+0b7803b4abaaefe31877961ebd48eec1f43817c9
+julia 0.5
+Colors
+Gtk
+Graphics
+Cairo
+NumericIO
+
+0.1.2
+-----
+bf5418e283ed2811c8553e8526f7db58d53f2675
+julia 0.5
+Colors
+Gtk
+Graphics
+Cairo
+NumericIO

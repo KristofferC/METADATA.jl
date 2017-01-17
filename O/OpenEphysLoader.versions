@@ -4,3 +4,9 @@ https://github.com/galenlynch/OpenEphysLoader.jl.git
 -----
 378585579c6545519cafaeb0b669b163c290f9fd
 julia 0.5
+
+0.1.0
+-----
+48e0064eb384a41d72aac7f44114bb7adf714acf
+julia 0.5
+LightXML

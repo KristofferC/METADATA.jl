@@ -1,0 +1,11 @@
+https://github.com/JuliaStats/StatsModels.jl.git
+
+0.0.1
+-----
+00d476123a491ac4b94ca3e2d6f20ba378339251
+julia 0.5
+DataFrames 0.8.3
+CategoricalArrays 0.0.6
+NullableArrays 0.0.10
+StatsBase 0.11.1
+Compat 0.9.2

@@ -1,0 +1,27 @@
+https://github.com/JuliaDiffEq/DiffEqPDEBase.jl.git
+
+0.0.1
+-----
+aae471166ccc7b8fa1d5a43c5723e6bc5098d4a7
+julia 0.5
+RecipesBase
+VectorizedRoutines
+ChunkedArrays
+
+0.0.2
+-----
+e8c04b739b37d8d924c2019b0598c99102aebc10
+julia 0.5
+RecipesBase
+VectorizedRoutines
+ChunkedArrays
+DiffEqBase 0.4.1
+
+0.0.3
+-----
+034f6a4a9690c98fda47f4681012fef1e863b74e
+julia 0.5
+RecipesBase
+VectorizedRoutines
+ChunkedArrays
+DiffEqBase 0.4.1

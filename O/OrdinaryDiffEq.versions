@@ -211,3 +211,105 @@ RecipesBase 0.1.0
 RecursiveArrayTools 0.0.2
 Juno 0.2.5
 Calculus 0.1.15
+
+0.4.2
+-----
+c8f11f14a101bf10f713e10391e3f2ca50818193
+julia 0.5
+DiffEqBase 0.2.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.7.3
+Ranges 0.0.1
+RecipesBase 0.1.0
+RecursiveArrayTools 0.0.2
+Juno 0.2.5
+Calculus 0.1.15
+
+0.5.0
+-----
+1c2eaaba25b0359aee9621de60d2527695a38b03
+julia 0.5
+DiffEqBase 0.2.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.7.3
+Ranges 0.0.1
+RecipesBase 0.1.0
+RecursiveArrayTools 0.0.2
+Juno 0.2.5
+Calculus 0.1.15
+
+0.6.0
+-----
+515dee4923b4b38fb042861ec96fc7fea7524fb5
+julia 0.5
+DiffEqBase 0.4.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.7.3
+Ranges 0.0.1
+RecipesBase 0.1.0
+RecursiveArrayTools 0.0.2
+Juno 0.2.5
+Calculus 0.1.15
+
+1.0.0
+-----
+ec2f97e07fa41e06ed00e2f247848dae43630786
+julia 0.5
+DiffEqBase 0.6.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.9.1
+RecursiveArrayTools 0.1.2
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+
+1.0.1
+-----
+8b43554a3f754f49b0f0c907e5fcad8ebaaf36ac
+julia 0.5
+DiffEqBase 0.6.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.9.1
+RecursiveArrayTools 0.1.2
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+
+1.0.2
+-----
+8769c76330db23ebe73abfe77e14e94c6b0db2cb
+julia 0.5
+DiffEqBase 0.6.0
+Parameters 0.5.0
+ForwardDiff 0.2.4
+GenericSVD 0.0.2
+Compat 0.8.8
+InplaceOps 0.0.5
+NLsolve 0.9.1
+RecursiveArrayTools 0.1.2
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6

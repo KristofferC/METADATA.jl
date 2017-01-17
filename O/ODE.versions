@@ -35,3 +35,11 @@ Polynomials
 julia 0.3
 Polynomials
 Compat 0.4.1
+
+0.3.0
+-----
+8d4827b93609118633478acf09a74247f47cd97e
+julia 0.5
+Polynomials
+Compat 0.9
+DiffEqBase

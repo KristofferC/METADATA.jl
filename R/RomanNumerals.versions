@@ -7,3 +7,9 @@ git://github.com/anthonyclays/RomanNumerals.jl.git
 0.1.0
 -----
 b700968e0ac9337d9f14bf9e4b8a2dace547351b
+
+0.2.0
+-----
+8ae444ba6f6edddb21dc2bfaa2b74dd9b19993f9
+julia 0.5
+Primes

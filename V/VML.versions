@@ -3,3 +3,8 @@ git://github.com/JuliaMath/VML.jl.git
 0.0.1
 -----
 b0fd34b4eb94a51afbde3b98d2aaadb9b3e97cf1
+
+0.1.0
+-----
+b389cade5b31c51245fb0278817900685658e486
+julia 0.4

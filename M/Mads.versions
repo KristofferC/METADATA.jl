@@ -762,6 +762,158 @@ BlackBoxOptim
 Documenter
 Compat 0.7.15
 
+0.2.15
+------
+d3d58273ced974eb036ca9162edcfd75981e8fa9
+julia 0.4
+Anasol
+BIGUQ
+AffineInvariantMCMC
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.7
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
+0.2.16
+------
+aa4087d85332e01feb51ae5b153aa31f81369c81
+julia 0.4
+Anasol
+BIGUQ
+AffineInvariantMCMC
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.7
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
+0.2.17
+------
+7895518216d19cb3660ae65d0d4ed81cf18a2eed
+julia 0.4
+Anasol
+BIGUQ
+AffineInvariantMCMC
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.7
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
+0.2.18
+------
+b7d05111cfb7979313981a572d421abc0599613b
+julia 0.4
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.7
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
+0.2.19
+------
+318dbd4434cdcee188d3d52a95a727be611fb859
+julia 0.4
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.6
+Optim 0.7
+BlackBoxOptim
+Documenter
+Compat 0.7.15
+
 0.2.2
 -----
 caae69cd519007fbbae7389cff3613a7b4c016cd

@@ -1,0 +1,25 @@
+https://github.com/madsjulia/GeostatInversion.jl.git
+
+0.1.0
+-----
+779148e04a1735675a817e31d2c4fb77df5f3e83
+julia 0.5
+IterativeSolvers
+RobustPmap
+Grid
+
+0.1.1
+-----
+a1baaf6be8e54de4a0ddf27238a9bc7132d21f5a
+julia 0.5
+IterativeSolvers
+RobustPmap
+Grid
+
+0.1.2
+-----
+169db94d89034120a5a6e5eb81b56e5f171acf2c
+julia 0.5
+IterativeSolvers
+RobustPmap
+Grid

@@ -35,3 +35,9 @@ ForwardDiff 0.1.1
 bb362f41c9dd598bb6fd1c70444e64226ba72d21
 julia 0.5-
 ForwardDiff 0.1.1
+
+0.2.1
+-----
+71c085bc934723789fba4304afeec182582984af
+julia 0.5
+ForwardDiff 0.3

@@ -1,0 +1,9 @@
+https://github.com/JuliaML/MLLabelUtils.jl.git
+
+0.0.1
+-----
+272c7ec61bd6a2ebb40e263f32786e91f82d3a00
+julia 0.5
+StatsBase
+LearnBase
+MappedArrays

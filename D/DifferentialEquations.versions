@@ -280,3 +280,60 @@ DiffEqSensitivity 0.0.2
 Sundials 0.4.1
 ParameterizedFunctions 0.3.2
 DiffEqProblemLibrary 0.2.0
+
+1.4.0
+-----
+a1a128600411fae2c40b5ac5464d515dec32830c
+julia 0.5
+Reexport 0.0.3
+DiffEqBase 0.2.0
+StochasticDiffEq 0.1.0
+FiniteElementDiffEq 0.0.5
+DiffEqDevTools 0.2.0
+OrdinaryDiffEq 0.2.0
+AlgebraicDiffEq 0.0.2
+StokesDiffEq 0.0.2
+DiffEqParamEstim 0.0.2
+DiffEqSensitivity 0.0.2
+Sundials 0.4.1
+ParameterizedFunctions 0.3.2
+DiffEqProblemLibrary 0.2.0
+
+1.5.0
+-----
+568ac3f72602e495d57c77f3bf258105e2a929c7
+julia 0.5
+Reexport 0.0.3
+DiffEqBase 0.2.0
+StochasticDiffEq 0.1.0
+FiniteElementDiffEq 0.0.5
+DiffEqDevTools 0.2.0
+OrdinaryDiffEq 0.2.0
+AlgebraicDiffEq 0.0.2
+StokesDiffEq 0.0.2
+DiffEqParamEstim 0.0.2
+DiffEqSensitivity 0.0.2
+Sundials 0.4.1
+ParameterizedFunctions 0.3.2
+DiffEqPDEBase
+
+1.6.0
+-----
+caa315c16ad505d76a5c5901f81a9af1efbeddc0
+julia 0.5
+Reexport 0.0.3
+DiffEqBase 0.2.0
+StochasticDiffEq 0.1.0
+FiniteElementDiffEq 0.0.5
+DiffEqDevTools 0.2.0
+OrdinaryDiffEq 0.2.0
+AlgebraicDiffEq 0.0.2
+StokesDiffEq 0.0.2
+DiffEqParamEstim 0.0.2
+DiffEqSensitivity 0.0.2
+Sundials 0.4.1
+ParameterizedFunctions 0.3.2
+DiffEqPDEBase
+DelayDiffEq
+DiffEqCallbacks
+DiffEqMonteCarlo

@@ -22,6 +22,18 @@ BlackBoxOptim
 Distributions
 Mads
 
+0.1.10
+------
+477cca5815cc2a694ecd3b2025be260c69cdceaf
+julia 0.4
+RobustPmap
+AffineInvariantMCMC
+Klara 0.6
+DataFrames
+ForwardDiff
+BlackBoxOptim
+Distributions
+
 0.1.2
 -----
 47f7b4135dc39d3e8d6e4ac88274b5dd08eb747a

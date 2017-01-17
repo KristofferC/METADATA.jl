@@ -22,3 +22,12 @@ PyCall
 BinDeps
 Compat
 @osx Homebrew
+
+0.0.4
+-----
+e9aa77bb21e09d9ac0dbc810a05f0f5244e36dab
+julia 0.4
+PyCall 1.4.0
+BinDeps 0.4.0
+Compat 0.8.0
+@osx Homebrew 0.3.0

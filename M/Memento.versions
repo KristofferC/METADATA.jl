@@ -1,0 +1,9 @@
+https://github.com/invenia/Memento.jl.git
+
+0.0.1
+-----
+e2c2181a569e491a5c854c3f775483cf7a0995cb
+julia 0.5
+JSON 0.8
+StackTraces 0.1
+Mocking 0.3

@@ -38,3 +38,10 @@ Compat
 julia 0.4
 BinDeps
 Compat 0.8.8
+
+0.3.0
+-----
+c102799d28bcdbd9996eb1c263ba8bd8838b4943
+julia 0.5
+BinDeps
+AbstractTrees 0.0.4

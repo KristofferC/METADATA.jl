@@ -3,13 +3,41 @@ git://github.com/HSU-ANT/ACME.jl.git
 0.1.0
 -----
 bd831384dcb4435367bb1370c47d89b2f604a15a
-julia 0.3
+julia 0.3 0.6.0-dev.1553
 Compat 0.7.9
 ProgressMeter 0.2.1
 
 0.1.1
 -----
 ac5e269dde43edad43241313f5593c90aa5d7bd2
-julia 0.3
+julia 0.3 0.6.0-dev.1553
 Compat 0.7.15
+ProgressMeter 0.2.1
+
+0.1.2
+-----
+600e721d09787bc578f426fcbc3dca5acb39b2a4
+julia 0.3 0.6.0-dev.1553
+Compat 0.7.15
+ProgressMeter 0.2.1
+
+0.2.0
+-----
+b8ead02de7adb49a04d53b2b15a6481eb77d23ac
+julia 0.4
+Compat 0.9.0
+ProgressMeter 0.2.1
+
+0.2.1
+-----
+5ca1a70852f8150a95905170a980d928463826b2
+julia 0.4
+Compat 0.9.0
+ProgressMeter 0.2.1
+
+0.2.2
+-----
+a7487cf4306f55ee4d36ed3f6a86a79f706f65cf
+julia 0.4
+Compat 0.9.0
 ProgressMeter 0.2.1

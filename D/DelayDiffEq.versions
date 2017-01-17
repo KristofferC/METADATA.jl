@@ -1,0 +1,11 @@
+https://github.com/JuliaDiffEq/DelayDiffEq.jl.git
+
+0.0.1
+-----
+b0cfe42ffd9c1874270a1f24b2b17bbcafafbb7a
+julia 0.5
+DiffEqBase 0.5.0
+OrdinaryDiffEq 1.0.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.1.2
+Combinatorics

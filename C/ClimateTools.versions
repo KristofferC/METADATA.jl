@@ -7,3 +7,18 @@ julia 0.5
 NetCDF 0.4.1
 PyPlot 2.2.4
 PyCall 1.7.2
+
+0.0.3
+-----
+e6e33e67535528c25e54f791e5638d155e17043a
+julia 0.5
+NetCDF 0.4.1
+PyPlot 2.2.4
+PyCall 1.7.2
+
+0.0.4
+-----
+7cd3c9b9ab7be4a959ebb99db63ca47968c938a0
+julia 0.5
+NetCDF 0.4.1
+Shapefile 0.0.3

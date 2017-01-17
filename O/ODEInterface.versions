@@ -10,6 +10,11 @@ julia 0.4
 f81ca04771cb66602628c935a3f7e02cf9d72ec7
 julia 0.4
 
+0.0.11
+------
+9e8bb214a3f84315c59675f237e6f80e0abf307b
+julia 0.4
+
 0.0.2
 -----
 5c170edc9d4b95779652f7fba7d4561f01854580
@@ -48,4 +53,9 @@ julia 0.4
 0.0.9
 -----
 0111ab544796863109fb1f2d4a81ccce1ac62dfd
+julia 0.4
+
+0.1.0
+-----
+a4c7511f0ff80195bdcd87926539b9f0e49fc6e8
 julia 0.4

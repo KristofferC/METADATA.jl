@@ -73,3 +73,48 @@ NLsolve 0.7.3
 ChunkedArrays 0.1.0
 VectorizedRoutines 0.0.2
 Juno 0.2.4
+
+0.1.0
+-----
+233ce104b73457f0c83c57b57787fa3338efef51
+julia 0.5
+DiffEqBase 0.4.0
+IterativeSolvers 0.2.2
+Parameters 0.5.0
+RecipesBase 0.1.0
+GenericSVD 0.0.2
+ForwardDiff 0.2.4
+NLsolve 0.7.3
+ChunkedArrays 0.1.0
+VectorizedRoutines 0.0.2
+Juno 0.2.4
+
+0.2.0
+-----
+31829f28127e33e06e469cee8d5ccc11a662fd5e
+julia 0.5
+DiffEqBase 0.4.0
+IterativeSolvers 0.2.2
+Parameters 0.5.0
+RecipesBase 0.1.0
+GenericSVD 0.0.2
+ForwardDiff 0.2.4
+NLsolve 0.7.3
+ChunkedArrays 0.1.0
+VectorizedRoutines 0.0.2
+Juno 0.2.4
+
+0.2.1
+-----
+8c86df752bfdd7da8695fb5e5bbc38f546344e83
+julia 0.5
+DiffEqBase 0.4.0
+DiffEqPDEBase
+IterativeSolvers 0.2.2
+Parameters 0.5.0
+GenericSVD 0.0.2
+ForwardDiff 0.2.4
+NLsolve 0.7.3
+ChunkedArrays 0.1.0
+VectorizedRoutines 0.0.2
+Juno 0.2.4

@@ -34,3 +34,12 @@ PyPlot
 julia 0.4
 PyCall
 PyPlot
+
+0.4.0
+-----
+770bab7a73b8240ecca78be09d95a8a9961f0926
+julia 0.4
+PyCall 1.7.2
+PyPlot 2.2.4
+Lazy 0.11.4
+Compat 0.10.0

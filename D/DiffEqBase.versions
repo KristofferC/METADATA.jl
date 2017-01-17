@@ -101,3 +101,43 @@ Ranges 0.0.1
 Parameters 0.5.0
 RecursiveArrayTools 0.0.2
 SimpleTraits 0.1.1
+
+0.4.0
+-----
+7515a9eca2f3b402e7758b46ee92df16f627842f
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.0.2
+SimpleTraits 0.1.1
+
+0.4.1
+-----
+b7fd36438e1413b31aff996045cdabbbad3ec4d3
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.0.2
+SimpleTraits 0.1.1
+
+0.5.0
+-----
+0fd1c7a6083510fd2eff04e686bb08234b9441d3
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.0.2
+SimpleTraits 0.1.1
+
+0.6.0
+-----
+3507fd897d9fbc81e16ef9394574c77c40bd1a5d
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.0.2
+SimpleTraits 0.1.1

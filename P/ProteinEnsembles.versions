@@ -1,0 +1,11 @@
+https://github.com/jgreener64/ProteinEnsembles.jl.git
+
+0.0.1
+-----
+78a511e77457e46ea199bb9d28a4180b95d4a158
+julia 0.5
+ArgParse
+ProgressMeter
+Gadfly
+Colors
+Cairo

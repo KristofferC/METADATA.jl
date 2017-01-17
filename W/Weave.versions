@@ -74,3 +74,27 @@ julia 0.5
 ArgParse
 JLD
 JSON
+
+0.3.0
+-----
+a4891b01a8f20557270f827a9c5a5e5e7c25ec6a
+julia 0.5
+ArgParse
+JLD
+JSON
+Highlights
+Mustache
+Documenter
+YAML
+
+0.4.0
+-----
+6c2f0a7bb5c0c1e3265a632ef90c56450d09f3a3
+julia 0.5
+ArgParse
+JLD
+JSON
+Highlights
+Mustache
+Documenter
+YAML

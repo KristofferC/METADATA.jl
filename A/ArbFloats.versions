@@ -29,6 +29,23 @@ BinDeps 0.4
 Compat 0.9
 Nemo 0.5
 
+0.1.14
+------
+db6101d306b7b2efe7071ece22948e23b4ce467f
+julia 0.5
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.5.1
+
+0.1.15
+------
+e66d3fe55916425ae750b658403f6d447aad716e
+julia 0.5
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.5.1
+ReadableNumbers 0.0.2
+
 0.1.2
 -----
 d8c8d9d4587a592137d627d6e2a0ea05140a55a7

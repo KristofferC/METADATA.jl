@@ -105,3 +105,10 @@ FileIO 0.0.2
 julia 0.4
 Compat 0.8.0
 FileIO 0.0.2
+
+0.8.3
+-----
+c32ae53ffd6a62e15e3119b6bccb2a7df1d33adf
+julia 0.4
+Compat 0.9.5
+FileIO 0.2.0

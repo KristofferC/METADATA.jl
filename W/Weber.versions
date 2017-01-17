@@ -1,0 +1,37 @@
+https://github.com/haberdashPI/Weber.jl.git
+
+0.2.0
+-----
+b9fcbf290e582f9b48437ddfa95a64db20b6edb8
+julia 0.5
+LibSndFile
+DSP
+SampledSignals
+Reactive
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+PyCall
+Conda
+Juno
+Images
+
+0.2.1
+-----
+719c904321693b9fb5de87647cbdb78f76224ddd
+julia 0.5
+LibSndFile
+DSP
+SampledSignals
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+PyCall
+Conda
+Juno
+Images
+@osx Homebrew

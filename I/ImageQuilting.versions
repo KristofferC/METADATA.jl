@@ -161,3 +161,15 @@ Images
 LightGraphs 0.6.1
 ProgressMeter
 Hwloc
+
+0.4.2
+-----
+51b82704aa0ce9cbb851ab078667ce25789d8cef
+julia 0.5
+Combinatorics
+StatsBase
+Primes
+Images
+LightGraphs 0.6.1
+ProgressMeter
+Hwloc

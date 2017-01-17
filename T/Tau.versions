@@ -1,4 +1,4 @@
-git://github.com/Aerlinger/Tau.jl.git
+git://github.com/JuliaMath/Tau.jl.git
 
 0.0.1
 -----
@@ -11,3 +11,8 @@ git://github.com/Aerlinger/Tau.jl.git
 0.0.3
 -----
 3b5d9dd7e8bbdaaa44b3a282ed1c8a77bc861593
+
+0.1.0
+-----
+40b76abe81ee50d0eca8bbcedc6fd64ef4e78d9e
+julia 0.5

@@ -1,0 +1,19 @@
+https://github.com/nsmith5/Maxima.jl.git
+
+0.0.1
+-----
+9b1a72ab5e47eab8a817f0a178fca7440b4e8300
+julia 0.4
+Compat
+
+0.0.2
+-----
+890f5945a56e12ec5151f3d300619b8654ac337a
+julia 0.4
+Compat 0.7.15
+
+0.0.3
+-----
+f1f6e9b2b79d2747ed3caf75ddd4a4e05f64dea4
+julia 0.4
+Compat 0.7.15

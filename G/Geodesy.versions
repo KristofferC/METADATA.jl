@@ -9,14 +9,14 @@ julia 0.3
 -----
 caa03dfe338b098e3cff77493046a49119ba1138
 julia 0.4
-Compat
+Compat 0.0 0.11
 CoordinateTransformations 0.1 0.2-
 
 0.2.0
 -----
 5cdf8d01bda906dc9dff58abf6a4bb0930479ee3
 julia 0.4
-Compat
+Compat 0.0 0.11
 CoordinateTransformations 0.2.0 0.3-
 FixedSizeArrays
 

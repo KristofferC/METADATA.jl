@@ -22,3 +22,27 @@ Distributions 0.9
 Sundials 0.1.3
 JLD 0.5.9
 PDMats
+
+0.1.0
+-----
+217ff7e42f9953b1d5b55794e5d5e8d8e26c15f1
+julia 0.4.5
+Compat 0.9.5
+IJulia 1.1.7
+PyPlot 2.1.1
+Distributions 0.9
+Sundials 0.1.3
+JLD 0.5.9
+PDMats
+
+0.1.1
+-----
+b34ffbd659814e092260d13d8a8582d38d9ef214
+julia 0.4.5
+Compat 0.8.7
+IJulia 1.1.7
+PyPlot 2.1.1
+Distributions 0.9
+Sundials 0.1.3
+JLD 0.5.9
+PDMats

@@ -52,6 +52,13 @@ MacroTools
 julia 0.4
 Compat 0.8.0
 
+0.11.5
+------
+c7969de6829591f5a4359b0a1d03a19f626d0103
+MacroTools
+julia 0.4
+Compat 0.8.0
+
 0.2.0
 -----
 670b89a895fd56601784c74117a4139238a9df97

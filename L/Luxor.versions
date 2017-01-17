@@ -1,4 +1,4 @@
-https://github.com/cormullion/Luxor.jl.git
+https://github.com/JuliaGraphics/Luxor.jl.git
 
 0.1.0
 -----
@@ -51,6 +51,15 @@ BaseTestNext
 0.7.0
 -----
 94700cb92bd103f7ff4cd3009a5b866ebb4402e3
+julia 0.4
+Compat 0.9.1
+Colors
+Cairo
+FileIO
+
+0.7.1
+-----
+8398d44aa9c48205ffdfa266b384f57130e30d11
 julia 0.4
 Compat 0.9.1
 Colors

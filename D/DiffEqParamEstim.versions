@@ -28,3 +28,12 @@ LsqFit 0.0.2
 DiffEqBase 0.1.2
 LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
+
+0.0.4
+-----
+2b9c85d42790007fa14906b79a2a75dcf4a97a0c
+julia 0.5
+LsqFit 0.0.2
+DiffEqBase 0.1.2
+LossFunctions 0.0.2
+RecursiveArrayTools 0.0.2

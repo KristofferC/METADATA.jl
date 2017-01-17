@@ -1,0 +1,21 @@
+https://github.com/dehann/Caesar.jl.git
+
+0.0.1
+-----
+387d53615351c67123ffa10c5d9402baf88c4cf7
+julia 0.5
+RoME
+IncrementalInference
+Graphs
+KernelDensityEstimate
+DrakeVisualizer
+TransformUtils
+CoordinateTransformations
+GeometryTypes
+Rotations
+Gadfly
+Colors
+ColorTypes
+JLD
+HDF5
+JSON

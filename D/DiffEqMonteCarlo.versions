@@ -1,0 +1,8 @@
+https://github.com/JuliaDiffEq/DiffEqMonteCarlo.jl.git
+
+0.0.1
+-----
+e1431cb9cbfaa00de536fd32de7a5ab232e277fb
+julia 0.5
+DiffEqBase 0.6.0
+RecipesBase 0.1.0

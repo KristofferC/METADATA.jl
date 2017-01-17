@@ -169,6 +169,13 @@ julia 0.4
 Compat 0.8
 DocStringExtensions 0.2
 
+0.8.10
+------
+d7cdcbb39a9d8b6d2dd94e52e90e1782b2a320c4
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
 0.8.2
 -----
 b985e524f2808be5b1a6dea58350d9969a47c6c1
@@ -186,6 +193,41 @@ DocStringExtensions 0.2
 0.8.4
 -----
 e52ec25e060bda16dc18e85f681144ab1845a49b
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
+0.8.5
+-----
+8a852ce3d009cae6f138a4a11b2a3a838c2e6e4b
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
+0.8.6
+-----
+5148b83ee163c6a063adeaf9ed602fd555ac422f
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
+0.8.7
+-----
+7059478e1de68bacd5798d404927fd2232052f6a
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
+0.8.8
+-----
+9d5883bf7cb290c27a29db05925fbeec66514384
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2
+
+0.8.9
+-----
+5282458e0c93aef7ef1f55e698781aaf4dd4097d
 julia 0.4
 Compat 0.8
 DocStringExtensions 0.2

@@ -50,3 +50,9 @@ MathProgBase 0.5 0.6
 b8bcda24df4167ba8185fd7f5db80fd38893176c
 julia 0.4
 MathProgBase 0.5 0.6
+
+0.3.0
+-----
+f1cab52cde678146e3637941aac34a0ee2ff2a19
+julia 0.5
+MathProgBase 0.5 0.6

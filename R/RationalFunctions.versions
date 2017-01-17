@@ -6,3 +6,19 @@ https://github.com/aytekinar/RationalFunctions.jl.git
 julia 0.4
 Compat 0.8.0
 Polynomials 0.1.1
+
+0.0.2
+-----
+e859790c129c702fee6d9549fc1c8f23fbbded2f
+julia 0.4
+Compat 0.8.0
+Polynomials 0.1.2
+RecipesBase
+
+0.0.3
+-----
+bce8961e44c5a2864c2d9a43bead202092d405e7
+julia 0.4
+Compat 0.8.0
+Polynomials 0.1.2
+RecipesBase

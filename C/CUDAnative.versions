@@ -1,0 +1,8 @@
+git://github.com/JuliaGPU/CUDAnative.jl.git
+
+0.1.0
+-----
+a0f06b1a97eec1fa3f84f2dec1cfaa2da891c3b9
+julia 0.6-
+CUDAdrv 0.2
+LLVM 0.2

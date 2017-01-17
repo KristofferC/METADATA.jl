@@ -1,4 +1,4 @@
-git://github.com/amitmurthy/LibExpat.jl.git
+git://github.com/JuliaIO/LibExpat.jl.git
 
 0.0.0
 -----
@@ -85,3 +85,15 @@ Compat 0.8.0
 a0228aebbc9365bf6a2fdb4646f0b6f615d8db2b
 julia 0.4
 Compat 0.8.0
+
+0.2.2
+-----
+9210aa37eb19ed1d4b994eb0418f115a1edc76bc
+julia 0.4
+Compat 0.9.5
+
+0.2.3
+-----
+12aad899cfcdb86baa22dd5857cd66c60f0fb80c
+julia 0.4
+Compat 0.9.5

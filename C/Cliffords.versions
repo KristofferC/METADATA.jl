@@ -11,35 +11,35 @@ Iterators
 1daefeeff1269af121c71651cbe5bc32942da95e
 julia 0.3-
 Iterators
-Compat
+Compat 0.0 0.11
 
 0.2.1
 -----
 ae2b8957bd794770e1c124f93a079f5aac03be3b
 julia 0.3-
 Iterators
-Compat
+Compat 0.0 0.11
 
 0.2.2
 -----
 30c5ffd2d38dbf779d260e23c198a32edce2e8e7
 julia 0.3-
 Iterators
-Compat
+Compat 0.0 0.11
 
 0.2.3
 -----
 304550fa15fb2e8cd9ec0c4707c75194073036a1
 julia 0.3-
 Iterators
-Compat
+Compat 0.0 0.11
 
 0.3.0
 -----
 e54c822a5858f93fba0c94695a728438655bf72c
 julia 0.4
 Iterators
-Compat
+Compat 0.0 0.11
 
 0.4.0
 -----

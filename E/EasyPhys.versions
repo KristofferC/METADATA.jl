@@ -1,0 +1,9 @@
+https://github.com/julian-wolf/EasyPhys.jl.git
+
+0.1.3
+-----
+b80bd59ae894e2a867caeb776afd8b82527cbd1c
+julia 0.5
+LsqFit
+PyPlot
+PyCall

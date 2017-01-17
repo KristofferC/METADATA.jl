@@ -46,3 +46,12 @@ julia 0.4
 ArgParse
 YAML
 BuildExecutable
+
+0.2.0
+-----
+d4ea10dccdeefeb1572cddb6acac25734cb1b114
+julia 0.4
+ArgParse
+YAML
+Mocking
+Compat

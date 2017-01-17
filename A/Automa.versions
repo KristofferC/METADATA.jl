@@ -1,0 +1,15 @@
+https://github.com/BioJulia/Automa.jl.git
+
+0.0.1
+-----
+61344294f3f3c49d3c8e2d17e2691bbbd2a7558a
+julia 0.5
+Compat 0.9.5
+DataStructures 0.5.1
+
+0.1.0
+-----
+c4bff57835858494bdaaa774484d7252c34df8eb
+julia 0.5
+Compat 0.9.5
+DataStructures 0.5.1

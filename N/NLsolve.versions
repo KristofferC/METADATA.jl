@@ -167,3 +167,27 @@ Calculus
 Distances
 ForwardDiff 0.2.0
 Compat 0.8.4
+
+0.9.0
+-----
+627c89c863f89ded5b354bc87e7badfe40d7e901
+julia 0.4
+Optim
+Calculus
+Distances
+ForwardDiff 0.3.0
+Compat 0.8.4
+LineSearches
+DiffBase
+
+0.9.1
+-----
+ced92f85612b4c62fda71e87c6e60eaa99a2acd3
+julia 0.4
+Optim
+Calculus
+Distances
+ForwardDiff 0.3.0
+Compat 0.8.4
+LineSearches
+DiffBase

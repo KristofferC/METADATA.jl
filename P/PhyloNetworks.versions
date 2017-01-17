@@ -76,3 +76,16 @@ ColorTypes 0.2
 Gadfly 0.4
 GLM 0.5
 Combinatorics 0.3
+
+0.5.0
+-----
+9898feb7fb54edb5ce72067b750f5763648950b5
+julia 0.5
+Compat 0.8
+StatsBase 0.9
+DataFrames 0.7
+NLopt 0.3
+ColorTypes 0.2
+Gadfly 0.4
+GLM 0.5
+Combinatorics 0.3

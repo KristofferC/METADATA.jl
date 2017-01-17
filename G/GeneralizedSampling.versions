@@ -20,3 +20,14 @@ ArrayViews 0.6.4
 VoronoiCells 0.1.3
 IntervalWavelets 0.0.4
 Compat 0.8.4
+
+0.0.6
+-----
+d4a53a13f912be7f7a9433b30ff0a3893f9af18e
+julia 0.4
+NFFT 0.1.4
+Wavelets 0.5.1
+ArrayViews 0.6.4
+VoronoiCells 0.1.3
+IntervalWavelets 0.0.4
+Compat 0.8.4
