@@ -3,73 +3,81 @@ git://github.com/JuliaApproximation/ApproxFun.jl.git
 0.0.0
 -----
 37b67f948607cc5501f6d32028be8e5a7506f746
+julia 0.0 0.4
 Winston
 
 0.0.1
 -----
 f0b1cd8e9bb1dacc99c198ea2b895d656749613f
+julia 0.0 0.4
 PyPlot
 
 0.0.2
 -----
 a11e4a9d6de415935f2f00489033383ac5dbf0a2
+julia 0.0 0.4
 PyPlot
 
 0.0.3
 -----
 39ca43982c476d012aff412a87d319a7806fa56c
+julia 0.0 0.4
 
 0.0.4
 -----
 bee2b7d45ff5f2623976e4c012cca4c7440379f7
+julia 0.0 0.4
 
 0.0.5
 -----
 6a42a3c34aa99f0427b6c08f0f22aa46cb6b7fe9
+julia 0.0 0.4
 Compat
 
 0.0.6
 -----
 8cdb0582f5926ed4d78c6882a015e34dd9be097d
+julia 0.0 0.4
 Compat
 
 0.0.7
 -----
 dfb745b498fad205bdc5eeb8aa98329b76095846
+julia 0.0 0.4
 Compat
 
 0.0.8
 -----
 40f2ec87dc2212b628d602219ec108f097ba7df4
-julia 0.3
+julia 0.3 0.4
 Compat
 FastGaussQuadrature
 
 0.1.0
 -----
 0ecddc23c2d4c3893e44fb3046e8d7290c68238b
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.0.3
-Plots 0.5
+Plots 0.5 0.10
 
 0.2.0
 -----
 be539bd4af6d05021abf090d6b90a37aa086a22a
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.0.3
 FastTransforms 0.0.3
-Plots 0.7.5
+Plots 0.7.5 0.10
 Compat 0.8.4
 DualNumbers 0.2.2
-BandedMatrices 0.0.4
+BandedMatrices 0.0.4 0.0.6
 
 0.2.1
 -----
 dac72318bf01a8ffbeaefb93541b504e22893c6d
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.0.3
 FastTransforms 0.0.4
-Plots 0.7.5
+Plots 0.7.5 0.10
 Compat 0.8.4
 DualNumbers 0.2.2
 BandedMatrices 0.0.5 0.0.6
@@ -77,83 +85,83 @@ BandedMatrices 0.0.5 0.0.6
 0.2.2
 -----
 9d73744f053de22175f6504d8e59d1a2e1b5e56c
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.0.3
 FastTransforms 0.0.4
-Plots 0.8.1
+Plots 0.8.1 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.0.6
+BandedMatrices 0.0.6 0.2
 
 0.3.0
 -----
 8dfd3d5d6c99ef29c01d041b7d837a2d2592820c
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.0.3
 FastTransforms 0.0.4
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.0.8
+BandedMatrices 0.0.8 0.2
 
 0.3.1
 -----
 43c233a6d849803c6891b0060d70cb44ceaf13d5
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.1
 FastTransforms 0.0.5
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.0.8
+BandedMatrices 0.0.8 0.2
 ToeplitzMatrices 0.1.1
 
 0.3.2
 -----
 f73e9d168b0d139efa2953b1bad7fac808db2d8d
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.1
 FastTransforms 0.0.6
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.0.8
+BandedMatrices 0.0.8 0.2
 ToeplitzMatrices 0.1.1
 
 0.3.3
 -----
 68f697c9a178d623d980407cb60188b0c40ec114
-julia 0.4
+julia 0.4 0.5
 FastGaussQuadrature 0.1
 FastTransforms 0.0.6
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.1.1
+BandedMatrices 0.1.1 0.2
 ToeplitzMatrices 0.1.1
 
 0.4.0
 -----
 7c6dad842f227bab7fb5234d5c8c11d6467fbca1
-julia 0.4
+julia 0.4 0.6
 FastGaussQuadrature 0.1
 FastTransforms 0.0.6
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.1.2
+BandedMatrices 0.1.2 0.2
 ToeplitzMatrices 0.1.1
 Calculus 0.1.15
 
 0.4.1
 -----
 63cf4b453a6692655081dfd7df757e68b1e44158
-julia 0.4
+julia 0.4 0.6
 FastGaussQuadrature 0.1
 FastTransforms 0.0.7
-Plots 0.8.2
+Plots 0.8.2 0.10
 Compat 0.8.6
 DualNumbers 0.2.2
-BandedMatrices 0.1.2
+BandedMatrices 0.1.2 0.2
 ToeplitzMatrices 0.1.1
 Calculus 0.1.15
