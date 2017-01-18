@@ -82,3 +82,10 @@ Compat
 julia 0.4
 PyCall
 Compat 0.8.0
+
+0.4.2
+-----
+3855cc762d8d4146791a3d2b48e74699b7abc045
+julia 0.4
+PyCall
+Compat 0.8.0

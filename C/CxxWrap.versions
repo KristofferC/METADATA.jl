@@ -64,3 +64,10 @@ Compat 0.8.2
 julia 0.4
 BinDeps 0.4.5
 Compat 0.8.2
+
+0.2.1
+-----
+10e74f2b780960bd4ea10d1c351a671b6c89e375
+julia 0.4
+BinDeps 0.4.2
+Compat 0.8.2
