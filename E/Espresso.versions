@@ -1,0 +1,8 @@
+https://github.com/dfdx/Espresso.jl.git
+
+0.1.0
+-----
+fa72b59dec93a08fdb19d9ff68a5fbbf91487d98
+julia 0.5
+Einsum 0.1
+DataStructures 0.5.1
