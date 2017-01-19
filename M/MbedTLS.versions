@@ -110,3 +110,10 @@ d77b6d1ed576f99ea3adbcbcec2c359d692038bf
 julia 0.5
 BinDeps
 @osx Homebrew
+
+0.4.3
+-----
+2ca7a3cb6aaf3de0fc1fd7de9ce7a782958e0cd2
+julia 0.5
+BinDeps
+@osx Homebrew

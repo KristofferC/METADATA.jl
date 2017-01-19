@@ -44,3 +44,9 @@ julia 0.5
 9a49981a8569af07dcc415d744d01d6d8059e5a8
 julia 0.5
 @windows WinRPM
+
+0.4.1
+-----
+a514d84689697016e04b73a5a388db51e9b4cb9e
+julia 0.5
+@windows WinRPM
