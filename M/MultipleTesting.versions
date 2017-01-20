@@ -11,3 +11,10 @@ StatsBase
 355bd0e5dcee6701c7cf63992997c01736bf49f0
 julia 0.4
 StatsBase
+
+0.1.0
+-----
+0443613e379442308b1c5be364d22e632c8eff17
+julia 0.5
+StatsBase
+Distributions
