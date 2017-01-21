@@ -50,3 +50,10 @@ julia 0.5
 a514d84689697016e04b73a5a388db51e9b4cb9e
 julia 0.5
 @windows WinRPM
+
+0.4.2
+-----
+965b4de72fec1377c62c01d691bc966504aa885f
+julia 0.5
+Compat 0.9.5
+@windows WinRPM

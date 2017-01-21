@@ -33,6 +33,13 @@ af2c1279b55c179bc3130203d1bf3614ca23ccf4
 julia 0.4
 Compat 0.8.4
 
+0.13.0
+------
+36e5b0159efa59142310ab14ffdd30e07e91829d
+julia 0.5
+Compat 0.13.0
+DataStructures 0.5.0
+
 0.2.0
 -----
 3fc1b86595e96b2c098e91bb2fe56a8c5bbec05e
