@@ -64,3 +64,9 @@ Compat 0.7.16
 julia 0.4
 Requests 0.3.0
 Compat 0.7.16
+
+0.5.0
+-----
+5a8be1572cdccf2323274def1d630e10adaee7cf
+julia 0.5
+Requests 0.3.0
