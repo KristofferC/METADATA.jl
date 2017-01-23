@@ -13,3 +13,10 @@ f5acb3be6365539d0aa1cd910426192b3d5c18d5
 julia 0.3
 JSON
 Compat 0.7.9
+
+1.1.0
+-----
+9c45cb936d999dfe9bcd5bbff7ccd77021202478
+julia 0.4
+JSON
+Compat 0.7.9
