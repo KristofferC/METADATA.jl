@@ -79,3 +79,15 @@ NLsolve
 Distributions
 KernelDensityEstimate
 TransformUtils
+
+0.2.3
+-----
+f64332ad56ca5ed5c16fd8244b3193f24348f197
+julia 0.5
+Graphs 0.7.1
+GraphViz
+Gadfly
+Colors
+NLsolve
+Distributions
+KernelDensityEstimate 0.2.1
