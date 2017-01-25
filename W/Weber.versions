@@ -52,3 +52,20 @@ Conda
 Juno
 Images
 @osx Homebrew
+
+0.2.3
+-----
+da5ea0886af56734b865b9c3db6e0b6c1110a8c7
+julia 0.5
+DSP
+SampledSignals
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+PyCall
+Conda
+Juno
+Images
+@osx Homebrew
