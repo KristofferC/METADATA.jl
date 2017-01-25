@@ -158,3 +158,12 @@ DiffBase 0.0.1
 Compat 0.8.6
 Calculus 0.1.15
 NaNMath 0.2.1
+
+0.3.4
+-----
+62ad04b6cc2f36f744942d5061c64fc3f9582da1
+julia 0.4
+DiffBase 0.0.3
+Compat 0.8.6
+Calculus 0.2.0
+NaNMath 0.2.2
