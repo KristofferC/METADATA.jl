@@ -16,3 +16,14 @@ Bio 0.4.3
 ArgParse 0.4
 Gtk 0.10.4
 DataFrames
+
+0.2.0
+-----
+2e04a6f098f386c931508c06a6b7f509c4fef44f
+julia 0.5
+Query
+DataFrames
+Gadfly
+Bio 0.4.3
+ArgParse 0.4
+Gtk 0.10.4

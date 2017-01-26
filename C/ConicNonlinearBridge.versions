@@ -27,3 +27,10 @@ JuMP 0.13
 julia 0.4
 MathProgBase 0.4 0.6
 JuMP 0.14
+
+0.1.0
+-----
+7bc0cc688380859c591a6923ff1d2ba042452794
+julia 0.5
+MathProgBase 0.4 0.6
+JuMP 0.15
