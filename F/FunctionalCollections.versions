@@ -39,3 +39,8 @@ Benchmark
 julia 0.4
 Compat 0.9.0
 Benchmark
+
+0.3.0
+-----
+6a6b6cd0cc1f39e2b60d3855739c0c52a2cba838
+julia 0.5
