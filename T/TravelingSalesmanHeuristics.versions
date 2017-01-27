@@ -22,3 +22,9 @@ Graphs
 -----
 6bfd838fe803dccf36b974c8e95b62a2614e4d3e
 julia 0.4
+
+0.0.5
+-----
+ed8cf4f22d264b4d293c64f5752a9e8c24e031fa
+julia 0.4
+Compat 0.8.4
