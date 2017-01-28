@@ -31,3 +31,13 @@ julia 0.4
 FixedPointNumbers 0.1.8 0.3.0
 Images 0.0.0- 0.6.0
 FileIO
+
+0.2.0
+-----
+d59ac7b79c1797786a7a42e3eda5742f20a6af7c
+julia 0.5
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace
+FileIO
+ImageCore
