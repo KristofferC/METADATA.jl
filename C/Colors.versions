@@ -5,7 +5,7 @@ git://github.com/JuliaGraphics/Colors.jl.git
 409bd7a4efdd7fff9664e6d72b24c11554e0c857
 julia 0.3
 Compat 0.2
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Graphics 0.1
 
 0.5.0
@@ -13,7 +13,7 @@ Graphics 0.1
 4bf77fa42c6c3229caa96e3bf46f05d3e938017c
 julia 0.3
 ColorTypes
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
 Graphics 0.1
 Reexport
@@ -23,7 +23,7 @@ Reexport
 fc67047ee79a8eaeb948af6ffe4b2f96942b23eb
 julia 0.3
 ColorTypes
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
 Reexport
 
@@ -32,7 +32,7 @@ Reexport
 1c43e5bc71d6f8fc12a161017cc6df13b4c429d2
 julia 0.3
 ColorTypes
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
 Reexport
 
@@ -41,7 +41,7 @@ Reexport
 305b85d2a458fd6f00f450c69677fa96509ea74a
 julia 0.3
 ColorTypes
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
 Reexport
 
@@ -50,7 +50,7 @@ Reexport
 023660ce7f66c33ae3f676ece3acf98419dc23b3
 julia 0.3
 ColorTypes
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
 Reexport
 
@@ -59,7 +59,7 @@ Reexport
 830936435de28ec1989728cbbde36f335d760a73
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 
 0.6.1
@@ -67,7 +67,7 @@ Reexport
 cd03f77b65e00a9b4375f6196169a0fa7dc59eac
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 
 0.6.2
@@ -75,7 +75,7 @@ Reexport
 8f1f8c3c84804245aa111fb61f4814ae73a723dd
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 
 0.6.3
@@ -83,7 +83,7 @@ Reexport
 87e13ba4a1bd683608bab2907ced90c8edf8769f
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 Compat
 
@@ -92,7 +92,7 @@ Compat
 899ffdc03fbae021f0f59209ece5880c51cae659
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 Compat
 
@@ -101,7 +101,7 @@ Compat
 2ef0f9937b0de33fe1256c499ea0d66d0c6c0370
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 Compat 0.8.0
 
@@ -110,7 +110,7 @@ Compat 0.8.0
 b753e8229081aa4c1af9bbc4b233c93b4cd98b57
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 Compat 0.8.0
 
@@ -119,7 +119,7 @@ Compat 0.8.0
 9f69a2a734855116336838a6a73b53afddf4c36f
 julia 0.4
 ColorTypes 0.2
-FixedPointNumbers 0.1
+FixedPointNumbers 0.1.0 0.3.0
 Reexport
 Compat 0.9.1
 
@@ -128,7 +128,7 @@ Compat 0.9.1
 85e21ff3321f8993cd5a4c5fb1f66554c632f553
 julia 0.4
 ColorTypes 0.2.7
-FixedPointNumbers 0.1.8
+FixedPointNumbers 0.1.8 0.3.0
 Reexport
 Compat 0.9.1
 
@@ -137,6 +137,6 @@ Compat 0.9.1
 e5fe33a2c75dc32a462511557420e6145df1bb7e
 julia 0.4
 ColorTypes 0.2.9
-FixedPointNumbers 0.1.8
+FixedPointNumbers 0.1.8 0.3.0
 Reexport
 Compat 0.9.1

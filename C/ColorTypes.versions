@@ -9,7 +9,7 @@ FixedSizeArrays
 -----
 f05cefc6df791ba860e0a7e8cc766ebb410bf09e
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -17,7 +17,7 @@ Docile
 -----
 6aed7879481393310596638c52589ca27de710b9
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -25,7 +25,7 @@ Docile
 -----
 9831630232804667ca791b53cbc4180c0ce8665f
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -33,7 +33,7 @@ Docile
 -----
 3f61f04fb1f283c822811d6c3f49965a9e86f829
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -41,7 +41,7 @@ Docile
 -----
 204aa2aa2cf8885fb22b0f88b57cf696b5c34d4a
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -49,7 +49,7 @@ Docile
 -----
 a8dd9a3834b76e48db138141ab586325cd4efaa6
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -57,7 +57,7 @@ Docile
 -----
 17218b2f9f48e83b8d377603f1a96b1e91e6645e
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -65,7 +65,7 @@ Docile
 -----
 855875568a05e43221b3ba828348fa7b02fc60d4
 julia 0.3
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Compat
 Docile
 
@@ -73,76 +73,76 @@ Docile
 -----
 792dfee18016cdb77c56e0cbff4d0262e4e7779d
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.1
 -----
 2b0f939c11cafc1c0a266d780d45474d94c61380
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.10
 ------
 c2800cb6a44a6b22cb9527bbb8509e010d194a94
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.11
 ------
 8238e6e9bad67df0bea3e577034ccac914311ca8
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.12
 ------
 a0f98987261aa41bc188b5a7707e7acaa2f71da1
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.2
 -----
 326822a6e3697edcbd281ea46d88da3bcb12da04
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.3
 -----
 bf47e5a90c2ca6123a834e0065d6a1d5ca27ae79
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.4
 -----
 5859091fe41d0be0ee07b1ef56acd3eb2948a6c7
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.5
 -----
 1a9563fa0f1c804527eabb4a9c5dc6c96412b7c2
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.6
 -----
 be848d6777c71ef36a619be7218083183d0f0d7e
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.7
 -----
 e4a382107d7b5ce5b97c32e5134101af9c53cff1
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.8
 -----
 5e0bf49f374103caf712da9607c1eca5cb518c35
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0
 
 0.2.9
 -----
 b6ff061fd5b95370a16be309ce8dc6c4db42a2e8
 julia 0.4
-FixedPointNumbers 0.1.0
+FixedPointNumbers 0.1.0 0.3.0

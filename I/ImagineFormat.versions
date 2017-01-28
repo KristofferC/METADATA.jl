@@ -4,7 +4,7 @@ git://github.com/timholy/ImagineFormat.jl.git
 -----
 cd240a9edfb9aabb913a9461015c14b21f710a3e
 julia 0.3
-Images
+Images 0.0.0- 0.6.0
 FileIO
 SIUnits
 Compat
@@ -13,7 +13,7 @@ Compat
 -----
 a3f81af5d137d38b6e72893783c68412de95ed49
 julia 0.4
-Images
+Images 0.0.0- 0.6.0
 FileIO
 SIUnits
 
@@ -21,7 +21,7 @@ SIUnits
 -----
 1b0daf52e1ffff8186a426105c575c519535e608
 julia 0.4
-Images
+Images 0.0.0- 0.6.0
 FileIO
 SIUnits
 
@@ -29,7 +29,7 @@ SIUnits
 -----
 a8e32c6055a0f1b7ff0e378a01f73b4ceb5c7d29
 julia 0.4
-Images
+Images 0.0.0- 0.6.0
 FileIO
 SIUnits
 Compat 0.7.16

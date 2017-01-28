@@ -4,7 +4,7 @@ https://github.com/JuliaImages/ImageCore.jl.git
 -----
 88efe950f8e9ec36d1563522784b6e91e064d541
 julia 0.5-
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Colors
 MappedArrays
 Graphics
@@ -13,7 +13,7 @@ Graphics
 -----
 41cca88658f48d343817896985f8ac672842f13d
 julia 0.5-
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Colors
 MappedArrays
 Graphics
@@ -22,7 +22,7 @@ Graphics
 -----
 a3527941afb91414b939db259100da89723dc7a0
 julia 0.5-
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Colors
 MappedArrays
 Graphics
@@ -31,7 +31,7 @@ Graphics
 -----
 86bfc0ff9ca727df058f04fe28c90fc9a23297ac
 julia 0.5-
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Colors
 MappedArrays 0.0.3
 Graphics
@@ -40,7 +40,7 @@ Graphics
 -----
 c94238a82d185c7c713b206a3c40ad4e420d314e
 julia 0.5-
-FixedPointNumbers
+FixedPointNumbers 0.0.0- 0.3.0
 Colors
 MappedArrays 0.0.3
 Graphics
