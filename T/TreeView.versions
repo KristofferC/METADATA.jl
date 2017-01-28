@@ -1,0 +1,9 @@
+https://github.com/dpsanders/TreeView.jl.git
+
+0.0.1
+-----
+72967a51c6ba2d71479d136d6f176affcfaa3e5a
+julia 0.5
+LightGraphs 0.7
+TikzGraphs 0.3
+MacroTools 0.3

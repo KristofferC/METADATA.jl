@@ -5,3 +5,10 @@ https://github.com/Datseris/DynamicalBilliards.jl.git
 ea1e80e6e07eb3fc801e6afc26cba0d0fde21fb1
 julia 0.5
 StaticArrays
+
+0.6.0
+-----
+84b1149152a51e75b2d41474741d927cd606b44d
+julia 0.5
+StaticArrays
+PyPlot
