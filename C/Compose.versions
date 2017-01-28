@@ -3,7 +3,7 @@ git://github.com/GiovineItalia/Compose.jl.git
 0.0.0
 -----
 8c770ba99c0573cab7e310dec14928cfa17adb64
-Cairo
+Cairo 0.0.0- 0.1.0
 Mustache
 
 0.1.0

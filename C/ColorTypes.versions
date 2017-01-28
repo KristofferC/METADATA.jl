@@ -146,3 +146,9 @@ FixedPointNumbers 0.1.0 0.3.0
 b6ff061fd5b95370a16be309ce8dc6c4db42a2e8
 julia 0.4
 FixedPointNumbers 0.1.0 0.3.0
+
+0.3.0
+-----
+a846a5327a683c1fadb0fa400155d2635eb21b8f
+julia 0.5
+FixedPointNumbers 0.3.0
