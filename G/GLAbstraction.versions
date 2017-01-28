@@ -239,3 +239,18 @@ ColorTypes
 Compat 0.8.0
 FileIO
 GLFW
+
+0.3.0
+-----
+39049c753790829342c3b8449449da9fa0ea96e7
+julia 0.5
+Quaternions
+FixedSizeArrays
+GeometryTypes
+ModernGL
+Reactive
+FixedPointNumbers
+ColorTypes
+Compat 0.8.0
+FileIO
+GLFW

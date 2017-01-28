@@ -95,3 +95,12 @@ FixedSizeArrays
 ColorTypes
 Compat 0.7.15
 Iterators
+
+0.2.2
+-----
+2df57243de3c8b702d97ec8ee6c062a3a2a76b8c
+julia 0.4
+FixedSizeArrays
+ColorTypes
+Compat 0.7.15
+Iterators
