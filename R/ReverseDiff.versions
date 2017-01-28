@@ -15,3 +15,11 @@ julia 0.5
 DiffBase 0.0.2
 ForwardDiff 0.3.2
 Calculus 0.1.15
+
+0.0.3
+-----
+296e37e6d9620f73b7823ecd2590b4684b10db7f
+julia 0.5
+DiffBase 0.0.3
+ForwardDiff 0.3.4
+Calculus 0.2.0

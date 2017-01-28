@@ -64,3 +64,15 @@ HttpCommon
 HttpServer
 URIParser
 WebSockets
+
+0.2.3
+-----
+c83c0572f1e0adcba20f7d46b6a9d48e96b60616
+julia 0.4
+Lazy
+Hiccup
+HttpCommon
+HttpServer
+URIParser
+WebSockets
+Compat 0.7.9
