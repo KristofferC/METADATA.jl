@@ -5,3 +5,9 @@ git://github.com/baggepinnen/DifferentialDynamicProgramming.jl.git
 bea55a8a203aa592149be63b8fabfd92a4d14339
 julia 0.4
 Requires
+
+0.1.0
+-----
+d1d2fc2a7333ce75a93eab6daacbad8635908c70
+julia 0.4
+Requires
