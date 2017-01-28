@@ -19,3 +19,14 @@ AxisArrays
 SimpleTraits
 Reexport
 Colors
+
+0.1.0
+-----
+62ca49c91bde647334728f3d1e4b6bf663d5a05d
+julia 0.5
+ImageCore
+AxisArrays
+SimpleTraits
+Reexport
+Colors
+FixedPointNumbers 0.3.0

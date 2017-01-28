@@ -15,3 +15,11 @@ julia 0.5
 IntervalSets
 Iterators
 RangeArrays
+
+0.0.3
+-----
+65263db10d7ca11610179d5c808a92536158f819
+julia 0.5
+IntervalSets
+Iterators
+RangeArrays
