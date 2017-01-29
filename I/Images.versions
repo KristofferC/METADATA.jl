@@ -6,17 +6,20 @@ d59f046d4619ed64d7beada26f0e3e790ae06392
 Color
 Tk
 Cairo
+FixedPointNumbers 0.0- 0.3
 
 0.2.0
 -----
 f00c9ba81f3955454a92f9c21784c57e3a683bf6
 julia 0.2-
 Color
+FixedPointNumbers 0.0- 0.3
 
 0.2.1
 -----
 8fe2a3b23ec77d05d5d08ec2e52dc9f130d9c262
 Color
+FixedPointNumbers 0.0- 0.3
 
 0.2.10
 ------
@@ -24,6 +27,7 @@ cf3f9958303baf9a6ec47fd5022f084cf9ebc554
 Color
 Grid 0.2.4-
 Cartesian
+FixedPointNumbers 0.0- 0.3
 
 0.2.11
 ------
@@ -31,6 +35,7 @@ Cartesian
 Color
 Grid 0.2.4-
 Cartesian
+FixedPointNumbers 0.0- 0.3
 
 0.2.12
 ------
@@ -39,6 +44,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.13
 ------
@@ -47,6 +53,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.14
 ------
@@ -55,6 +62,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.15
 ------
@@ -63,6 +71,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.16
 ------
@@ -71,6 +80,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.17
 ------
@@ -79,6 +89,7 @@ Color
 Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
+FixedPointNumbers 0.0- 0.3
 
 0.2.18
 ------
@@ -88,6 +99,7 @@ Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.19
 ------
@@ -97,12 +109,14 @@ Grid 0.2.4-
 Cartesian 0.1-
 julia 0.2-
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.2
 -----
 8e3664fade90db34c4176f0955920dbb82d31fb9
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.20
 ------
@@ -113,6 +127,7 @@ Cartesian 0.1-
 julia 0.2-
 BinDeps
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.21
 ------
@@ -123,6 +138,7 @@ Cartesian 0.1-
 julia 0.2-
 BinDeps
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.22
 ------
@@ -133,6 +149,7 @@ Cartesian 0.1-
 julia 0.2-
 BinDeps
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.23
 ------
@@ -143,6 +160,7 @@ Cartesian 0.1-
 julia 0.2-
 BinDeps
 @osx Homebrew
+FixedPointNumbers 0.0- 0.3
 
 0.2.24
 ------
@@ -155,6 +173,7 @@ BinDeps
 @osx Homebrew
 Units
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.25
 ------
@@ -166,6 +185,7 @@ BinDeps
 @osx Homebrew
 Units
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.26
 ------
@@ -177,6 +197,7 @@ BinDeps
 @osx Homebrew
 Units
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.27
 ------
@@ -188,6 +209,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.28
 ------
@@ -199,6 +221,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.29
 ------
@@ -210,12 +233,14 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.3
 -----
 7e741cf3788d0163d42df46c8068f2baef935198
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.30
 ------
@@ -227,6 +252,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.31
 ------
@@ -238,6 +264,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.32
 ------
@@ -249,6 +276,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.33
 ------
@@ -260,6 +288,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.34
 ------
@@ -271,6 +300,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.35
 ------
@@ -282,6 +312,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.36
 ------
@@ -293,6 +324,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.37
 ------
@@ -304,6 +336,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.38
 ------
@@ -315,6 +348,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.39
 ------
@@ -326,12 +360,14 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.4
 -----
 6e3b8619524e932fdbb9051c92fcc637e9f33358
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.40
 ------
@@ -343,6 +379,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.41
 ------
@@ -354,6 +391,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.42
 ------
@@ -365,6 +403,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.43
 ------
@@ -376,6 +415,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.44
 ------
@@ -387,6 +427,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.45
 ------
@@ -398,6 +439,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.46
 ------
@@ -409,6 +451,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.47
 ------
@@ -420,6 +463,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.48
 ------
@@ -431,6 +475,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.49
 ------
@@ -442,12 +487,14 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.5
 -----
 d0602c20031c097aceccce91fa4a0116599d81d7
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.50
 ------
@@ -459,30 +506,35 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.2.6
 -----
 200d039e3e76909b6940a99ad30e8fbc548af5c1
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.7
 -----
 ee3af59e6e98a11d028e68d19301bd390ee9e336
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.8
 -----
 429963ed64941c3eb24a6796fbe1e941cf52fe3e
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.2.9
 -----
 f7ae0c7844bf77cd0e96723760939da7f2972395
 Color
 Grid
+FixedPointNumbers 0.0- 0.3
 
 0.3.0
 -----
@@ -494,6 +546,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.3.1
 -----
@@ -505,6 +558,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.3.2
 -----
@@ -516,6 +570,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.3.3
 -----
@@ -527,6 +582,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.0
 -----
@@ -538,6 +594,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.1
 -----
@@ -549,6 +606,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.10
 ------
@@ -559,6 +617,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.11
 ------
@@ -569,6 +628,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.12
 ------
@@ -579,6 +639,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.13
 ------
@@ -589,6 +650,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.14
 ------
@@ -599,6 +661,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.15
 ------
@@ -609,6 +672,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.16
 ------
@@ -619,6 +683,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.17
 ------
@@ -629,6 +694,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.18
 ------
@@ -639,6 +705,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.19
 ------
@@ -649,6 +716,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.2
 -----
@@ -660,6 +728,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.20
 ------
@@ -670,6 +739,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.21
 ------
@@ -680,6 +750,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.22
 ------
@@ -690,6 +761,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.23
 ------
@@ -700,6 +772,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.24
 ------
@@ -711,6 +784,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.25
 ------
@@ -722,6 +796,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.26
 ------
@@ -733,6 +808,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.27
 ------
@@ -744,6 +820,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.28
 ------
@@ -755,6 +832,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.29
 ------
@@ -766,6 +844,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.3
 -----
@@ -777,6 +856,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.30
 ------
@@ -788,6 +868,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.31
 ------
@@ -800,6 +881,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.32
 ------
@@ -812,6 +894,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.33
 ------
@@ -824,6 +907,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.34
 ------
@@ -836,6 +920,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.35
 ------
@@ -848,6 +933,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.36
 ------
@@ -860,6 +946,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.37
 ------
@@ -872,6 +959,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.38
 ------
@@ -884,6 +972,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.39
 ------
@@ -896,6 +985,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.4
 -----
@@ -907,6 +997,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.40
 ------
@@ -919,6 +1010,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.41
 ------
@@ -931,6 +1023,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.42
 ------
@@ -943,6 +1036,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.43
 ------
@@ -955,6 +1049,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.44
 ------
@@ -967,6 +1062,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.45
 ------
@@ -980,6 +1076,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.46
 ------
@@ -993,6 +1090,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.47
 ------
@@ -1006,6 +1104,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.48
 ------
@@ -1019,6 +1118,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.49
 ------
@@ -1032,6 +1132,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.5
 -----
@@ -1043,6 +1144,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.50
 ------
@@ -1056,6 +1158,7 @@ BinDeps
 SIUnits
 Zlib
 Graphics 0.1
+FixedPointNumbers 0.0- 0.3
 
 0.4.6
 -----
@@ -1066,6 +1169,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.7
 -----
@@ -1076,6 +1180,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.8
 -----
@@ -1086,6 +1191,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.4.9
 -----
@@ -1096,6 +1202,7 @@ BinDeps
 @osx Homebrew
 SIUnits
 Zlib
+FixedPointNumbers 0.0- 0.3
 
 0.5.0
 -----
