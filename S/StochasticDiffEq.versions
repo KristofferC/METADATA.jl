@@ -7,6 +7,7 @@ julia 0.5
 ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
+DiffEqBase 0.0.0 0.7.0
 
 0.0.2
 -----
@@ -15,7 +16,7 @@ julia 0.5
 ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 
 0.0.3
 -----
@@ -24,7 +25,7 @@ julia 0.5
 ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 
 0.0.4
 -----
@@ -33,7 +34,7 @@ julia 0.5
 ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 RecursiveArrayTools
 
 0.0.5
@@ -42,7 +43,7 @@ RecursiveArrayTools
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 RecursiveArrayTools
 
 0.1.0
@@ -51,7 +52,7 @@ ee764f902e0994e177756e938945eb2b76753869
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 RecursiveArrayTools 0.0.2
 
 0.1.1
@@ -60,7 +61,7 @@ RecursiveArrayTools 0.0.2
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 RecursiveArrayTools 0.0.2
 
 0.2.0
@@ -69,7 +70,7 @@ e0f46ffb37d0e908083df4df5ce15815d050dad0
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 RecursiveArrayTools 0.0.2
 
 0.3.0
@@ -78,7 +79,7 @@ e2cc207a3570f9b5c04ed07817ae64cee0c1b5e7
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 RecursiveArrayTools 0.0.2
 DataStructures
 ResettableStacks
@@ -90,7 +91,7 @@ a8728b46d6f75489625d4d0f76f8e7402b5884ed
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.4.0
+DiffEqBase 0.4.0 0.7.0
 RecursiveArrayTools 0.1.2
 DataStructures 0.4.6
 ResettableStacks 0.0.1
@@ -102,7 +103,7 @@ Juno 0.2.5
 julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
-DiffEqBase 0.4.0
+DiffEqBase 0.4.0 0.7.0
 RecursiveArrayTools 0.1.2
 DataStructures 0.4.6
 ResettableStacks 0.0.1
