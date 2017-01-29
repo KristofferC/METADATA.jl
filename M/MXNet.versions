@@ -68,3 +68,12 @@ Compat 0.8.4
 Formatting
 BinDeps
 JSON
+
+0.2.0
+-----
+0619b55751d6580b153424a7b97166137fbdb262
+julia 0.5
+Compat 0.9.5
+Formatting
+BinDeps
+JSON
