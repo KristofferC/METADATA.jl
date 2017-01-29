@@ -115,3 +115,13 @@ Images 0.0.0- 0.6.0
 Compat 0.8.4
 @osx Homebrew
 BinDeps
+
+0.2.0
+-----
+5ba08ce9f6dcd6571ea7a084ce17072bf5e4dfef
+julia 0.5
+FixedPointNumbers 0.3.0
+ColorTypes 0.2.7
+FileIO
+@osx Homebrew
+BinDeps

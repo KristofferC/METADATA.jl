@@ -31,3 +31,21 @@ Compat 0.8.7
 Libz
 FixedPointNumbers 0.0.0- 0.3.0
 FileIO
+
+0.2.0
+-----
+91f75e6bb399bd7f298ad69ed50f735e24784a0d
+julia 0.5
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace
+StaticArrays
+Quaternions
+ImageCore
+Unitful
+Libz
+FileIO
+AxisArrays
+ImageAxes
+MappedArrays
+Ranges
