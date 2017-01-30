@@ -428,3 +428,17 @@ Tk
 Winston
 Graphics 0.1
 Cairo
+
+0.3.0
+-----
+5f74af8affd8e9501a88b692e46519df316146bd
+julia 0.5
+Images 0.6.0
+Colors
+Tk
+Winston
+Graphics 0.1
+Cairo
+Graphics
+FileIO
+AxisArrays
