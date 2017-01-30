@@ -253,3 +253,18 @@ MacroTools
 Mux
 BinDeps
 Compat 0.8.6
+
+0.5.1
+-----
+3032a07850fc7ce9859c69fd6d1c2d44054b70fd
+julia 0.5-
+WebSockets
+HttpServer
+Lazy 0.11.3
+JSON
+Reexport
+Mustache
+MacroTools
+Mux
+BinDeps
+Compat 0.8.6
