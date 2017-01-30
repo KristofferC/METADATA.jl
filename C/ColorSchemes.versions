@@ -4,7 +4,7 @@ git://github.com/cormullion/ColorSchemes.jl.git
 -----
 d69b8254d6b39f4a63e7dc1e3c07cbf8505c7da2
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 
@@ -12,7 +12,7 @@ Clustering
 -----
 9d1c7c72dec24612ba162cc6445705fc0588ead4
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 FileIO
@@ -24,7 +24,7 @@ FileIO
 -----
 9d1c7c72dec24612ba162cc6445705fc0588ead4
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 FileIO
@@ -36,7 +36,7 @@ FileIO
 -----
 9d1c7c72dec24612ba162cc6445705fc0588ead4
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 FileIO
@@ -48,7 +48,7 @@ FileIO
 -----
 f5542f6165653267b71f3ae9ef28629e77c83e79
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 FileIO
@@ -60,7 +60,7 @@ FileIO
 -----
 0c23fcc97ddb943fb48dd46ef7629a5f2f27d12a
 julia 0.4
-Images
+Images 0.0- 0.6
 Colors
 Clustering
 FileIO

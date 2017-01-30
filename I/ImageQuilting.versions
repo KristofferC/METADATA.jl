@@ -4,79 +4,79 @@ git://github.com/juliohm/ImageQuilting.jl.git
 -----
 850c9d025d0fad65e83b4cd2a5e602669b4da885
 julia 0.4-
-Images 0.3.3-
+Images 0.3.3- 0.6
 
 0.0.2
 -----
 1dc8259aa16b4a3569ec1314ec11ffec0ad14386
 julia 0.4-
-Images 0.4.4-
+Images 0.4.4- 0.6
 
 0.0.3
 -----
 1a43b9c0e05d3261f45717cfe1d898deac0cdcef
 julia 0.4-
-Images 0.4.20-
+Images 0.4.20- 0.6
 
 0.0.4
 -----
 c7b7d51ce171e3f3bd3ba75a58d8caac38005474
 julia 0.4-
-Images 0.4.20-
+Images 0.4.20- 0.6
 
 0.1.0
 -----
 3eb69153ec3929d44c07c9c458f314637fa0b7bc
 julia 0.4-
-Images 0.4.30-
+Images 0.4.30- 0.6
 
 0.1.1
 -----
 3eb69153ec3929d44c07c9c458f314637fa0b7bc
 julia 0.4-
-Images 0.4.30-
+Images 0.4.30- 0.6
 
 0.1.2
 -----
 06d2531ac3f5140d0eb34ee3cf8a829c259d6681
 julia 0.4-
-Images 0.4.30-
+Images 0.4.30- 0.6
 
 0.1.3
 -----
 cee05c8e1f60132ca6c3d7d443cd46686423a0fa
 julia 0.4-
-Images 0.4.30-
+Images 0.4.30- 0.6
 
 0.2.0
 -----
 20b235a43db76f6744a5bb55e468742ff9e229bc
 julia 0.4-
-Images 0.4.40-
+Images 0.4.40- 0.6
 
 0.2.1
 -----
 faf191a13febdbe5496f9b3924a067dbc49a5ff5
 julia 0.4-
-Images 0.4.40-
+Images 0.4.40- 0.6
 
 0.2.2
 -----
 7e52f9ce297818289f68a7a12521c2f27ae4611e
 julia 0.4-
-Images 0.4.40-
+Images 0.4.40- 0.6
 
 0.2.3
 -----
 b643722116f6e27c1b7c6da4deb1132360fb9be7
 julia 0.4-
-Images 0.4.40-
+Images 0.4.40- 0.6
 
 0.2.4
 -----
 8fd99fc837e013c861bd3c08eee33373032e0014
 julia 0.4
-Images 0.4.40
+Images 0.4.40 0.6
 Combinatorics
 
 0.2.5
@@ -84,7 +84,7 @@ Combinatorics
 c637b89ba752ea99c4f53a4bd68dcdce6ea70cb2
 julia 0.4
 Combinatorics
-Images
+Images 0.0- 0.6
 
 0.2.6
 -----
@@ -92,7 +92,7 @@ be5cace4a252dded7ab29c873c3f244e4ed5808f
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 
 0.2.7
 -----
@@ -100,7 +100,7 @@ ec40ff9c31b4899ecd95d82035cade5c8e819c86
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 LightGraphs 0.5.2
 
 0.2.8
@@ -109,7 +109,7 @@ LightGraphs 0.5.2
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 LightGraphs 0.5.2
 
 0.3.0
@@ -118,7 +118,7 @@ b318231bf451a4325f2dc5ab81927433fc472103
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 LightGraphs 0.5.2
 
 0.3.1
@@ -127,7 +127,7 @@ LightGraphs 0.5.2
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 LightGraphs 0.5.2
 
 0.3.2
@@ -136,7 +136,7 @@ LightGraphs 0.5.2
 julia 0.4
 Combinatorics
 StatsBase
-Images
+Images 0.0- 0.6
 LightGraphs 0.6.1
 
 0.4.0
@@ -146,7 +146,7 @@ julia 0.5
 Combinatorics
 StatsBase
 Primes
-Images
+Images 0.0- 0.6
 LightGraphs 0.6.1
 ProgressMeter
 
@@ -157,7 +157,7 @@ julia 0.5
 Combinatorics
 StatsBase
 Primes
-Images
+Images 0.0- 0.6
 LightGraphs 0.6.1
 ProgressMeter
 Hwloc
@@ -169,7 +169,7 @@ julia 0.5
 Combinatorics
 StatsBase
 Primes
-Images
+Images 0.0- 0.6
 LightGraphs 0.6.1
 ProgressMeter
 Hwloc
@@ -181,7 +181,7 @@ julia 0.5
 Combinatorics
 StatsBase
 Primes
-Images
+Images 0.0- 0.6
 LightGraphs 0.6.1
 ProgressMeter
 Hwloc
