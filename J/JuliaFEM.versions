@@ -23,3 +23,14 @@ Lexicon
 FactCheck
 HDF5
 Lint
+
+0.2.1
+-----
+c307c1482cdf094efeacf30d09bd4531243c9323
+julia 0.5 
+ForwardDiff
+LightXML 0.4
+HDF5 0.7
+DataFrames
+Formatting
+Logging
