@@ -238,6 +238,19 @@ JSON
 Libz
 Compat 0.9.5
 
+0.3.13
+------
+67c3bf6106c74a1bcd4e35d9d12268ff058b6825
+julia 0.4
+HttpCommon 0.2.4
+HttpParser
+URIParser 0.1.1
+MbedTLS 0.2.1
+Codecs
+JSON
+Libz
+Compat 0.9.5
+
 0.3.2
 -----
 1509a494288920252163923dd0136894efcfdd40
