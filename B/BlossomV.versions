@@ -29,3 +29,9 @@ BaseTestNext
 c012095ce530be65a5c5b6535e399d08139e63f4
 julia 0.4
 BinDeps
+
+0.2.1
+-----
+bbabcf08e43e55ec438b6db10e7e3dac21026a6a
+julia 0.4
+BinDeps
