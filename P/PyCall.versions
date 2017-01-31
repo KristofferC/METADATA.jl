@@ -336,3 +336,11 @@ julia 0.4
 Compat 0.9.5
 Conda 0.2
 MacroTools 0.2
+
+1.9.0
+-----
+2fcffd57c147c6d845bc4028939c79b999382124
+julia 0.4
+Compat 0.9.5
+Conda 0.2
+MacroTools 0.2
