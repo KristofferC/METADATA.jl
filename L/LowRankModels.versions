@@ -51,3 +51,16 @@ Optim 0.0 0.5
 Roots
 NMF
 Compat
+
+0.2.0
+-----
+2e2191092e4bb6737e29ca953e9bf4280d245f9a
+julia 0.5
+DataFrames 0.8
+StatsBase 0.10
+ArrayViews 0.6
+Optim 0.6
+Roots 0.2
+NMF 0.2.5
+Compat 0.9
+ScikitLearnBase 0.0.4

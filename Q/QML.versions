@@ -5,12 +5,20 @@ https://github.com/barche/QML.jl.git
 82fede6851125287dd1a2443d50ee116036cbfc2
 julia 0.4
 BinDeps
-CxxWrap
+CxxWrap 0.1.8 0.2-
 
 0.2.0
 -----
 d661a430617111b365c5d7579b2ae0d9547ff310
 julia 0.5
 BinDeps
-CxxWrap 0.1.8
+CxxWrap 0.1.8 0.2-
+@osx Homebrew
+
+0.3.0
+-----
+c6fa8d8a1ce548617d6da3cadf5b87abbb45f06d
+julia 0.5
+BinDeps 0.4.2
+CxxWrap 0.2.2 0.3-
 @osx Homebrew
