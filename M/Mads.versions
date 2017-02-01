@@ -1201,3 +1201,72 @@ Optim 0.7
 BlackBoxOptim
 Documenter 0.8.10
 Compat 0.8
+
+0.3.2
+-----
+2f7d2758d2bbb9123daf390b23c228ef77135286
+julia 0.5
+Compat 0.8
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda 0.4
+PyCall 1.8
+PyPlot 2.2
+Gadfly
+Measures
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.7
+Optim 0.7
+BlackBoxOptim
+Documenter 0.8.10
+JuMP 0.15
+Ipopt 0.2.6
+
+0.3.3
+-----
+809c73984cc4b7a65918264496feb478e041812b
+julia 0.5
+Compat 0.8
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda 0.4
+PyCall 1.8
+PyPlot 2.2
+Gadfly
+Measures
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Klara 0.7
+Optim 0.7
+BlackBoxOptim
+Documenter 0.8.10
+JuMP 0.15
+MathProgBase 0.5.10
+Ipopt 0.2.6
