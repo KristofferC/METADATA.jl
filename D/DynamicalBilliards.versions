@@ -12,3 +12,10 @@ StaticArrays
 julia 0.5
 StaticArrays
 PyPlot
+
+0.7.0
+-----
+ccf07faf5cdb4990bbf01622ec06648a6b46f99b
+julia 0.5
+StaticArrays
+PyPlot

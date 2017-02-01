@@ -74,3 +74,14 @@ Cubature
 Compat
 StatsFuns
 Yeppp
+
+0.2.0
+-----
+be0402e5b6f6cc7d3c703cf0c40318524ee46207
+julia 0.5
+Distributions
+Optim 0.5.0
+StatsBase
+Cubature 1.2.0
+StatsFuns
+Yeppp
