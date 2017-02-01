@@ -184,6 +184,15 @@ ReverseDiffSparse 0.6 0.7
 ForwardDiff 0.3 0.4
 Calculus
 
+0.15.1
+------
+a0b5f0d18de6dec3d6d69a4daafd033ef0387cc2
+julia 0.5
+MathProgBase 0.5.1 0.6
+ReverseDiffSparse 0.6 0.7
+ForwardDiff 0.3 0.4
+Calculus
+
 0.2.0
 -----
 c35353c0a16a906aa57ecfa26076a13d224d1a23
