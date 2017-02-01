@@ -1,0 +1,15 @@
+https://github.com/matthias-vigelius/DelaunayMeshes.jl.git
+
+0.0.1
+-----
+4fa791fce1ff457785d82c07f486d396137be285
+julia 0.5
+DiffEqPDEBase
+GeometricalPredicates
+
+0.1.0
+-----
+255de3e278b99dd138902e8843c4f243eda4a7fb
+julia 0.5
+DiffEqPDEBase
+GeometricalPredicates

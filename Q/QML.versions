@@ -22,3 +22,11 @@ julia 0.5
 BinDeps 0.4.2
 CxxWrap 0.2.2 0.3-
 @osx Homebrew
+
+0.3.1
+-----
+487307f30024944ac1cb0d980f52971857a6303f
+julia 0.5
+BinDeps 0.4.2
+CxxWrap 0.2.2 0.3-
+@osx Homebrew
