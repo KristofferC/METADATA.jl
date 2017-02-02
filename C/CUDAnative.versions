@@ -6,3 +6,10 @@ a0f06b1a97eec1fa3f84f2dec1cfaa2da891c3b9
 julia 0.6-
 CUDAdrv 0.2
 LLVM 0.2
+
+0.1.1
+-----
+4bf38e7a0349ab85e8716815eb31a1dba1ba7a48
+julia 0.6-
+CUDAdrv 0.2
+LLVM 0.2
