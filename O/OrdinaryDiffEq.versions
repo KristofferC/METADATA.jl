@@ -13,12 +13,13 @@ NLsolve 0.7.3
 Sundials 0.3.0
 Ranges 0.0.1
 RecipesBase 0.1.0
+DiffEqBase 0.0.0 0.7.0
 
 0.0.2
 -----
 39a50e83b64c5992a87efb3fb52fb73fd2ffd61e
 julia 0.5
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -34,7 +35,7 @@ ParameterizedFunctions 0.1.0
 -----
 44c76bc2e472b459f09cffd4e191c53ee32a6ff3
 julia 0.5
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -50,7 +51,7 @@ ParameterizedFunctions 0.1.0
 -----
 5e59c5d208c899029d798cb1f105637dd90b1377
 julia 0.5
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -66,7 +67,7 @@ RecursiveArrayTools
 -----
 4f524bc6c90264f9700b5b91a29e6cdbba192f6f
 julia 0.5
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -82,7 +83,7 @@ RecursiveArrayTools
 -----
 9012f56c98f7d8f2bf3c1579633b33069f775e35
 julia 0.5
-DiffEqBase
+DiffEqBase 0.0.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -98,7 +99,7 @@ Juno
 -----
 ab34d32f072223332862fe76496b491e9e3f3e02
 julia 0.5
-DiffEqBase 0.1.2
+DiffEqBase 0.1.2 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -114,7 +115,7 @@ Juno 0.2.5
 -----
 7ef45fcff4939e14e615b97fa58b231e540ad8ae
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -131,7 +132,7 @@ Calculus 0.1.15
 -----
 e89d7e9cb78356a62b0ba29c163023b45b01d281
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -148,7 +149,7 @@ Calculus 0.1.15
 -----
 08b8b855764c3d43cdebdc382c7e9c42b0c9d5af
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -165,7 +166,7 @@ Calculus 0.1.15
 -----
 5869cc601df085cca9ae27e538d019fa12fda8c7
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -182,7 +183,7 @@ Calculus 0.1.15
 -----
 f5143909979857158578c114ce1c4ea100dc2870
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -199,7 +200,7 @@ Calculus 0.1.15
 -----
 31bad76d28c8d6841fb6c8f3943b7a71943be283
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -216,7 +217,7 @@ Calculus 0.1.15
 -----
 c8f11f14a101bf10f713e10391e3f2ca50818193
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -233,7 +234,7 @@ Calculus 0.1.15
 -----
 1c2eaaba25b0359aee9621de60d2527695a38b03
 julia 0.5
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -250,7 +251,7 @@ Calculus 0.1.15
 -----
 515dee4923b4b38fb042861ec96fc7fea7524fb5
 julia 0.5
-DiffEqBase 0.4.0
+DiffEqBase 0.4.0 0.7.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -267,7 +268,7 @@ Calculus 0.1.15
 -----
 ec2f97e07fa41e06ed00e2f247848dae43630786
 julia 0.5
-DiffEqBase 0.6.0
+DiffEqBase 0.6.0 0.8.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -284,7 +285,7 @@ DataStructures 0.4.6
 -----
 8b43554a3f754f49b0f0c907e5fcad8ebaaf36ac
 julia 0.5
-DiffEqBase 0.6.0
+DiffEqBase 0.6.0 0.8.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -301,7 +302,7 @@ DataStructures 0.4.6
 -----
 8769c76330db23ebe73abfe77e14e94c6b0db2cb
 julia 0.5
-DiffEqBase 0.6.0
+DiffEqBase 0.6.0 0.8.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -318,7 +319,7 @@ DataStructures 0.4.6
 -----
 cb3eb10eb926eb0220054b5622d044d4cd960b3d
 julia 0.5
-DiffEqBase 0.7.0
+DiffEqBase 0.7.0 0.8.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
