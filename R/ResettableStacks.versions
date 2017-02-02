@@ -4,3 +4,8 @@ git://github.com/ChrisRackauckas/ResettableStacks.jl.git
 -----
 eb666dbd9f6354f07ae9e308ca96b7b1be3d1718
 julia 0.4
+
+0.1.0
+-----
+82b01b8cdd3f8ef44a7ab17b2d9014b5fb606e38
+julia 0.5

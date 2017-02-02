@@ -16,3 +16,10 @@ ZipFile 0.2.0-
 julia 0.3
 ZipFile 0.2.0-
 Compat 0.2
+
+0.2.0
+-----
+60c4bc9e383c5488249f0d199d35f7467201a688
+julia 0.4
+ZipFile 0.3.0
+Compat 0.7.15
