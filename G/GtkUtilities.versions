@@ -91,3 +91,14 @@ Cairo
 Graphics
 Docile
 Compat 0.7.16
+
+0.2.0
+-----
+58d75e1dba4cb76e01c40b273ccf1c45f31517f1
+julia 0.5
+Gtk
+Cairo
+Graphics
+Colors
+Images 0.6.0
+FixedPointNumbers 0.3.0

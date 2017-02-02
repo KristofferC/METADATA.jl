@@ -442,3 +442,18 @@ Cairo
 Graphics
 FileIO
 AxisArrays
+
+0.3.1
+-----
+2225e7de45d2089953383e1b1c6388f9e906b5f5
+julia 0.5
+Images 0.6.0
+Colors
+Tk
+Winston
+Graphics 0.1
+Cairo
+Graphics
+FileIO
+AxisArrays
+StatsBase
