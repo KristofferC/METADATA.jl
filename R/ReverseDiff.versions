@@ -23,3 +23,11 @@ julia 0.5
 DiffBase 0.0.3
 ForwardDiff 0.3.4
 Calculus 0.2.0
+
+0.0.4
+-----
+0b8806626a2739aae1ecd8dbfc04d4007ac8138a
+julia 0.5
+DiffBase 0.0.3
+ForwardDiff 0.3.4
+Calculus 0.2.0
