@@ -19,3 +19,26 @@ ColorTypes
 JLD
 HDF5
 JSON
+
+0.0.2
+-----
+4592125dc41cf1a19ba92f3127b0c9c790068fea
+julia 0.5
+RoME
+IncrementalInference
+Graphs
+KernelDensityEstimate
+DrakeVisualizer
+TransformUtils
+CoordinateTransformations
+GeometryTypes
+Rotations
+Gadfly
+Colors
+ColorTypes
+JLD
+HDF5
+JSON
+MeshIO
+FileIO
+NLsolve
