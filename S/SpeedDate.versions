@@ -27,3 +27,13 @@ Gadfly
 Bio 0.4.3
 ArgParse 0.4
 Gtk 0.10.4
+
+0.2.1
+-----
+578d4fcf294f22f3d0318739278a80b923703543
+julia 0.5
+DataFrames
+Gadfly
+Bio 0.4.3
+ArgParse 0.4
+Gtk 0.10.4

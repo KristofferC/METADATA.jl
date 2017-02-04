@@ -4,7 +4,7 @@ git://github.com/JuliaIO/QuartzImageIO.jl.git
 -----
 29b36eb2e4958d7e55794eb8f8d54f20a8bd1084
 julia 0.3
-Images
+Images 0.0- 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers
@@ -15,7 +15,7 @@ FileIO
 -----
 f73aa646afd9c3f8b6b4477a265ba015e64adcc5
 julia 0.3
-Images
+Images 0.0- 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers
@@ -27,7 +27,7 @@ FileIO
 3efe65eab11d1f3d4a14a62e57d83bbd4b84b99c
 julia 0.4
 FileIO 0.0.3
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
@@ -37,7 +37,7 @@ FixedPointNumbers 0.1
 3efe65eab11d1f3d4a14a62e57d83bbd4b84b99c
 julia 0.4
 FileIO 0.0.3
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
@@ -47,7 +47,7 @@ FixedPointNumbers 0.1
 fda086bbca849f3b0d5181ac8f914cbd44e15e1c
 julia 0.4
 FileIO 0.0.3
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
@@ -57,7 +57,7 @@ FixedPointNumbers 0.1
 2cf41266eca241187972a65dc68623aa81828168
 julia 0.4
 FileIO 0.0.4
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
@@ -67,7 +67,7 @@ FixedPointNumbers 0.1
 cef306618fab303ae8bc7fc1999d88083df27ca6
 julia 0.4
 FileIO 0.0.4
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
@@ -77,8 +77,18 @@ FixedPointNumbers 0.1
 e5dfdd154bcba00404d936af269c31541303c2bd
 julia 0.4
 FileIO 0.0.4
-Images 0.5
+Images 0.5 0.6
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
 Compat 0.8.0
+
+0.2.0
+-----
+4c19585a1fa29685302c5d354ab1c63f93e1f980
+julia 0.5
+FileIO 0.0.4
+Images 0.6
+ColorTypes 0.3
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
