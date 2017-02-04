@@ -143,3 +143,11 @@ julia 0.4
 BinDeps
 Compat 0.8
 JSON
+
+0.5.1
+-----
+b9c392923bc39be079e8ae38f5e6a8327fc85b64
+julia 0.4
+BinDeps
+Compat 0.8
+JSON

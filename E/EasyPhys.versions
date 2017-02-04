@@ -7,3 +7,13 @@ julia 0.5
 LsqFit
 PyPlot
 PyCall
+
+0.1.4
+-----
+cb3577ac5fb6e689bbec14047a0ee4677df964e1
+julia 0.5
+LsqFit
+PyCall
+PyPlot
+DataFrames
+DataArrays
