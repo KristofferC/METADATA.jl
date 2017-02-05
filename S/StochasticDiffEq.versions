@@ -108,3 +108,16 @@ RecursiveArrayTools 0.1.2
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
+
+1.0.0
+-----
+e04accfa8f7acb988e11eae19d5a87a92ef407cd
+julia 0.5
+Parameters 0.5.0
+DiffEqBase 0.8.0
+RecursiveArrayTools 0.2.0
+DataStructures 0.4.6
+ResettableStacks 0.0.1
+Juno 0.2.5
+Roots
+Iterators
