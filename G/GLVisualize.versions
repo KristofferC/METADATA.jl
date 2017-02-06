@@ -340,3 +340,29 @@ Compose
 Iterators
 UnicodeFun
 ColorVectorSpace
+
+0.2.1
+-----
+631efccf6da8fef03f50be94442498c46f7997a8
+julia 0.5
+GLWindow 0.3
+GLAbstraction 0.3.1
+GeometryTypes 0.2
+Compat 0.9.5
+GLFW
+ModernGL
+FixedSizeArrays
+Reactive
+FixedPointNumbers
+ColorVectorSpace
+ColorTypes
+Colors
+Images
+Quaternions
+FileIO
+MeshIO
+SignedDistanceFields
+FreeType
+Iterators
+Packing
+UnicodeFun
