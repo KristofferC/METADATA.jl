@@ -178,6 +178,6 @@ Compat 0.8.6
 aed0d73a5611a2bede96d73f26069048f16d321c
 julia 0.5
 BinDeps
-MathProgBase 0.5.5 0.6
+MathProgBase 0.5.5 0.7
 @osx Homebrew
 @windows WinRPM
