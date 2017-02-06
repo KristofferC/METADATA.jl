@@ -18,7 +18,7 @@ julia 0.0 0.3
 0.1.0
 -----
 69c93553f6d0f613a22977ca2d7815bb3b4456b8
-julia 0.3
+julia 0.3 0.4
 Docile
 Compat
 FactCheck
@@ -28,7 +28,7 @@ ForwardDiff 0.0 0.2
 0.1.1
 -----
 3150bc695da375771ae235bc492df6916f5db61a
-julia 0.3
+julia 0.3 0.4
 Docile
 Compat
 FactCheck
@@ -38,7 +38,7 @@ ForwardDiff 0.0 0.2
 0.1.2
 -----
 2e2f492a8d7fbc03cf55473fe4ce8e377ff422a4
-julia 0.3
+julia 0.3 0.4
 Docile
 Compat
 FactCheck 0.3
@@ -48,7 +48,7 @@ ForwardDiff 0.0 0.2
 0.1.3
 -----
 01eb85e5dd477dec93b50ee892c1dbaee272b997
-julia 0.3
+julia 0.3 0.4
 Docile
 Compat
 FactCheck 0.3
@@ -61,14 +61,14 @@ ForwardDiff 0.0 0.2
 julia 0.4
 FactCheck 0.3
 Polynomials
-CRlibm 0.2.1
+CRlibm 0.2.1 0.4
 ForwardDiff 0.0 0.2
 
 0.3.0
 -----
 e41f2b05eb04840b535d3848ff4bd6f058cb6b8c
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays
 ForwardDiff 0.0 0.2
@@ -77,7 +77,7 @@ ForwardDiff 0.0 0.2
 -----
 a64e94873f0d812afaf8c7c71135a513783c7eb5
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1
 ForwardDiff 0.0 0.2
@@ -86,7 +86,7 @@ ForwardDiff 0.0 0.2
 -----
 1fece61e7d9c97cc48e824156e9830201ec6bc8b
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1
 ForwardDiff 0.0 0.2
@@ -95,7 +95,7 @@ ForwardDiff 0.0 0.2
 -----
 b205150e3cfe591ba0794b35dc8ff055fd96d59c
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.1.8 0.2
@@ -104,7 +104,7 @@ ForwardDiff 0.1.8 0.2
 -----
 67f3b9aa91d20743256bcd841d89bb8b6b5b4920
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.1.8 0.2
@@ -113,7 +113,7 @@ ForwardDiff 0.1.8 0.2
 -----
 4a3a07c2c840c7a4e235bb1d2ae62f76a149aaaf
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.1.8 0.2
@@ -122,7 +122,7 @@ ForwardDiff 0.1.8 0.2
 -----
 4ad8f411678c0b169e4cd6c6e0534eb4868092bb
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.2.0
@@ -131,7 +131,7 @@ ForwardDiff 0.2.0
 -----
 50eb702310545f5e02e97e7a80b8d83774163396
 julia 0.4
-CRlibm 0.2.2
+CRlibm 0.2.2 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.2.0
@@ -140,8 +140,8 @@ RecipesBase
 0.6.0
 -----
 390c5e4bcd5e50762d30192ba7a9ec641b9b7ddc
-julia 0.4
-CRlibm 0.2.2
+julia 0.4 
+CRlibm 0.3 0.4
 Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.2.0
