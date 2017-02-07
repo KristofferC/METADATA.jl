@@ -36,3 +36,10 @@ Compat 0.7.20
 julia 0.4
 Compat 0.8.0
 JLD 0.6.6
+
+0.0.7
+-----
+6077536728e373adc6be74113c73b8353c6d2fa7
+julia 0.4
+Compat 0.9.0
+JLD 0.6.6

@@ -9,3 +9,13 @@ OrdinaryDiffEq 1.0.0 1.2.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.1.2
 Combinatorics
+
+0.1.0
+-----
+8dab499efec9e1a55a436ddfd75dfd6b09253e8b
+julia 0.5
+DiffEqBase 0.8.0
+OrdinaryDiffEq 1.2.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Combinatorics
