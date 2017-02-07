@@ -1457,3 +1457,24 @@ Graphics 0.1
 FileIO
 Compat 0.9.1
 StatsBase   # for histrange
+
+0.7.0
+-----
+f408a21365c6b70c93252bdcb6911a507ccc4918
+julia 0.5
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageFiltering
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.9.1
+StatsBase   # for histrange
