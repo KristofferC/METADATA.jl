@@ -366,3 +366,29 @@ FreeType
 Iterators
 Packing
 UnicodeFun
+
+0.2.2
+-----
+26b34816b7762f12bc2f885fa37f1aa6d9717c04
+julia 0.5
+GLWindow 0.3
+GLAbstraction 0.3.1
+GeometryTypes 0.2
+Compat 0.9.5
+GLFW
+ModernGL
+FixedSizeArrays
+Reactive
+FixedPointNumbers
+ColorVectorSpace
+ColorTypes
+Colors
+Images
+Quaternions
+FileIO
+MeshIO
+SignedDistanceFields
+FreeType
+Iterators
+Packing
+UnicodeFun
