@@ -6,3 +6,10 @@ git://github.com/nignatiadis/SmoothingSplines.jl.git
 julia 0.4
 StatsBase
 Reexport
+
+0.1.0
+-----
+987b83a4d2cb612021de4cbf84290f5baf1112a1
+julia 0.5
+StatsBase 0.12.0
+Reexport 0.0.3
