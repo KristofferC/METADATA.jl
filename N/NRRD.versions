@@ -49,3 +49,21 @@ AxisArrays
 ImageAxes
 MappedArrays
 Ranges
+
+0.2.1
+-----
+a41017a1a6adf12f269203c3a425760a9211358b
+julia 0.5
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace
+StaticArrays
+Quaternions
+ImageCore
+Unitful
+Libz
+FileIO
+AxisArrays
+ImageAxes
+MappedArrays
+Ranges

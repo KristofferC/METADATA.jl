@@ -1,0 +1,13 @@
+https://github.com/SimonDanisch/GLBooks.jl.git
+
+0.0.1
+-----
+59edd64d2a6b6a9c77ff449e6f931655ccd4c5e8
+julia 0.5
+GLVisualize 0.2.2
+GLWindow 0.3
+GeometryTypes
+Reactive
+Colors
+FileIO
+Images
