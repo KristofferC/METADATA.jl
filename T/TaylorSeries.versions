@@ -67,3 +67,10 @@ FactCheck 0.4.2
 julia 0.4
 Compat 0.7.15
 FactCheck 0.4.2
+
+0.3.1
+-----
+330a40c832680c1f41076deaccef1f6f9f26aece
+julia 0.4
+Compat 0.7.15
+FactCheck 0.4.3
