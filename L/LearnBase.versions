@@ -24,3 +24,10 @@ StatsBase
 julia 0.5
 StatsBase
 Distributions
+
+0.1.2
+-----
+ab536dfb92a7b48c7445ef360ea759d2b2ccc851
+julia 0.5
+StatsBase 0.8.0
+Distributions
