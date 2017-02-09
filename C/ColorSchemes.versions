@@ -67,3 +67,15 @@ FileIO
 @windows ImageMagick
 @linux ImageMagick
 @osx QuartzImageIO
+
+1.3.0
+-----
+844bf3bfeb0a1d8ef6e964ecd0fb2953b83d0347
+julia 0.5
+Images 0.6
+Colors 0.7.0
+Clustering
+FileIO
+@windows ImageMagick
+@linux ImageMagick
+@osx QuartzImageIO
