@@ -5,3 +5,10 @@ https://github.com/JuliaDiffEq/DiffEqJump.jl.git
 d19a85b1e0b2d725b7aa6c8f6ba2db1039401e5b
 julia 0.5
 DiffEqBase
+
+0.1.0
+-----
+ed7eba602a7778d01d80f9aefd43771f9f9efc76
+julia 0.5
+DiffEqBase
+RecursiveArrayTools
