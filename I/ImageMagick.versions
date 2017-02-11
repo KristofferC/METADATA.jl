@@ -125,3 +125,13 @@ ColorTypes 0.2.7
 FileIO
 @osx Homebrew
 BinDeps
+
+0.2.1
+-----
+963ac69959870034ef0caf4fe96f5cef9ce5db87
+julia 0.5
+FixedPointNumbers 0.3.0
+ColorTypes 0.2.7
+FileIO
+@osx Homebrew
+BinDeps
