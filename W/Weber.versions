@@ -148,3 +148,24 @@ LibSndFile
 MacroTools
 Distributions
 @osx Homebrew
+
+0.3.3
+-----
+79a986be80dd747568c9b27443b03aa3fdae3e7e
+julia 0.5
+DSP
+SampledSignals
+FixedPointNumbers 0.3.0
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+PyCall
+Conda
+Juno
+Images 0.6.0
+LibSndFile
+MacroTools
+Distributions
+@osx Homebrew
