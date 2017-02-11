@@ -1,0 +1,11 @@
+https://github.com/mihirparadkar/GraphGLRM.jl.git
+
+0.2.1
+-----
+c361fee6e13024372baa2ee9cabeffcc10109717
+julia 0.5
+LowRankModels
+LightGraphs
+DataArrays
+DataFrames
+StatsBase

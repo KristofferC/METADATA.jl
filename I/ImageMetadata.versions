@@ -32,3 +32,14 @@ Colors
 ColorVectorSpace 0.1.11
 ImageCore
 ImageAxes
+
+0.2.0
+-----
+659b0e5a122fc7c0a38ab56ebcf2266c67614135
+julia 0.5
+IndirectArrays
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace 0.1.11
+ImageCore
+ImageAxes
