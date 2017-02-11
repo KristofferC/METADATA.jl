@@ -15,3 +15,11 @@ julia 0.5
 LearnBase 0.0.1 0.2.0
 RecipesBase
 Reexport
+
+0.0.3
+-----
+7334d544492ea074f36433e0fe08f2ab6d3db00c
+julia 0.5
+StatsBase 0.8.0
+LearnBase 0.1.2 0.2.0
+RecipesBase
