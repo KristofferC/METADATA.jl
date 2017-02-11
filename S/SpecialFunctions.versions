@@ -5,3 +5,9 @@ https://github.com/JuliaMath/SpecialFunctions.jl.git
 71812c3242ffb48eed00b52d607110bea36d5972
 julia 0.5
 Compat 0.9.1
+
+0.1.0
+-----
+b70b52b4f4685ca9859d6b3e4bd1a377406ad1cc
+julia 0.5
+Compat 0.9.1
