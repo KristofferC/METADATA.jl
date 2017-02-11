@@ -4,7 +4,7 @@ https://github.com/JuliaML/LossFunctions.jl.git
 -----
 a2501327027fa4287b2837664ed14b01cf94a3c8
 julia 0.5
-LearnBase
+LearnBase 0.0.1 0.2.0
 RecipesBase
 Reexport
 
@@ -12,6 +12,6 @@ Reexport
 -----
 4e955a0ed1fc47e875de1009932d26f5f9fccc32
 julia 0.5
-LearnBase
+LearnBase 0.0.1 0.2.0
 RecipesBase
 Reexport
