@@ -1,4 +1,4 @@
-git://github.com/dirk/HTTP.jl.git
+git://github.com/JuliaWeb/HTTP.jl.git
 
 0.0.0
 -----
@@ -16,3 +16,10 @@ Calendar
 09b15ac0463c72d2265811738664b03625ea3e9e
 julia 0.2 0.3
 Calendar
+
+0.4.0
+-----
+15f33bc518902b29fdb132f4bcc696fe3aa37ecc
+julia 0.5
+MbedTLS 0.4.0
+Compat 0.9.5

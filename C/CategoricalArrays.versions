@@ -42,3 +42,10 @@ Compat 0.8.1
 julia 0.5.0-
 Compat 0.8.1
 NullableArrays
+
+0.1.1
+-----
+02e3d3862eb26a70f21a362a81d7445aa01c52a8
+julia 0.5.0
+Compat 0.9.5
+NullableArrays
