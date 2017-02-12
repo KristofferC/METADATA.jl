@@ -167,3 +167,11 @@ Compat 0.16.0
 julia 0.5
 FixedPointNumbers 0.3.0
 Compat 0.16.0
+
+0.3.3
+-----
+d1a315d006aac5bd2f8c3dafcd5ff791d5c5759b
+julia 0.5
+Compat 0.17.0
+FixedPointNumbers 0.3.0
+Compat 0.16.0
