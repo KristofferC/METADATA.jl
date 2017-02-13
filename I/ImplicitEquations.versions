@@ -30,3 +30,12 @@ julia 0.4
 ValidatedNumerics 0.1.0
 RecipesBase 0.0.6
 Compat
+
+0.3.0
+-----
+ab52f94ae5571344d39ab23c9c2ebc6517ad2ef6
+julia 0.4
+ForwardDiff 0.3.0
+ValidatedNumerics 0.5.0
+RecipesBase 0.0.6
+Compat 0.8.6
