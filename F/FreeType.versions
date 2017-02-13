@@ -41,3 +41,12 @@ Compat 0.9.2
 julia 0.4
 @windows WinRPM
 Compat 0.9.2
+
+1.2.0
+-----
+ae1ad856a4d0db5033e9f1bd6fa7b82854391848
+julia 0.4
+BinDeps
+@osx Homebrew
+@windows WinRPM
+Compat 0.9.2
