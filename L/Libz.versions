@@ -53,3 +53,10 @@ BufferedStreams 0.2.1
 julia 0.4
 Compat 0.9.5
 BufferedStreams 0.2.1
+
+0.2.4
+-----
+2911ad2a26ec711833afad04278f7ea219b98d58
+julia 0.4
+Compat 0.17.0
+BufferedStreams 0.2.1
