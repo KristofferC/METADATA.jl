@@ -1,0 +1,8 @@
+https://github.com/KristofferC/Tensors.jl.git
+
+0.4.0
+-----
+fad696c1f75ba2f9c815a335d71f110815da827a
+julia 0.5
+StaticArrays
+ForwardDiff
