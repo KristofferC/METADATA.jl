@@ -3,6 +3,7 @@ git://github.com/GiovineItalia/Gadfly.jl.git
 0.0.0
 -----
 e59757661d19c6851a2279160ce5626913d295ce
+julia 0.0- 0.5
 ArgParse
 Codecs
 Compose
@@ -15,7 +16,7 @@ Contour 0.0.0 0.2.0-
 0.1.0
 -----
 81db97259631ac6fd341284812ee6882d0d02c0d
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -28,7 +29,7 @@ Contour 0.0.0 0.2.0-
 0.1.1
 -----
 9f32e324f2ee28e4d8181d592830715e8d687e9f
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -41,7 +42,7 @@ Contour 0.0.0 0.2.0-
 0.1.10
 ------
 277ad138272202bbee1ccd903100c8843000a94b
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -54,7 +55,7 @@ Contour 0.0.0 0.2.0-
 0.1.11
 ------
 b7591c00db79c348bccabd5dc4ccd58b1b6260ea
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -67,7 +68,7 @@ Contour 0.0.0 0.2.0-
 0.1.12
 ------
 9af4d641d6096c7f9cd7d16aa76607bd0ca9f716
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -81,7 +82,7 @@ Contour 0.0.0 0.2.0-
 0.1.13
 ------
 6e472bcf771766a2d02bf625360c8867d4d6e430
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -95,7 +96,7 @@ Contour 0.0.0 0.2.0-
 0.1.14
 ------
 0c106acab7bb248af1f6f9a5e862718d42349d78
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -109,7 +110,7 @@ Contour 0.0.0 0.2.0-
 0.1.15
 ------
 f2f7778d8d4c30835862c81063171dc65c8adfa3
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -123,7 +124,7 @@ Contour 0.0.0 0.2.0-
 0.1.16
 ------
 a84c1f5839bcd2ba49258bc053f43927e24cf634
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -137,7 +138,7 @@ Contour 0.0.0 0.2.0-
 0.1.17
 ------
 134233ad6fda7af296033369839b8e9633ed9adb
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -152,7 +153,7 @@ Contour 0.0.0 0.2.0-
 0.1.18
 ------
 8e38bfa66b38e924a3c80345b74799222e937c3f
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -165,7 +166,7 @@ Contour 0.0.0 0.2.0-
 0.1.19
 ------
 1862cf841a4445ab6660dece976dc3062698387a
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -180,7 +181,7 @@ Contour 0.0.0 0.2.0-
 0.1.2
 -----
 70997209fc6182be3b041d39b3d6d9b3aa35c138
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -193,7 +194,7 @@ Contour 0.0.0 0.2.0-
 0.1.20
 ------
 587d40faf782189696437236a0dc00bb73b76e0b
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -208,7 +209,7 @@ Contour 0.0.0 0.2.0-
 0.1.21
 ------
 485010e26be134d114278db1e568f7db3041208e
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -223,7 +224,7 @@ Contour 0.0.0 0.2.0-
 0.1.22
 ------
 bffe3077f96bd56d8799bc33b1c9bad5e0e8f849
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -238,7 +239,7 @@ Contour 0.0.0 0.2.0-
 0.1.23
 ------
 8ee0f7a7b5da9a220cdec66c46b0d00915ccefc0
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -253,7 +254,7 @@ Contour 0.0.0 0.2.0-
 0.1.24
 ------
 4d54f99a21df443c1398e93fd3e3dd9f89034f7f
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -268,7 +269,7 @@ Contour 0.0.0 0.2.0-
 0.1.25
 ------
 05dc73d618c2b9fa91df6717224d01f74e30d26f
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -283,7 +284,7 @@ Contour 0.0.0 0.2.0-
 0.1.26
 ------
 a8507277d6ffca779a7679db4dec8b860337fd86
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -298,7 +299,7 @@ Contour 0.0.0 0.2.0-
 0.1.27
 ------
 8270cff69f74a633b390877c8dd516c6a428a945
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -313,7 +314,7 @@ Contour 0.0.0 0.2.0-
 0.1.28
 ------
 8cc09b11a879726cf54ce7e54577474ba4ee8421
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -328,7 +329,7 @@ Contour 0.0.0 0.2.0-
 0.1.29
 ------
 bd382ef04ecdcc855a90e025b56c63dc8deb0885
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -343,7 +344,7 @@ Contour 0.0.0 0.2.0-
 0.1.3
 -----
 4097c0dccc176351b4d706f6d40aed4a9dc9e1d1
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -356,7 +357,7 @@ Contour 0.0.0 0.2.0-
 0.1.30
 ------
 43844a680c333551737c4f4be04d58332c407fdc
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -372,7 +373,7 @@ Contour 0.0.0 0.2.0-
 0.1.31
 ------
 cf73ba6e0e6709c3beccb5536ff1613d4af8d130
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -389,7 +390,7 @@ Contour 0.0.0 0.2.0-
 0.1.4
 -----
 57b6f5ef20cc7c11dc5d6896f1c39a2fe509711c
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -402,7 +403,7 @@ Contour 0.0.0 0.2.0-
 0.1.5
 -----
 fa0cd4616d4622fd5085bc62f6a36120a8aa1664
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -415,7 +416,7 @@ Contour 0.0.0 0.2.0-
 0.1.6
 -----
 2adf6702482c65f1346050e0034c32e3eecbf80b
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -428,7 +429,7 @@ Contour 0.0.0 0.2.0-
 0.1.7
 -----
 c70029fad8e0882e9f5e3245734f9e7d06aeea75
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -441,7 +442,7 @@ Contour 0.0.0 0.2.0-
 0.1.8
 -----
 ff9b7a92f0f2ff1848e4948ece24bca2cd64c48e
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -454,7 +455,7 @@ Contour 0.0.0 0.2.0-
 0.1.9
 -----
 93b8a302450a5d48c2974a2f2c71351d79540a8c
-julia 0.2-
+julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
@@ -467,7 +468,7 @@ Contour 0.0.0 0.2.0-
 0.2.0
 -----
 8aed28a5fef1de126fb35cca84c53d2c38c50a69
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color
 Compose
@@ -484,7 +485,7 @@ Contour 0.0.0 0.2.0-
 0.2.1
 -----
 a0ac4e092947e7a1a3bca85a88665104fe358fd5
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color
 Compose
@@ -501,7 +502,7 @@ Contour 0.0.0 0.2.0-
 0.2.2
 -----
 192014081c853e8899f7836e07340153a3904096
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -518,7 +519,7 @@ Contour 0.0.0 0.2.0-
 0.2.3
 -----
 81391222cc0990a1b2b226f9a1c0349c9e6780fe
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -535,7 +536,7 @@ Contour 0.0.0 0.2.0-
 0.2.4
 -----
 4ea6a230337d6d6324c03d1083ad530d9eb694f1
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -552,7 +553,7 @@ Contour 0.0.0 0.2.0-
 0.2.5
 -----
 3d142a2964b0d06eead2602f93bf01487e348c3b
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -569,7 +570,7 @@ Contour 0.0.0 0.2.0-
 0.2.6
 -----
 c440ed253dd3d59df25c62c5f277b2c60a82f607
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -586,7 +587,7 @@ Contour 0.0.0 0.2.0-
 0.2.7
 -----
 ee8470a34c4b68b8a18fd71ef1c0d6a7f5c91e4a
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -603,7 +604,7 @@ Contour 0.0.0 0.2.0-
 0.2.8
 -----
 72fd77ad12ef80c520cc9212c014cf0c60b1cd53
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -621,7 +622,7 @@ Contour 0.0.0 0.2.0-
 0.2.9
 -----
 672a6d8263f04d19c8b723e5711ef95b00c896bf
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose
@@ -639,7 +640,7 @@ Contour 0.0.0 0.2.0-
 0.3.0
 -----
 fa116311f2b11a8be20903e7f0d2229291af2f81
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Compose 0.3.0
@@ -657,7 +658,7 @@ Contour 0.0.0 0.2.0-
 0.3.1
 -----
 11387c1b1cf54f3d48c3f031a34c8fc2761e10ea
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Contour 0.0.0 0.2-
@@ -675,7 +676,7 @@ StatsBase
 0.3.10
 ------
 0e3c249a60c106323d235af9e7a1d8ec3281ecd4
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compat
@@ -696,7 +697,7 @@ StatsBase
 0.3.11
 ------
 62573a371edbfb79a55284d3e40ed0137fa3b7f8
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compat
@@ -717,7 +718,7 @@ StatsBase
 0.3.12
 ------
 b294abaa7a9198fbe204150e1dc4fb42f3cbf5d5
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compat
@@ -738,7 +739,7 @@ StatsBase
 0.3.13
 ------
 3f615eb1d3282370e429fbb1e15f8326ca83ca74
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compat
@@ -759,7 +760,7 @@ StatsBase
 0.3.14
 ------
 7a1c01177a5bb6f5c06d83e94b1b573addbf507b
-julia 0.3
+julia 0.3 0.5
 Codecs
 Colors 0.3.4
 Compat
@@ -780,7 +781,7 @@ StatsBase
 0.3.15
 ------
 0882f3a3e8080c764d32ae32281c7caa0fab19ba
-julia 0.3
+julia 0.3 0.5
 Codecs
 Colors 0.3.4
 Compat
@@ -822,7 +823,7 @@ StatsBase
 0.3.17
 ------
 bbd8e459e2754c760fc1c81dc0df55e992dbb683
-julia 0.3
+julia 0.3 0.5
 Codecs
 Colors 0.3.4
 Compat
@@ -864,7 +865,7 @@ StatsBase
 0.3.2
 -----
 ca84b4b51ad5bca4a798e83ca343135864d4ea1c
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Contour 0.0.0 0.2-
@@ -882,7 +883,7 @@ StatsBase
 0.3.3
 -----
 039c73caf7f50f25026c5fd3e536f33633f8619e
-julia 0.2-
+julia 0.2- 0.5
 Codecs
 Color
 Contour 0.0.0 0.2-
@@ -900,7 +901,7 @@ StatsBase
 0.3.4
 -----
 94c56ce1b96e0ef4b8837339b4ffa7278cf61822
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color
 Compose 0.3.0
@@ -919,7 +920,7 @@ StatsBase
 0.3.5
 -----
 b7d5057809f3cdcb56a556bb4ae71553a3aff663
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color
 Compose 0.3.0
@@ -938,7 +939,7 @@ StatsBase
 0.3.6
 -----
 9498e6122ca5be69eddcbcd8707e3dd7d8687390
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color
 Compose 0.3.6
@@ -957,7 +958,7 @@ StatsBase
 0.3.7
 -----
 4fc7532e4d212a537480cc76f6d194164579aab5
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compose 0.3.7
@@ -976,7 +977,7 @@ StatsBase
 0.3.8
 -----
 630b8b3681f0d026c0ab5f6282573272e630f413
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compose 0.3.8
@@ -995,7 +996,7 @@ StatsBase
 0.3.9
 -----
 da1669b8b17707265289a68bcf863ea7f8ef9f61
-julia 0.3-
+julia 0.3- 0.5
 Codecs
 Color 0.3.4
 Compose 0.3.9

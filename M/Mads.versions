@@ -1270,6 +1270,7 @@ Documenter 0.8.10
 JuMP 0.15
 MathProgBase 0.5.10
 Ipopt 0.2.6
+Colors
 
 0.3.4
 -----

@@ -68,3 +68,15 @@ MappedArrays 0.0.3
 Graphics
 ShowItLikeYouBuildIt
 OffsetArrays
+
+0.1.2
+-----
+b31e927e9a7591ea5ead2e8d0ff33acb59381f1e
+julia 0.5
+FixedPointNumbers 0.3.0
+ColorTypes
+Colors
+MappedArrays 0.0.3
+Graphics
+ShowItLikeYouBuildIt
+OffsetArrays
