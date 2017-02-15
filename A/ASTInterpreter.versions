@@ -5,25 +5,25 @@ https://github.com/Keno/ASTInterpreter.jl.git
 64ffbd26654448f9a46999d9efb8564e4748f9d4
 julia 0.5-
 JuliaParser 0.7.1
-AbstractTrees
+AbstractTrees 0.0.1 0.1.0
 
 0.0.2
 -----
 3fd2a7ac9f8fd771b1ee8d323510fa7a1329b751
 julia 0.5-
 JuliaParser 0.7.2
-AbstractTrees 0.0.2
+AbstractTrees 0.0.2 0.1.0
 
 0.0.3
 -----
 ac26d9b48ffc5fe31cabbc7fb8db7df2bbdd43e8
 julia 0.5-
 JuliaParser 0.7.2
-AbstractTrees 0.0.2
+AbstractTrees 0.0.2 0.1.0
 
 0.0.4
 -----
 f583c99c82b06b73a3cb1f26163551ab3b465741
 julia 0.5-
 JuliaParser 0.7.2
-AbstractTrees 0.0.4
+AbstractTrees 0.0.4 0.1.0
