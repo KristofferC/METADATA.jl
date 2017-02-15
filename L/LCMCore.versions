@@ -6,3 +6,10 @@ https://github.com/rdeits/LCMCore.jl.git
 julia 0.5
 BinDeps 0.4.0
 @osx Homebrew 0.3.0
+
+0.0.2
+-----
+8339fd6ede2c0a830920b74db88b03136ad2efcd
+julia 0.5
+BinDeps 0.4.0
+@osx Homebrew 0.3.0
