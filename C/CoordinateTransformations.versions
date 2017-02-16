@@ -35,3 +35,10 @@ Rotations 0.3.0
 julia 0.5-
 StaticArrays
 Rotations 0.3.0
+
+0.4.0
+-----
+62ba22e0d9e34e0c1b3e2aae5c54cd98c7fa7576
+julia 0.5
+StaticArrays
+Rotations 0.3.0

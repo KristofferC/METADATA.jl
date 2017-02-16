@@ -67,3 +67,10 @@ e3ad30ace4bce66b9b7877c30711139aa7730325
 julia 0.4
 Compat 0.8.4
 Reexport
+
+0.1.0
+-----
+55fcc4165bbdb8dc4139311b5a111d02dd62ae49
+julia 0.5
+Compat 0.18.0
+Reexport
