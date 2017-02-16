@@ -47,3 +47,13 @@ Rotations 0.3.4
 DataStructures 0.4.6
 LightXML 0.4.0
 DocStringExtensions 0.3.1
+
+0.0.6
+-----
+b782a82dffa4c0d89ca1f8697dbcc409dd478b2f
+julia 0.5
+StaticArrays 0.2.1
+Rotations 0.3.4
+DataStructures 0.4.6
+LightXML 0.4.0
+DocStringExtensions 0.3.1
