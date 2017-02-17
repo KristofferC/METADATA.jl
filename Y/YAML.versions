@@ -81,3 +81,11 @@ Dates
 Codecs
 Compat
 Dates
+
+0.2.0
+-----
+35ba2b95d5e3e2d481c1b2bf24ebb65d77252999
+julia 0.5
+Codecs
+Compat 0.7.15
+Dates
