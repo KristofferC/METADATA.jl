@@ -167,3 +167,20 @@ LightGraphs
 LightXML
 Roots
 Combinatorics
+
+0.4.5
+-----
+7f5e7afd8ad7c2fab70b812f6596e9163b9eca70
+julia 0.5
+BGZFStreams 0.1
+BufferedStreams 0.2
+Colors
+Distributions
+IndexableBitVectors 0.1.1
+IntervalTrees 0.1
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+Roots
+Combinatorics
