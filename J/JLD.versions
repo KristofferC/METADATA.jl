@@ -3,49 +3,49 @@ git://github.com/JuliaIO/JLD.jl.git
 0.5.0
 -----
 36a2d1f43dcb3d7d980397e1389bf7e4bf06b836
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat
 
 0.5.1
 -----
 7b8f7a04c58d7c85a2f9b9bd5dfc2dba898c0107
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat
 
 0.5.2
 -----
 dc55ab4d3bc534451d7af9d0df9475e1c5ee02f4
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat
 
 0.5.3
 -----
 033ad195794b2cd5e42cc90229ce85303bdbe82c
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat
 
 0.5.4
 -----
 3d88c03e0bdd06db8208f419f85b4f37b2ac41cd
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat
 
 0.5.5
 -----
 fc89c045ef8ea8ba32e257df46ab699f885371ce
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat 0.7.3
 
 0.5.6
 -----
 4f649f34371b0551c8f0362f8f3bd9217795fb3d
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat 0.7.3
 FileIO
@@ -53,7 +53,7 @@ FileIO
 0.5.7
 -----
 adc4692d0f7fc62d2e2824144176060d5cc9228f
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat 0.7.3
 FileIO
@@ -61,7 +61,7 @@ FileIO
 0.5.8
 -----
 d09c95cbbf746406089fc86173ffe0f1cac3583b
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat 0.7.3
 FileIO
@@ -69,7 +69,7 @@ FileIO
 0.5.9
 -----
 689eadce722da44b1ad2e70564b14836fc7d67ee
-julia 0.3.4
+julia 0.3.4 0.5
 HDF5
 Compat 0.7.3
 FileIO
@@ -77,7 +77,7 @@ FileIO
 0.6.0
 -----
 b08d907b2b6815089ac95dfe3e0c5a2124d0e557
-julia 0.4
+julia 0.4 0.5
 HDF5
 Compat 0.7.3
 FileIO
@@ -85,7 +85,7 @@ FileIO
 0.6.1
 -----
 f58eba8d8d132d98c45c16b7e4af0bbce9440466
-julia 0.4
+julia 0.4 0.5
 HDF5
 Compat 0.8.0
 FileIO
@@ -93,7 +93,7 @@ FileIO
 0.6.2
 -----
 ba352b12d99cb5674f00f8459b525d777559ff07
-julia 0.4
+julia 0.4 0.5
 HDF5
 Compat 0.8.0
 FileIO
