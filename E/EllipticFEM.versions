@@ -5,3 +5,10 @@ git://github.com/gerhardtulzer/EllipticFEM.jl.git
 513cf227f57bed5d23dfd23f94f63f474dc0ace9
 julia 0.4
 PyPlot
+
+0.0.2
+-----
+fb9d030c0a72495bf5ad0c5252ec8bceebff19d9
+julia 0.4
+PyPlot
+LightGraphs
