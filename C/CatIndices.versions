@@ -6,3 +6,10 @@ e2077d5e20b8d362338745c3f4282a7f567767f6
 julia 0.5-
 OffsetArrays
 CustomUnitRanges
+
+0.0.2
+-----
+225b69924ca83818a6e2c28d55cfd46d50ddd532
+julia 0.5
+OffsetArrays
+CustomUnitRanges

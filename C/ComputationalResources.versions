@@ -4,3 +4,9 @@ https://github.com/timholy/ComputationalResources.jl.git
 -----
 054650dd4c9442686b51f577abe6b8512f724f07
 julia 0.4
+
+0.0.2
+-----
+363f3f37dba74961d6b64f1390f8b0a9121feb96
+julia 0.4
+Compat 0.17
