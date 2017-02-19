@@ -331,3 +331,11 @@ julia 0.4
 URIParser
 SHA
 Compat 0.8.4
+
+0.4.7
+-----
+461c08f8827752ad2b3c57b4643f4a5a4d350417
+julia 0.4
+URIParser
+SHA
+Compat 0.17.0
