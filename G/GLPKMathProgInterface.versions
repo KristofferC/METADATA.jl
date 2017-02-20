@@ -163,3 +163,10 @@ c79725929d1abf526373a1c595517874f940e54c
 julia 0.5
 GLPK 0.2.8
 MathProgBase 0.5 0.7
+
+0.3.1
+-----
+42beef841ea3a001ddf43a91a75677fce2fd83e3
+julia 0.5
+GLPK 0.2.8
+MathProgBase 0.5 0.7
