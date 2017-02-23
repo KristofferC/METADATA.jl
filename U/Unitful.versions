@@ -19,3 +19,10 @@ julia 0.5
 -----
 35f51c2905bc91e8999319819268062c22c117c2
 julia 0.5
+
+0.1.0
+-----
+f544bc68fad1679ec169afadc13f73fcee5f59db
+julia 0.5
+Compat 0.18.0
+Ranges

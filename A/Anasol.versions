@@ -25,6 +25,15 @@ MetaProgTools
 JLD
 Compat 0.7.15
 
+0.1.11
+------
+5656779a7c235a23ace62e17dc32d39f9def230f
+julia 0.4
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
+
 0.1.2
 -----
 1b6f7d35086c62a2afc18cc838af34eb5cc2cd1f

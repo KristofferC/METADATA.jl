@@ -31,3 +31,11 @@ julia 0.5
 IterativeSolvers
 RobustPmap
 Grid
+
+0.1.4
+-----
+89e84f128bb342d93d991c34e7034be8e05a4213
+julia 0.5
+IterativeSolvers
+RobustPmap
+Grid
