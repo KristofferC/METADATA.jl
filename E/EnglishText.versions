@@ -6,3 +6,10 @@ https://github.com/TotalVerb/EnglishText.jl.git
 julia 0.5
 JSON 0.8.2
 Compat 0.9.1
+
+0.1.1
+-----
+a61772a7436421e7f94d8a29b670601e44c5c1d3
+julia 0.5
+JSON 0.8.2
+Compat 0.17.0

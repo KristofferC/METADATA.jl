@@ -1,0 +1,9 @@
+https://github.com/rdeits/EnhancedGJK.jl.git
+
+0.0.1
+-----
+faac64a8510ca85878211387733355a85fd2147c
+julia 0.5
+StaticArrays 0.1.0
+CoordinateTransformations 0.3.0
+GeometryTypes 0.2.0

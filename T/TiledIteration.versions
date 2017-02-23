@@ -5,3 +5,9 @@ https://github.com/JuliaArrays/TiledIteration.jl.git
 28c5446f1766f1ea0635f8c5f48aeb705ad6c988
 julia 0.5-
 OffsetArrays
+
+0.0.2
+-----
+62d7ed488a67e64f3f20605bbba194862eac2525
+julia 0.5
+OffsetArrays

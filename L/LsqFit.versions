@@ -31,3 +31,12 @@ julia 0.4
 Calculus
 Distributions
 Optim 0.7.0
+
+0.2.0
+-----
+fc03bbd6249c238d171b6bfc0f4cef23ae2a269a
+julia 0.4
+Calculus
+Distributions
+Optim 0.7.5
+Compat 0.9.1

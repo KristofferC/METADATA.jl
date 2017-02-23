@@ -5,3 +5,10 @@ https://github.com/JuliaArrays/FFTViews.jl.git
 7fd168b6f1690df986f7fff180fc82d9769ab8c1
 julia 0.5-
 CustomUnitRanges
+
+0.0.2
+-----
+e43d7c7c59d7fe03020dfae036d886ead44694d0
+julia 0.5
+CustomUnitRanges
+Compat 0.17

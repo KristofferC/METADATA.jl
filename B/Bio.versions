@@ -6,7 +6,7 @@ git://github.com/BioJulia/Bio.jl.git
 julia 0.4-
 BufferedStreams
 Colors
-IntervalTrees
+IntervalTrees 0.0.1 0.1.1
 Iterators
 Libz
 Switch
@@ -19,7 +19,7 @@ BufferedStreams 0.1
 Colors
 Compat
 IndexableBitVectors 0.1.1
-IntervalTrees
+IntervalTrees 0.0.1 0.1.1
 Iterators
 Libz 0.1.1
 LightGraphs
@@ -33,7 +33,7 @@ BufferedStreams 0.1
 Colors
 Compat
 IndexableBitVectors 0.1.1
-IntervalTrees
+IntervalTrees 0.0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -47,7 +47,7 @@ BufferedStreams 0.1
 Colors
 Compat
 IndexableBitVectors 0.1.1
-IntervalTrees
+IntervalTrees 0.0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -62,7 +62,7 @@ BufferedStreams 0.1
 Colors
 Compat
 IndexableBitVectors 0.1.1
-IntervalTrees
+IntervalTrees 0.0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -76,7 +76,7 @@ BufferedStreams 0.1
 Colors
 Compat
 IndexableBitVectors 0.1.1
-IntervalTrees
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -92,7 +92,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -109,7 +109,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -126,7 +126,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -143,7 +143,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -160,7 +160,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs
@@ -177,7 +177,7 @@ BufferedStreams 0.2
 Colors
 Distributions
 IndexableBitVectors 0.1.1
-IntervalTrees 0.1
+IntervalTrees 0.1 0.1.1
 Iterators
 Libz 0.2
 LightGraphs

@@ -11,3 +11,10 @@ StatsBase 0.8.0
 7c2b2e963caa5c1feccd7a711a9d8b4f4f735411
 julia 0.4
 StatsBase 0.8.0
+
+0.2.0
+-----
+0cad9e47e24ec699c3a490faf6a346d3d09d98ef
+julia 0.5
+Compat 0.18.0
+StatsBase 0.8.0
