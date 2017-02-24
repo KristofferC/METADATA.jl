@@ -1,0 +1,13 @@
+https://github.com/JuliaImages/ImageTransformations.jl.git
+
+0.0.1
+-----
+1e05355072714ea8691bdae669201111ff84668c
+julia 0.5
+ImageCore 0.1.2
+CoordinateTransformations 0.4.0
+Interpolations 0.3.7
+OffsetArrays
+StaticArrays
+Colors 0.7.0
+ColorVectorSpace 0.2
