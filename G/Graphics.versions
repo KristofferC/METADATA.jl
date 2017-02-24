@@ -20,3 +20,10 @@ Colors
 208d433662b07065e929ca94d4a896bb96021827
 julia 0.4-
 Colors
+
+0.1.4
+-----
+9df73461782241f89f2a93edb507290743c5a340
+julia 0.4
+Colors
+Compat 0.17.0
