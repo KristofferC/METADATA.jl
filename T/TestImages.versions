@@ -74,3 +74,11 @@ ZipFile
 julia 0.4
 FileIO
 ZipFile
+
+0.2.0
+-----
+1ad8d4f7694b358e83c9f80850c654033672310b
+julia 0.5
+FileIO
+AxisArrays
+ZipFile
