@@ -1,0 +1,12 @@
+https://github.com/JuliaML/Reinforce.jl.git
+
+0.0.1
+-----
+3f82b06cee3cf0f129fea3a6bdb014812c681647
+julia 0.5
+Reexport
+StatsBase
+Distributions
+LearnBase
+RecipesBase
+LearningStrategies
