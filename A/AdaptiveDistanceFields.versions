@@ -1,0 +1,9 @@
+https://github.com/rdeits/AdaptiveDistanceFields.jl.git
+
+0.0.1
+-----
+693437c9acdc1cdc5071841fc555b19b53e51577
+julia 0.5
+StaticArrays 0.3
+Interpolations 0.3
+RegionTrees 0.0.3
