@@ -104,3 +104,16 @@ NLsolve
 Optim
 Distributions
 KernelDensityEstimate 0.2.1
+
+0.2.5
+-----
+912101943783eaead0b5d75dc095c70e2e0d4750
+julia 0.5
+Graphs 0.7.1
+GraphViz
+Gadfly
+Colors
+NLsolve
+Optim
+Distributions
+KernelDensityEstimate 0.2.1

@@ -71,3 +71,14 @@ Gadfly
 Colors
 Compose
 Distributions
+
+0.2.3
+-----
+c9ede5d2d0b66a7a6661bc69b70b2ab2443b440f
+julia 0.5
+Cairo
+Fontconfig
+Gadfly
+Colors
+Compose
+Distributions

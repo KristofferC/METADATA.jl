@@ -47,3 +47,10 @@ JLD
 julia 0.4
 BaseTestNext
 Compat
+
+0.4.1
+-----
+3855c912705f76eea1eb7a1d3daaffa5d3e156e6
+julia 0.4
+BaseTestNext 0.2.2
+Compat 0.7.15
