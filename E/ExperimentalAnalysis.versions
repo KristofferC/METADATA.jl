@@ -17,3 +17,21 @@ DataFrames
 Plots 0.0 0.7
 PyPlot
 GLM
+
+0.1.0
+-----
+3e93b817ce7a7a6cfa97e6c940057f63703133b3
+julia 0.5
+DataFrames
+Plots
+GLM
+Coverage
+
+0.1.1
+-----
+545fdd2dc130765d3136d9c9aabd9a6935c7e948
+julia 0.5
+DataFrames
+Plots
+GLM
+Coverage
