@@ -76,3 +76,13 @@ Distributions
 DataFrames
 Documenter
 Compat 0.8.6
+
+0.2.3
+-----
+bfea3f3cd6e03390fddf7e7a50e32f95720ea5f8
+julia 0.4
+DataStructures
+Distributions
+DataFrames
+Documenter
+Compat 0.8.6

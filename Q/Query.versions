@@ -4,7 +4,7 @@ https://github.com/davidanthoff/Query.jl.git
 -----
 cfb09cd5c2916ca741999419f2de25d65d154731
 julia 0.5-
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -15,7 +15,7 @@ NullableArrays 0.0.7
 -----
 a0870e72947ea45b782185d188555023a0e332cd
 julia 0.5-
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -26,7 +26,7 @@ NullableArrays 0.0.7
 -----
 f31f05d79064cc0bbaf2d3a54a08041209db5760
 julia 0.5-
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -37,7 +37,7 @@ NullableArrays 0.0.7
 -----
 5361ef26bf94d4005067de8327671a9d20d36287
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -48,7 +48,7 @@ NullableArrays 0.0.7
 -----
 e3ed8324f34eeee887621b7a563fa12c0679750d
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -59,7 +59,7 @@ NullableArrays 0.0.7
 -----
 7afd9c468de0833f1fe8ad67ec55ce9f75c4840b
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -70,7 +70,7 @@ NullableArrays 0.0.7
 -----
 2ac8df81b94ff7cd6bcab0122ffd661ad5abbdbc
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -81,7 +81,7 @@ NullableArrays 0.0.7
 -----
 1b8a14e02248fb5b5ed70406c4baef95b47dcefd
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
@@ -92,7 +92,7 @@ NullableArrays 0.0.7
 -----
 676816984f2dfe5a2effb1c409ea38ef68afeb9c
 julia 0.5
-NamedTuples 1.0.0
+NamedTuples 1.0.0 2.0.0
 FunctionWrappers 0.0.1
 DataStructures 0.4.5
 Requires 0.3.0
