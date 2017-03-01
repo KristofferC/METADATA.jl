@@ -1,0 +1,9 @@
+https://github.com/MikeInnes/DataFlow.jl.git
+
+0.1.0
+-----
+50fb74fd838e1c07f1048ff2341c0a0d21a57a24
+julia 0.5
+Lazy
+MacroTools 0.3.6
+Juno

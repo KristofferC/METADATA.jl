@@ -1,0 +1,9 @@
+https://github.com/MikeInnes/Flux.jl.git
+
+0.1.0
+-----
+1c317eeefec910170cc72a4fe09ac54e187b3624
+julia 0.5
+Iterators
+DataFlow
+Juno
