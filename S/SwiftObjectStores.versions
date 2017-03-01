@@ -1,0 +1,10 @@
+https://github.com/oxinabox/SwiftObjectStores.jl.git
+
+0.1.1
+-----
+5236f5af7571c43cd28c75bab4581b6152f9b499
+julia 0.5
+PyCall
+JLD
+FileIO
+Conda
