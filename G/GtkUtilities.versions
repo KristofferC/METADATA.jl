@@ -102,3 +102,14 @@ Graphics
 Colors
 Images 0.6.0
 FixedPointNumbers 0.3.0
+
+0.2.2
+-----
+3f31f5ac8cf2933f1bd1d5fa07f27b550278211a
+julia 0.5
+Gtk 0.11
+Cairo
+Graphics
+Colors
+Images 0.6.0
+FixedPointNumbers 0.3.0
