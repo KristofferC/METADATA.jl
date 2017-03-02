@@ -3,14 +3,14 @@ git://github.com/JuliaStats/KernelDensity.jl.git
 0.0.1
 -----
 e4989f5df1b73dc0027d792a132cb06a9a249aa0
-julia 0.3-
+julia 0.3- 0.4
 StatsBase
 Distributions
 
 0.0.2
 -----
 aff3dd45ae88abab8ea6e2ca0ce9f45062409c76
-julia 0.3-
+julia 0.3- 0.4
 StatsBase
 Distributions 0.4.6
 
@@ -31,7 +31,7 @@ StatsBase
 Distributions 0.4.6
 Optim 0.0 0.5
 Grid
-Compat
+Compat 0.3.8
 
 0.1.2
 -----
@@ -39,9 +39,9 @@ Compat
 julia 0.3
 StatsBase
 Distributions
-Optim
+Optim 0.0 0.7
 Grid
-Compat
+Compat 0.7.0
 
 0.2.0
 -----
@@ -49,9 +49,9 @@ Compat
 julia 0.3
 StatsBase
 Distributions
-Optim
+Optim 0.0 0.7
 Grid
-Compat
+Compat 0.7.0
 
 0.3.0
 -----
@@ -59,9 +59,9 @@ cf9686204ff5d1d3f129d4d9e50c69cbb9a8bb02
 julia 0.4
 StatsBase
 Distributions
-Optim
+Optim 0.0 0.7
 Interpolations
-Compat
+Compat 0.7.0
 
 0.3.1
 -----
@@ -71,4 +71,4 @@ StatsBase
 Distributions
 Optim
 Interpolations
-Compat
+Compat 0.7.0

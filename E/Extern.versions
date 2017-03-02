@@ -3,4 +3,9 @@ git://github.com/ararslan/Extern.jl.git
 0.0.1
 -----
 2a96c719be20898a580dfdfb1c87c223b7a47bcb
-julia 0.4
+julia 0.4 0.6
+
+0.0.2
+-----
+6edbf9591a7857eeb5d2ceb63570e99fa28ab783
+julia 0.4 0.6
