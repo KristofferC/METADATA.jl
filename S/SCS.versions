@@ -173,6 +173,15 @@ BinDeps
 Compat 0.8.6
 @osx Homebrew
 
+0.2.8
+-----
+8cade0a414cc0131e28d54864aadb36bab732c4c
+julia 0.4.0
+MathProgBase 0.5 0.6
+BinDeps
+Compat 0.8.6
+@osx Homebrew
+
 0.3.0
 -----
 1bf584719be5f495bca243e57a7e892dbfd26fdd
