@@ -4,3 +4,9 @@ git://github.com/KristofferC/TimerOutputs.jl.git
 -----
 64d0501da0de4bba62b7d60b9b67122ec62f3e51
 julia 0.4
+
+0.2.0
+-----
+06195b4a32e27efe807811b92414367001d2d4b0
+julia 0.5
+Crayons
