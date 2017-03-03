@@ -5,12 +5,20 @@ git://github.com/JuliaPolyhedra/LRSLib.jl.git
 547753ffb7cbabe9eb6b7591d20d031c0d5e2b09
 julia 0.5
 BinDeps
-Polyhedra 0.1.1
+Polyhedra 0.1.1 0.1.2
 
 0.0.2
 -----
 3f0caf4b378b7951ee76d91d436ee958d1d4840a
 julia 0.5
 BinDeps
-Polyhedra 0.1.2
+Polyhedra 0.1.2 0.1.3
+@osx Homebrew
+
+0.0.3
+-----
+810919af3bbd56ac7f92a631902bff14d6dd7fa3
+julia 0.5
+BinDeps
+Polyhedra 0.1.3 0.2
 @osx Homebrew
