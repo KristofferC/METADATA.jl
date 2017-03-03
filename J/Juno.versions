@@ -63,3 +63,11 @@ julia 0.4 0.6-
 MacroTools
 Hiccup
 Media
+
+0.2.7
+-----
+18b8b190c7d55f61017a4bf1c527d15d615d87a2
+julia 0.4
+MacroTools
+Hiccup
+Media

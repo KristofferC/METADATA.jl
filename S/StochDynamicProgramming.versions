@@ -7,7 +7,7 @@ julia 0.4
 MathProgBase
 Clp
 Distributions
-JuMP
+JuMP 0.0 0.16
 FactCheck
 ProgressMeter
 Interpolations
@@ -20,7 +20,7 @@ julia 0.4
 MathProgBase
 Clp
 Distributions
-JuMP
+JuMP 0.0 0.16
 FactCheck
 ProgressMeter
 Interpolations
@@ -30,7 +30,7 @@ Iterators
 -----
 8b492759b8081c484c34d9aa382f8671d385370e
 julia 0.4
-JuMP 0.13
+JuMP 0.13 0.16
 Distributions
 ProgressMeter
 Interpolations
@@ -40,7 +40,7 @@ Iterators
 -----
 e0e58fed3ccf393f50aad0d4e97bca5fd44f65ff
 julia 0.4
-JuMP 0.13
+JuMP 0.13 0.16
 Distributions
 ProgressMeter
 Interpolations
@@ -50,7 +50,7 @@ Iterators
 -----
 f11f9866889ebd6ae75b9ce0b8b9025e5cfff27a
 julia 0.4
-JuMP 0.13
+JuMP 0.13 0.16
 Distributions
 ProgressMeter
 Interpolations
@@ -60,7 +60,7 @@ Iterators
 -----
 2ff4eb95f9b2ad286fe76df9ea739320235cbef9
 julia 0.4
-JuMP 0.13
+JuMP 0.13 0.16
 Distributions
 ProgressMeter
 Interpolations
@@ -70,7 +70,7 @@ Iterators
 -----
 42927e2a002ef2bcc688c270e2b0a2d3b73eadb1
 julia 0.4
-JuMP 0.13
+JuMP 0.13 0.16
 Distributions
 ProgressMeter
 Interpolations
