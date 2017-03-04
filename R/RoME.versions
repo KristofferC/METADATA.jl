@@ -41,3 +41,18 @@ Colors
 Gadfly
 JLD
 HDF5
+
+0.0.4
+-----
+6bb6b52d8baff9ce95620060dbc42f6fe4cfeb1a
+julia 0.5
+IncrementalInference 0.2.5
+Graphs 0.7.1
+TransformUtils 0.0.5
+KernelDensityEstimate 0.2.3
+Distributions
+Colors
+Gadfly
+JLD
+HDF5
+Optim
