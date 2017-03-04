@@ -14,7 +14,7 @@ Polyhedra 0.0.1 0.1-
 julia 0.5
 BinDeps
 MathProgBase
-Polyhedra 0.1
+Polyhedra 0.1 0.1.2
 @windows WinRPM
 
 0.1.1
@@ -23,7 +23,7 @@ Polyhedra 0.1
 julia 0.5
 BinDeps
 MathProgBase
-Polyhedra 0.1.2
+Polyhedra 0.1.2 0.1.3
 @windows WinRPM
 @osx Homebrew
 
@@ -33,6 +33,16 @@ aaefd43a5f50ee9ce274c82ea120693228e9a72c
 julia 0.5
 BinDeps
 MathProgBase
-Polyhedra 0.1.3
+Polyhedra 0.1.3 0.1.4
+@windows WinRPM
+@osx Homebrew
+
+0.1.3
+-----
+30612242aeeac7c23c236827a1f013c93c4ac5e4
+julia 0.5
+BinDeps
+MathProgBase
+Polyhedra 0.1.4 0.2
 @windows WinRPM
 @osx Homebrew
