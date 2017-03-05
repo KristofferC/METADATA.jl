@@ -25,3 +25,12 @@ BinDeps
 Compat 0.9.5
 @windows WinRPM
 LegacyStrings 0.1.1
+
+0.2.1
+-----
+3fc5d8c349a7e507c31af5f1fc1f8aed4608bd24
+julia 0.5
+BinDeps
+Compat 0.17.0
+@windows WinRPM
+LegacyStrings 0.1.1
