@@ -25,3 +25,11 @@ Distributions
 julia 0.5
 StatsBase
 Distributions
+
+0.2.1
+-----
+5d3f4b529018e75d9739ad82b3ec183abac19365
+julia 0.5
+StatsBase
+Distributions
+Compat 0.19.0
