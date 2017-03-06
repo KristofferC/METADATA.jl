@@ -17,3 +17,12 @@ ChainRecursive
 CreateMacrosFrom
 MacroTools
 DataStructures
+
+0.0.3
+-----
+839bbb619507f00e0398d05272a34ede97e8686a
+julia 0.5
+ChainRecursive
+CreateMacrosFrom
+MacroTools
+DataStructures
