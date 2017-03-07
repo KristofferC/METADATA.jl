@@ -1,0 +1,10 @@
+https://github.com/JuliaImages/ImageInTerminal.jl.git
+
+0.0.1
+-----
+d26fd688b677a362c95cdaf0012cb66fb2b606b6
+julia 0.5
+Crayons 0.1.0
+ColorTypes 0.3.2
+ImageCore 0.1.1
+ImageTransformations 0.1.0

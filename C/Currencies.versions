@@ -77,3 +77,10 @@ a41d231d8d3db068e195df5d2cee71b4de9979b7
 julia 0.5
 Compat 0.17.0
 Requests 0.3.0
+
+0.6.0
+-----
+cd71b1586c3456c450efee00879664625fe28acd
+julia 0.5
+Compat 0.17.0
+Requests 0.3.0
