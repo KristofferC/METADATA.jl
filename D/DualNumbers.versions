@@ -77,3 +77,11 @@ julia 0.4
 Compat 0.9.1
 Calculus
 NaNMath
+
+0.3.0
+-----
+07742616b1e5d89c1f5a4fe974411bfbcd7fbc57
+julia 0.4
+Compat 0.9.1
+Calculus
+NaNMath
