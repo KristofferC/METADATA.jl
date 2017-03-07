@@ -32,3 +32,12 @@ IntervalSets
 Iterators
 RangeArrays
 Compat 0.19
+
+0.0.5
+-----
+68bb4e0a7b9be42d66e429894bed953b9a8ad1e0
+julia 0.5
+IntervalSets
+Iterators
+RangeArrays
+Compat 0.19
