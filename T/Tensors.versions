@@ -6,3 +6,10 @@ fad696c1f75ba2f9c815a335d71f110815da827a
 julia 0.5
 StaticArrays
 ForwardDiff
+
+0.5.0
+-----
+96f10fe8a13a52b6bb8f4718dbf91d3ec979acd2
+julia 0.5
+ForwardDiff
+Compat 0.19.0
