@@ -17,3 +17,12 @@ JuMP 0.14
 MultiPoly 0.1
 SCS 0.2.5
 DataStructures
+
+0.0.3
+-----
+3a12c07236079f5adb250c61731425b13024eb1d
+julia 0.4
+JuMP 0.14
+MultiPoly 0.1
+SCS 0.2.5
+DataStructures 0.5
