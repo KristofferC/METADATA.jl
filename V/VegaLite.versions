@@ -6,3 +6,11 @@ a63916c506b1f70d13a96a43dd0455ab25d0df2c
 julia 0.4
 Compat
 JSON
+
+0.0.2
+-----
+0606fb251ce5c9348ee8706d092233d8460ab5c9
+julia 0.4
+Compat 0.8
+JSON
+Requires
