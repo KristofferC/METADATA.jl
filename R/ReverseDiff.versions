@@ -40,3 +40,12 @@ DiffBase 0.0.3
 ForwardDiff 0.3.4
 Calculus 0.2.0
 Compat 0.19.0
+
+0.1.1
+-----
+09e74711b98ec8ccd06035cfdf6af61f50a530af
+julia 0.5
+DiffBase 0.0.3
+ForwardDiff 0.3.4
+Calculus 0.2.0
+Compat 0.19.0
