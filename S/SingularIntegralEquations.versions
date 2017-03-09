@@ -66,8 +66,18 @@ Plots
 -----
 c214df8c6440ae0c0e95ab8d5ef9e9b8e2781e63
 julia 0.5
-ApproxFun 0.4.1
+ApproxFun 0.4.1 0.5
 BandedMatrices 0.1.2
 Compat 0.9.5
 DualNumbers 0.2.3
 Plots
+
+0.2.2
+-----
+46ed41bb347ec9df43604de840376eb84464489d
+julia 0.5
+ApproxFun 0.5
+BandedMatrices 0.1.2
+Compat 0.9.5
+DualNumbers 0.2.3
+RecipesBase 0.1
