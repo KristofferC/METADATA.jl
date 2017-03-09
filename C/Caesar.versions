@@ -42,3 +42,29 @@ JSON
 MeshIO
 FileIO
 NLsolve
+
+0.0.3
+-----
+e2a652efab8cff75b489479a9f56cc5279f81663
+julia 0.5
+RoME 0.0.4
+IncrementalInference 0.2.5
+Graphs 0.7.1
+KernelDensityEstimate 0.2.3
+Distributions
+DrakeVisualizer 0.1.2
+TransformUtils
+CoordinateTransformations
+GeometryTypes
+Rotations
+Gadfly
+Colors
+ColorTypes
+JLD
+HDF5
+JSON
+MeshIO
+FileIO
+NLsolve
+DataStructures
+ProgressMeter
