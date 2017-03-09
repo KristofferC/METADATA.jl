@@ -22,3 +22,10 @@ Compat
 b4787178533115a08da42491ce8c5c65f09c532c
 julia 0.4
 Compat 0.8.8
+
+0.2.0
+-----
+1363c0813b3446bb7a79d95afa21544512d8743e
+julia 0.5
+Compat 0.8.8
+SpecialFunctions 0.1
