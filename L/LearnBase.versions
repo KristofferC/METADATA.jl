@@ -31,3 +31,11 @@ ab536dfb92a7b48c7445ef360ea759d2b2ccc851
 julia 0.5
 StatsBase 0.8.0
 Distributions
+
+0.1.3
+-----
+5f551e2303b7fa6b6010aee9b60b8793516e9349
+julia 0.5
+StatsBase 0.8.0
+Compat 0.17
+Distributions

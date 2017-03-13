@@ -14,3 +14,11 @@ julia 0.4
 Compat 0.8
 JSON
 Requires
+
+0.0.3
+-----
+05e1f11eb4a01873f17d66baa9d3f3e20e66452d
+julia 0.4
+Compat 0.8
+JSON
+Requires

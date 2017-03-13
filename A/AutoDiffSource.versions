@@ -29,3 +29,9 @@ julia 0.5
 -----
 fe04602c7a8f94096f71ff6778076476a6eb13cf
 julia 0.5
+
+0.2.1
+-----
+b6f0c39d93d0cb3ae48f02eedf3e3482fb206f80
+julia 0.5
+SpecialFunctions 0.0.1

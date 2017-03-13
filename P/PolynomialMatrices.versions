@@ -1,0 +1,9 @@
+https://github.com/neveritt/PolynomialMatrices.jl.git
+
+0.1.0
+-----
+a109d1bcc828b3d50a47b0e8457d44547497e315
+julia 0.4
+DataStructures 0.5.1
+Polynomials 0.1.2
+Compat 0.19.0

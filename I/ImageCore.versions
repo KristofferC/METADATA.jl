@@ -106,3 +106,16 @@ Graphics
 ShowItLikeYouBuildIt
 OffsetArrays
 Compat 0.19
+
+0.1.5
+-----
+cbb9fb341e4d1f351cb1a724a8e47923eaa3c80a
+julia 0.5
+FixedPointNumbers 0.3.0
+ColorTypes
+Colors
+MappedArrays 0.0.3
+Graphics
+ShowItLikeYouBuildIt
+OffsetArrays
+Compat 0.19

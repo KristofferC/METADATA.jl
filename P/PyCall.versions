@@ -241,6 +241,14 @@ Compat 0.7.1
 Dates
 Conda 0.1.6
 
+1.11.0
+------
+9966bb206d75d7be559e35f0455ca94e1d3ce7c0
+julia 0.4
+Compat 0.18.0
+Conda 0.2
+MacroTools 0.2
+
 1.1.2
 -----
 8eda38df092e7176beff369b02727862123fb5ef

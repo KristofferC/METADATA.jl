@@ -679,3 +679,15 @@ Reexport
 Compat 0.8.4
 FileIO 0.1.2
 Juno 0.2.4
+
+0.9.0
+-----
+19503c12bc70adc269dfa2159bf5950c458ff20a
+julia 0.5
+DataArrays 0.3.4
+StatsBase 0.11.0
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.18.0
+FileIO 0.1.2

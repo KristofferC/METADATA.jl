@@ -3,21 +3,21 @@ git://github.com/JuliaStats/DataArrays.jl.git
 0.0.0
 -----
 a6ce00c07e0481331b34db1739b441819685b90b
-julia 0.2-
+julia 0.2- 0.6.0-pre.alpha
 StatsBase 0.2.5 0.3-
 SortingAlgorithms
 
 0.0.1
 -----
 0001fffd55f8f698bd1045bb5a7f4c48c9ed7cf5
-julia 0.2-
+julia 0.2- 0.6.0-pre.alpha
 StatsBase 0.2.5 0.3-
 SortingAlgorithms
 
 0.0.2
 -----
 7a61d201d7fc4da00ed4964e1595242bccc6b071
-julia 0.2-
+julia 0.2- 0.6.0-pre.alpha
 StatsBase 0.2.5 0.3-
 SortingAlgorithms
 
@@ -30,112 +30,112 @@ StatsBase 0.3.8-
 0.1.0
 -----
 ae7d8203a1089b2cf05494c6cc209a6043f51b86
-julia 0.3-
+julia 0.3- 0.6.0-pre.alpha
 StatsBase 0.3-
 SortingAlgorithms
 
 0.1.1
 -----
 3fe861c05c6ff2e3cec4c4f081f964a29b747eb8
-julia 0.3-
+julia 0.3- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.10
 ------
 440fb0a703153f6b2497540da6b1e6e10e8faa08
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.11
 ------
 62314731571c76a80f466b52cf16def9a135ee03
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.12
 ------
 e0e4a700ebcae108c39c22b671edeae69c478a56
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.2
 -----
 d0a0b3a2eb222182a039c70a1e8e9dab1b76ce1d
-julia 0.3-
+julia 0.3- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.3
 -----
 d9ad9704555e6fe2e668d0f93b78e30b682b03a9
-julia 0.3-
+julia 0.3- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.4
 -----
 4742f210c1deec5561edac51110788c5da5018af
-julia 0.3.0-prerelease+1942
+julia 0.3.0-prerelease+1942 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.5
 -----
 833e531a2236b3e03451227f686b3a7c836f0e51
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.6
 -----
 4be6c825261911df2877bf040bec5543b91533fe
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.7
 -----
 fc8a8a1f7713c61c76a3562f17fba8c0d193c82b
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.8
 -----
 511e2c7329f100ff9bd1abf5c2ec1052e99291ff
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.1.9
 -----
 9c281b5646aaf779d18d7f36877a52dd12ca83f5
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.0
 -----
 d78a6d3141a7ab4c1365a52e9bafcdc74b8672c1
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.1
 -----
 4b917dfb512dcc22d4ba9fdcf658aba62e83c394
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.10
 ------
 e0f7a541c24e17b3604760d0fc33560df85b3cd6
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 
 0.2.11
 ------
 46b24ffd5349cecc6c582afcf1a7efbd03d6cf93
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 
 0.2.12
 ------
 88094cfca36cc6ac2fb71863175dca1900950419
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -143,7 +143,7 @@ Reexport
 0.2.13
 ------
 52444eca857f81ced59285b5f8d088ee6cfec966
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -151,7 +151,7 @@ Reexport
 0.2.14
 ------
 7aabfa07d8b00f6b44c71666513ea8ce8a459509
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -159,7 +159,7 @@ Reexport
 0.2.15
 ------
 d11cba1871c5b6ebebf825d7f4697e0295f524c7
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -167,7 +167,7 @@ Reexport
 0.2.16
 ------
 c588781cd06c21a49b27b246eb345a06e55f4dcd
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -175,7 +175,7 @@ Reexport
 0.2.17
 ------
 f783cd191c95a976c5e0811d9b8f52e6c4f416bc
-julia 0.3
+julia 0.3 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -183,7 +183,7 @@ Reexport
 0.2.18
 ------
 d24f21eaaa85a6e99982bf0637ca96eba043feb4
-julia 0.3
+julia 0.3 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -191,7 +191,7 @@ Reexport
 0.2.19
 ------
 ef0ee793fa7c20eeb5ba7a2d0ebbc3130ea1f3ff
-julia 0.3
+julia 0.3 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -199,13 +199,13 @@ Reexport
 0.2.2
 -----
 f5d9be6c12240c91144ad28b42f4f35e7aeeee5d
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.20
 ------
 44192cf6261d6eed476018fb2770c5ca8dc4e9f2
-julia 0.3
+julia 0.3 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.12-
 Reexport
@@ -213,52 +213,52 @@ Reexport
 0.2.3
 -----
 fb8c0cd6e164a3f53ba6dc11b87d20cb414dcc50
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.4
 -----
 8f0a50287aa1418db17a52a886e5fdd54c0e9e2a
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.5
 -----
 245526ee3ff4688eb9aa7ac8df5ae65dfb5fce48
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.6
 -----
 fe8ceadb773e0018c3c0a11df6663dde5e6971c5
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 
 0.2.7
 -----
 e539194104adca6afac2b3282e728c326a5ed038
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.6
 
 0.2.8
 -----
 359b9f32f6980689b742e99aded3c87c3dd04d77
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.6
 
 0.2.9
 -----
 3a8cad5d068d95df33c4d5e33e01e865281b8b06
-julia 0.3.0-
+julia 0.3.0- 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.6
 
 0.3.0
 -----
 ff723df686de2c3d5c80db71b8ff195a5d0aa76e
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.2.17
 Reexport
@@ -266,7 +266,7 @@ Reexport
 0.3.1
 -----
 2642f6c2bf326d6d932eff06ae2d4ed45fa43999
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -274,7 +274,7 @@ Reexport
 0.3.10
 ------
 c3fe3a2a18ec5d44ed464a9f3c24354a30ed7aa4
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
@@ -282,7 +282,7 @@ Reexport
 0.3.11
 ------
 a7e216934d8f1953cdf7589c98f0fbd58add6e36
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
@@ -290,7 +290,7 @@ Reexport
 0.3.12
 ------
 2f235b4de970490a75acb970c55cd4660143367a
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
@@ -298,7 +298,7 @@ Reexport
 0.3.2
 -----
 d8999c7c372720ea2078c9c75987c5695749cf5c
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -306,7 +306,7 @@ Reexport
 0.3.3
 -----
 113550bb2807f89d58db2152b03563d0994b5514
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -314,7 +314,7 @@ Reexport
 0.3.4
 -----
 57bea9fb43b8c78993508523bd3f35ac1a6c4f7a
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -322,7 +322,7 @@ Reexport
 0.3.5
 -----
 cc699400e568786d4b01b2e0b397564f6c997a3f
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -330,7 +330,7 @@ Reexport
 0.3.6
 -----
 b8cf8ae816414a365c482803a8f61151dd677f2a
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.7.19
 Reexport
@@ -338,7 +338,7 @@ Reexport
 0.3.7
 -----
 c1cca79252dc47ed2f27723198a5cab03d145a25
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
@@ -346,7 +346,7 @@ Reexport
 0.3.8
 -----
 26cfa7b1ff84126cf52933453afec6528c2e5a9c
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
@@ -354,7 +354,16 @@ Reexport
 0.3.9
 -----
 40dcd9e155a982a387dad58c5186fc4d5d57c855
-julia 0.4
+julia 0.4 0.6.0-pre.alpha
 StatsBase 0.3
 Compat 0.8.6
 Reexport
+
+0.4.0
+-----
+2d3d6e0606e62a7e267c7974592fcd5e7da05e4d
+julia 0.6-
+Compat 0.8.6
+StatsBase 0.3
+Reexport
+SpecialFunctions
