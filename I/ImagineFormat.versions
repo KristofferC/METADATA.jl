@@ -44,3 +44,14 @@ FixedPointNumbers 0.3.0
 FileIO
 Unitful
 Ranges
+
+0.3.0
+-----
+b9e17be3c97b5b93cabee54a757cf0c8ad24b80f
+julia 0.5
+AxisArrays
+ImageMetadata 0.1.1
+FixedPointNumbers 0.3.0
+FileIO
+Unitful
+Ranges
