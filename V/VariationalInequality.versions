@@ -27,3 +27,10 @@ f095ae62682902b8d3cedf85652529a0818e135a
 julia 0.4
 JuMP 0.13.0
 Ipopt
+
+0.1.0
+-----
+3ef61e205383726ba2aadce1754b3bab76733e70
+julia 0.5
+JuMP 0.16
+Ipopt

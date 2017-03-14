@@ -1,0 +1,8 @@
+https://github.com/JuliaOpt/PolyJuMP.jl.git
+
+0.0.1
+-----
+c4207f0d1d28ec421d684e0f06ff0eb61f85d2d8
+julia 0.5
+MultivariatePolynomials 0.0.1
+JuMP

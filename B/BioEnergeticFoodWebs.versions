@@ -26,3 +26,12 @@ Distributions
 ODE
 JSON
 JLD
+
+0.3.0
+-----
+5c3d01fbd1914866eafaad1bc569fae4cf230074
+julia 0.5
+Distributions
+DifferentialEquations
+JSON
+JLD
