@@ -22,3 +22,14 @@ PyCall 1.7.2
 julia 0.5
 NetCDF 0.4.1
 Shapefile 0.0.3
+
+0.0.5
+-----
+89c2133ae68ebf6153bbe4dbfb5c686fc36ef302
+julia 0.5
+NetCDF 0.4.1
+Shapefile 0.0.3
+AxisArrays 0.0.6
+PyCall 1.10.0
+PyPlot 2.3.1
+ArgCheck 0.1.0
