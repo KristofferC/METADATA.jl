@@ -1,0 +1,9 @@
+https://github.com/haberdashPI/WeberCedrus.jl.git
+
+0.0.2
+-----
+a83155f180b23c8041a54b2dfef51c544ab71542
+julia 0.5
+Weber
+PyCall
+Conda
