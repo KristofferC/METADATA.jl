@@ -13,3 +13,10 @@ Reexport
 julia 0.5
 StatsBase 0.12.0
 Reexport 0.0.3
+
+0.1.1
+-----
+694b36655fac65e6a02389fa8571dd644305d203
+julia 0.5
+StatsBase 0.12.0
+Reexport 0.0.3
