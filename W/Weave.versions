@@ -98,3 +98,16 @@ Highlights
 Mustache
 Documenter
 YAML
+
+0.4.1
+-----
+97f309af1928202ac3540dd977fa209bbbfe0d24
+julia 0.5
+ArgParse
+JLD
+JSON
+Highlights
+Mustache
+Documenter
+YAML
+Compat 0.17.0
