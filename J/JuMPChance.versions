@@ -42,3 +42,11 @@ julia 0.4
 JuMP 0.14
 ECOS
 Distributions
+
+0.4.0
+-----
+8b4d3628146672d1178eb1fb0b2050b0a0e4ca4d
+julia 0.5
+JuMP 0.15
+ECOS
+Distributions
