@@ -10,3 +10,9 @@ Compat  # for Nullable types.
 -----
 c1d9adbd6cefbad82af7040df52ae47d371d6c5d
 julia 0.4
+
+0.3.0
+-----
+99ff43a8fe8f347ef533da5331b0ba76e9c489be
+julia 0.4
+Compat 0.17
