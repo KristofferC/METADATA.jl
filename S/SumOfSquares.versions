@@ -1,0 +1,9 @@
+https://github.com/JuliaOpt/SumOfSquares.jl.git
+
+0.0.1
+-----
+a088d2fc63f99b6a9d324749a980d87243777bcf
+julia 0.5
+MultivariatePolynomials 0.0.1
+JuMP
+PolyJuMP 0.0.1
