@@ -1,0 +1,12 @@
+https://github.com/WizardMac/ReadStat.jl.git
+
+0.1.0
+-----
+429ddf8264da159d5cabdf412c9ddb96135cc19f
+julia 0.5
+DataArrays
+NullableArrays
+DataFrames
+DataTables
+BinDeps
+@windows WinRPM

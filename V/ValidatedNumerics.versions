@@ -176,3 +176,13 @@ Compat 0.7.11
 FixedSizeArrays 0.1.2
 ForwardDiff 0.2.0
 RecipesBase
+
+0.8.0
+-----
+1c0b48fda03132b02ef0550cd637785935d80eca
+julia 0.5
+CRlibm 0.5
+Compat 0.7.11
+StaticArrays 0.3
+ForwardDiff 0.2
+RecipesBase
