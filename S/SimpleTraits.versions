@@ -30,3 +30,10 @@ Compat 0.19
 julia 0.5
 MacroTools 0.3.2
 Compat 0.19
+
+0.4.0
+-----
+0ca18aae24815955ec1660cb08797b8d27560149
+julia 0.5
+MacroTools 0.3.2
+Compat 0.19
