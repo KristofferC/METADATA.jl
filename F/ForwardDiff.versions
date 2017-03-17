@@ -177,3 +177,13 @@ Compat 0.19.0
 Calculus 0.2.0
 NaNMath 0.2.2
 SpecialFunctions 0.1.0
+
+0.4.1
+-----
+6c61b61de2b25ab8b8469b7ddb0b410898590323
+julia 0.5
+DiffBase 0.0.3
+Compat 0.19.0
+Calculus 0.2.0
+NaNMath 0.2.2
+SpecialFunctions 0.1.0
