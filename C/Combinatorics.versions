@@ -61,3 +61,11 @@ Iterators
 julia 0.5-
 Polynomials
 Iterators
+
+0.4.0
+-----
+dca8530bfa4daeafab2f880230bf4a018a6a938f
+julia 0.5
+Compat 0.18.0
+Polynomials
+Iterators
