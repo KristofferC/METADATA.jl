@@ -3,38 +3,44 @@ git://github.com/carlobaldassi/FastaIO.jl.git
 0.1.1
 -----
 6b46832f6111e1cb6d33c2786b991a21210af20a
-julia 0.2-
+julia 0.2- 0.5
 GZip
 
 0.1.2
 -----
 939bd577b10a1620000192096465cb1f7706003f
-julia 0.2-
+julia 0.2- 0.5
 GZip
 
 0.1.3
 -----
 815cc1107873ee57e2a3f8adb23cbd95666a3f2a
-julia 0.2-
+julia 0.2- 0.5
 GZip
 
 0.1.4
 -----
 df09164701e109432be6a0720dabf3a7646eb8c9
-julia 0.3
+julia 0.3 0.6
 GZip
 Compat 0.7.3
 
 0.1.5
 -----
 9b22ffa3a83a3c68f092e01a1562ae7f9741969f
-julia 0.3
+julia 0.3 0.6
 GZip
 Compat 0.7.20
 
 0.2.0
 -----
 478248290fe247d08a2947e37e62a5d0e55a8c7b
-julia 0.4
+julia 0.4 0.6
 GZip 0.2.20
 Compat 0.8.0
+
+0.3.0
+-----
+c93c44370c1d4047f8f4b7cce115675cf81edcdd
+julia 0.5
+GZip 0.2.20
