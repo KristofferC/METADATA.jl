@@ -29,3 +29,15 @@ RobustPmap
 f4810ea5241f2347ee525cd221775fde9a6d17c7
 julia 0.4
 RobustPmap
+
+0.1.5
+-----
+f57c854fca9eb552aa3387c0a7e86c584369d5cc
+julia 0.5
+RobustPmap
+
+0.2.0
+-----
+683e4e8bc4f7fd24250a914e119f0f2eca17cf2d
+julia 0.5
+RobustPmap

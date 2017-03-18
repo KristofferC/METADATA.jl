@@ -34,6 +34,15 @@ MetaProgTools
 JLD
 Compat 0.7.15
 
+0.1.12
+------
+f2d2b5c56c53423963515ce38ca0d1d5637aedd1
+julia 0.5
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
+
 0.1.2
 -----
 1b6f7d35086c62a2afc18cc838af34eb5cc2cd1f
@@ -94,6 +103,15 @@ JLD
 -----
 d343968913581054be59be6ad7e37513d6a48512
 julia 0.4
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
+
+0.2.0
+-----
+2a43c29a3af34a21e4478725d3e4a81427b7445f
+julia 0.5
 Distributions
 MetaProgTools
 JLD

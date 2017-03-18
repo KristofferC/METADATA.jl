@@ -149,3 +149,27 @@ DataFrames
 ForwardDiff
 BlackBoxOptim
 Distributions
+
+0.2.2
+-----
+e65306f1a36934191bfa7aa55ba375136e74c2ae
+julia 0.5
+RobustPmap
+AffineInvariantMCMC
+Klara 0.6
+DataFrames
+ForwardDiff
+BlackBoxOptim
+Distributions
+
+0.3.0
+-----
+5d88963a078ea7ea9d13ae5690a5618dc14faa8a
+julia 0.5
+RobustPmap
+AffineInvariantMCMC
+Klara 0.6
+DataFrames
+ForwardDiff
+BlackBoxOptim
+Distributions
