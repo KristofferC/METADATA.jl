@@ -5,3 +5,9 @@ https://github.com/joehuchette/PiecewiseLinearOpt.jl.git
 2f7a7c8d6aa10bb8da1989722c2f82017bec7ed5
 julia 0.5
 JuMP 0.14
+
+0.0.2
+-----
+6dce01ba91fe34d08452ad09ed9dcd25bef9d923
+julia 0.5
+JuMP 0.16
