@@ -4,3 +4,8 @@ git://github.com/joshday/StandardizedMatrices.jl.git
 -----
 01a0815d3ca514998caad6e71ecab471ae06d310
 julia 0.4
+
+0.2.0
+-----
+08914e44204541c1297d5447979e579e75100606
+julia 0.6-
