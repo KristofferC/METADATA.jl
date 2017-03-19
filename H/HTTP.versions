@@ -30,3 +30,10 @@ Compat 0.9.5
 julia 0.5
 MbedTLS 0.4.0
 Compat 0.9.5
+
+0.4.2
+-----
+b1fffb3c3352ced36f7b69ea86e10c0a9fd33f2d
+julia 0.5
+MbedTLS 0.4.0
+Compat 0.17
