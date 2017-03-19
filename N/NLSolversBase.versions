@@ -1,0 +1,13 @@
+https://github.com/JuliaNLSolvers/NLSolversBase.jl.git
+
+1.0.1
+-----
+6a8ee37d4326eb290f8e6f5ffd26f40326f00f46
+julia 0.5
+Compat 0.17.0
+
+1.0.2
+-----
+4b9b0221f1ad4dd8d92417bfa6eb91aa57611a2d
+julia 0.5
+Compat 0.17.0
