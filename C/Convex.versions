@@ -68,3 +68,10 @@ DataStructures
 julia 0.4
 MathProgBase 0.5 0.7
 DataStructures
+
+0.5.0
+-----
+a98ec6f7b1ba108e7920ea045ccc9cda3a747207
+julia 0.5
+MathProgBase 0.5 0.7
+DataStructures
