@@ -97,3 +97,11 @@ Compat 0.7.7
 julia 0.5
 BinDeps
 @osx Homebrew
+
+0.4.1
+-----
+835726b1abf25a50e55d132152449306e58128d8
+julia 0.5
+BinDeps
+@osx Homebrew
+Compat 0.17
