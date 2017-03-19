@@ -146,3 +146,10 @@ d5201507b918c3bed8e7eb72c130352b984ebb7a
 julia 0.4
 URIParser
 Compat 0.7.20
+
+0.2.7
+-----
+8e0ddc5e443b5711bfcbae29f680ad9d44ea9bb0
+julia 0.4
+URIParser
+Compat 0.7.20
