@@ -1,0 +1,9 @@
+https://github.com/glesica/Neo4j.jl.git
+
+1.0.0
+-----
+7c07cb8058312ba00cc97ad0ea94078930953eaa
+julia 0.4
+Compat 0.7.13
+JSON
+Requests
