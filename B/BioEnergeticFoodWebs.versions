@@ -35,3 +35,12 @@ Distributions
 DifferentialEquations
 JSON
 JLD
+
+0.3.1
+-----
+628f66ba4d990e8d2028eda8805f03509ba95c54
+julia 0.5
+Distributions
+DifferentialEquations
+JSON
+JLD
