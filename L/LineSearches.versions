@@ -39,3 +39,9 @@ julia 0.4
 -----
 007640e240e4e8a2a2d38636d2c6f22540c69b3c
 julia 0.4
+
+1.0.0
+-----
+624820d99090648a37ee232c33fa2876c1973139
+julia 0.5
+NLSolversBase

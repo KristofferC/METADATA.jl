@@ -3,6 +3,7 @@ git://github.com/JuliaNLSolvers/Optim.jl.git
 0.0.0
 -----
 fea408b5afbb7fb9733828d0f815e7f433d8c25d
+julia 0.0 0.5
 Calculus
 Distributions
 Options
@@ -10,7 +11,7 @@ Options
 0.1.0
 -----
 43332df03ca75751d42460982a94af41c54b2c81
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -18,7 +19,7 @@ Options
 0.1.1
 -----
 0e6d99284396281f7c3b220a76fdba97669c2958
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -26,7 +27,7 @@ Options
 0.1.2
 -----
 28cb0952b5c0934a3375f94979ce2a58a194a85f
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -34,7 +35,7 @@ Options
 0.1.3
 -----
 420f01ecd832e48e37ac613ba2365a6f6e7f48cc
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -42,7 +43,7 @@ Options
 0.1.4
 -----
 00f671199ea1046a43b87d2743f846e9c2afc0a3
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -50,7 +51,7 @@ Options
 0.1.5
 -----
 b364970e27754f67b47e4f3a8e24852965cefb9d
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -58,7 +59,7 @@ Options
 0.1.6
 -----
 e24bdeba5de8589d2ede8b50e720524b921532d3
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -66,7 +67,7 @@ Options
 0.1.7
 -----
 5308593e5750e2aa51c0f901303c6b62f985ee5b
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 Distributions
 Options
@@ -74,7 +75,7 @@ Options
 0.2.0
 -----
 8e98e0b76f28728e460cb499e7df47ad3eef9892
-julia 0.2-
+julia 0.2- 0.5
 Options
 Calculus
 Distributions
@@ -83,7 +84,7 @@ DualNumbers
 0.3.0
 -----
 32cc7b73c8beb12fb5c912b137e60dfd984d7f5f
-julia 0.2-
+julia 0.2- 0.5
 Options
 Calculus
 Distributions
@@ -92,7 +93,7 @@ DualNumbers
 0.3.1
 -----
 d0cbb5a11204dfa6409536a397c5c489f15dcc78
-julia 0.2-
+julia 0.2- 0.5
 Options
 Calculus
 DualNumbers
@@ -100,14 +101,14 @@ DualNumbers
 0.4.0
 -----
 5d31facb01f19f78ff60f47b459a89f3af7ea014
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 DualNumbers
 
 0.4.1
 -----
 6f0be0643d2795c5e9169e63283c2cc5ab7cd309
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 DualNumbers
 Compat
@@ -115,7 +116,7 @@ Compat
 0.4.2
 -----
 e9056b1b6bd45c72019b4baf0d4f9efe2119a739
-julia 0.2-
+julia 0.2- 0.5
 Calculus
 DualNumbers
 Compat
@@ -123,7 +124,7 @@ Compat
 0.4.3
 -----
 8ad3d9b830a3a3246ea056a26366e471d89c51d1
-julia 0.3
+julia 0.3 0.5
 Calculus
 DualNumbers
 Compat
@@ -131,7 +132,7 @@ Compat
 0.4.4
 -----
 8bc2dcfb0c4e23e56fbe3dcdca8ed16452b92297
-julia 0.3
+julia 0.3 0.5
 Calculus
 DualNumbers
 Compat
@@ -143,6 +144,25 @@ julia 0.4
 Calculus
 DualNumbers 0.2
 PositiveFactorizations
+LineSearches 0.0.1 1.0.0-
+
+0.4.6
+-----
+8bc2dcfb0c4e23e56fbe3dcdca8ed16452b92297
+julia 0.4
+Calculus
+DualNumbers
+Compat
+LineSearches 0.0.1 1.0.0-
+
+0.4.7
+-----
+b73ace5fd6729f8e7e10013c81942cb94150c46a
+julia 0.4
+Calculus
+DualNumbers 0.2
+PositiveFactorizations
+LineSearches 0.0.1 1.0.0-
 
 0.5.0
 -----
@@ -152,6 +172,7 @@ Calculus
 DualNumbers 0.2
 PositiveFactorizations
 Compat 0.7.16
+LineSearches 0.0.1 1.0.0-
 
 0.6.0
 -----
@@ -161,6 +182,7 @@ Calculus
 ForwardDiff 0.2.0 0.3.0
 PositiveFactorizations
 Compat 0.8.4
+LineSearches 0.0.1 1.0.0-
 
 0.6.1
 -----
@@ -170,6 +192,7 @@ Calculus
 ForwardDiff 0.2.0 0.3.0
 PositiveFactorizations
 Compat 0.8.4
+LineSearches 0.0.1 1.0.0-
 
 0.7.0
 -----
@@ -179,7 +202,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.0
+LineSearches 0.1.0 1.0.0-
 
 0.7.1
 -----
@@ -189,7 +212,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.0
+LineSearches 0.1.0 1.0.0-
 
 0.7.2
 -----
@@ -199,7 +222,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.0
+LineSearches 0.1.0 1.0.0-
 
 0.7.3
 -----
@@ -209,7 +232,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.2
+LineSearches 0.1.2 1.0.0-
 
 0.7.4
 -----
@@ -219,7 +242,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.2
+LineSearches 0.1.2 1.0.0-
 
 0.7.5
 -----
@@ -229,7 +252,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.8.4
-LineSearches 0.1.2
+LineSearches 0.1.2 1.0.0-
 
 0.7.7
 -----
@@ -239,7 +262,7 @@ Calculus
 ForwardDiff 0.3.0 0.4.0
 PositiveFactorizations
 Compat 0.18.0
-LineSearches 0.1.2
+LineSearches 0.1.2 1.0.0-
 
 0.7.8
 -----
@@ -249,4 +272,4 @@ Calculus
 ForwardDiff 0.3.0 0.5.0
 PositiveFactorizations
 Compat 0.18.0
-LineSearches 0.1.2
+LineSearches 0.1.2 1.0.0-
