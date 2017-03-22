@@ -1,0 +1,15 @@
+https://github.com/JuliaGizmos/GtkReactive.jl.git
+
+0.0.1
+-----
+3f913feff1883aeb72fd823dcfd096d95241cc53
+julia 0.5
+Compat 0.17
+Gtk 0.13
+Cairo
+Colors
+Reexport
+Reactive 0.3.0
+Graphics
+IntervalSets 0.0.5
+RoundingIntegers
