@@ -5,3 +5,9 @@ https://github.com/JuliaMath/RoundingIntegers.jl.git
 99faf1fe796796d06d9f0cb055c3b95d01efb7e7
 julia 0.5
 Compat 0.17
+
+0.0.2
+-----
+5f383dd17709bd8e61324a5370c07e75639cb504
+julia 0.5
+Compat 0.17
