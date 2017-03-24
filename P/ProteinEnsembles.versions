@@ -9,3 +9,13 @@ ProgressMeter
 Gadfly
 Colors
 Cairo
+
+0.1.0
+-----
+308855bfe2005c718d4a95b43e35fc27edbc4bae
+julia 0.5
+ArgParse
+ProgressMeter
+Gadfly
+Colors
+Cairo

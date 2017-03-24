@@ -39,3 +39,10 @@ GZip
 2f217aac10d0e48e77eeb437e82a11c203dc2255
 julia 0.4
 GZip
+
+0.2.0
+-----
+af8c3cdfd84c886c12ed3e6d7d6d0862d3a91293
+julia 0.5
+GZip
+MappedArrays

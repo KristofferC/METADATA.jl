@@ -90,6 +90,15 @@ HDF5
 Compat 0.8.0
 FileIO
 
+0.6.10
+------
+1adf77183ece207d0040eb0d95ee1996b45d1fc4
+julia 0.4
+HDF5
+Compat 0.8.0
+FileIO
+LegacyStrings  # for julia-0.5
+
 0.6.2
 -----
 ba352b12d99cb5674f00f8459b525d777559ff07
