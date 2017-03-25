@@ -56,3 +56,19 @@ Gadfly
 JLD
 HDF5
 Optim
+
+0.0.5
+-----
+f91331f07f256e103e173543879fc24e6045ec72
+julia 0.5
+IncrementalInference 0.2.7
+Graphs 0.7.1
+TransformUtils 0.0.5
+KernelDensityEstimate 0.2.3
+Distributions
+Colors
+Gadfly
+JLD
+HDF5
+Optim
+ProgressMeter
