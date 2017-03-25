@@ -35,3 +35,11 @@ julia 0.4
 Colors
 Compat 0.17.0
 NaNMath 0.2.4
+
+0.2.0
+-----
+3183be960f53f7782c7ae6134ea25bb5905d7f77
+julia 0.5
+Colors
+Compat 0.17.0
+NaNMath 0.2.4
