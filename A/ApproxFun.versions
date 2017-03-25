@@ -179,3 +179,18 @@ ToeplitzMatrices 0.1.1
 Calculus 0.1.15
 IntervalSets 0.0.2
 FixedSizeArrays 0.2.5
+
+0.6.0
+-----
+0c81979c51b15b86d0e889c9ea4ef94a338ee4a1
+julia 0.5
+FastGaussQuadrature 0.2.1
+FastTransforms 0.1
+RecipesBase 0.1
+DualNumbers 0.2.2
+BandedMatrices 0.2.2
+ToeplitzMatrices 0.2
+Calculus 0.1.15
+IntervalSets 0.0.2
+StaticArrays 0.3
+Compat 0.19
