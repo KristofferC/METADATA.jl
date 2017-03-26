@@ -266,3 +266,13 @@ Cairo
 Graphics 0.1
 BinDeps 0.2.2-
 @windows WinRPM
+
+0.5.2
+-----
+b2e9baf72e8faa8f9b2b6e7c4c5b574ec198d076
+julia 0.5
+Compat 0.17.0
+Cairo
+Graphics 0.1
+BinDeps 0.2.2-
+@windows WinRPM
