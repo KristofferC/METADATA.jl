@@ -199,6 +199,19 @@ Compat 0.7.16
 Graphics 0.1
 Dates
 
+0.13.0
+------
+0db45c94c4635267a3a70139207193e20f1a6b9b
+julia 0.5
+Cairo
+Colors
+IniFile 0.3.1
+Tk 0.5.2
+Compat 0.18.0
+Graphics 0.2.0
+StatsBase 0.13.1
+NaNMath 0.2.4
+
 0.3.0
 -----
 0b9ea91f8aece44563555b83e8a7a507e7b0e469
