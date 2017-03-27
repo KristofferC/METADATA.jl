@@ -124,3 +124,11 @@ fcab83b78243c5572ba80454cd0e986b587f544b
 julia 0.5
 BinDeps
 @osx Homebrew
+
+0.4.5
+-----
+173250ee12dc581fa8f22d8ab5173a89e528497e
+julia 0.5
+BinDeps
+@osx Homebrew
+Compat 0.9.5
