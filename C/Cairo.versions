@@ -323,3 +323,14 @@ Color
 BinDeps
 @osx Homebrew
 @windows WinRPM
+
+0.3.0
+-----
+63352a59ef5121442a0bf753d37251fd8f28849d
+julia 0.4
+Compat 0.9.5
+Colors
+BinDeps 0.3.21
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
