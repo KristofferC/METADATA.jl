@@ -49,3 +49,10 @@ d8dcfc558d9bd79d8e739a08023d5f39c1da870b
 julia 0.4
 PyCall 1.6
 Dates
+
+0.2.1
+-----
+24f6a9b133e9a10892fae182ebd0e92d06d43181
+julia 0.4
+PyCall 1.6
+Dates
