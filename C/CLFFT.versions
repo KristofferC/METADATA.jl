@@ -44,3 +44,11 @@ OpenCL
 julia 0.5-
 OpenCL
 Primes
+
+0.4.0
+-----
+46d4e7a9b0aac9fc2b3ffb5459b9a5098f676191
+julia 0.5
+OpenCL
+Primes
+BinDeps
