@@ -49,3 +49,9 @@ Compat
 julia 0.4
 BaseTestNext
 Compat
+
+0.4.0
+-----
+7f628586543995c037a9bd482510fc4c897c776d
+julia 0.5
+Compat 0.17.0

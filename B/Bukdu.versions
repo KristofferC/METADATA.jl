@@ -43,3 +43,17 @@ JSON
 Requests
 MbedTLS
 Libz
+
+0.1.0
+-----
+2698909ed1f12d927f978d80d2cdd6030272e528
+julia 0.5
+HttpCommon
+HttpServer
+URIParser
+Mustache
+JSON
+Requests
+MbedTLS
+Libz
+Compat 0.17.0
