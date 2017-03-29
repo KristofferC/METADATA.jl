@@ -13,3 +13,11 @@ ForwardDiff
 julia 0.5
 ForwardDiff
 Compat 0.19.0
+
+0.6.0
+-----
+fef648e224b04ed4ebe6c47710dcd883fc41ddeb
+julia 0.5
+ForwardDiff
+SIMD
+Compat 0.19.0
