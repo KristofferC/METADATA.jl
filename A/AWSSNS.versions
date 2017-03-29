@@ -49,3 +49,13 @@ julia 0.4
 AWSCore
 AWSSQS
 AWSLambda
+
+0.1.1
+-----
+ab049c34f3581f7120113803f93cf4fddb910925
+julia 0.5
+AWSCore 0.1
+AWSSQS
+AWSLambda
+SymDict
+Retry

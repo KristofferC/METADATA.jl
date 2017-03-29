@@ -29,3 +29,13 @@ AWSCore
 9c623c02f7827b9e441a62faef2ca7292387e878
 julia 0.4
 AWSCore
+
+0.1.1
+-----
+21e5548ebf6fe17bfda661070acee16e09706072
+julia 0.5
+AWSCore 0.1
+SymDict
+Retry
+Nettle
+URIParser

@@ -29,3 +29,11 @@ AWSCore
 28fcc22d27e3241249fe1a68219df338e56ae4c4
 julia 0.4
 AWSCore
+
+0.1.1
+-----
+b06c481f0c69b8dd19f777224d66aa21ecba520f
+julia 0.5
+AWSCore 0.1
+SymDict
+Retry

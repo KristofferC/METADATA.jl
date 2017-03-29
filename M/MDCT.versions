@@ -11,3 +11,9 @@ git://github.com/stevengj/MDCT.jl.git
 0.0.2
 -----
 13c5d49038afc6794c1fc73f9a25936bf22924a6
+
+1.0.1
+-----
+45dd5f24dbf8991d6d4fcca749a71cfd7c218d7e
+julia 0.4
+Compat 0.7.15

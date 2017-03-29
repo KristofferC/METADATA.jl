@@ -5,3 +5,11 @@ git://github.com/samoconnor/AWSSES.jl.git
 f801f183dc5663544ab3fd9127fd0c50d3037f77
 julia 0.4
 AWSCore
+
+0.1.1
+-----
+828856d166e30cc1bf3ef8833f7263f2e747ede0
+julia 0.5
+AWSCore 0.1
+SymDict
+Retry
