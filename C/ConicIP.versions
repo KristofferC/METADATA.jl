@@ -1,0 +1,8 @@
+https://github.com/MPF-Optimization-Laboratory/ConicIP.jl.git
+
+0.0.1
+-----
+e4e8bb95c6e3b2fd9cb3619266adf433c15d14d7
+julia 0.5
+MathProgBase 0.5 0.7
+WoodburyMatrices 0.2
