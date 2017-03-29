@@ -40,3 +40,13 @@ GeoInterface 0.1
 BinDeps
 @osx Homebrew
 @windows WinRPM
+
+0.1.1
+-----
+70ce28825c812e74251d55bfc9637f595221f845
+julia 0.4
+Compat 0.8.7
+GeoInterface 0.1
+BinDeps
+@osx Homebrew
+@windows WinRPM
