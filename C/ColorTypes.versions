@@ -189,3 +189,10 @@ f4d43274e2b2361f7a44140fd8a8043cef9eb411
 julia 0.5
 Compat 0.18.0
 FixedPointNumbers 0.3.0
+
+0.4.0
+-----
+d23a8abc2c04cf9ec90bd38fff18bbf9b2e74ada
+julia 0.5
+Compat 0.18.0
+FixedPointNumbers 0.3.0
