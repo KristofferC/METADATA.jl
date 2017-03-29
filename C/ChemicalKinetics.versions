@@ -13,3 +13,10 @@ a1d419dcc937678dbd5811c0602883b53011e558
 julia 0.3-
 Distributions 0.4.7
 Sundials 0.1.0
+
+0.2.0
+-----
+491651e1774b2e061e71637c8236037a61cd736c
+julia 0.5
+Distributions 0.12
+Sundials 0.7
