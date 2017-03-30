@@ -84,3 +84,21 @@ FFTViews
 ComputationalResources
 DataStructures 0.4.6
 TiledIteration
+
+0.1.3
+-----
+2e3156ddf983cffec121a6fb491942a4fc89e4b3
+julia 0.5
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace
+ImageCore
+OffsetArrays
+CatIndices
+StaticArrays 0.0.5
+MappedArrays
+FFTViews
+ComputationalResources
+DataStructures 0.4.6
+TiledIteration
+Compat 0.18
