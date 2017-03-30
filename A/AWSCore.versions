@@ -235,3 +235,17 @@ URIParser 0.1.2
 Requests
 Nettle
 HttpCommon
+
+0.1.4
+-----
+10c7bbb53cf7babcdebb35a78385effcfc5c280c
+julia 0.5
+Retry
+SymDict
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+Nettle
+HttpCommon

@@ -52,3 +52,8 @@ Compat
 -----
 2db5619d39cb80cdccd398c975c7c397e6f92787
 julia 0.5
+
+0.1.3
+-----
+cdc81adb4038960911535f6ecf00f2f69649c1b0
+julia 0.5
