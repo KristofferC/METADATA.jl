@@ -1,0 +1,8 @@
+https://github.com/JuliaPOMDP/ParticleFilters.jl.git
+
+0.0.1
+-----
+b791db4efc73d79c842562f5b224a3e21afe3bf4
+julia 0.5
+StatsBase
+POMDPs 0.4
