@@ -13,3 +13,10 @@ fd51b951df1b5d35de3cfe1c87342192d12b6298
 julia 0.5
 Compat 0.7.15
 LinearOperators 0.2.0
+
+0.2.0
+-----
+21a599b0ba9fb8cbe31c3efbb7779bdbcf43bc13
+julia 0.5
+Compat 0.17
+LinearOperators 0.2.0
