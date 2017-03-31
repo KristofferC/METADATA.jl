@@ -5,7 +5,7 @@ git://github.com/Stivanification/DriftDiffusionPoissonSystems.jl.git
 8511788315ddf17335c394691dc470e9e2a82a45
 julia 0.4
 PyPlot
-EllipticFEM
+EllipticFEM 0.0- 0.0.2
 
 0.0.2
 -----

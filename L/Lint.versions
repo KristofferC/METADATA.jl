@@ -548,3 +548,10 @@ Compat 0.15.0
 julia 0.5
 JSON 0.6.0
 Compat 0.20.0
+
+0.5.0
+-----
+96a2b04c2e390fe1db18fecb2f017d6bf98deb09
+julia 0.5
+JSON 0.6.0
+Compat 0.20.0
