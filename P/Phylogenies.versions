@@ -1,0 +1,9 @@
+https://github.com/BioJulia/Phylogenies.jl.git
+
+0.1.0
+-----
+ca021549dc4ce15560f4c64f8c32835aa891ad57
+julia 0.5
+LightGraphs
+Roots
+Distributions
