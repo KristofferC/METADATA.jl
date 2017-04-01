@@ -187,3 +187,15 @@ Colors
 Graphics 0.1
 FileIO
 Compat 0.8.0
+
+0.2.0
+-----
+ad1e782ae687eced4d689681f519f6b961c69130
+julia 0.5
+Gtk
+GtkReactive 0.0.3
+Cairo 0.2.5
+Colors
+Graphics 0.2
+FileIO
+IntervalSets

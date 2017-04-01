@@ -10,3 +10,9 @@ julia 0.5
 ac7bcfa93efa0a5406f70fda9dab6b7e3702f979
 julia 0.5
 DataStructures 0.5.0
+
+0.1.2
+-----
+2421a3bee068b92e30eaf448503bd0ce1b0d3e6e
+julia 0.4
+DataStructures 0.5.0
