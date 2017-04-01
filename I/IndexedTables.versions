@@ -1,0 +1,9 @@
+https://github.com/JuliaComputing/IndexedTables.jl.git
+
+0.1.0
+-----
+bee169fd5da30db4087b7a10363b20834e64e6a9
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
