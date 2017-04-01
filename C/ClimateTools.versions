@@ -45,3 +45,15 @@ PyCall 1.10.0
 PyPlot 2.3.1
 ArgCheck 0.1.0
 Lint 0.3.0
+
+0.1.2
+-----
+1464e29ba7713872a15f93c0ea5b0fff2ebf34cb
+julia 0.5
+NetCDF 0.4.1
+Shapefile 0.0.3
+AxisArrays 0.0.6
+PyCall 1.10.0
+PyPlot 2.3.1
+ArgCheck 0.1.0
+Lint 0.3.0
