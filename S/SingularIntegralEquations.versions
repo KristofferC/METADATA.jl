@@ -81,3 +81,13 @@ BandedMatrices 0.1.2
 Compat 0.9.5
 DualNumbers 0.2.3
 RecipesBase 0.1
+
+0.2.3
+-----
+02abbfd1772131c378f944c5c5c14e10020661eb
+julia 0.5
+ApproxFun 0.6
+BandedMatrices 0.2.2
+Compat 0.18
+DualNumbers 0.2.3
+RecipesBase 0.1
