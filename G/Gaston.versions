@@ -4,3 +4,13 @@ git://github.com/mbaz/Gaston.jl.git
 -----
 79034dca4c945e99aeb9a6b8a68b3bcaa108e610
 julia 0.1-
+
+0.5.6
+-----
+aa231a83baf53dccf69f181327612b80f8ed4282
+julia 0.5
+
+0.5.7
+-----
+9cf2e4c870fc56349a3393d0cf1d3a97a685f4d9
+julia 0.5
