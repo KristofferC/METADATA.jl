@@ -5,3 +5,9 @@ https://github.com/JuliaDiffEq/DiffEqCallbacks.jl.git
 cc2cfea02d9270ac7755edcaed5e2400c9c06044
 julia 0.5
 DiffEqBase 0.6.0
+
+0.0.2
+-----
+9133bcf637b36ec111a8aad6297a222fe3acd81e
+julia 0.5
+DiffEqBase 0.6.0
