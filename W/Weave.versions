@@ -124,3 +124,16 @@ Mustache
 Documenter
 YAML
 Compat 0.17.0
+
+0.4.3
+-----
+562968f9be234779ebcff20f160d7235b286bbd1
+julia 0.5
+ArgParse
+JLD
+JSON
+Highlights
+Mustache
+Documenter
+YAML
+Compat 0.17.0
