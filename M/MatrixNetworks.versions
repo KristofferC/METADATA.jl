@@ -7,3 +7,10 @@ julia 0.3
 Compat
 Docile
 #Lint
+
+0.1.0
+-----
+090ebcceb9a2ea0ecb0063497cd7f65328a6083f
+julia 0.5
+DataStructures
+#Lint
