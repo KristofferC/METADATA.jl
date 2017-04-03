@@ -128,3 +128,11 @@ julia 0.5
 Compat 0.8
 DataStructures
 JLD
+
+0.2.2
+-----
+849a42da623063cb3624094b5ce49beef346dc2b
+julia 0.5
+Compat 0.8
+DataStructures
+JLD
