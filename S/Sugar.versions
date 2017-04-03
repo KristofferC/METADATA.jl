@@ -7,3 +7,12 @@ julia 0.5
 MacroTools
 Matcha
 DataStructures
+
+0.0.2
+-----
+c0fcad085f4b93bf8a70c0da52a86357c7ecf654
+julia 0.5
+MacroTools
+Matcha
+DataStructures
+Compat 0.17.0
