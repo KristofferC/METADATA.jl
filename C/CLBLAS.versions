@@ -12,3 +12,10 @@ d9543ea428afc79c38aa30bbb4d664ec00c0fb98
 julia 0.5
 OpenCL 0.5.0
 BinDeps
+
+1.1.1
+-----
+3cb5c49932c82d262256d47207635f2d7a5e0f1b
+julia 0.5
+OpenCL 0.5
+BinDeps
