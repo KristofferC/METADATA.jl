@@ -19,3 +19,9 @@ julia 0.3-
 -----
 d0505ce2332d6573f1a8bc735d22e0e8e7a60729
 julia 0.3
+
+0.2.0
+-----
+8163115dd4b33c378cc3c3a7a442589dac1c8570
+julia 0.5
+Compat 0.20
