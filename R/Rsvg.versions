@@ -17,3 +17,14 @@ Cairo 0.2.30
 BinDeps 0.3.9
 @osx Homebrew
 @windows WinRPM
+
+0.1.0
+-----
+cbf20744d8cd8fbdd2f8e4dfd40b355f848b703d
+julia 0.4
+Gtk 0.8.6
+Cairo 0.2.30
+BinDeps 0.3.9
+Compat 0.7.20
+@osx Homebrew
+@windows WinRPM
