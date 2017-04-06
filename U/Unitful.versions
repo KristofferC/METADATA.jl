@@ -75,3 +75,10 @@ Ranges
 julia 0.5
 Compat 0.18.0
 Ranges
+
+0.2.2
+-----
+00fe4995b54b63a7d5b5e0ec7cb83b041156250c
+julia 0.5
+Compat 0.18.0
+Ranges
