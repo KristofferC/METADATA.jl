@@ -44,4 +44,4 @@ julia 0.4
 -----
 624820d99090648a37ee232c33fa2876c1973139
 julia 0.5
-NLSolversBase
+NLSolversBase 1.0 2.0
