@@ -7,3 +7,11 @@ julia 0.5
 Compat 0.19
 NamedTuples 2.1.0
 PooledArrays
+
+0.1.1
+-----
+937ce415e617922a0cfe02c8b8abb27813ae0ccd
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
