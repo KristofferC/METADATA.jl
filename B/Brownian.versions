@@ -15,3 +15,11 @@ julia 0.5
 Distributions 0.12
 PDMats 0.5
 StatsBase 0.13
+
+0.2.0
+-----
+71f0400c7d5e3b347cd3b9f5a792b0f099b8af10
+julia 0.5
+Distributions 0.12
+PDMats 0.5
+StatsBase 0.13

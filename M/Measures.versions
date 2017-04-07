@@ -15,3 +15,9 @@ julia 0.4
 82bde724e6937c7f8f9d2c3c281f140bf8ff2772
 julia 0.4
 Compat 0.7.15
+
+0.1.0
+-----
+8abb515c407d6ce82566ac3f0776f6763dfac0f6
+julia 0.5
+Compat 0.18.0

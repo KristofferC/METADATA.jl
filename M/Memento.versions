@@ -7,3 +7,10 @@ julia 0.5
 JSON 0.8
 StackTraces 0.1
 Mocking 0.3
+
+0.1.0
+-----
+7699840f692bd2d50b7b86ea5cb8fa25a5bfdf6f
+julia 0.5
+JSON 0.8
+Mocking 0.3

@@ -44,3 +44,9 @@ Iterators
 julia 0.3
 Compat
 Iterators
+
+0.1.0
+-----
+1bfbd515dee783eee49bd99b68a44733b22b92c2
+julia 0.5
+Compat 0.9.5

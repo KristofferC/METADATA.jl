@@ -86,7 +86,7 @@ Compat 0.8.0
 0.2.0
 -----
 4c19585a1fa29685302c5d354ab1c63f93e1f980
-julia 0.5
+julia 0.5 0.6-pre.alpha
 FileIO 0.0.4
 Images 0.6
 ColorTypes 0.3
@@ -96,7 +96,17 @@ FixedPointNumbers 0.3.0
 0.2.1
 -----
 2c9251b3e38487ef02bfb16c5ce0486205ad0305
-julia 0.5
+julia 0.5 0.6-pre.alpha
+FileIO 0.0.4
+Images 0.6
+ColorTypes 0.3
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+
+0.3.0
+-----
+efb89816fe1a99fbcf413b94a5fc6710108eddb0
+julia 0.6-
 FileIO 0.0.4
 Images 0.6
 ColorTypes 0.3
