@@ -6,7 +6,7 @@ de5e0643aefb917b144a8a0e9c184b3ce1fee287
 julia 0.5
 OrdinaryDiffEq
 LsqFit
-DiffEqBase
+DiffEqBase 0.0.0 0.14.0
 LossFunctions
 RecursiveArrayTools
 
@@ -16,7 +16,7 @@ b47fc68e82763d04cc2859e18e4eec7b4540e4df
 julia 0.5
 OrdinaryDiffEq 0.1.1
 LsqFit 0.0.2
-DiffEqBase 0.1.2
+DiffEqBase 0.1.2 0.14.0
 LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
 
@@ -25,7 +25,7 @@ RecursiveArrayTools 0.0.2
 1a6783f34c75bec3bdb0cff0ccc1b9c32251ace4
 julia 0.5
 LsqFit 0.0.2
-DiffEqBase 0.1.2
+DiffEqBase 0.1.2 0.14.0
 LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
 
@@ -34,7 +34,7 @@ RecursiveArrayTools 0.0.2
 2b9c85d42790007fa14906b79a2a75dcf4a97a0c
 julia 0.5
 LsqFit 0.0.2
-DiffEqBase 0.1.2
+DiffEqBase 0.1.2 0.14.0
 LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
 
@@ -43,7 +43,7 @@ RecursiveArrayTools 0.0.2
 bb0c788286d396ea0fc807f6590252df092ea290
 julia 0.5
 LsqFit 0.0.2
-DiffEqBase 0.1.2
+DiffEqBase 0.1.2 0.14.0
 LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
 ForwardDiff

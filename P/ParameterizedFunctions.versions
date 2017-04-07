@@ -131,7 +131,7 @@ SimpleTraits 0.1.1
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.14.0
 SimpleTraits 0.1.1
 
 1.0.0
@@ -140,7 +140,7 @@ fde3076884f6894eafcd7b2b8f0aab94dbc893a5
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.14.0
 SimpleTraits 0.1.1
 
 1.1.0
@@ -149,7 +149,7 @@ SimpleTraits 0.1.1
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.14.0
 SimpleTraits 0.1.1
 
 1.1.1
@@ -158,7 +158,7 @@ SimpleTraits 0.1.1
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.14.0
 SimpleTraits 0.1.1
 
 1.2.0
@@ -167,5 +167,5 @@ cdbf4625593f36fe073dcc017ce64400d5812782
 julia 0.5
 SymEngine 0.1.2
 DataStructures 0.4.6
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.14.0
 SimpleTraits 0.1.1

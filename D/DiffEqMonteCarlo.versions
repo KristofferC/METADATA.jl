@@ -4,12 +4,12 @@ https://github.com/JuliaDiffEq/DiffEqMonteCarlo.jl.git
 -----
 e1431cb9cbfaa00de536fd32de7a5ab232e277fb
 julia 0.5
-DiffEqBase 0.6.0
+DiffEqBase 0.6.0 0.14.0
 RecipesBase 0.1.0
 
 0.1.0
 -----
 9376aabee31e59faba02a48ab9b7627fc498bb32
 julia 0.5
-DiffEqBase 0.6.0
+DiffEqBase 0.6.0 0.14.0
 RecipesBase 0.1.0
