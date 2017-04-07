@@ -61,3 +61,16 @@ HDF5
 Optim 0.5
 QuantEcon
 Roots
+
+0.1.5
+-----
+2abbdb438f945dcca7fa33320b485b1a2b949a01
+julia 0.4
+Calculus
+DataStructures
+Distributions
+FredData
+HDF5
+Optim 0.7
+QuantEcon
+Roots
