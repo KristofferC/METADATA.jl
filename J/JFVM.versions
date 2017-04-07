@@ -26,3 +26,17 @@ e25b226bcaeb5a88271f9bd822533efac486b48c
 julia 0.4
 PyPlot
 PyCall
+
+1.0.0
+-----
+31be87d0cc74bf6a08513379e87d55876ac58d53
+julia 0.5
+PyPlot
+PyCall
+
+1.0.1
+-----
+32ed3c64f12304b3c18a481cfdc8b92bec6bf719
+julia 0.5
+PyPlot
+PyCall
