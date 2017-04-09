@@ -48,3 +48,16 @@ LossFunctions 0.0.2
 RecursiveArrayTools 0.0.2
 ForwardDiff
 Calculus
+
+0.2.0
+-----
+138ee7638a0d7f592ff527162136787429175f9e
+julia 0.5
+LsqFit 0.0.2
+DiffEqBase 0.14.0
+LossFunctions 0.0.2
+RecursiveArrayTools 0.0.2
+ForwardDiff
+Calculus
+Optim
+Compat 0.17.0
