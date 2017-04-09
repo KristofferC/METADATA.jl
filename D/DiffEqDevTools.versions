@@ -90,6 +90,6 @@ DiffEqPDEBase
 b7de7b660e531e43ed7b43b5e7dd935518e91717
 julia 0.5
 RecipesBase 0.1.0
-DiffEqBase 0.5.0
+DiffEqBase 0.5.0 0.15.0
 RecursiveArrayTools 0.1.2
 DiffEqPDEBase
