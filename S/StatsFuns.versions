@@ -86,3 +86,11 @@ d6edd545c7c57b4ae149ba5c814f153d795ec108
 julia 0.4
 Compat 0.9.1
 Rmath 0.1.0
+
+0.5.0
+-----
+69e3522c6f3901750754ad0dc5e7837d02253f0a
+julia 0.5
+Compat 0.9.1
+Rmath 0.1.0
+SpecialFunctions
