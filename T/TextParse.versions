@@ -1,0 +1,10 @@
+https://github.com/JuliaComputing/TextParse.jl.git
+
+0.1.0
+-----
+44a36131a6a592f612ea65c0bac009612a3cc112
+julia 0.5
+Compat 0.17
+NullableArrays
+PooledArrays
+WeakRefStrings
