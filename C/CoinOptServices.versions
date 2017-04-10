@@ -150,3 +150,16 @@ BinDeps
 MathProgBase 0.5.0 0.7
 @osx Homebrew
 @windows WinRPM
+
+0.2.0
+-----
+c967becad426bf053ba45d7e3665754661f37669
+julia 0.5
+Clp
+Cbc
+Ipopt
+LightXML 0.2
+BinDeps
+MathProgBase 0.5.0 0.7
+@osx Homebrew
+@windows WinRPM

@@ -221,3 +221,16 @@ AxisArrays 0.0.6
 NamedArrays 0.5.3
 Compat 0.17.0
 @windows WinReg 0.2.0
+
+0.7.2
+-----
+8152909226519f204e33b1cd9bff0c135c139212
+julia 0.5
+DataStructures 0.5.0
+DataFrames 0.9
+NullableArrays 0.1.0
+CategoricalArrays 0.1.0
+AxisArrays 0.0.6
+NamedArrays 0.5.3
+Compat 0.17.0
+@windows WinReg 0.2.0
