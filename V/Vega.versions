@@ -217,3 +217,14 @@ ColorBrewer
 KernelDensity
 NoveltyColors
 Patchwork
+
+0.7.0
+-----
+a9fcabfec6c22ec2569bb25d8eb735c0a4b27012
+julia 0.5
+JSON
+ColorBrewer
+KernelDensity
+NoveltyColors
+Patchwork
+StatsBase
