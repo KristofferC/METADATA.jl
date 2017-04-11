@@ -5,3 +5,9 @@ git://github.com/BioJulia/BioSymbols.jl.git
 c87580388b10088e044a899a98038b24e65717e5
 julia 0.5
 Compat 0.17.0
+
+1.1.0
+-----
+da0fb8f37acf6776e6b77a406dc46281b772797d
+julia 0.5
+Compat 0.17.0
