@@ -5,11 +5,11 @@ https://github.com/JuliaDiffEq/ODEInterfaceDiffEq.jl.git
 13abceabd4e12c6fca95e6ce7ef5834f47bfcf6d
 julia 0.5
 ODEInterface
-DiffEqBase
+DiffEqBase 0.0.0 0.15.0
 
 0.1.0
 -----
 e515e7d5f2d56ab21f7cde26f0cba84588131cb8
 julia 0.5
 ODEInterface 0.0.11
-DiffEqBase 0.4.1
+DiffEqBase 0.4.1 0.15.0

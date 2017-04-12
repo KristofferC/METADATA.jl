@@ -42,4 +42,4 @@ Compat 0.4.1
 julia 0.5
 Polynomials
 Compat 0.9
-DiffEqBase
+DiffEqBase 0.0.0 0.15.0

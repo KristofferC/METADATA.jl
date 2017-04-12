@@ -62,7 +62,7 @@ Compat 0.9.0
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase
+DiffEqBase 0.0.0 0.2.0
 
 0.5.0
 -----
@@ -70,7 +70,7 @@ d27c950a4060e6e86d82c5a95d54239880574ab3
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 
 0.6.0
 -----
@@ -78,7 +78,7 @@ af2196665ed99eec1fad1570423c98b7568a5189
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 
 0.7.0
 -----
@@ -86,7 +86,7 @@ DiffEqBase 0.2.0
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 
 0.8.0
 -----
@@ -94,7 +94,7 @@ cf0634d867961c834872849a909c015d70fa59f3
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 
 0.9.0
 -----
@@ -102,4 +102,4 @@ DiffEqBase 0.2.0
 julia 0.5
 BinDeps 0.4.3
 Compat 0.9.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0

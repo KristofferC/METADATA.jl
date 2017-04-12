@@ -14,7 +14,7 @@ Combinatorics
 -----
 8dab499efec9e1a55a436ddfd75dfd6b09253e8b
 julia 0.5
-DiffEqBase 0.8.0
+DiffEqBase 0.8.0 0.15.0
 OrdinaryDiffEq 1.2.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
@@ -24,7 +24,7 @@ Combinatorics
 -----
 773873355acf8fcbc5035a4198fa58e8b0acc2d5
 julia 0.5
-DiffEqBase 0.8.0
+DiffEqBase 0.8.0 0.15.0
 OrdinaryDiffEq 1.6.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0

@@ -127,6 +127,17 @@ RecursiveArrayTools 0.2.0
 SimpleTraits 0.1.1
 Compat 0.19.0
 
+0.15.0
+------
+be480ecd3167104a6524e9222bf1b384622d7724
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.2.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+
 0.2.0
 -----
 bfd3315fe42930b16d5607b86720488983c253f2

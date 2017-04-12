@@ -337,7 +337,7 @@ Iterators
 -----
 16639fbd0eff980f1e470b8a267ed36adfdb4891
 julia 0.5
-DiffEqBase 0.8.0
+DiffEqBase 0.8.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -355,7 +355,7 @@ Iterators
 -----
 cc1f795d9a743ff6ddf3aa87fe409ea48a2942f0
 julia 0.5
-DiffEqBase 0.8.0
+DiffEqBase 0.8.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -373,7 +373,7 @@ Iterators
 -----
 7fb8b1f0cfad42dad608e478a61484116f45b11a
 julia 0.5
-DiffEqBase 0.8.0
+DiffEqBase 0.8.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -391,7 +391,7 @@ Iterators
 -----
 f4a79a5fa314dbe8bbcae9deb39bc29448a5fa34
 julia 0.5
-DiffEqBase 0.11.0
+DiffEqBase 0.11.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -409,7 +409,7 @@ Iterators
 -----
 46cac789288f4b3c82537af88fd8ed4b33f38e32
 julia 0.5
-DiffEqBase 0.11.0
+DiffEqBase 0.11.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -427,7 +427,7 @@ Iterators
 -----
 db9d6e63601f37af1175006fdf39d38bed4f0e2a
 julia 0.5
-DiffEqBase 0.11.0
+DiffEqBase 0.11.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -446,7 +446,7 @@ Compat 0.17.0
 -----
 371331ae9d8ad9a8ed4b2535d7267dd98d894ad9
 julia 0.5
-DiffEqBase 0.13.0
+DiffEqBase 0.13.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -465,7 +465,7 @@ Compat 0.17.0
 -----
 48a0f6886fda7da1051105544889e72a6222da60
 julia 0.5
-DiffEqBase 0.13.0
+DiffEqBase 0.13.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -484,7 +484,7 @@ Compat 0.17.0
 -----
 4bbca8e8a531023a50d12e23e23b195cc716821b
 julia 0.5
-DiffEqBase 0.13.0
+DiffEqBase 0.13.0 0.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2

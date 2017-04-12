@@ -9,6 +9,7 @@ OrdinaryDiffEq
 StochasticDiffEq
 FiniteElementDiffEq
 AlgebraicDiffEq
+DiffEqBase 0.0.0 0.15.0
 JLD 0.6.5
 
 0.1.0
@@ -16,7 +17,7 @@ JLD 0.6.5
 694c3e08fd2ec4d6125ec2760c494790590d570c
 julia 0.5
 ParameterizedFunctions 0.2.0
-DiffEqBase
+DiffEqBase 0.0.0 0.15.0
 StochasticDiffEq
 FiniteElementDiffEq
 AlgebraicDiffEq
@@ -27,7 +28,7 @@ JLD 0.6.5
 ef037a7865ef322872e505f29393d332c6ff8761
 julia 0.5
 ParameterizedFunctions 0.2.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 StochasticDiffEq 0.1.0
 FiniteElementDiffEq 0.0.5
 AlgebraicDiffEq 0.0.2
@@ -38,7 +39,7 @@ JLD 0.6.5
 b0ca3a0d514083c7c876bc85f40195de6daa1729
 julia 0.5
 ParameterizedFunctions 0.2.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 FiniteElementDiffEq 0.0.5
 AlgebraicDiffEq 0.0.2
 JLD 0.6.5
@@ -48,7 +49,7 @@ JLD 0.6.5
 0ef4b2f87be5ff5fa3bb28e8de12392ab6409ff8
 julia 0.5
 ParameterizedFunctions 0.2.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 FiniteElementDiffEq 0.0.5
 AlgebraicDiffEq 0.0.2
 JLD 0.6.5
@@ -58,7 +59,7 @@ JLD 0.6.5
 e8d4dcb213b93f330ead1955a6db108ad6d2b417
 julia 0.5
 ParameterizedFunctions 0.2.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 FiniteElementDiffEq 0.0.5
 AlgebraicDiffEq 0.0.2
 JLD 0.6.5
@@ -68,7 +69,7 @@ JLD 0.6.5
 fe37c4b3f2fb4d808f5b681d3cf1fbd079fb7f67
 julia 0.5
 ParameterizedFunctions 0.5.0
-DiffEqBase 0.2.0
+DiffEqBase 0.2.0 0.15.0
 FiniteElementDiffEq 0.0.5
 JLD 0.6.5
 DiffEqPDEBase
