@@ -18,3 +18,13 @@ ColorTypes 0.3.2
 ImageCore 0.1.1
 ImageTransformations 0.1.0
 Compat 0.17
+
+0.2.0
+-----
+f83d17d3acfc208f137e7bb9839f513c76394e89
+julia 0.5
+Crayons 0.1.0
+ColorTypes 0.3.2
+ImageCore 0.1.1
+ImageTransformations 0.2.1
+Compat 0.17
