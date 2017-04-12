@@ -77,3 +77,10 @@ julia 0.4.0
 DataFrames 0.6.10
 Compat 0.7.20
 Reexport
+
+0.3.0
+-----
+f617f9c699fe6527f4b605b0c49241fe709155bc
+julia 0.5
+DataFrames 0.6.10
+Reexport

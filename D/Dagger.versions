@@ -1,0 +1,8 @@
+https://github.com/JuliaParallel/Dagger.jl.git
+
+0.1.0
+-----
+d27a967f647d3bb55289b99747ed9c83af912920
+julia 0.5
+Compat 0.19
+Logging
