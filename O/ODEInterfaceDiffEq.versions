@@ -13,3 +13,10 @@ e515e7d5f2d56ab21f7cde26f0cba84588131cb8
 julia 0.5
 ODEInterface 0.0.11
 DiffEqBase 0.4.1 0.15.0
+
+0.2.0
+-----
+6382b72cd48b70810e8878e222629c846f258e60
+julia 0.5
+ODEInterface 0.0.11
+DiffEqBase 0.15.0

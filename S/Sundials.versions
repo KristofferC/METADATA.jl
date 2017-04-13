@@ -11,6 +11,14 @@ julia 0.2-
 julia 0.2-
 BinDeps
 
+0.10.0
+------
+71fd9f959225a13e3a4efa163492bfe93610c357
+julia 0.5
+BinDeps 0.4.3
+Compat 0.9.0
+DiffEqBase 0.15.0
+
 0.1.1
 -----
 b631cc385ed6614894478521acee5c11881a4d96
