@@ -4,3 +4,8 @@ git://github.com/ararslan/ULID.jl.git
 -----
 9d40eb0d7595db6f120a5e9c3d9a0dd4e2733ac4
 julia 0.5-
+
+0.2.0
+-----
+b683a7df2a00669358c81abba9cf548bcaaa1a33
+julia 0.5
