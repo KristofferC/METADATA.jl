@@ -32,7 +32,7 @@ JLD
 5c3d01fbd1914866eafaad1bc569fae4cf230074
 julia 0.5
 Distributions
-DifferentialEquations
+DifferentialEquations 1.5.0
 JSON
 JLD
 
@@ -41,6 +41,6 @@ JLD
 628f66ba4d990e8d2028eda8805f03509ba95c54
 julia 0.5
 Distributions
-DifferentialEquations
+DifferentialEquations 1.5.0
 JSON
 JLD
