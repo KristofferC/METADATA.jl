@@ -110,3 +110,10 @@ Compat 0.8.6
 julia 0.4
 Compat 0.8.6
 @windows WinReg
+
+0.4.3
+-----
+e2618325d1183a2c15d2a365f043e7c680f215d9
+julia 0.4
+Compat 0.8.6
+@windows WinReg
