@@ -264,6 +264,31 @@ DiffEqFinancial
 DiffEqBiological
 MultiScaleArrays
 
+1.10.1
+------
+2fea5c79be4c10565efadb641f0f9defa1abc9d5
+julia 0.5
+Reexport 0.0.3
+DiffEqBase 0.15.0
+StochasticDiffEq 1.0.0
+FiniteElementDiffEq 0.0.5
+DiffEqDevTools 0.2.0
+OrdinaryDiffEq 1.2.0
+AlgebraicDiffEq 0.0.2
+StokesDiffEq 0.0.2
+DiffEqParamEstim 0.0.2
+DiffEqSensitivity 0.0.2
+Sundials 0.4.1
+ParameterizedFunctions 0.3.2
+DiffEqPDEBase
+DelayDiffEq 0.1.0
+DiffEqCallbacks
+DiffEqMonteCarlo
+DiffEqJump
+DiffEqFinancial
+DiffEqBiological
+MultiScaleArrays
+
 1.2.0
 -----
 0e86aabab5eb023a97e44cae2d996c5e4ca3a804
