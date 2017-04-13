@@ -6,3 +6,10 @@ https://github.com/JuliaDiffEq/DiffEqFinancial.jl.git
 julia 0.5
 DiffEqBase 0.0.0 0.15.0
 StochasticDiffEq
+
+0.1.0
+-----
+7933688ab56380b95f14694831f645a8c7fd9ccd
+julia 0.5
+DiffEqBase 0.15.0
+StochasticDiffEq

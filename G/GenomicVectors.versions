@@ -1,0 +1,11 @@
+https://github.com/phaverty/GenomicVectors.jl.git
+
+0.0.1
+-----
+1aaa77e267ebf0b51aa4eb21656567215494429d
+julia 0.5
+IntervalTrees
+AxisArrays
+RLEVectors
+Bio
+DataFrames

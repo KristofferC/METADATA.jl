@@ -93,3 +93,12 @@ RecipesBase 0.1.0
 DiffEqBase 0.5.0 0.15.0
 RecursiveArrayTools 0.1.2
 DiffEqPDEBase
+
+0.7.0
+-----
+24adfbc9417277970e337db8767907afb7513cca
+julia 0.5
+RecipesBase 0.1.0
+DiffEqBase 0.15.0
+RecursiveArrayTools 0.1.2
+DiffEqPDEBase
