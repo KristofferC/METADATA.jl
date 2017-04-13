@@ -6,6 +6,7 @@ git://github.com/JuliaPlots/Plots.jl.git
 julia 0.4-
 Colors
 FactCheck
+JSON 0.0 0.9
 
 0.0.2
 -----
@@ -13,6 +14,7 @@ FactCheck
 julia 0.4-
 Colors
 FactCheck
+JSON 0.0 0.9
 
 0.1.0
 -----
@@ -20,6 +22,7 @@ FactCheck
 julia 0.4-
 Colors
 FactCheck
+JSON 0.0 0.9
 
 0.10.0
 ------
@@ -74,18 +77,21 @@ Showoff
 8023e15bb97cfc6eaa81ae1ec9c0abaa08669aa2
 julia 0.4-
 Colors
+JSON 0.0 0.9
 
 0.1.2
 -----
 ea7867429fdd016004a11c41778b5e4b1c12b92e
 julia 0.4-
 Colors
+JSON 0.0 0.9
 
 0.1.3
 -----
 a9062b061125b764483f827c28e240c5125df437
 julia 0.4-
 Colors
+JSON 0.0 0.9
 
 0.2.0
 -----
@@ -93,6 +99,7 @@ Colors
 julia 0.4-
 Colors
 Reexport
+JSON 0.0 0.9
 
 0.3.0
 -----
@@ -100,6 +107,7 @@ Reexport
 julia 0.4-
 Colors
 Reexport
+JSON 0.0 0.9
 
 0.4.0
 -----
@@ -108,6 +116,7 @@ julia 0.3
 Colors
 Reexport
 Compat
+JSON 0.0 0.9
 
 0.4.1
 -----
@@ -116,6 +125,7 @@ julia 0.3
 Colors
 Reexport
 Compat
+JSON 0.0 0.9
 
 0.4.2
 -----
@@ -124,6 +134,7 @@ julia 0.3
 Colors
 Reexport
 Compat
+JSON 0.0 0.9
 
 0.5.0
 -----
@@ -132,6 +143,7 @@ julia 0.4
 Colors
 Reexport
 Compat
+JSON 0.0 0.9
 
 0.5.1
 -----
@@ -140,6 +152,7 @@ julia 0.4
 Colors
 Reexport
 Compat
+JSON 0.0 0.9
 
 0.5.2
 -----
@@ -149,6 +162,7 @@ Colors
 Reexport
 Compat
 Requires
+JSON 0.0 0.9
 
 0.5.3
 -----
@@ -159,6 +173,7 @@ Reexport
 Compat
 Requires
 FixedSizeArrays
+JSON 0.0 0.9
 
 0.5.4
 -----
@@ -169,6 +184,7 @@ Reexport
 Compat
 Requires
 FixedSizeArrays
+JSON 0.0 0.9
 
 0.6.0
 -----
@@ -179,6 +195,7 @@ Reexport
 Compat
 Requires
 FixedSizeArrays
+JSON 0.0 0.9
 
 0.6.1
 -----
@@ -189,6 +206,7 @@ Reexport
 Compat
 Requires
 FixedSizeArrays
+JSON 0.0 0.9
 
 0.6.2
 -----
@@ -200,6 +218,7 @@ Reexport
 Compat
 Requires
 FixedSizeArrays
+JSON 0.0 0.9
 
 0.7.0
 -----
@@ -211,6 +230,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.7.1
 -----
@@ -222,6 +242,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.7.2
 -----
@@ -233,6 +254,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.7.3
 -----
@@ -244,6 +266,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.7.4
 -----
@@ -255,6 +278,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.7.5
 -----
@@ -266,6 +290,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.8.0
 -----
@@ -277,6 +302,7 @@ Reexport
 Compat
 FixedSizeArrays
 Measures
+JSON 0.0 0.9
 
 0.8.1
 -----
@@ -289,6 +315,7 @@ Compat
 FixedSizeArrays
 Measures
 Showoff
+JSON 0.0 0.9
 
 0.8.2
 -----
@@ -301,6 +328,7 @@ Compat
 FixedSizeArrays
 Measures
 Showoff
+JSON 0.0 0.9
 
 0.9.0
 -----
@@ -313,6 +341,7 @@ Compat
 FixedSizeArrays
 Measures
 Showoff
+JSON 0.0 0.9
 
 0.9.1
 -----

@@ -52,7 +52,7 @@ Colors
 -----
 ae074cfa9e0cec49f317658c74d773fb6956fac4
 julia 0.4
-JSON 0.6
+JSON 0.6 0.9
 Blink 0.3.3
 Colors
 Compat 0.7.16
@@ -61,7 +61,7 @@ Compat 0.7.16
 -----
 0677d77954ebcc129aa6271c77877d50c4b0f012
 julia 0.4
-JSON
+JSON 0.6 0.9
 Blink 0.3.3
 Colors
 Compat 0.7.16

@@ -4,14 +4,14 @@ git://github.com/bokeh/Bokeh.jl.git
 -----
 01af6a930dec2518256dc051df51a23d7fa36efc
 Mustache
-JSON
+JSON 0.0 0.9
 
 0.1.0
 -----
 acdb375d5b5d2e13ed5e01de490ac9360a112371
 julia 0.3
 Mustache
-JSON 0.4
+JSON 0.4 0.9
 Dates 0.3.2
 Compat
 
@@ -20,6 +20,6 @@ Compat
 cd0c0399ceb11c3e6ab905852556856b4a724489
 julia 0.3
 Mustache
-JSON 0.4
+JSON 0.4 0.9
 Dates 0.3.2
 Compat
