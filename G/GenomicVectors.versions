@@ -9,3 +9,13 @@ AxisArrays
 RLEVectors
 Bio
 DataFrames
+
+0.0.2
+-----
+6f0b5284cf738c4a3f6d7896911e87c3ce3a6551
+julia 0.5
+IntervalTrees
+AxisArrays
+RLEVectors
+Bio
+DataFrames
