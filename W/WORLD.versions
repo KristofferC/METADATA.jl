@@ -72,3 +72,18 @@ julia 0.4
 BinDeps
 Compat 0.8.4
 DocStringExtensions 0.2
+
+0.4.0
+-----
+c62415b14b536dc2c83d50471477503a90755f22
+julia 0.5
+BinDeps
+Compat 0.8.4
+DocStringExtensions 0.2
+
+0.4.1
+-----
+fd8327b0f49e2a1fc7b4667029be595bccadcd21
+julia 0.5
+BinDeps
+DocStringExtensions 0.2
