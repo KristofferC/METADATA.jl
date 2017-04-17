@@ -95,3 +95,14 @@ Formatting 0.1.4
 ForwardDiff 0.4
 ReverseDiff 0.1
 StatsBase 0.7.4
+
+0.8.5
+-----
+64ee416dbf929ff3f5e6cf2fe963eb1ddd5bf613
+julia 0.5
+DiffBase 0.1
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.4
+ReverseDiff 0.1
+StatsBase 0.7.4
