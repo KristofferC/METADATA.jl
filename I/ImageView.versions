@@ -472,3 +472,18 @@ Graphics 0.2
 FileIO
 AxisArrays
 StatsBase
+
+0.4.0
+-----
+0ad314c8f22d4f054eef8cf0fd0121e8499bc24e
+julia 0.5
+Images 0.6.0
+Colors
+Tk
+Winston
+Graphics 0.1
+Cairo
+Graphics 0.2
+FileIO
+AxisArrays
+StatsBase

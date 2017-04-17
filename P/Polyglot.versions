@@ -7,3 +7,10 @@ Compat 0.4.4
 Expect 0.1.2
 JSON
 julia 0.3
+
+0.1.0
+-----
+3e642a54e332fe38c36e06cd163bc0b1625d1c00
+Expect 0.2.0
+JSON
+julia 0.5
