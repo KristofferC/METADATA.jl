@@ -6,3 +6,10 @@ https://github.com/JeffreySarnoff/FastRounding.jl.git
 julia 0.5.0
 AdjacentFloats 0.0.1
 ErrorfreeArithmetic 0.0.1
+
+0.0.2
+-----
+2b7b3c02928c5e9dee294e3f78ad974b9a3efc5e
+julia 0.5.0
+AdjacentFloats 0.0.2
+ErrorfreeArithmetic 0.0.1
