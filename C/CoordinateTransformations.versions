@@ -42,3 +42,11 @@ Rotations 0.3.0
 julia 0.5
 StaticArrays
 Rotations 0.3.0
+
+0.4.1
+-----
+9f3aa6b6174c378503f612a44c0854e78c8c9a83
+julia 0.5
+Compat 0.17.0
+StaticArrays
+Rotations 0.3.0
