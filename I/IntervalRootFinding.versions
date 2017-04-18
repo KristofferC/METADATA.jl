@@ -1,0 +1,8 @@
+https://github.com/JuliaIntervals/IntervalRootFinding.jl.git
+
+0.1.0
+-----
+9635b27723de05930f7777812e1460479889bd59
+julia 0.5
+IntervalArithmetic 0.9
+ForwardDiff 0.3
