@@ -5,3 +5,9 @@ https://github.com/JeffreySarnoff/RollingFunctions.jl.git
 f50d6c25e625a8fafec4af834e31ddbf0ee66278
 julia 0.6.0-pre.beta
 StatsBase 0.13.1
+
+0.1.0
+-----
+251de4058209e637f8efe0df5c2cd91ee4f66ad3
+julia 0.6.0-pre.beta
+StatsBase 0.13.1
