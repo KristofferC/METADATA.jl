@@ -127,3 +127,14 @@ Ratios
 AxisAlgorithms
 Compat 0.19.0
 DualNumbers
+
+0.5.0
+-----
+734f4aacee0d56ba6c74d84e98748e6851539a3d
+julia 0.5
+ShowItLikeYouBuildIt
+WoodburyMatrices 0.1.5
+Ratios
+AxisAlgorithms
+Compat 0.19.0
+DualNumbers
