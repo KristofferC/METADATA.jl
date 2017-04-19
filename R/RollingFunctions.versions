@@ -11,3 +11,15 @@ StatsBase 0.13.1
 251de4058209e637f8efe0df5c2cd91ee4f66ad3
 julia 0.6.0-pre.beta
 StatsBase 0.13.1
+
+0.1.1
+-----
+ece12bcdfbb0a2010fb59ad045310f68e9ef774a
+julia 0.6.0-pre.beta
+StatsBase 0.13.1
+
+0.1.2
+-----
+718bda7ad2e784f1079b69d60b787850552041f9
+julia 0.5.0
+StatsBase 0.13.1
