@@ -6,6 +6,13 @@ git://github.com/JuliaDocs/Documenter.jl.git
 julia 0.4
 Compat 0.7.17
 
+0.10.0
+------
+0d77e0abbf2a545eba176a6c4d6d04baf039559c
+julia 0.5
+Compat 0.17
+DocStringExtensions 0.2
+
 0.1.1
 -----
 382b00b09d35d51478a388a0d2bbe8429542c9b2
