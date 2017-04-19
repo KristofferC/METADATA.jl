@@ -129,6 +129,18 @@ Compat 0.18.0
 QuadGK 0.1.1
 SpecialFunctions 0.1.0
 
+0.12.5
+------
+a6db77a60b3ffc41e70571f7d591227e439c0654
+julia 0.5
+PDMats 0.6.0
+StatsFuns 0.3.1
+Calculus
+StatsBase 0.8.3
+Compat 0.18.0
+QuadGK 0.1.1
+SpecialFunctions 0.1.0
+
 0.1.3
 -----
 164c8437034bead41829f4b2ebc6f010876505ed
