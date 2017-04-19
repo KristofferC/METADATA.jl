@@ -34,3 +34,13 @@ DataStructures
 Conda
 DiffEqBase 0.11.0
 RecipesBase
+
+0.1.2
+-----
+c107312d72b8c64228a25fba4996a586f2030ab0
+julia 0.5
+PyCall
+DataStructures
+Conda 0.2.0
+DiffEqBase 0.11.0
+RecipesBase
