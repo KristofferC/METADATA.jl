@@ -11,3 +11,13 @@ StatsBase
 b0b9a2eb698fda4ee84a3409d9902e572a363d7d
 julia 0.4
 StatsBase
+
+0.1.0
+-----
+c172cc5c847da046bbd041aa68f128e8cb9eb713
+julia 0.5
+StatsBase 0.13
+LearnBase 0.1.5 0.2.0
+MLLabelUtils 0.0.3
+MLDataPattern 0.0.1
+DataFrames 0.9
