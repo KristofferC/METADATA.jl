@@ -159,3 +159,15 @@ ImageCore 0.1.0
 FileIO
 @osx Homebrew
 BinDeps
+
+0.2.4
+-----
+5d5b56d6bc38eca209cbd5a3593050e998e10876
+julia 0.5
+Compat 0.24
+FixedPointNumbers 0.3.0
+ColorTypes 0.2.7
+Images 0.6
+FileIO
+@osx Homebrew
+BinDeps
