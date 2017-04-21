@@ -1,0 +1,11 @@
+https://github.com/JuliaGraphs/GraphIO.jl.git
+
+0.0.1
+-----
+fcceba1f8db57f5ab6ac2135069de3e53358d8c7
+julia 0.6-
+LightGraphs 0.8.0
+GZip 0.2.20
+EzXML 0.3.0
+ParserCombinator 1.7.11
+JLD 0.6.3
