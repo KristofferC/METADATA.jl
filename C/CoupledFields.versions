@@ -1,0 +1,8 @@
+https://github.com/Mattriks/CoupledFields.jl.git
+
+0.0.1
+-----
+e792316561a85c4fbee8250227a4a91c136263d7
+Compat 0.17.0
+julia 0.5
+StatsBase

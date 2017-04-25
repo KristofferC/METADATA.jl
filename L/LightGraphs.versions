@@ -533,3 +533,12 @@ Distributions 0.10.2
 StatsBase 0.9.0
 DataStructures 0.5.0
 SimpleTraits 0.4.0
+
+0.9.0
+-----
+72ff259bd32eed646623d17905bb3d4851f19ea4
+julia 0.6-
+GZip 0.2.20
+StatsBase 0.9.0
+DataStructures 0.5.0
+SimpleTraits 0.4.0

@@ -87,3 +87,10 @@ ce11ac71c8817fee585350a43bff2e24daef601c
 julia 0.5
 Cbc
 MathProgBase 0.5 0.7
+
+0.3.1
+-----
+33cb6c31e72bd958e409d3dcf868f1a8a16cec58
+julia 0.5
+Cbc
+MathProgBase 0.5 0.7

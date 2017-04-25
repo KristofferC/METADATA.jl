@@ -10,7 +10,7 @@ TextWrap 0.0- 0.1-
 0.2.10
 ------
 996d7be91142731edc07ab10eead324201cf936f
-julia 0.2-
+julia 0.2- 0.6
 Compat
 Options
 TextWrap 0.1-
@@ -18,7 +18,7 @@ TextWrap 0.1-
 0.2.11
 ------
 810240fb748eda19fee13b61b781c4374d882afc
-julia 0.2-
+julia 0.2- 0.6
 Compat 0.2.9
 Options
 TextWrap 0.1-
@@ -26,7 +26,7 @@ TextWrap 0.1-
 0.2.12
 ------
 2b7e1eb91169f945a6fc314e11c99268bb006f21
-julia 0.3
+julia 0.3 0.6
 Compat 0.2.9
 Options
 TextWrap 0.1-
@@ -34,7 +34,7 @@ TextWrap 0.1-
 0.2.13
 ------
 08dd98f7891d8738b9cbccad3cab15cf338239d9
-julia 0.3
+julia 0.3 0.6
 Compat 0.7.3
 Options
 TextWrap 0.1.4
@@ -42,55 +42,62 @@ TextWrap 0.1.4
 0.2.5
 -----
 9c908a6451ed813a425c859bec7c13591de54bfb
-julia 0.2-
+julia 0.2- 0.6
 Options
 TextWrap 0.1-
 
 0.2.6
 -----
 c43fddb0885ffd59ba19b1db3449d7761f447151
-julia 0.2-
+julia 0.2- 0.6
 Options
 TextWrap 0.1-
 
 0.2.7
 -----
 e6d48b8539a793a77fdef67a41e8b234a9add2ff
-julia 0.2-
+julia 0.2- 0.6
 Options
 TextWrap 0.1-
 
 0.2.8
 -----
 bcc7e460a4c68ade78b88a7d73f25aa77e25dad6
-julia 0.2-
+julia 0.2- 0.6
 Options
 TextWrap 0.1-
 
 0.2.9
 -----
 8eed412324cd9829dbf53bc3fba19d9300309e7c
-julia 0.2-
+julia 0.2- 0.6
 Options
 TextWrap 0.1-
 
 0.3.0
 -----
 12181a8eab0a19da7d813f4a04b787cb22329c0b
-julia 0.3
+julia 0.3 0.6
 Compat 0.7.3
 TextWrap 0.1.4
 
 0.3.1
 -----
 afd2a6c265bd8fb68c456ea2759d93c31a56cc2b
-julia 0.3
+julia 0.3 0.6
 Compat 0.8.0
 TextWrap 0.1.4
 
 0.4.0
 -----
 22f6672041f4285e7805bf67778dc4dc9050dc48
-julia 0.4
+julia 0.4 0.6
 Compat 0.8.0
+TextWrap 0.1.4
+
+0.5.0
+-----
+7e0f30e78a51e577aa34817d2f2a63e9d44197c2
+julia 0.5
+Compat 0.9.5
 TextWrap 0.1.4

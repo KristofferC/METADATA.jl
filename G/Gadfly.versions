@@ -1215,3 +1215,23 @@ Loess
 Showoff 0.0.3
 StatsBase
 Juno
+
+0.6.1
+-----
+16018ad198d50d5a951faa46ad5e444a80df5a49
+julia 0.5
+Colors 0.3.4
+Compat 0.18.0
+Compose 0.5
+Contour 0.1.1
+DataFrames 0.4.2
+DataStructures
+Distributions
+Hexagons
+Iterators 0.1.5
+JSON
+KernelDensity
+Loess
+Showoff 0.0.3
+StatsBase
+Juno

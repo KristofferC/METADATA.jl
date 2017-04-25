@@ -42,3 +42,11 @@ MAT 0.3.1
 julia 0.5
 MathProgBase 0.5.7
 MAT 0.3.1
+
+0.1.0
+-----
+7b8cc45acdd6bd7dd7c8a16715ea828fe7634260
+julia 0.5
+MathProgBase 0.6.1
+MAT 0.3.1
+Requests 0.4.1

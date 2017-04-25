@@ -1697,3 +1697,75 @@ BlackBoxOptim
 Documenter 0.8.10
 JuMP 0.15
 MathProgBase 0.5.10
+
+0.4.5
+-----
+5eb243362efd668b56ae398d281f5ccf529a7c2a
+julia 0.5
+Compat 0.8
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+SVR
+Conda 0.4
+PyCall 1.8
+PyPlot 2.2
+Gadfly
+Measures
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions 0.12.5
+DataStructures
+DataFrames
+StatsBase
+ODE
+NMF
+Klara 0.7
+Optim 0.7
+BlackBoxOptim
+Documenter 0.8.10
+JuMP 0.15
+MathProgBase 0.5.10
+
+0.4.6
+-----
+7ec7356b1c709891eb36c15fa82c91f8d8a6ec21
+julia 0.5
+Compat 0.8
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+SVR
+Conda 0.4
+PyCall 1.8
+PyPlot 2.2
+Gadfly
+Measures
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+NMF
+Klara 0.7
+Optim 0.7
+BlackBoxOptim
+Documenter 0.8.10
+JuMP 0.15
+MathProgBase 0.5.10

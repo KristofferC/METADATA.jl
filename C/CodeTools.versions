@@ -78,3 +78,11 @@ julia 0.5-
 Lazy
 MacroTools
 LNR
+
+0.4.5
+-----
+e1a0630bd65df13851270d9b5c2ae281bf60d177
+julia 0.5
+Lazy 0.6
+LNR
+Tokenize 0.1

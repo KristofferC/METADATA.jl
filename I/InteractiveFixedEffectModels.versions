@@ -11,3 +11,15 @@ DataFrames 0.6
 LeastSquaresOptim 0.2.0
 Reexport
 FixedEffectModels 0.3.0
+
+0.1.1
+-----
+6a0012fc49f47c3994c0761fc1a75e2cbf522e8e
+julia 0.5
+Distances  0.1.1
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+LeastSquaresOptim 0.2.0
+Reexport
+FixedEffectModels 0.3.1

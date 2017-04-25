@@ -61,3 +61,12 @@ PyCall 1.7.2
 PyPlot 2.2.4
 Lazy 0.11.4
 Compat 0.17
+
+0.5.2
+-----
+d6377e80f9709ba3995a4682dcf3b76fb86222ef
+julia 0.5
+PyCall 1.7.2
+PyPlot 2.2.4
+Lazy 0.11.4
+Compat 0.17

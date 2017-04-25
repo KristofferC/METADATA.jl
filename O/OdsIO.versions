@@ -13,3 +13,11 @@ julia 0.5
 PyCall 1.7
 DataFrames 0.8.0
 DataStructures 0.5.0
+
+0.1.1
+-----
+bc41d268459ba750a2c0775f259f308c6de135b7
+julia 0.5
+PyCall 1.7
+DataFrames 0.8.0
+DataStructures 0.5.0
