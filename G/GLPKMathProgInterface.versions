@@ -184,3 +184,11 @@ ae65225da7557eaa82bdc2e8ff44795df948da39
 julia 0.5
 GLPK 0.2.8
 MathProgBase 0.5 0.7
+
+0.3.4
+-----
+13677a1bd930e7c6c2c747de3d6b170c27f9a433
+julia 0.5
+GLPK 0.2.8
+MathProgBase 0.5 0.7
+Compat 0.17.0
