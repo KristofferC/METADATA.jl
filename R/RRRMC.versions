@@ -1,0 +1,17 @@
+https://github.com/carlobaldassi/RRRMC.jl.git
+
+1.0.0
+-----
+990cc9c786d45737642b0fdee2fb96f360e5bb23
+julia 0.5
+ExtractMacro
+DataStructures 0.2.3
+Compat 0.9.4
+
+1.0.1
+-----
+c5aab0f1d6b2dd65e788ba156c15fa6103445398
+julia 0.5
+ExtractMacro
+DataStructures 0.2.3
+Compat 0.18.0
