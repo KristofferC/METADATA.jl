@@ -6,3 +6,10 @@ b791db4efc73d79c842562f5b224a3e21afe3bf4
 julia 0.5
 StatsBase
 POMDPs 0.4
+
+0.0.2
+-----
+693fd211e3d481386ad883057a01b8963468d0a1
+julia 0.5
+StatsBase
+POMDPs 0.4
