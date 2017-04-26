@@ -1,0 +1,11 @@
+https://github.com/krcools/CompScienceMeshes.jl.git
+
+0.0.1
+-----
+5762c3423f65b2ed0d3d729846cc96829d8d8380
+julia 0.5
+Compat 0.18
+CollisionDetection
+Combinatorics
+FastGaussQuadrature
+StaticArrays
