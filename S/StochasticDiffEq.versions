@@ -208,7 +208,7 @@ Compat 0.17.0
 9faa8be6fb2138ae9fd507f07f309dabd3880f9a
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 0.15.0
+DiffEqBase 0.15.0 1.0.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
