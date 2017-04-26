@@ -200,3 +200,23 @@ FNVHash
 Primes
 Retry
 AWSSNS # test-only?
+
+0.1.3
+-----
+b9e2473bcf3389c46ff1bff91bc69c0fd69b3890
+julia 0.5
+AWSCore 0.1
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict 0.1.2
+Nettle
+FNVHash
+Primes
+Retry
+AWSSNS # test-only?

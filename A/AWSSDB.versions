@@ -25,3 +25,11 @@ julia 0.5
 AWSCore 0.1
 SymDict
 XMLDict
+
+0.1.3
+-----
+80c725fc9434b8c5668381436a3e7894324b5b33
+julia 0.5
+AWSCore 0.1
+SymDict 0.1.2
+XMLDict
