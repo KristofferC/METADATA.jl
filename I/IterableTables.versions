@@ -1,0 +1,8 @@
+https://github.com/davidanthoff/IterableTables.jl.git
+
+0.0.1
+-----
+92f256801432f5d0ba08d3b92738e27f2307004a
+julia 0.5
+NamedTuples 2.0.0
+Requires 0.3.0
