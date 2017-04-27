@@ -1,0 +1,10 @@
+https://github.com/JuliaPOMDP/POMDPModels.jl.git
+
+0.1.1
+-----
+81b3a9ff8e055316a4931bf2dd333c1582dc5b23
+julia 0.5
+Distributions
+POMDPs
+TikzPictures
+POMDPToolbox

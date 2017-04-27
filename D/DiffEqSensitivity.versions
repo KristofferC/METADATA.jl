@@ -28,4 +28,4 @@ DiffEqBase 0.2.0 0.15.0
 -----
 92372ee853cc0e47ce5dbd760a4bfdcdb80e2806
 julia 0.5
-DiffEqBase 0.15.0
+DiffEqBase 0.15.0 1.0.0
