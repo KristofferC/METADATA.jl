@@ -6,7 +6,7 @@ https://github.com/JuliaComputing/TextParse.jl.git
 julia 0.5
 Compat 0.17
 NullableArrays
-PooledArrays
+PooledArrays 0.0.2
 WeakRefStrings
 
 0.1.1
@@ -15,5 +15,5 @@ f007c88f2eac02a5f072038a39eaa6a8a8ddfd74
 julia 0.5
 Compat 0.17
 NullableArrays
-PooledArrays
+PooledArrays 0.0.2
 WeakRefStrings
