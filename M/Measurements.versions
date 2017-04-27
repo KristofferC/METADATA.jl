@@ -51,3 +51,11 @@ Calculus
 013caa01b4ee6449d07b13a983e0f98844f98718
 julia 0.4
 Calculus
+
+0.4.0
+-----
+1eff4dda6582a3b4e09543a335fa9625221febb2
+julia 0.6-
+Calculus 0.1.5
+SpecialFunctions 0.1.0
+QuadGK 0.1.1
