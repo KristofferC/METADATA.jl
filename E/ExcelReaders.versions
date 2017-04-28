@@ -74,3 +74,13 @@ DataFrames
 Dates
 PyCall 1.5
 Compat 0.8.6
+
+0.7.0
+-----
+5be5a99eee42c905a67e10a956e912eb6b40ee1b
+julia 0.5
+DataArrays
+DataFrames
+Dates
+PyCall 1.5
+Compat 0.9.5
