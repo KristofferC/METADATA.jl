@@ -11,7 +11,7 @@ QuantEcon
 20fa71a6378317c87691ce1b8147a7221a9f969c
 julia 0.4
 QuantEcon
-BasisMatrices
+BasisMatrices 0.1 0.3-
 Reexport
 
 0.2.1
@@ -19,7 +19,7 @@ Reexport
 6e2e48ca3be2f405d519c2b26eb81c10a013e848
 julia 0.4
 QuantEcon
-BasisMatrices 0.2
+BasisMatrices 0.2 0.3-
 Reexport
 
 0.3.0
