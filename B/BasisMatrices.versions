@@ -13,3 +13,12 @@ dc4d9ca8887537e4cd24ea5e7259468f90932394
 julia 0.4
 QuantEcon
 Compat 0.9
+
+0.3.0
+-----
+ede86ec60e8d18c9d05a7abbd2926f2acadc30e4
+julia 0.5
+QuantEcon
+Compat 0.17
+Iterators
+Combinatorics
