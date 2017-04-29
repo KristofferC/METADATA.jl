@@ -46,3 +46,10 @@ Iterators
 a9ffb9e6ceb018adda44fcf473f54fe14c7558f6
 julia 0.5
 Iterators
+
+0.4.1
+-----
+795d4d48668c9125d23f108ce459f4b549bd9f91
+julia 0.5
+Iterators
+Compat 0.17.0
