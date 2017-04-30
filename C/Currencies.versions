@@ -84,3 +84,11 @@ cd71b1586c3456c450efee00879664625fe28acd
 julia 0.5
 Compat 0.17.0
 Requests 0.3.0
+
+0.7.0
+-----
+c4181aa575dc8f194e5304ecbee011e075e0af6b
+julia 0.5
+Compat 0.17.0
+JSON 0.6.0
+HTTP 0.4.0
