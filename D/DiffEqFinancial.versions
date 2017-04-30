@@ -13,3 +13,10 @@ StochasticDiffEq
 julia 0.5
 DiffEqBase 0.15.0
 StochasticDiffEq
+
+0.2.0
+-----
+6f5471b3dcd867a45dedde15e1cccb52ae8a5503
+julia 0.5
+DiffEqBase 1.0.0
+DiffEqNoiseProcess

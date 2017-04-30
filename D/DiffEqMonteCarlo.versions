@@ -19,3 +19,9 @@ RecipesBase 0.1.0
 a6241ba07efe0f8232d89bc8381430d6d862a862
 julia 0.5
 DiffEqBase 0.14.0 1.0.0
+
+0.3.0
+-----
+95980ff3374d8758aa96dc2097a844e34d56972f
+julia 0.5
+DiffEqBase 1.0.0

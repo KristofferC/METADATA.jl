@@ -20,3 +20,10 @@ DiffEqBase 0.4.1 0.15.0
 julia 0.5
 ODEInterface 0.0.11
 DiffEqBase 0.15.0
+
+0.3.0
+-----
+97be7ba29ebb981940f538d26d3d90435652132f
+julia 0.5
+ODEInterface 0.0.11
+DiffEqBase 0.15.0
