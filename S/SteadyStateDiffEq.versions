@@ -1,0 +1,8 @@
+https://github.com/JuliaDiffEq/SteadyStateDiffEq.jl.git
+
+0.0.1
+-----
+ace7f8708f65c50d646222c9d3f9e8c865ec2d19
+julia 0.5
+DiffEqBase 1.0.2
+NLsolve
