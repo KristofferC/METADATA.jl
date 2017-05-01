@@ -8,3 +8,13 @@ Distributions
 POMDPs
 TikzPictures
 POMDPToolbox
+
+0.1.2
+-----
+56146f42f2a0080f7c514de299c6ca29b7370a72
+julia 0.5
+Distributions
+POMDPs
+TikzPictures
+POMDPToolbox
+AutoHashEquals
