@@ -191,3 +191,16 @@ LaTeXStrings
 DocStringExtensions
 Juno
 DataFrames
+
+0.6.2
+-----
+5330d71a9757bdd371f36274c7fc382c085f3f06
+julia 0.5
+JSON 0.7
+Blink 0.3.3
+Colors
+Compat 0.8.4
+LaTeXStrings
+DocStringExtensions
+Juno
+DataFrames
