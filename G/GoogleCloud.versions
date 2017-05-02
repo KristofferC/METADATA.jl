@@ -25,3 +25,15 @@ Requests
 MbedTLS
 JSON
 URIParser
+
+0.0.4
+-----
+9dd6c30b82bee444e30bf0a336d16c8f205a4a3d
+julia 0.5.0
+Compat 0.17.0
+JSON 0.7.0
+MbedTLS 0.3.1
+Requests
+Libz
+MsgPack
+URIParser
