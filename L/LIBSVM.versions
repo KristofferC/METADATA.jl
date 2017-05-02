@@ -1,4 +1,4 @@
-git://github.com/simonster/LIBSVM.jl.git
+git://github.com/mpastell/LIBSVM.jl.git
 
 0.0.0
 -----
@@ -7,3 +7,11 @@ git://github.com/simonster/LIBSVM.jl.git
 0.0.1
 -----
 79d51ec03a53cc0683620b64fec0b5ccb3be2999
+
+0.1.0
+-----
+c99d4875190ab11676e5c440c856a0c6f02c61d1
+julia 0.5
+Compat 0.17.0
+LIBLINEAR 0.2.1
+ScikitLearnBase
