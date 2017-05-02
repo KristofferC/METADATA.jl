@@ -63,3 +63,9 @@ StaticArrays 0.3.0 0.4.0-
 aeb9c30e4a24f14b12be59c5a751c5ee6d3f8428
 julia 0.6-
 StaticArrays 0.4.0 0.5-
+
+0.5.0
+-----
+31ae3ca5636fa2aa7f8a2e760d2a82b4f35a1b13
+julia 0.6-
+StaticArrays 0.5
