@@ -110,3 +110,12 @@ Compat 0.9.1
 Colors
 Cairo
 FileIO
+
+0.8.4
+-----
+23927e60e1b70875f7d394bbc51056dc145a9a5a
+julia 0.4
+Compat 0.9.1
+Colors
+Cairo
+FileIO
