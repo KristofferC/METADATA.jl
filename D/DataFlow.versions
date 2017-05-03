@@ -7,3 +7,11 @@ julia 0.5
 Lazy
 MacroTools 0.3.6
 Juno
+
+0.2.0
+-----
+befb676df29fa6e07b0079aedf0ff0449865c31d
+julia 0.6-
+Lazy
+MacroTools 0.3.6
+Juno
