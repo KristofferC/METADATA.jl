@@ -15,3 +15,12 @@ julia 0.5
 Iterators
 DataFlow
 Juno
+
+0.2.0
+-----
+efcb9650da31c183b94b839f66aa3467d007c33f
+julia 00.6-
+Iterators
+DataFlow
+Juno
+MacroTools  0.3.3
