@@ -1,0 +1,12 @@
+https://github.com/GearsAD/CloudGraphs.jl.git
+
+0.0.2
+-----
+697e3b8ef9ef9e558387797c02787f9707ead0ee
+julia 0.5
+Graphs 0.7.1
+Neo4j 1.0.0
+Mongo
+LibBSON
+ProtoBuf
+JSON

@@ -57,3 +57,12 @@ julia 0.5
 IntervalArithmetic 0.9
 IntervalRootFinding 0.1
 MacroTools 0.3
+
+0.7.0
+-----
+e0de41fd24f17806d3e654bc115d425fe8281748
+julia 0.5
+IntervalArithmetic 0.9
+IntervalRootFinding 0.1
+IntervalContractors 0.1
+MacroTools 0.3
