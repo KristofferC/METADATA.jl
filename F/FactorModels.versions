@@ -3,11 +3,12 @@ git://github.com/joidegn/FactorModels.jl.git
 0.0.1
 -----
 e5fd0ccfe2de261ecd60503c5437fc57313ef304
+julia 0.0- 0.6
 
 0.0.2
 -----
 b59e4d9fc8ce525971ee7917adf383f5ed71659e
-julia 0.3.4-
+julia 0.3.4- 0.6
 DataArrays
 GLM
 Gadfly

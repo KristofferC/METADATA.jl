@@ -3,42 +3,42 @@ git://github.com/quinnj/Datetime.jl.git
 0.0.0
 -----
 69dbb104ee00c92e1a95c28f6cd613798ff23e98
-julia 0.2-
+julia 0.2- 0.6
 
 0.1.0
 -----
 f016515ce19cd18481201697cce0b3eba85cc381
-julia 0.2-
+julia 0.2- 0.6
 
 0.1.1
 -----
 f57964dd60e17af209fea30a0eb113fc18a23c81
-julia 0.2-
+julia 0.2- 0.6
 
 0.1.2
 -----
 e162e84453f6bf7753722327b8c91747235e860d
-julia 0.2-
+julia 0.2- 0.6
 
 0.1.3
 -----
 3a68ec1d06f30c72fda1fe5fca48bc705bf28f8b
-julia 0.2-
+julia 0.2- 0.6
 
 0.1.4
 -----
 827d43ce1c16facf5476934e8e043621b19f1d16
-julia 0.3-
+julia 0.3- 0.6
 
 0.1.5
 -----
 cea177074e255f7a8a4c0f898d0d7bf541a81599
-julia 0.3-
+julia 0.3- 0.6
 
 0.1.6
 -----
 f298f531c3c8b7982df1a7de5dfc89316f817115
-julia 0.3-
+julia 0.3- 0.6
 
 0.1.7
 -----

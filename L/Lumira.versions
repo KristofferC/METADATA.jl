@@ -3,13 +3,13 @@ git://github.com/sbcd90/Lumira.jl.git
 0.0.1
 -----
 047ebdbcc62102a430f9ac0331d7dfbff1b79836
-julia
+julia 0.0- 0.6
 Gadfly
  
 
 0.0.2
 -----
 7862b4feb90aaba72d9953ec036a10673b16401f
-julia
+julia 0.0- 0.6
 Gadfly
  

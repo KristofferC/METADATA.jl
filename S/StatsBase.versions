@@ -56,6 +56,14 @@ Compat 0.18.0
 DataStructures 0.5.0
 SpecialFunctions 0.1.0
 
+0.14.1
+------
+e200a7299a40e1f9d719179b98968542edc19f3c
+julia 0.5
+Compat 0.18.0
+DataStructures 0.5.0
+SpecialFunctions 0.1.0
+
 0.2.0
 -----
 3fc1b86595e96b2c098e91bb2fe56a8c5bbec05e

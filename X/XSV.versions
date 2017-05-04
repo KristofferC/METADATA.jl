@@ -3,7 +3,9 @@ git://github.com/benhamner/XSV.jl.git
 0.0.1
 -----
 f75589e0590247824b1a57d986c5f38e915458c5
+julia 0.0- 0.6
 
 0.0.2
 -----
 f75589e0590247824b1a57d986c5f38e915458c5
+julia 0.0- 0.6

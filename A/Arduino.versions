@@ -3,20 +3,23 @@ git://github.com/rennis250/Arduino.jl.git
 0.0.0
 -----
 3c0baaa7e844c13aa2a1b5496822fa83adb567d2
+julia 0.0- 0.6
 GetC
 
 0.1.0
 -----
 83eea27a28607e9871b3858ba4ed1deb0300cfd7
+julia 0.0- 0.6
 GetC
 
 0.1.1
 -----
 508efb581ec9d82b70129ffd402b8603f6b223d8
+julia 0.0- 0.6
 GetC
 
 0.1.2
 -----
 e7094c113130083016f96f9a6c444b72c2938fb4
 GetC
-julia 0.2-
+julia 0.2- 0.6

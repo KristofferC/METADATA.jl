@@ -3,11 +3,11 @@ git://github.com/jaykickliter/Multirate.jl.git
 0.0.1
 -----
 1a4905599d1c20ea30024f4c103656bc9a789e6d
-julia   0.3
+julia   0.3 0.6
 DSP     v0.0.4-
 
 0.0.2
 -----
 0d87d2af7650fdbb49064fae93235b195f901847
-julia   0.3-
+julia   0.3- 0.6
 DSP

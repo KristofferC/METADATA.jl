@@ -3,21 +3,25 @@ git://github.com/JuliaStats/DimensionalityReduction.jl.git
 0.0.0
 -----
 b305269cbcb0812b8d56930fbee38a9394365ebf
+julia 0.0- 0.6
 DataFrames
 
 0.0.1
 -----
 894008de47605305b1301e2c7a094b650beb3388
+julia 0.0- 0.6
 DataFrames
 
 0.1.0
 -----
 1b76603c49ee020d14c5a6cc6b287f414a845aff
+julia 0.0- 0.6
 DataFrames
 
 0.1.1
 -----
 b747e678fac1903ad0af91570a341013d61193de
+julia 0.0- 0.6
 DataFrames
 
 0.1.2

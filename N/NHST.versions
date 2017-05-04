@@ -3,16 +3,17 @@ git://github.com/johnmyleswhite/NHST.jl.git
 0.0.0
 -----
 c1166887c050fe79a116553f6c828f21fe880071
+julia 0.0- 0.6
 
 0.0.1
 -----
 46830ea06c55b6ba570443c376735e9f81c7d82f
-julia 0.2-
+julia 0.2- 0.6
 Distributions
 
 0.0.2
 -----
 f04bcde831b1f7152cf91b378236f5a56499fff4
-julia 0.2-
+julia 0.2- 0.6
 StatsBase
 Distributions

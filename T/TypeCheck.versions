@@ -3,14 +3,14 @@ git://github.com/astrieanna/TypeCheck.jl.git
 0.0.1
 -----
 1825dc89fd7d4c82bec4fb7023f8ad67a10df35b
-julia 0.3-
+julia 0.3- 0.6
 
 0.0.2
 -----
 e6292f97241444fa8e30a0362fa082fdd208a86c
-julia 0.3-
+julia 0.3- 0.6
 
 0.0.3
 -----
 e486ae849ad15285a08755fefb1a984889f57a1c
-julia 0.3-
+julia 0.3- 0.6
