@@ -35,3 +35,10 @@ DiffEqBase 0.15.0 1.0.0
 44476b99c3f7641875c82c92762287fadbdb4250
 julia 0.5
 DiffEqBase 0.15.0
+
+0.2.2
+-----
+52deafa384b46dccf07b475bc41cd4ec0227be67
+julia 0.5
+DiffEqBase 0.15.0
+Compat 0.17.0
