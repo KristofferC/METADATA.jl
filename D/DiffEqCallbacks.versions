@@ -11,3 +11,11 @@ DiffEqBase 0.6.0
 9133bcf637b36ec111a8aad6297a222fe3acd81e
 julia 0.5
 DiffEqBase 0.6.0
+
+0.1.0
+-----
+bdffa9f8d882471b3be4f82d4abd2099ada5a4e2
+julia 0.5
+DiffEqBase 0.6.0
+NLsolve
+ForwardDiff
