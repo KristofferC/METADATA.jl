@@ -307,3 +307,15 @@ RecursiveArrayTools 0.4.0
 SimpleTraits 0.1.1
 Compat 0.19.0
 Iterators
+
+1.1.2
+-----
+bb95b694f3e8dd94c509131b9cf4b899880a71fa
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.4.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Iterators
