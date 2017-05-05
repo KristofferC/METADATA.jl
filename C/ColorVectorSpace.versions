@@ -193,3 +193,13 @@ ColorTypes 0.4
 FixedPointNumbers 0.3.0
 StatsBase 0.8.2
 Compat 0.18.0
+
+0.4.3
+-----
+87af6fbe4c9f9e96a53c0314f119cc7f3f369b5a
+julia 0.5
+Colors 0.7.1
+ColorTypes 0.4
+FixedPointNumbers 0.3.0
+StatsBase 0.8.2
+Compat 0.18.0
