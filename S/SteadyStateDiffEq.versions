@@ -6,3 +6,11 @@ ace7f8708f65c50d646222c9d3f9e8c865ec2d19
 julia 0.5
 DiffEqBase 1.0.2
 NLsolve
+
+0.1.0
+-----
+684b501825f2acd7ef7626008ca568f33a1c29e9
+julia 0.5
+DiffEqBase 1.0.2
+NLsolve
+Compat 0.17.0
