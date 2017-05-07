@@ -248,3 +248,19 @@ Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
 ForwardDiff
+
+2.0.2
+-----
+3888bdc750bc1f79cb0e7258a678a635353817c2
+julia 0.5
+Parameters 0.5.0
+DiffEqBase 1.2.0
+RecursiveArrayTools 0.2.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Iterators
+Compat 0.17.0
+DiffEqNoiseProcess
+NLsolve
+ForwardDiff
