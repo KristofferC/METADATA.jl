@@ -84,3 +84,11 @@ f617f9c699fe6527f4b605b0c49241fe709155bc
 julia 0.5
 DataFrames 0.6.10
 Reexport
+
+0.3.1
+-----
+b57bcbc575f40b4b30b32dc43a208e67e68eddc4
+julia 0.5
+DataTables
+StatsBase
+AxisArrays
