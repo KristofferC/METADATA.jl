@@ -376,3 +376,12 @@ Compat 0.8.6
 StatsBase 0.14.0
 Reexport
 SpecialFunctions
+
+0.5.1
+-----
+a65398b60897628efe662e581fd83239fa2a44a0
+julia 0.6-
+Compat 0.8.6
+StatsBase 0.14.0
+Reexport
+SpecialFunctions
