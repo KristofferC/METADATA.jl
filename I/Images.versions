@@ -9,6 +9,28 @@ Tk
 Cairo
 FixedPointNumbers 0.0- 0.3
 
+0.10.0
+------
+b635f7b0f7eba110287034164445099143671821
+julia 0.5
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageTransformations 0.2.2
+ImageFiltering
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.19
+StatsBase   # for histrange
+
 0.2.0
 -----
 f00c9ba81f3955454a92f9c21784c57e3a683bf6

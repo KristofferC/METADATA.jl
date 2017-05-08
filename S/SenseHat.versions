@@ -6,3 +6,10 @@ https://github.com/JuliaBerry/SenseHat.jl.git
 julia 0.5
 ColorTypes
 FixedPointNumbers
+
+0.1.0
+-----
+b4cdb4720dc3adc1d0d5a8b5a9738fd942a8dce1
+julia 0.5
+ColorTypes
+FixedPointNumbers
