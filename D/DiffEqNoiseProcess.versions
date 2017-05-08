@@ -19,3 +19,13 @@ DataStructures
 DiffEqBase 1.0.0 1.3.0
 RecipesBase
 RecursiveArrayTools
+
+0.1.0
+-----
+406018100c88d294f2c658557f88be7fa84dbefe
+julia 0.5
+ResettableStacks
+DataStructures
+DiffEqBase 1.3.1
+RecipesBase
+RecursiveArrayTools
