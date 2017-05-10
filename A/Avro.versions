@@ -13,3 +13,10 @@ c53509759991ad7d5cffc3ee8cb3758d8db9a54d
 julia 0.5 0.6-
 JSON
 Libz
+
+0.0.3
+-----
+d8202ba6760e000c30a7341c677cdc0f23fb4a23
+julia 0.5
+JSON
+Libz
