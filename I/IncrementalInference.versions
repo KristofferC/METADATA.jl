@@ -165,3 +165,19 @@ KernelDensityEstimate 0.2.3
 HDF5
 JLD
 ProgressMeter
+
+0.2.9
+-----
+476212075512dfff85b371a8254824693d3e8fd0
+julia 0.5
+Graphs 0.7.1
+GraphViz
+Gadfly
+Colors
+NLsolve
+Optim
+Distributions
+KernelDensityEstimate 0.2.3
+HDF5
+JLD
+ProgressMeter
