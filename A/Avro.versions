@@ -1,0 +1,15 @@
+https://github.com/Hydrotoast/Avro.jl.git
+
+0.0.1
+-----
+764c518502c2b803d82da8d0628075ea70d6d8d2
+julia 0.5
+JSON
+Libz
+
+0.0.2
+-----
+c53509759991ad7d5cffc3ee8cb3758d8db9a54d
+julia 0.5 0.6-
+JSON
+Libz
