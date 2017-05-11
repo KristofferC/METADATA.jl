@@ -178,3 +178,13 @@ SymEngine 0.1.2
 DataStructures 0.4.6
 DiffEqBase 0.14.0
 SimpleTraits 0.1.1
+
+2.0.0
+-----
+c2566c7ad9ee482763692a8135340f1dba9f5058
+julia 0.5
+SymEngine 0.2.0 # This is SymEngine.jl version, not SymEngine version!
+DataStructures 0.4.6
+DiffEqBase 0.14.0
+SimpleTraits 0.1.1
+Iterators
