@@ -1,0 +1,8 @@
+https://github.com/KristofferC/OhMyREPL.jl.git
+
+0.1.0
+-----
+15bc5a8ed0d19b3f775b16794b30fe2dcb83311a
+julia 0.5
+Tokenize
+Compat 0.9.5
