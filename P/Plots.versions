@@ -79,6 +79,19 @@ julia 0.4-
 Colors
 JSON 0.0 0.9
 
+0.11.1
+------
+601f24a006fd1caafb9c7baee1d5549dc9bbe99b
+julia 0.5
+RecipesBase
+PlotUtils 0.4.1
+PlotThemes 0.1.3
+Reexport
+FixedSizeArrays
+Measures
+Showoff
+StatsBase 0.14.0
+
 0.1.2
 -----
 ea7867429fdd016004a11c41778b5e4b1c12b92e
