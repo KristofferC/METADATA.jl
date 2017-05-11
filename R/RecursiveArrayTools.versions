@@ -69,3 +69,12 @@ Iterators
 Compat 0.17.0
 Juno
 RecipesBase 0.1.0
+
+0.6.1
+-----
+19c0532ef77beabb7a09118ab8dcb3fbb13bc402
+julia 0.5
+Iterators
+Compat 0.17.0
+Juno
+RecipesBase 0.1.0

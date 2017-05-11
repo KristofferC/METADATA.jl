@@ -64,3 +64,11 @@ julia 0.4
 PyCall 1.6
 Compat 0.7.16
 Dates
+
+0.3.1
+-----
+c23bdfc89bac830238ae185496a61c8c8d8a53bd
+julia 0.4
+PyCall 1.6
+Compat 0.7.16
+Dates
