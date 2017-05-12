@@ -5,3 +5,9 @@ https://github.com/ZacLN/CSTParser.jl.git
 395662bd87affd5d276b604ad4a7a66dd25d5846
 julia 0.6.0-pre.beta
 Tokenize 0.1.7
+
+0.0.3
+-----
+05196e66cb0df254dc22e2e8189b7c5ae545066f
+julia 0.6.0-pre.beta
+Tokenize 0.1.7
