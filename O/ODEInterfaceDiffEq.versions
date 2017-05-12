@@ -35,3 +35,11 @@ julia 0.5
 ODEInterface 0.0.11
 DiffEqBase 0.15.0
 Compat 0.17.0
+
+0.4.0
+-----
+e3b7a5a6a51ae5ddc4d185d08cd8a7c3899b75ad
+julia 0.5
+ODEInterface 0.0.11
+DiffEqBase 0.15.0
+Compat 0.17.0

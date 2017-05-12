@@ -34,3 +34,10 @@ Polynomials
 julia 0.5-
 Plots v0.7.4
 Polynomials
+
+0.3.0
+-----
+5b1043c1023f4c85ee194c6138637b6c6be574d0
+julia 0.6-
+Plots 0.7.4
+Polynomials

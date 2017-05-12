@@ -1,0 +1,10 @@
+https://github.com/JuliaML/AtariAlgos.jl.git
+
+0.0.1
+-----
+bf1dc6f34bf5c9e3f679fbc8361787b5071fdfdf
+julia 0.5
+Reexport
+ArcadeLearningEnvironment
+Plots
+Reinforce
