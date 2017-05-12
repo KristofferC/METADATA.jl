@@ -1,0 +1,8 @@
+https://github.com/JuliaPy/PyCallJLD.jl.git
+
+0.0.1
+-----
+5841b3020babe087a8b739a6eaaf42a604be18f7
+julia 0.5
+PyCall
+JLD
