@@ -100,3 +100,12 @@ ParameterizedFunctions 2.0.0
 DiffEqBase 0.15.0
 JLD 0.6.5
 DiffEqPDEBase
+
+0.7.0
+-----
+b570b8cf3833825e14af12de231624f92c476afe
+julia 0.5
+ParameterizedFunctions 2.0.0
+DiffEqBase 0.15.0
+JLD 0.6.5
+DiffEqPDEBase

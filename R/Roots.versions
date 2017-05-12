@@ -260,3 +260,12 @@ ForwardDiff 0.2.0
 Polynomials 0.0.5
 PolynomialFactors 0.0.3
 Compat 0.8.0
+
+0.3.1
+-----
+fbbb639338981dd88b705d3abce2f82072f14d13
+julia 0.4
+ForwardDiff 0.2.0
+Polynomials 0.0.5
+PolynomialFactors 0.0.3
+Compat 0.17.0
