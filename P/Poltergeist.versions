@@ -1,0 +1,11 @@
+https://github.com/wormell/Poltergeist.jl.git
+
+0.0.4
+-----
+26d3005556f7f8960d8a820f435a2b573ad29359
+julia 0.5
+ApproxFun 0.6.0
+BandedMatrices 0.2
+DualNumbers 0.3.0
+StaticArrays 0.3
+IntervalSets 0.0.2
