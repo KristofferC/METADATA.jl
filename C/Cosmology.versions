@@ -40,3 +40,10 @@ julia 0.4
 4ea8c3059c8b28844eb913624d448dfba71f5db2
 julia 0.4
 Compat 0.8.6
+
+0.3.0
+-----
+f9e459a6b4e1fd451b17a54d406923f46916cad5
+julia 0.5
+Compat 0.17.0
+QuadGK 0.1.1
