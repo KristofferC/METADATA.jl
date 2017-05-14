@@ -1,0 +1,9 @@
+https://github.com/KristofferC/PGFPlotsX.jl.git
+
+0.1.1
+-----
+8c5ba11f858b84838bf024012266ae2e18b0db48
+julia 0.6-
+MacroTools
+DataStructures
+Requires
