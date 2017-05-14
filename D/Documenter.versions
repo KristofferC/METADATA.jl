@@ -20,6 +20,13 @@ julia 0.5
 Compat 0.17
 DocStringExtensions 0.2
 
+0.10.2
+------
+b6d308b07ded1ffa3184e59463a61eba9610cc00
+julia 0.5
+Compat 0.17
+DocStringExtensions 0.2
+
 0.1.1
 -----
 382b00b09d35d51478a388a0d2bbe8429542c9b2
