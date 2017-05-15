@@ -145,3 +145,12 @@ Mamba 0.10
 Gadfly 0.4.3
 BinDeps 0.4.3
 @osx Homebrew
+
+1.1.0
+-----
+741b11ea136e5053f17b49889a57abb7b5bfbecd
+julia 0.5.0
+Mamba 0.10
+Gadfly 0.5.2
+BinDeps 0.4.3
+@osx Homebrew 0.4.0
