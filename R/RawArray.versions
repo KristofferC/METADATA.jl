@@ -4,3 +4,9 @@ https://github.com/davidssmith/RawArray.jl.git
 -----
 c854cdaf846d94703dd220c375f2bef1e9e52296
 julia 0.4
+
+0.0.2
+-----
+23ccb4a0f27fb161cc47cb8d83589b2f43e64804
+julia 0.4
+LittleEndianBase128
