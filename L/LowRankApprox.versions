@@ -4,3 +4,9 @@ https://github.com/klho/LowRankApprox.jl.git
 -----
 3a394624d3499ccece64d44c4346f14def39b517
 julia 0.5
+
+0.0.2
+-----
+18095ab8ba331c2fe685b6e9090096bc3b648fc9
+julia 0.5
+Compat 0.18
