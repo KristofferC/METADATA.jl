@@ -66,3 +66,13 @@ VectorizedRoutines
 ChunkedArrays
 DiffEqBase 1.0.0
 Compat 0.17.0
+
+0.3.2
+-----
+8f693531ef2d6d3287471d64c15f07bc955dc06f
+julia 0.5
+RecipesBase
+VectorizedRoutines
+ChunkedArrays
+DiffEqBase 1.0.0
+Compat 0.17.0
