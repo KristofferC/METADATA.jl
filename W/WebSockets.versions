@@ -99,3 +99,13 @@ HttpCommon 0.0.3
 HttpServer 0.0.4
 Codecs
 MbedTLS
+
+0.2.2
+-----
+18a88a0300b27020acba04a0d50138ba710b0f95
+julia 0.4
+Compat 0.9.5
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+MbedTLS
