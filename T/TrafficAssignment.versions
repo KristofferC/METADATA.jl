@@ -113,3 +113,11 @@ julia 0.6-
 LightGraphs 0.8
 Optim 0.7
 BinDeps
+
+0.4.1
+-----
+f58385b5c53cd3e52c6617c0cdcf4c1f254809e5
+julia 0.6-
+LightGraphs 0.8
+Optim 0.7
+BinDeps
