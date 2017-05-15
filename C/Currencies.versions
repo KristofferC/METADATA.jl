@@ -92,3 +92,11 @@ julia 0.5
 Compat 0.17.0
 JSON 0.6.0
 HTTP 0.4.0
+
+0.8.0
+-----
+ae9fb312d1506fd7ba888eac9ed699719e6e8f6a
+julia 0.5
+Compat 0.17.0
+JSON 0.6.0
+HTTP 0.4.0
