@@ -47,6 +47,14 @@ DiffEqBase 1.0.0
 julia 0.2-
 BinDeps
 
+0.12.0
+------
+d1422d9752777941575e2320a7afef9dbe30cb49
+julia 0.5
+BinDeps 0.4.3
+Compat 0.17.0
+DiffEqBase 1.0.0
+
 0.1.3
 -----
 935d886991e5d294d536a2d25989dc319fc3c3b9
