@@ -30,3 +30,11 @@ julia 0.4.0
 816f1a95c93e430bc9aaa8902f2ec76c62f5ab9f
 julia 0.4.0
 Compat
+
+0.1.0
+-----
+d60d93cb9b2b5fa9d7e15b90eb765127723912d0
+julia 0.4.0
+Compat 0.8.0
+BinDeps
+@osx Homebrew
