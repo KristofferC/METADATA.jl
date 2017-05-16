@@ -28,3 +28,13 @@ Distributions
 Docile
 HDF5
 Roots
+
+0.0.4
+-----
+c92a89b91791f61120bfc5a43cc3a57b28f706fb
+julia 0.4 
+Compat 0.7.18
+Distributions
+DocStringExtensions
+HDF5
+Roots
