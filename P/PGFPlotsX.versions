@@ -7,3 +7,13 @@ julia 0.6-
 MacroTools
 DataStructures
 Requires
+
+0.1.2
+-----
+7b7cc10ddb0c700da1fb16bc3ee283d846680253
+julia 0.6-
+MacroTools
+DataStructures
+Requires
+Juno
+Crayons
