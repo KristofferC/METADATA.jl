@@ -11,3 +11,9 @@ BaseTestNext
 91ae97c43181daebf64360dbb753b68af4dce9ca
 julia 0.4
 BaseTestNext
+
+1.0.0
+-----
+5ff61be824011fecdee667eee4caf06292544114
+julia 0.6-
+DeepDiffs
