@@ -69,3 +69,20 @@ Colors 0.7.0
 ColorVectorSpace 0.2
 FixedPointNumbers 0.3
 Compat 0.18
+
+0.3.0
+-----
+d1388171ba37616d62240664fcd1f4a858defc26
+julia 0.5
+ImageCore 0.1.2
+CoordinateTransformations 0.4.0
+Interpolations 0.4
+AxisAlgorithms
+OffsetArrays
+StaticArrays
+IdentityRanges
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3
+ShowItLikeYouBuildIt
+Compat 0.19
