@@ -48,3 +48,11 @@ SIUnits
 FixedPointNumbers
 Compat 0.8.8
 DSP
+
+1.0.0
+-----
+f4c300d7280dcf83bdd38f9b930d5c8e7c610dd3
+julia 0.6-
+SIUnits
+FixedPointNumbers
+DSP
