@@ -1,0 +1,7 @@
+git://github.com/MikaelSlevinsky/HierarchicalMatrices.jl.git
+
+0.0.1
+-----
+bcde96f66f16d5cd7483fdc8156afcf69d00f2f6
+julia 0.5
+Compat 0.17
