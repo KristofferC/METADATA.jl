@@ -38,3 +38,13 @@ Iterators 0.1.0
 Compat 0.7.15
 Combinatorics 0.2.1
 Primes 0.1.1
+
+0.0.5
+-----
+9f17fef46eb884d51af63dd6278a0eceeaae7686
+julia 0.4
+Polynomials 0.1.1
+Iterators 0.1.0
+Compat 0.17.0
+Combinatorics 0.2.1
+Primes 0.1.1
