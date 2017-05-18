@@ -35,3 +35,9 @@ julia 0.4
 e0530fe89378cf3f137f00d6bc576d5ef3122f75
 julia 0.4
 # Compat 0.7.9
+
+0.0.7
+-----
+71a99dab9aab8811eeb0d6f84de6be1397233ac8
+julia 0.4
+Compat 0.8.1 # allunique

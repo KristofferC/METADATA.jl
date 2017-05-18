@@ -119,3 +119,14 @@ Compat 0.9.1
 Colors
 Cairo
 FileIO
+
+0.8.5
+-----
+4f23c7a79d4c6d835c4f5b3b1a74452812d9072c
+julia 0.4
+Compat 0.9.1
+Colors
+Cairo
+FileIO
+Juno
+Hiccup

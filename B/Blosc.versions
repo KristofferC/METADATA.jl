@@ -90,3 +90,10 @@ dead74de58df3b42e115f91205deddfa288cc022
 BinDeps
 julia 0.4
 Compat 0.8
+
+0.2.1
+-----
+1fe01baf125ec2d3a15d039ab60b305d2134f3af
+BinDeps
+julia 0.4
+Compat 0.8

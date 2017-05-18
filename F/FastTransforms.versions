@@ -49,3 +49,13 @@ c8899f51e1ae7564ee7a46eefc843ce2780cfa83
 julia 0.5
 ToeplitzMatrices 0.2
 Compat 0.17
+
+0.2.0
+-----
+e2b7c5989d21860f419b3ef67a50ae268292ee11
+julia 0.5
+ToeplitzMatrices 0.2
+HierarchicalMatrices 0.0.1
+LowRankApprox 0.0.2
+ProgressMeter 0.3.4
+Compat 0.17
