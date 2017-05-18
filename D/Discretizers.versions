@@ -60,3 +60,12 @@ julia 0.4
 DataArrays 0.2.10
 StatsBase 0.8.0
 Compat 0.8.0
+
+1.0.0
+-----
+476bd074d12233baad9d87a4f63afeb7019b5766
+julia 0.5
+DataArrays 0.2.10
+StatsBase 0.8.0
+Compat 0.8.0
+DataStructures
