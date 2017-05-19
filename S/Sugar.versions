@@ -35,3 +35,13 @@ Matcha
 DataStructures
 Compat 0.17.0
 StaticArrays 0.3.0
+
+0.2.0
+-----
+6d575b570f61351ec9a0456e74901c53ae2102c4
+julia 0.5
+MacroTools
+Matcha
+DataStructures
+Compat 0.17.0
+StaticArrays 0.3.0

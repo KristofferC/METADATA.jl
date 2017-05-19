@@ -100,3 +100,12 @@ julia 0.5
 Compat 0.17.0
 JSON 0.6.0
 HTTP 0.4.0
+
+0.9.0
+-----
+fcfec143af37d059cf1677e7b44c108ebbf9d05b
+julia 0.5
+Compat 0.17.0
+JSON 0.6.0
+HTTP 0.4.0
+FixedPointDecimals 0.0.1
