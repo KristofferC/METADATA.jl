@@ -13,6 +13,18 @@ julia 0.1- 0.2-
 Options
 StatsBase 0.0.0 0.8.3
 
+0.10.0
+------
+7f3138923abc093f195f8803d167390dbc02d762
+julia 0.6-
+DataArrays 0.5
+StatsBase 0.11.0
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.18.0
+FileIO 0.1.2
+
 0.2.0
 -----
 b5f0fe945459e268939c653dfceafac5c13d393d

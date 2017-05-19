@@ -147,6 +147,18 @@ SpecialFunctions 0.1.0
 julia 0.2- 0.3
 StatsBase
 
+0.13.0
+------
+29e996bad486ccf375a1ccf462c1d6a4153e208e
+julia 0.5
+PDMats 0.6.0
+StatsFuns 0.3.1
+Calculus
+StatsBase 0.8.3
+Compat 0.18.0
+QuadGK 0.1.1
+SpecialFunctions 0.1.0
+
 0.1.4
 -----
 b51725416725c18990f099abc9397e14d81e7fe9

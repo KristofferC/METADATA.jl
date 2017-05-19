@@ -58,3 +58,13 @@ SampledSignals 0.3.0
 Compat 0.8.8
 @osx Homebrew
 @windows WinRPM
+
+1.0.0
+-----
+3cb09a0a909e1a757b368bec962119f1f94e297e
+julia 0.6-
+BinDeps
+FileIO 0.1.1
+SampledSignals 1.0.0
+@osx Homebrew
+@windows WinRPM
