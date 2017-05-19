@@ -7,3 +7,13 @@ julia 0.4
 Requests
 DataFrames
 JSON
+
+0.0.2
+-----
+fa73dcd5e0993a875bf2fb442dad368026af50ce
+julia 0.4
+Requests
+DataFrames
+JSON
+HttpCommon
+Compat 0.7.9
