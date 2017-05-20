@@ -378,3 +378,12 @@ Compat 0.9.0
 PyCall 1.6.0
 RecipesBase 0.0.4
 BaseTestNext 0.2.2
+
+0.5.2
+-----
+c6d207a4354d6e4d9a27cb948f9b1fb8ab2ac551
+julia 0.4
+Compat 0.25.0
+PyCall 1.6.0
+RecipesBase 0.0.4
+BaseTestNext 0.2.2
