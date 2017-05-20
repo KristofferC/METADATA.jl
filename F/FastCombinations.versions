@@ -4,3 +4,8 @@ git://github.com/anthonyclays/FastCombinations.jl.git
 -----
 e58cf68517347a77e26c6846ef1306df1d5cdc6a
 julia 0.4
+
+0.1.0
+-----
+cb2626c003ec0c59af21ecb576f36ca23665ca2e
+julia 0.5
