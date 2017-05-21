@@ -40,3 +40,13 @@ RecipesBase
 SugarBLAS
 LinearMaps
 Compat 0.18.0
+
+0.3.1
+-----
+2772d765e505a7ecce9fdc62cc59ec64b58f1cc2
+julia 0.5
+UnicodePlots
+RecipesBase
+SugarBLAS
+LinearMaps
+Compat 0.18.0
