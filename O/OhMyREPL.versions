@@ -6,3 +6,10 @@ https://github.com/KristofferC/OhMyREPL.jl.git
 julia 0.5
 Tokenize
 Compat 0.9.5
+
+0.2.0
+-----
+f6f69601a96a5e46d00162b6869e24d8fdeade02
+julia 0.6.0-pre
+Crayons
+Tokenize

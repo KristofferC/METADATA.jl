@@ -4,3 +4,9 @@ https://github.com/JuliaArrays/EndpointRanges.jl.git
 -----
 67fb74b9164c07f16068bdf7331f617a3c952c65
 julia 0.5-
+
+0.0.2
+-----
+156d1be6b3e0165fb70896b00ec959715ede03c8
+julia 0.5
+Compat 0.17

@@ -17,3 +17,21 @@ ColorTypes 0.4
 ShowItLikeYouBuildIt
 FileIO
 Compat 0.17
+
+0.0.2
+-----
+6905395d8ac7d39864617df0d4768ff7ef36bacf
+julia 0.5
+ImageCore 0.1.2
+ImageTransformations 0.3.0
+ImageFiltering 0.1.4
+CoordinateTransformations 0.4.0
+Interpolations 0.6
+Rotations
+StaticArrays
+OffsetArrays
+IdentityRanges
+ColorTypes 0.4
+ShowItLikeYouBuildIt
+FileIO
+Compat 0.17

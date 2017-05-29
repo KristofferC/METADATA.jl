@@ -114,8 +114,29 @@ NullableArrays 0.0.7
 -----
 21847baef7c40b0f0e5ab0fe8416aafde8e3b57c
 julia 0.5
-NamedTuples 2.0.0
+NamedTuples 2.0.0 3.0.0
+DataStructures 0.4.5
+Requires 0.3.0
+Documenter 0.9.0
+IterableTables 0.0.1 0.1.0
+
+0.4.1
+-----
+5d21aa6a8260a2222147ba2747628cdfafd70176
+julia 0.5
+NamedTuples 2.0.0 3.0.0
 DataStructures 0.4.5
 Requires 0.3.0
 Documenter 0.9.0
 IterableTables 0.0.1
+
+0.5.0
+-----
+02d635573a73a6bb72e3d5ecf1b1232a7e114561
+julia 0.6.0-rc1
+NamedTuples 3.0.2 4.0.0
+DataStructures 0.4.5
+Requires 0.4.3
+Documenter 0.9.0
+IterableTables 0.1.0
+DataValues 0.0.2

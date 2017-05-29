@@ -437,3 +437,41 @@ Compat 0.19.0
 Iterators
 Juno
 StaticArrays
+
+1.8.0
+-----
+5db7d05fa08ec40260a08ebc4a158b7a0219ff87
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.8.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+StaticArrays
+
+1.8.1
+-----
+f497cb7672bfaec14badc0244ee3b698b2c44c8a
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+Parameters 0.5.0
+RecursiveArrayTools 0.8.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+StaticArrays
+
+1.9.0
+-----
+d9626007728dca0580b361ab23f2d0f6d6409e03
+julia 0.5
+RecipesBase 0.1.0
+Ranges 0.0.1
+RecursiveArrayTools 0.8.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+StaticArrays

@@ -393,3 +393,47 @@ MacroTools
 Distributions
 LRUCache
 @osx Homebrew
+
+0.5.0
+-----
+14cc8ce4084a585c9f4ad6f3e14f444dd23d1c1e
+julia 0.6-rc1
+DSP
+SampledSignals
+FixedPointNumbers 0.3.0
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+Juno
+Images 0.6.0
+LibSndFile
+MacroTools
+Distributions
+LRUCache
+@osx Homebrew
+Unitful
+IntervalSets
+
+0.5.1
+-----
+b26dca4e9d4d41612cb50e66d5652816447348e9
+julia 0.6-rc1
+DSP
+SampledSignals
+FixedPointNumbers 0.3.0
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+Juno
+Images 0.6.0
+LibSndFile
+MacroTools
+Distributions
+LRUCache
+@osx Homebrew
+Unitful
+IntervalSets

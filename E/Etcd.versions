@@ -1,4 +1,4 @@
-git://github.com/forio/Etcd.jl.git
+git://github.com/rofinn/Etcd.jl.git
 
 0.0.1
 -----
@@ -6,3 +6,11 @@ a8829eac75d9ad501d118d2fe0d03a034fe24fca
 julia 0.2- 0.4
 Requests
 Lumberjack
+
+0.1.0
+-----
+620e09eaada17aa6548c9f8ac30848dd364239bd
+julia 0.5
+Requests 0.4.0
+HttpCommon 0.2.4
+Memento 0.1.1

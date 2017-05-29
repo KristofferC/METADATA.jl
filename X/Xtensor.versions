@@ -1,0 +1,9 @@
+https://github.com/QuantStack/Xtensor.jl.git
+
+0.0.1
+-----
+bc52097cb9270bb48ce905a84eb1b90536b7529d
+julia 0.5
+BinDeps 0.4.2
+Compat 0.21
+CxxWrap 0.4

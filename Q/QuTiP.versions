@@ -1,0 +1,8 @@
+https://github.com/goropikari/QuTiP.jl.git
+
+0.0.1
+-----
+7092d8ec22263b2fd005866434c82e9f21078500
+julia 0.5
+PyCall 1.6.2
+PyPlot 2.2.0

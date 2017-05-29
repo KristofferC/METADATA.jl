@@ -231,7 +231,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.0.1
 -----
@@ -247,7 +247,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.0.2
 -----
@@ -263,7 +263,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.0.3
 -----
@@ -279,7 +279,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.0.4
 -----
@@ -295,7 +295,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.1.0
 -----
@@ -311,7 +311,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 
 2.2.0
 -----
@@ -327,7 +327,7 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
 StaticArrays
 
 2.2.1
@@ -344,5 +344,21 @@ Iterators
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff
+ForwardDiff 0.0.1 0.5.0
+StaticArrays
+
+2.3.0
+-----
+ae69ef4f5cd80e2c7d36f479e59a57ec4d6e8e22
+julia 0.6-
+Parameters 0.5.0
+DiffEqBase 1.2.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess
+NLsolve
+ForwardDiff 0.5.0
 StaticArrays

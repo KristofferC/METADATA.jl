@@ -15,3 +15,10 @@ julia 0.4
 TaylorSeries 0.3.0
 FactCheck 0.4.2
 Compat 0.9.1
+
+0.1.0
+-----
+9c3e0ca9ac2daff208a4ef2901c2becc204b6834
+julia 0.5
+TaylorSeries 0.5.0
+FactCheck 0.4.2

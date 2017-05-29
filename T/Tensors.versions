@@ -29,3 +29,10 @@ julia 0.5
 ForwardDiff
 SIMD
 Compat 0.19.0
+
+0.7.0
+-----
+560bc99e40507b1ec9da9c4ae2c5ae682ccc93cd
+julia 0.6.0-pre.alpha.108
+ForwardDiff
+SIMD

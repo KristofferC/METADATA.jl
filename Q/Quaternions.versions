@@ -36,3 +36,10 @@ ac488e96c852e1c4cb4ae69abb12d7e12aeab154
 julia 0.3
 DualNumbers
 Compat 0.7.15
+
+0.2.0
+-----
+62200f0ac5efd6d4d042f5d778d0cf2856c38c50
+julia 0.5
+DualNumbers
+Compat 0.7.15

@@ -6,3 +6,10 @@ https://github.com/pdobacz/PyTest.jl.git
 julia 0.5
 Iterators
 ArgParse
+
+0.0.2
+-----
+21114ed30d29563068edbf1feab8f10ae51f2049
+julia 0.5
+Iterators
+ArgParse

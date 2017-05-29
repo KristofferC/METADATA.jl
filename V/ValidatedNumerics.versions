@@ -186,3 +186,13 @@ Compat 0.7.11
 StaticArrays 0.3 0.5
 ForwardDiff 0.2
 RecipesBase
+
+0.9.0
+-----
+b8809dcc0ce9e63219cfd8fdd357c39b1ad69efc
+julia 0.5
+Reexport 0.0.3
+IntervalArithmetic 0.9.1
+IntervalRootFinding 0.1.1
+IntervalContractors 0.1
+IntervalConstraintProgramming 0.7

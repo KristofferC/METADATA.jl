@@ -134,3 +134,12 @@ HDF5
 BufferedStreams 0.2.0
 Libz
 Compat 0.7.19
+
+0.3.2
+-----
+b39af462d8334e0cbba797f55d56a2795cc41b9a
+julia 0.4
+HDF5
+BufferedStreams 0.2.0
+Libz
+Compat 0.9.5

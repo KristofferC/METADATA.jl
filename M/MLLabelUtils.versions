@@ -32,6 +32,14 @@ StatsBase
 LearnBase 0.1.5 0.2.0
 MappedArrays
 
+0.0.5
+-----
+82da39178f506f4267416f04c5b36c91d97f4d41
+julia 0.5
+StatsBase
+LearnBase 0.1.5 0.2.0
+MappedArrays
+
 0.1.0
 -----
 90ce402b0126fe7c0ceeed186ee0ad1f103fcdb7
@@ -60,6 +68,14 @@ MappedArrays 0.0.6
 -----
 32f57fa45f30fadc9da7db38e011271b138bb765
 julia 0.6-
+StatsBase 0.13
+LearnBase 0.1.5 0.2.0
+MappedArrays 0.0.6
+
+0.1.4
+-----
+294b34042db210ec0db160571a1da368c55abd89
+julia 0.6.0-pre
 StatsBase 0.13
 LearnBase 0.1.5 0.2.0
 MappedArrays 0.0.6

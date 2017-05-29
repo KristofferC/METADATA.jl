@@ -126,3 +126,11 @@ julia 0.4
 JSON
 FunctionalCollections
 Compat 0.9.0
+
+0.4.0
+-----
+d48396730aab8cb51628fb0ff998f665536da0f6
+julia 0.5
+JSON
+FunctionalCollections
+Compat 0.17.0

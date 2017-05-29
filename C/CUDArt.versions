@@ -53,3 +53,10 @@ julia 0.4-
 -----
 7bf74078e7f298c3fc6d4b7006876d6671998d2a
 julia 0.4-
+
+0.3.0
+-----
+88c44b70edc1d0a256297f91f0ee5bef774d8d5c
+julia 0.5
+Compat 0.18.0
+CUDAdrv 0.2.4

@@ -86,3 +86,19 @@ julia 0.5
 StatsBase 
 GLM 0.6
 DataFrames
+
+0.2.2
+-----
+5500d2770a4f6fc26ec5d052ff6ab507e3d0c807
+julia 0.5
+StatsBase 
+GLM 0.6
+DataFrames
+
+0.3.1
+-----
+59b3b48c62ff08ea20da877f534104d01d9c5966
+julia 0.6.0-pre
+StatsBase 
+GLM 0.6
+DataFrames

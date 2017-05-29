@@ -37,3 +37,11 @@ julia 0.5
 JSON
 URIParser
 Compat 0.9.5
+
+0.1.5
+-----
+8303eb8d5cd7b7e0bbe673d9758f8db613b6b7f3
+julia 0.5
+JSON
+URIParser
+Compat 0.9.5

@@ -18,3 +18,9 @@ julia 0.3
 6085748f1da68bee2a9b5f7353c25e35eb6637d3
 julia 0.5
 GeoInterface
+
+0.2.0
+-----
+f787fd9ae3787209b114484d842090ed3a26667c
+julia 0.5
+GeoInterface 0.2.1

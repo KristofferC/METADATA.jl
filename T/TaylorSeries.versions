@@ -80,3 +80,9 @@ FactCheck 0.4.3
 e00fcc12ab4414e82d3fd29221475b6ec721f52f
 julia 0.5
 FactCheck 0.4.3
+
+0.5.0
+-----
+d4f0c20a4db83f84782daf617ef0944ce3673301
+julia 0.5
+Compat 0.17.0

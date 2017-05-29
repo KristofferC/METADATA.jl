@@ -7,3 +7,11 @@ julia 0.5
 Weber
 PyCall
 Conda
+
+0.1.0
+-----
+bc4db1234b3c48067c9db41ea856fd5bdd15c29f
+julia 0.6-rc1
+Weber 0.5
+PyCall
+Conda

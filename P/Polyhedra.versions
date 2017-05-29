@@ -57,3 +57,13 @@ GeometryTypes
 DataStructures
 MathProgBase 0.5.10 0.7
 JuMP 0.16
+
+0.1.5
+-----
+91a0545c3ccb4ea33ac22817354ff0d9d51bdbdd
+julia 0.5
+FixedSizeArrays
+GeometryTypes
+DataStructures
+MathProgBase 0.5.10 0.7
+JuMP 0.16

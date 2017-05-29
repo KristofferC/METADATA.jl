@@ -1,4 +1,4 @@
-git://github.com/kshyatt/CUSOLVER.jl.git
+git://github.com/JuliaGPU/CUSOLVER.jl.git
 
 0.0.1
 -----
@@ -23,3 +23,11 @@ julia 0.4
 CUDArt
 CUBLAS
 CUSPARSE
+
+0.2.0
+-----
+bc4ae3eff24d03b9693a506f952b45501d498d94
+julia 0.5
+CUBLAS 0.0.2
+CUSPARSE 0.6.0
+CUDArt 0.3.0

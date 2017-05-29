@@ -65,3 +65,16 @@ SimpleTraits
 Reexport
 Colors
 FixedPointNumbers 0.3.0
+
+0.3.0
+-----
+bd40e82532bda8c0306fdccc507336a98b5c28dd
+julia 0.5
+ImageCore 0.2
+AxisArrays
+MappedArrays
+SimpleTraits
+Reexport
+Colors
+FixedPointNumbers 0.3.0
+Compat 0.17

@@ -27,3 +27,10 @@ e74a064884311679b1349ac15e222bf96a8d1321
 julia 0.5
 Compat 0.19
 Logging
+
+0.1.4
+-----
+e7187cdd9567b21445672061c639f56b4610a2af
+julia 0.5
+Compat 0.19
+Logging

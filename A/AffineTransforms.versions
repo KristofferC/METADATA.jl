@@ -77,3 +77,10 @@ Requires
 julia 0.5
 Interpolations
 Requires
+
+0.2.2
+-----
+52ea15055fbfafd7cf0302e56540a1f715033590
+julia 0.5
+Interpolations
+Requires

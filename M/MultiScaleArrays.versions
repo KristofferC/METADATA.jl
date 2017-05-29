@@ -23,3 +23,11 @@ RecursiveArrayTools 0.0.2
 Iterators
 DiffEqBase 0.11.0
 Compat 0.19.0
+
+0.3.0
+-----
+cfa9463c527558e7a73e67cb94d415f338a5c463
+julia 0.5
+RecursiveArrayTools 0.8.0
+DiffEqBase 0.11.0
+Compat 0.19.0

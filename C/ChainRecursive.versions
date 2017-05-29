@@ -21,3 +21,12 @@ julia 0.5
 CreateMacrosFrom
 MacroTools
 NumberedLines
+
+0.0.4
+-----
+5bca5f4bcd610d247240703763e8da19900808d9
+julia 0.5
+CreateMacrosFrom
+MacroTools
+NumberedLines
+Atom
