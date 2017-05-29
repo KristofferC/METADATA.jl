@@ -38,3 +38,11 @@ julia 0.5
 BinDeps
 Polyhedra 0.1.3 0.2
 @osx Homebrew
+
+0.0.6
+-----
+2617deb25dfc737d986de50e2ca17477de7b703a
+julia 0.5
+BinDeps
+Polyhedra 0.1.3 0.2
+@osx Homebrew
