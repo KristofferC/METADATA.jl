@@ -18,6 +18,17 @@ ForwardDiff 0.5.0
 LineSearches
 DiffBase
 
+0.10.1
+------
+21c079d994f32b0982367c9c6f54164cc7f19a43
+julia 0.6.0-pre
+Calculus
+Distances
+ForwardDiff 0.5.0
+LineSearches
+DiffBase
+NLSolversBase 2.1.0
+
 0.1.1
 -----
 b472f3cec1310888484d8f07ab4d671a172bf3b8
