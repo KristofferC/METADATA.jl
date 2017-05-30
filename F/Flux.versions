@@ -19,7 +19,7 @@ Juno
 0.2.0
 -----
 efcb9650da31c183b94b839f66aa3467d007c33f
-julia 00.6-
+julia 0.6.0-pre
 Iterators
 DataFlow
 Juno
@@ -28,7 +28,7 @@ MacroTools  0.3.3
 0.2.1
 -----
 7a85eff370b7c68d587b49699fa3f71e44993397
-julia 0.6-
+julia 0.6.0-pre
 Iterators
 DataFlow
 Juno

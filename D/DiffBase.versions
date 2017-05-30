@@ -39,4 +39,4 @@ Compat 0.7.15
 0.2.0
 -----
 c987aed2639ae24f0a031d27d159baa62d06c6db
-julia 0.6-
+julia 0.6.0-pre

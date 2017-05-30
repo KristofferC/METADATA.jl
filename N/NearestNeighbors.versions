@@ -62,6 +62,6 @@ Compat 0.17.0
 0.3.0
 -----
 dcd3aac2070e293ba66ecafef0cc9c860e529dce
-julia 0.6-
+julia 0.6.0-pre
 Distances 0.4
 StaticArrays 0.0.4

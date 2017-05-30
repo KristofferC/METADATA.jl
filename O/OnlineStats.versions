@@ -160,7 +160,7 @@ LearnBase
 0.8.0
 -----
 7f31ade7d0c555ecd201438592510ba289154faf
-julia 0.6-
+julia 0.6.0-pre
 StatsBase
 LearnBase
 Distributions

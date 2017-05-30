@@ -106,7 +106,7 @@ FixedPointNumbers 0.3.0
 0.3.0
 -----
 efb89816fe1a99fbcf413b94a5fc6710108eddb0
-julia 0.6-
+julia 0.6.0-dev.2782
 FileIO 0.0.4
 Images 0.6
 ColorTypes 0.3

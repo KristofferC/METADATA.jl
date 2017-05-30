@@ -3,17 +3,17 @@ https://github.com/davidanthoff/DataValues.jl.git
 0.0.1
 -----
 b8e84797fa0dd641b282f5f2c641dcf1ea10b7f0
-julia 0.6-
+julia 0.6.0-pre
 
 0.0.2
 -----
 c041332b4c5e5f07992d25bf111758297d2335c1
-julia 0.6-
+julia 0.6.0-pre
 
 0.0.3
 -----
 639c9de1102daef9dc865b1a639282c96f0ad9ae
-julia 0.6-
+julia 0.6.0-pre
 
 0.1.0
 -----

@@ -50,7 +50,7 @@ RingBuffers 0.1.0 1.0.0
 1.0.0
 -----
 ce51f8497fabeb299ddea36e8fcf6dcb342a9246
-julia 0.6-
+julia 0.6.0-dev.2746
 BinDeps
 SampledSignals 0.3.0
 RingBuffers 1.0.0

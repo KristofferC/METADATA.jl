@@ -3,5 +3,5 @@ https://github.com/KristofferC/IOIndents.jl.git
 0.1.0
 -----
 ac2a7269866e9ea2e4041ac74b0df0f53affb8c9
-julia 0.6-
+julia 0.6.0-pre
 TestSetExtensions

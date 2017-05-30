@@ -55,7 +55,7 @@ Calculus
 0.4.0
 -----
 1eff4dda6582a3b4e09543a335fa9625221febb2
-julia 0.6-
+julia 0.6.0-pre
 Calculus 0.1.5
 SpecialFunctions 0.1.0
 QuadGK 0.1.1

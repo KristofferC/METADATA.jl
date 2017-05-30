@@ -210,7 +210,7 @@ SpecialFunctions 0.1.0
 0.5.0
 -----
 55222a0fe5509c9dc1ecca88c314f0b57f529cd6
-julia 0.6-
+julia 0.6.0-pre
 StaticArrays 0.5.0
 DiffBase 0.2.0 0.3.0
 NaNMath 0.2.2

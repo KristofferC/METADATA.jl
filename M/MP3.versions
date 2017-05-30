@@ -14,7 +14,7 @@ SIUnits
 1.0.0
 -----
 ac386b6eb24b2b6d028052d55478ca457a0b8c9f
-julia 0.6-
+julia 0.6.0-pre
 BinDeps
 FileIO
 FixedPointNumbers
