@@ -15,3 +15,13 @@ BinDeps
 FileIO
 @osx Homebrew
 @windows WinRPM
+
+0.2.2
+-----
+68c1880a0aa524692e12dcd9eaf333ca07362a3e
+julia 0.5
+Compat 0.17
+BinDeps
+FileIO
+@osx Homebrew
+@windows WinRPM

@@ -294,3 +294,11 @@ julia 0.4
 BinDeps
 JSON
 Compat 0.7.20
+
+0.5.7
+-----
+47b41ff865bdd4c5c302fd07a3f57f456700fc99
+julia 0.4
+BinDeps
+JSON
+Compat 0.7.20

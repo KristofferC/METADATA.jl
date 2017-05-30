@@ -47,3 +47,9 @@ BaseTestNext
 d0840d34cfaedcb1f7f6461e98fabb4d0066ec3f
 julia 0.4
 QuadGK 0.1.2
+
+0.8.6
+-----
+859c66ce5bc6984068cc291a848c1555f7d63f8c
+julia 0.4
+QuadGK 0.1.2
