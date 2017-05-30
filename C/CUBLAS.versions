@@ -10,3 +10,9 @@ b72c32a784731e3b586bbb8285d0900026eca64d
 Compat
 CUDArt
 julia 0.4-
+
+0.1.0
+-----
+0f19aac8e811b446539992ac66e505a86856a735
+julia 0.5
+CUDArt 0.3.0
