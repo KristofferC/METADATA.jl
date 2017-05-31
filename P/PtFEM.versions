@@ -1,0 +1,17 @@
+https://github.com/PtFEM/PtFEM.jl.git
+
+0.0.3
+-----
+a66ff86a58901564d9d1da6271f4e818c111deac
+julia 0.5
+Compat 0.17
+Documenter
+LightXML
+#Plots
+#GR
+Codecs
+Interpolations
+DataTables
+WriteVTK
+OffsetArrays
+QuadGK

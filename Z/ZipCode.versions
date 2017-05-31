@@ -1,0 +1,13 @@
+https://github.com/equinetic/ZipCode.jl.git
+
+0.0.1
+-----
+cdf5907e713b84840e332b18c410b32f73fa17cc
+julia 0.5
+DataFrames
+
+0.0.2
+-----
+1664cf34f530d10fad32837aeb22d6d1679a8d6f
+julia 0.5
+DataFrames
