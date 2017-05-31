@@ -426,3 +426,13 @@ DataStructures
 MathProgBase
 NaNMath 0.2.1
 ForwardDiff 0.3 0.5
+
+0.7.3
+-----
+307ae6dd2fd35529dc0f252d96d7777341e6d87e
+julia 0.5
+Calculus
+DataStructures
+MathProgBase
+NaNMath 0.2.1
+ForwardDiff 0.3 0.5
