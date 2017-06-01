@@ -27,3 +27,20 @@ JSON
 Reexport
 FunctionWrappers
 Dierckx
+
+0.1.1
+-----
+61adc07e8adb61acb00db944f9334a4229e3eb97
+julia 0.5
+PyCall
+StaticArrays
+Optim 0.7.5
+LineSearches
+Calculus
+PyAMG
+JSON
+Reexport
+FunctionWrappers
+Dierckx
+ForwardDiff 0.4
+PositiveFactorizations
