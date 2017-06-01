@@ -1,0 +1,9 @@
+https://github.com/JuliaNLSolvers/OptimBase.jl.git
+
+0.1.0
+-----
+24d37a5f2b425afaf2df23231c6cd881dcd92698
+julia 0.5
+Reexport
+NLSolversBase
+Compat 0.18
