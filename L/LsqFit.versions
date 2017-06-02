@@ -40,3 +40,12 @@ Calculus
 Distributions
 Optim 0.7.5
 Compat 0.9.1
+
+0.3.0
+-----
+4ecb0ecfa6d02c751e6235ff48204e6f3d5f5262
+julia 0.5
+Calculus
+Distributions
+Compat 0.9.1
+OptimBase
