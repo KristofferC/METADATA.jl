@@ -1,0 +1,9 @@
+https://github.com/davidanthoff/DataValueArrays.jl.git
+
+0.0.1
+-----
+13e4102895d26e82d3d7e2492ba9692a59e0acae
+julia 0.6.0-rc1
+Compat 0.19.0
+Reexport
+DataValues
