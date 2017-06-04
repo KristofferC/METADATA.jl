@@ -156,3 +156,14 @@ Distributions
 MetaProgTools
 JLD
 Compat 0.7.15
+
+0.2.5
+-----
+181082fe34bdf8acf50b12e12b0524b5b8b38cb8
+julia 0.5
+QuadGK
+Distributions
+MetaProgTools
+JLD
+Compat 0.7.15
+DocumentFunction
