@@ -36,3 +36,16 @@ LeastSquaresOptim 0.3.0
 Reexport
 FixedEffectModels 0.4.0
 Iterators
+
+0.2.1
+-----
+fca6ec7de77aff576f5c87a9d8ad6094762189af
+julia 0.6.0-pre
+Distances  0.1.1
+StatsBase 0.7.1
+DataArrays
+DataFrames 0.6
+LeastSquaresOptim 0.4.0
+Reexport
+FixedEffectModels 0.4.0
+Iterators
