@@ -107,3 +107,11 @@ Compat 0.17.0
 Juno
 RecipesBase 0.1.0
 StaticArrays
+
+0.9.0
+-----
+22c18d86653e56591fde6c7ff70a0e607c4a26fb
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
