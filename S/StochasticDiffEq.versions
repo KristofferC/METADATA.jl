@@ -362,3 +362,19 @@ DiffEqNoiseProcess
 NLsolve
 ForwardDiff 0.5.0
 StaticArrays
+
+2.4.0
+-----
+b682c1e3d1f12388989d537d99b1129234d0fe94
+julia 0.6.0-pre
+Parameters 0.5.0
+DiffEqBase 1.10.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
