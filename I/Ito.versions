@@ -3,17 +3,20 @@ git://github.com/aviks/Ito.jl.git
 0.0.0
 -----
 8815de484110aca5776daa3001bce58fa4cb3ef0
+julia 0.2 0.6-
 Distributions
 Calendar
 
 0.0.1
 -----
 bb95422226cf5f8c081d9e6a266f9cfc1dc56294
+julia 0.2 0.6-
 Distributions
 Calendar
 
 0.0.2
 -----
 744f58d8314cd95e38b70dffd5f1f1c48020c05a
+julia 0.2 0.6-
 Distributions
 Calendar
