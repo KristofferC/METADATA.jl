@@ -27,3 +27,12 @@ DataStructures
 Requires
 Juno
 Crayons
+
+0.1.4
+-----
+b81b17a9f0d3a3dc3ff4688e5f05b9856bf676eb
+julia 0.6.0-pre
+MacroTools
+DataStructures
+Requires
+Crayons
