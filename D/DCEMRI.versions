@@ -28,3 +28,12 @@ ArgParse
 Calculus
 MAT
 PyPlot
+
+0.2.0
+-----
+8dd082389968cffc221c967fe7e5347890a2d9de
+julia 0.5
+ArgParse
+Calculus
+MAT
+PyPlot
