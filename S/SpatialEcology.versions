@@ -1,0 +1,12 @@
+https://github.com/EcoJulia/SpatialEcology.jl.git
+
+0.1.0
+-----
+0298af1dad8e32de742e1ab44647dcb5263e1cfc
+julia 0.6-pre
+RecipesBase
+DataFrames
+Reexport
+PlotUtils
+#RCall #this should be changed as this is heavy-handed - there is an issue for this on RCall
+#Phylogeny

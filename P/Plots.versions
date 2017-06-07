@@ -105,6 +105,22 @@ Measures
 Showoff
 StatsBase 0.14.0
 
+0.11.3
+------
+df729cd0f6dd115e1e509372ae691efbedb0784a
+julia 0.5
+RecipesBase
+PlotUtils 0.4.1
+PlotThemes 0.1.3
+Reexport
+FixedSizeArrays
+FixedPointNumbers 0.3
+Measures
+Showoff
+StatsBase 0.14.0
+JSON
+NaNMath
+
 0.1.2
 -----
 ea7867429fdd016004a11c41778b5e4b1c12b92e
