@@ -459,3 +459,25 @@ LRUCache
 @osx Homebrew
 Unitful
 IntervalSets
+
+0.5.3
+-----
+c84239ef91ba9d0b45703abce51daa3c8ed789ab
+julia 0.6-rc1
+DSP
+SampledSignals
+FixedPointNumbers 0.3.0
+Lazy
+DataStructures
+Colors
+ArgParse
+FileIO
+Juno
+Images 0.6.0
+LibSndFile
+MacroTools
+Distributions
+LRUCache
+@osx Homebrew
+Unitful
+IntervalSets
