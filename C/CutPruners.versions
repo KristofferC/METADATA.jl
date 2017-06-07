@@ -5,3 +5,11 @@ https://github.com/JuliaPolyhedra/CutPruners.jl.git
 3610cd8c482d92c5a2c12833359f09ae75ec20a8
 julia 0.5
 DocStringExtensions 0.2
+
+0.0.2
+-----
+85a71d80b9f14eda79f9215054543216a469d1a0
+julia 0.5
+DocStringExtensions 0.2
+Compat 0.17
+MathProgBase 0.6 0.7
