@@ -104,3 +104,12 @@ FixedSizeArrays
 ColorTypes
 Compat 0.7.15
 Iterators
+
+0.4.0
+-----
+1075b6047cca8132253d6a36bb10dca26e90b525
+julia 0.6.0-pre
+StaticArrays
+ColorTypes
+FixedPointNumbers 0.3
+Iterators
