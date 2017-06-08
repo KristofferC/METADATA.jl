@@ -1,0 +1,10 @@
+https://github.com/JuliaMath/FFTW.jl.git
+
+0.0.1
+-----
+f286acf2ef8e76cd6f45fc88c51efcd57c51d3e4
+julia 0.6.0-rc1
+AbstractFFTs
+BinDeps 0.6.0
+@osx Homebrew
+@windows WinRPM

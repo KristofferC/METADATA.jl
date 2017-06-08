@@ -6,3 +6,11 @@ c9aa90255c1f0289726e2168eacce5c83109cbb7
 julia 0.5
 DiffEqJump
 DiffEqBase
+
+0.2.0
+-----
+54d00d9f4bf180f3c5f8084b57adbd104183ee5c
+julia 0.5
+DiffEqJump
+DiffEqBase
+Compat 0.17.0
