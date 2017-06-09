@@ -10,3 +10,14 @@ DataFrames
 DataTables
 BinDeps
 @windows WinRPM
+
+0.1.1
+-----
+dd32c71ea37401d46f497ab3f89d201216babb1b
+julia 0.5
+DataArrays
+NullableArrays
+DataFrames
+DataTables
+BinDeps
+@windows WinRPM

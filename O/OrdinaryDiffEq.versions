@@ -766,3 +766,20 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+
+2.7.1
+-----
+9025565498f0b8259b50ce95c42e1e76518454ca
+julia 0.6.0-pre
+DiffEqBase 1.10.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport

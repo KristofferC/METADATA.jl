@@ -395,3 +395,20 @@ NLsolve
 ForwardDiff 0.5.0
 StaticArrays
 Reexport
+
+2.5.1
+-----
+bd0516b2db2a189267bdf1e0ab0cb6603e8486fe
+julia 0.6.0-pre
+Parameters 0.5.0
+DiffEqBase 1.10.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
