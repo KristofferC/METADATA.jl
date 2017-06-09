@@ -4,5 +4,5 @@ https://github.com/mlakolar/CoordinateDescent.jl.git
 -----
 72f6b724b0bd56c988b240aa22c0a4889c005290
 julia 0.6.0-pre
-ProximalBase
+ProximalBase 0.0.0 0.0.3
 DataStructures

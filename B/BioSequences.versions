@@ -1,0 +1,17 @@
+https://github.com/BioJulia/BioSequences.jl.git
+
+0.5.0
+-----
+8bcf4a068bb42417a279387ae7ad172db2c7aebe
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+IndexableBitVectors
+Iterators
+IntervalTrees
+julia 0.5
+PairwiseListMatrices
+Twiddle
+DataStructures
