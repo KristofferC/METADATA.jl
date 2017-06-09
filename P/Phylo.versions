@@ -1,0 +1,8 @@
+https://github.com/richardreeve/Phylo.jl.git
+
+0.1.0
+-----
+ccd6d208ddb09c58cbc23164e0a9f81d0518d85d
+julia 0.5
+Compat 0.18.0
+Distributions 0.12.2
