@@ -1704,6 +1704,44 @@ StatsBase 0.15
 JuMP 0.15
 MathProgBase 0.5.10
 
+0.4.13
+------
+67093eb101f9a83e3873ca95bd2ba1f1657bc736
+julia 0.5
+Compat 0.13
+Anasol
+BIGUQ
+AffineInvariantMCMC
+GeostatInversion
+MetaProgTools
+ReusableFunctions
+RobustPmap
+SVR 0.2.3
+DocumentFunction
+Documenter 0.8.10
+Conda 0.4
+PyCall 1.8
+PyPlot 2.2
+Gadfly 0.6.2
+Compose 0.5.2
+Measures
+Images
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+ODE
+NMF
+BlackBoxOptim
+Klara 0.8.6
+Optim 0.7
+StatsBase 0.15
+JuMP 0.17
+MathProgBase 0.6.4
+
 0.4.2
 -----
 97845319c5032002f5a628cb4974b9c439a0c138
