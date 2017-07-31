@@ -13,3 +13,10 @@ Iterators 0.1.9
 julia 0.4
 FastGaussQuadrature 0.0.3
 Iterators 0.1.9
+
+0.2.0
+-----
+cdbae3d2f1ed76165deb1a9efb5912355ddcb486
+julia 0.5
+FastGaussQuadrature 0.0.3
+IterTools 0.1.0

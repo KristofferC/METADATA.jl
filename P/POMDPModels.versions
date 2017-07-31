@@ -18,3 +18,27 @@ POMDPs
 TikzPictures
 POMDPToolbox
 AutoHashEquals
+
+0.1.3
+-----
+ada4798c16b501fbe0291f9296d7a7c0ddf6f0d6
+julia 0.5
+Distributions
+POMDPs
+TikzPictures
+POMDPToolbox
+AutoHashEquals
+StaticArrays
+StatsBase 0.15
+
+0.2.0
+-----
+3f102204aa1943e13d175c0752e5800b6894a39c
+julia 0.6
+Distributions
+POMDPs 0.6
+TikzPictures
+POMDPToolbox
+AutoHashEquals
+StaticArrays
+StatsBase 0.15

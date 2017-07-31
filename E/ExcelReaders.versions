@@ -93,3 +93,11 @@ DataArrays
 DataFrames
 Dates
 PyCall 1.5
+
+0.8.1
+-----
+3e55cdb38d265f707773c51c08f23f2c103641d3
+julia 0.6
+DataArrays
+DataFrames
+PyCall 1.5

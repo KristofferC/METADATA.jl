@@ -22,3 +22,16 @@ AutoHashEquals
 2a90487b9612117486bbf6ab2f4d2c8eaa8866a3
 julia 0.5
 AutoHashEquals
+
+0.4.0
+-----
+d2bbd45ffe59191abbc3ded5fdc74c0f2ea80c1d
+julia 0.5
+AutoHashEquals
+
+0.5.0
+-----
+881f6358acc1a86ac6677b6260bf361829589d2c
+julia 0.5
+AutoHashEquals
+Compat 0.17.0

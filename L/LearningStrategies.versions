@@ -5,3 +5,9 @@ https://github.com/JuliaML/LearningStrategies.jl.git
 519ec60796c011508faabda4c7fbb5aaf9f4b302
 julia 0.5
 LearnBase
+
+0.1.0
+-----
+89681a6481e9d0acea87d4e323b0781eb7b790c8
+julia 0.6.0
+LearnBase

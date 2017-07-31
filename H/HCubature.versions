@@ -1,0 +1,21 @@
+https://github.com/stevengj/HCubature.jl.git
+
+1.0.0
+-----
+d5bef9c5bd6055985b1efcb2f1cbfa4d41baa777
+julia 0.6
+Compat
+StaticArrays
+Combinatorics
+DataStructures
+QuadGK
+
+1.0.1
+-----
+7a1164af5f599f6490b7cf3e0d8984a9a7ee6432
+julia 0.6
+Compat
+StaticArrays
+Combinatorics
+DataStructures
+QuadGK

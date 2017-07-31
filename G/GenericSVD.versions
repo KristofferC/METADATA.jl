@@ -1,4 +1,4 @@
-git://github.com/simonbyrne/GenericSVD.jl.git
+https://github.com/JuliaMath/GenericSVD.jl.git
 
 0.0.1
 -----
@@ -10,3 +10,8 @@ julia 0.4
 433f7a1b3fb7dc3f1edbde9ed453c52e03b86f7f
 julia 0.4
 Compat 0.8.6
+
+0.1.0
+-----
+d8d48a0fca88ce92f5136ce7519fad277030f1f4
+julia 0.5

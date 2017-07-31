@@ -36,6 +36,17 @@ julia 0.2- 0.5
 Optim 0.0 0.5
 Calculus
 
+0.11.0
+------
+fff21cf2f15cb0812e6a347d6f83f4710d67a454
+julia 0.6.0-pre
+Calculus
+Distances
+ForwardDiff 0.5.0
+LineSearches
+DiffBase
+NLSolversBase 2.1.0
+
 0.1.2
 -----
 3fbd6057c01bad8d0cef46f0a9f1430749c19fb2

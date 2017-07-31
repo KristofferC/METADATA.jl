@@ -1,0 +1,10 @@
+https://github.com/JuliaGraphics/FreeTypeAbstraction.jl.git
+
+0.1.0
+-----
+d515b91ee3ed79e368ba41a302767c94e314386e
+julia 0.5
+FreeType
+StaticArrays
+Colors
+ColorVectorSpace

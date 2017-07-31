@@ -89,3 +89,12 @@ LibBSON 0.2.8
 BinDeps 0.4
 Compat 0.9
 @osx Homebrew
+
+0.3.0
+-----
+c9d9701726ff26f58952614048070d490306d972
+julia 0.5
+LibBSON 0.2.8
+BinDeps 0.4
+Compat 0.9
+@osx Homebrew

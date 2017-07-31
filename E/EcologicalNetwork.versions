@@ -16,3 +16,21 @@ StatsBase
 Cairo
 Lexicon
 Logging
+
+1.1.0
+-----
+2d116f3782046c59824bd6d26f1d7acdc4ad758a
+julia 0.6
+StatsBase
+Combinatorics
+Plots
+RecipesBase
+
+1.1.1
+-----
+537522ae9bdb5c47495ec054a9f52e528e7314a6
+julia 0.6
+StatsBase
+Combinatorics
+Plots
+RecipesBase

@@ -21,3 +21,11 @@ julia 0.5
 BinDeps 0.4.0
 @osx Homebrew 0.3.0
 CMakeWrapper 0.0.1
+
+0.0.4
+-----
+85a57d79c23f69db1cd6620b8d3e1c5cf6117538
+julia 0.5
+BinDeps 0.4.0
+@osx Homebrew 0.3.0
+CMakeWrapper 0.0.1

@@ -5,3 +5,9 @@ https://github.com/bicycle1885/CodecXz.jl.git
 ce7f73b019ef9930f445349598f1e89edfd14495
 julia 0.6-rc1
 TranscodingStreams 0.1
+
+0.2.0
+-----
+e89efb7510d6ed853dc4e19a62eb1a95c86ebf26
+julia 0.6-rc1
+TranscodingStreams 0.2

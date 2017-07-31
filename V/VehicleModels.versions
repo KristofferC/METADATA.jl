@@ -1,0 +1,13 @@
+https://github.com/JuliaMPC/VehicleModels.jl.git
+
+0.1.2
+-----
+94f4bc137ab3e5828c078a4fca945114c897eda8
+julia 0.6
+NLOptControl
+Parameters
+JuMP
+Interpolations
+OrdinaryDiffEq
+DiffEqBase
+Ranges

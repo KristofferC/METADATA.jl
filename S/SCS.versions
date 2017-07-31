@@ -197,3 +197,19 @@ julia 0.5
 MathProgBase 0.5 0.7
 BinDeps
 @osx Homebrew
+
+0.3.2
+-----
+6cd9ffd67a22631aa294842ae4c68c346fd38828
+julia 0.5
+MathProgBase 0.5 0.7
+BinDeps
+@osx Homebrew
+
+0.3.3
+-----
+5a60bd7852e0f6a3fd7bf14d7d6b2d445038eab5
+julia 0.5
+MathProgBase 0.5 0.7
+BinDeps
+@osx Homebrew

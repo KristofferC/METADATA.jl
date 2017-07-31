@@ -148,3 +148,12 @@ JSON
 Requests
 Git
 Compat 0.9.5
+
+0.4.0
+-----
+08f64bcc43ccac1b10382383db40942997c6669f
+julia 0.5
+JSON
+Requests
+Git
+Compat 0.9.5

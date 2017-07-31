@@ -9,3 +9,12 @@ ColorTypes
 Compose
 LightGraphs
 Graphs
+
+0.2.0
+-----
+b3cee81b4f088a2f6821fa2d8e7012d8f4c1ac81
+julia 0.6
+Colors
+ColorTypes
+Compose
+LightGraphs

@@ -46,6 +46,24 @@ Compat 0.9.5
 Nemo 0.5.1
 ReadableNumbers 0.0.2
 
+0.1.16
+------
+591238c19d2a7b49851042200ff86c959c61a0ba
+julia 0.5.0
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.6.0
+ReadableNumbers 0.0.3
+
+0.1.17
+------
+8e24be91f923aa6087fbee34e47e4b4905b0dbda
+julia 0.5.0
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.6.0
+ReadableNumbers 0.0.3
+
 0.1.2
 -----
 d8c8d9d4587a592137d627d6e2a0ea05140a55a7

@@ -1,0 +1,10 @@
+https://github.com/mschauer/Bridge.jl.git
+
+0.4.1
+-----
+88b4871a877920f9c1379ea77e579ec675f5b8b3
+julia 0.6
+Polynomials
+Distributions 0.11.1
+StaticArrays 0.6.1
+Compat 0.28.0

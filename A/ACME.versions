@@ -48,3 +48,27 @@ ddb81600545c5a5c32442827ad2478433b3b286f
 julia 0.4
 Compat 0.9.0
 ProgressMeter 0.2.1
+
+0.4.0
+-----
+60fab6e39bed0fe3dc6b966da6f6c086686ce438
+julia 0.4
+Compat 0.9.0
+Iterators 0.1.8
+ProgressMeter 0.2.1
+
+0.4.1
+-----
+607a1fd3a5f0a92f7963781b73c227e0cc8d79e3
+julia 0.4
+Compat 0.9.0
+Iterators 0.1.8
+ProgressMeter 0.2.1
+
+0.4.2
+-----
+faf4ba7aab8adf635e574ecf5ebcd4bd04c71eb1
+julia 0.4
+Compat 0.9.0
+IterTools 0.1.0
+ProgressMeter 0.2.1

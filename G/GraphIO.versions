@@ -9,3 +9,14 @@ GZip 0.2.20
 EzXML 0.3.0
 ParserCombinator 1.7.11
 JLD 0.6.3
+
+0.1.0
+-----
+da4ef65290c072f8a8ee358cd264e325d35568d2
+julia 0.6
+LightGraphs 0.9.0
+GZip
+EzXML
+ParserCombinator
+JLD
+SimpleTraits

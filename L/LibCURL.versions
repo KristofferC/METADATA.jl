@@ -59,3 +59,11 @@ julia 0.4
 BinDeps
 Compat 0.8
 @windows WinRPM
+
+0.2.2
+-----
+94c22f41aed053eb41ce6a4df4a602511781dc0e
+julia 0.4
+BinDeps
+Compat 0.8
+@windows WinRPM

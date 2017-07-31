@@ -466,3 +466,23 @@ JSON 0.5
 ZMQ 0.3.3
 Compat 0.9.5
 Conda 0.1.5
+
+1.5.1
+-----
+1b17812b9ee2a544821fe4d00cfd9ac93a2491e5
+julia 0.5
+MbedTLS 0.4.3
+JSON 0.5
+ZMQ 0.3.3
+Compat 0.25.1
+Conda 0.1.5
+
+1.6.0
+-----
+806cbf09421d4e945b728d657769f7e25e584d62
+julia 0.5
+MbedTLS 0.4.3
+JSON 0.5
+ZMQ 0.3.3
+Compat 0.27.0
+Conda 0.1.5

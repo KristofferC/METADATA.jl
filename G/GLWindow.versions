@@ -237,3 +237,17 @@ ColorTypes
 FixedPointNumbers
 FixedSizeArrays
 FileIO
+
+0.5.0
+-----
+4f3eaeb50d7a23f41826695d8a0e3fd5bc1be72e
+julia 0.6
+Reactive 0.5.2
+GLAbstraction 0.5
+GeometryTypes 0.4.1
+ModernGL 0.1.0
+FixedPointNumbers 0.3.0
+ColorTypes 0.3.1
+StaticArrays # FieldVector
+GLFW
+FileIO

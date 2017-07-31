@@ -4,3 +4,8 @@ git://github.com/carlobaldassi/ExtractMacro.jl.git
 -----
 e0a3ea0b4f1817afc94d77b372212243619c7350
 julia 0.4
+
+0.2.0
+-----
+bb8aae062173e6b3cd6aba103ec1df89138c570b
+julia 0.5

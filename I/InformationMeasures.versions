@@ -5,3 +5,15 @@ https://github.com/Tchanders/InformationMeasures.jl.git
 d26b9a9b36368399634b8f565fc26b670cf05dae
 julia 0.4
 Discretizers 0.3.0
+
+0.1.0
+-----
+acf423e033164742f8575874f533731da781ad32
+julia 0.5
+Discretizers 0.3.0
+
+0.1.1
+-----
+ab53da2223b84de2dca7bc40ac4a9814c84f67ca
+julia 0.5
+Discretizers 0.3.0

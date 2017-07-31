@@ -80,6 +80,17 @@ Graphs
 IterationManagers
 Docile
 
+0.11.0
+------
+2eecc7ad1a1944e9866408a807a1f9f6e310cd92
+julia 0.5
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.18.0
+StatsBase
+
 0.1.2
 -----
 16a9b81ab76185a0003733a398e99acb19a7b071
@@ -96,6 +107,28 @@ Compat
 Graphs
 IterationManagers
 Docile
+
+0.12.0
+------
+05906bfd89ec42185b83f18fe693afc21df14eef
+julia 0.5
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.18.0
+StatsBase
+
+0.12.1
+------
+f744b5bd0dbe0f65cf0ff32bc5a744948435e4ec
+julia 0.5
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.18.0
+StatsBase
 
 0.2.0
 -----

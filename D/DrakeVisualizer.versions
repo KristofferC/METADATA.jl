@@ -74,3 +74,35 @@ StaticArrays 0.0.4
 DataStructures 0.4
 JSON 0.8
 CMakeWrapper 0.0.1
+
+0.2.0
+-----
+4f056e6890f115c1993e4d1067e957ffddb5254c
+julia 0.6
+LCMCore 0.0.4
+BinDeps 0.4.0
+GeometryTypes 0.4
+ColorTypes 0.2.0
+Meshing 0.2.0
+Rotations 0.5.0
+CoordinateTransformations 0.2.0
+StaticArrays 0.5
+DataStructures 0.4
+JSON 0.8
+CMakeWrapper 0.0.2
+
+0.2.1
+-----
+ae57d0efd15c0a349092c6cd0195ef67de7ad6d4
+julia 0.6
+LCMCore 0.0.4
+BinDeps 0.4.0
+GeometryTypes 0.4
+ColorTypes 0.2.0
+Meshing 0.2.0
+Rotations 0.5.0
+CoordinateTransformations 0.2.0
+StaticArrays 0.5
+DataStructures 0.4
+JSON 0.8
+CMakeWrapper 0.0.2

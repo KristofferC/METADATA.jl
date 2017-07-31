@@ -6,3 +6,35 @@ https://github.com/BioJulia/BioCore.jl.git
 Automa
 BufferedStreams
 julia 0.5
+
+1.0.1
+-----
+8eefa802b9be3cc8750bf5f8c4a1bdf8843f9e50
+julia 0.5
+Compat 0.17
+Automa
+BufferedStreams
+
+1.1.0
+-----
+58c0db4e8c28aeb2b91e794c0ad2ba6951cb90a4
+julia 0.5
+Compat 0.17
+Automa
+BufferedStreams
+
+1.2.0
+-----
+ceb7c992ba1022011af637075a6bbf830afb9974
+julia 0.5
+Compat 0.17
+Automa 0.3
+BufferedStreams
+
+1.2.1
+-----
+72d64744643ba817ef79e07418d8b9afe5620f67
+julia 0.5
+Compat 0.17
+Automa 0.3
+BufferedStreams

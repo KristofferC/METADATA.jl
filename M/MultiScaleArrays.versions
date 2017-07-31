@@ -31,3 +31,10 @@ julia 0.5
 RecursiveArrayTools 0.8.0
 DiffEqBase 0.11.0
 Compat 0.19.0
+
+0.4.0
+-----
+4d60ba769c60547f6718493a4daf1c879a85fd86
+julia 0.6
+RecursiveArrayTools 0.8.0
+DiffEqBase 0.11.0

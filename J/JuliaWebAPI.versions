@@ -109,3 +109,36 @@ Logging 0.3.1
 HttpCommon
 HttpServer 0.0.12
 Compat 0.9.5
+
+0.2.2
+-----
+d2bffcd2877b9337e2656eeaba747624f41e9a96
+julia 0.4
+ZMQ 0.3.3
+JSON
+Logging 0.3.1
+HttpCommon
+HttpServer 0.0.12
+Compat 0.17.0
+
+0.3.0
+-----
+457dcd1cfcbef4b834a3f19eaa1560e74871e124
+julia 0.5
+ZMQ 0.3.3
+JSON
+Logging 0.3.1
+HttpCommon
+HttpServer 0.0.12
+Compat 0.17.0
+
+0.3.1
+-----
+57ffdf647afa0eddb5ae1aaf516fae5f505d5d46
+julia 0.5
+ZMQ 0.3.3
+JSON
+Logging 0.3.1
+HttpCommon
+HttpServer 0.0.12
+Compat 0.17.0

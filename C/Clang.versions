@@ -42,3 +42,15 @@ DataStructures
 ca3880c7c977a68193bcf2f570008a6a57eaf9e1
 julia 0.4-
 DataStructures
+
+0.2.0
+-----
+0b1be5deab6ae2014b20590fe48acbba4fc57cb4
+julia 0.5
+DataStructures
+
+0.3.0
+-----
+4d636a3fd61e6e60b8659a873f3bd0a79b299d18
+julia 0.6
+DataStructures

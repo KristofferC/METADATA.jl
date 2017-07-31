@@ -1,0 +1,13 @@
+https://github.com/JuliaGraphs/MetaGraphs.jl.git
+
+0.0.1
+-----
+7aa9143a9fea334cf38800e7e151d879cd17bfb1
+julia 0.6
+LightGraphs 0.9
+
+0.1.0
+-----
+cc75c3f295c4f6cbc76f05a5728ec160d78d0495
+julia 0.6
+LightGraphs 0.9

@@ -1,0 +1,8 @@
+https://github.com/JuliaGraphs/CommunityDetection.jl.git
+
+0.0.1
+-----
+a5f466d6cdefdcb8ef621828f51e2fa0ec1e8de9
+julia 0.6
+LightGraphs 0.9
+Clustering

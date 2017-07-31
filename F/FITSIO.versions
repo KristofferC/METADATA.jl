@@ -9,6 +9,13 @@ git://github.com/JuliaAstro/FITSIO.jl.git
 920b0a402f6eaba7ea7b60334087bdbdce582eb6
 julia 0.2
 
+0.10.0
+------
+d0f2fd2f4dfa3cd9e42d8c9ff73046649c829617
+julia 0.4
+BinDeps 0.3.12
+Compat 0.17.0
+
 0.2.0
 -----
 c2420ce928255b432e322a2e88cb2a4b849ed2f9

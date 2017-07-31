@@ -53,3 +53,11 @@ GeometryTypes
 ColorTypes
 Compat 0.8.7
 FileIO
+
+0.1.0
+-----
+df3323bbb328b503acf832e60fb713c4f84f5bd9
+julia 0.6
+GeometryTypes 0.4
+ColorTypes
+FileIO

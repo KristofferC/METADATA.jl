@@ -1,4 +1,4 @@
-git://github.com/bastikr/QuantumOptics.jl.git
+git://github.com/qojulia/QuantumOptics.jl.git
 
 0.1.0
 -----
@@ -20,3 +20,10 @@ ae69320f5c51a10588c1d69f0d256cc7e391e81c
 julia 0.5
 Roots
 ODE
+
+0.4.0
+-----
+e80c03227ff9acbef5a08d68f237ab88fd666612
+julia 0.5
+Compat 0.17
+Roots

@@ -59,3 +59,23 @@ HierarchicalMatrices 0.0.1
 LowRankApprox 0.0.2
 ProgressMeter 0.3.4
 Compat 0.17
+
+0.2.1
+-----
+18710e9941804f9ff595dae4212b36cc6b2bc649
+julia 0.5
+ToeplitzMatrices 0.2
+HierarchicalMatrices 0.0.2
+LowRankApprox 0.0.2
+ProgressMeter 0.3.4
+Compat 0.17
+
+0.2.2
+-----
+66d3b7a2c394ba55fe1668d1f720d0e18b860b26
+julia 0.5
+ToeplitzMatrices 0.2
+HierarchicalMatrices 0.0.2
+LowRankApprox 0.0.2
+ProgressMeter 0.3.4
+Compat 0.17

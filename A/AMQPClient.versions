@@ -5,3 +5,9 @@ https://github.com/JuliaComputing/AMQPClient.jl.git
 08f2c42d89d95b1ee38ed566bf786f0331aa8a86
 julia 0.5
 Compat 0.17.0
+
+0.0.2
+-----
+9491451f2798b0379fb0ad9dc0173cc3f2ad81ad
+julia 0.5
+Compat 0.17.0

@@ -65,3 +65,17 @@ Parameters
 julia 0.5
 NLSolversBase 2.0
 Parameters
+
+2.2.0
+-----
+32f5337120338d7805e03f7f5eedcff2e96becad
+julia 0.6-pre
+NLSolversBase 2.0
+Parameters
+
+2.2.1
+-----
+f382f9c0f4ca18cbb205f61d41cc62342e784b1a
+julia 0.6-pre
+NLSolversBase 2.0
+Parameters

@@ -1,0 +1,17 @@
+https://github.com/simonster/JLD2.jl.git
+
+0.0.1
+-----
+c1df87ec20745a6f3e5d6ccdbf46313836aeb7f4
+julia 0.6
+DataStructures
+Libz
+FileIO 0.5.0
+
+0.0.2
+-----
+6a415dd6b1d98baeb976babef8696ef243b709b5
+julia 0.6
+DataStructures
+Libz
+FileIO 0.5.0

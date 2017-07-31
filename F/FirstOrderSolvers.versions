@@ -1,0 +1,12 @@
+https://github.com/mfalt/FirstOrderSolvers.jl.git
+
+0.1.0
+-----
+721a344cfa2cf8c6970b7f7ad8a3655c0e1cb9f4
+julia 0.6
+MathProgBase
+ValueHistories
+ProximalOperators 0.4.2
+SugarBLAS
+IterativeSolvers
+Optim

@@ -75,3 +75,9 @@ MacroTools
 dd6d2f1dda2aa6d183bbf4415f84a220cd184504
 julia 0.4
 MacroTools
+
+0.3.0
+-----
+da904a4103408cc8fc4bf46c0734f7ac97e24f4a
+julia 0.6.0-pre
+MacroTools

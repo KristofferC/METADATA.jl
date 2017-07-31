@@ -67,3 +67,12 @@ julia 0.5
 Polynomials
 Compat 0.17.0
 DiffEqBase 1.5.1
+
+0.7.0
+-----
+ec52c9422b2ca7f1bd6a5d13e425370fbdbafa58
+julia 0.5
+Polynomials
+Compat 0.17.0
+DiffEqBase 1.5.1
+Reexport

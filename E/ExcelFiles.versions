@@ -1,0 +1,23 @@
+https://github.com/davidanthoff/ExcelFiles.jl.git
+
+0.0.1
+-----
+3e86f36fee9ae6624f4cc6b20de7c56851ff023e
+julia 0.6-pre
+ExcelReaders 0.7.0
+IterableTables 0.2.0
+DataValues 0.1.0
+DataTables 0.0.3
+FileIO 0.4.0
+DataFrames 0.9.0
+
+0.1.0
+-----
+4f1154c76fe697c15fb8693b3944600b437dab43
+julia 0.6-pre
+ExcelReaders 0.7.0
+IterableTables 0.2.0
+DataValues 0.1.0
+DataTables 0.0.3
+FileIO 0.4.0
+DataFrames 0.9.0

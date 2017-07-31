@@ -78,3 +78,12 @@ julia 0.5
 MathProgBase 0.5 0.7
 JuMP 0.15
 ConicNonlinearBridge
+
+0.5.0
+-----
+c3a6a26997d8e9e2a6d8054734fb1c9757d762aa
+julia 0.6
+MathProgBase 0.5 0.7
+JuMP 0.15
+ConicNonlinearBridge
+ConicBenchmarkUtilities

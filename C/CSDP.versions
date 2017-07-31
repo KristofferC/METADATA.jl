@@ -17,3 +17,12 @@ BinDeps
 Glob
 MathProgBase 0.5 0.7
 SemidefiniteModels
+
+0.0.3
+-----
+2f31ac594e0f28892f57edd003660fc45b0e1084
+julia 0.5
+BinDeps
+Glob
+MathProgBase 0.5 0.7
+SemidefiniteModels

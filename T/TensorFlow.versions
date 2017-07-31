@@ -245,3 +245,131 @@ Juno 0.2.3
 Compat 0.18
 MacroTools 0.3.6
 AutoHashEquals 0.1.0
+
+0.6.2
+-----
+db32d4b5169ef51be0f5de6b6a6a5434eecfe74b
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.6.3
+-----
+161e07d954b9c67435fd53702f9ff1d5d97033d3
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.6.4
+-----
+3d6d8b936f8bea8bef6e415c3d1d54023882a037
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.6.5
+-----
+8f6ef9df9caf29abbf84a1b0c627ac25adfa6034
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.6.6
+-----
+be6791cccce20d1f5532e7001fb5b606592538fa
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.6.7
+-----
+3c187fca433cda6797d85ca0791b0abed9d9aebb
+julia 0.5
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.7.0
+-----
+84a173ad2511c72d7cee3b67514be26ab5ef4835
+julia 0.6
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
+
+0.7.1
+-----
+a8e1c22a939d902b2025b48711ef83e2af0ea1a2
+julia 0.6
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.2.3
+Distributions 0.10.2
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2

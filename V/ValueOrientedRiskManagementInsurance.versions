@@ -31,3 +31,19 @@ julia 0.4
 Distributions
 DataArrays
 DataFrames
+
+0.0.5
+-----
+5e538c212006cddc620a7a0e66c947d404aa9211
+julia 0.6
+Distributions
+DataArrays
+DataFrames
+
+0.1.0
+-----
+5e538c212006cddc620a7a0e66c947d404aa9211
+julia 0.6
+Distributions
+DataArrays
+DataFrames

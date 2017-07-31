@@ -85,3 +85,11 @@ julia 0.5
 IntervalSets
 RangeArrays
 Compat 0.19
+
+0.1.4
+-----
+edd8884b8bb7d4255d7303236d782a315daa853f
+julia 0.5
+IntervalSets 0.1
+RangeArrays
+Compat 0.19

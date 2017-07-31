@@ -1,0 +1,14 @@
+https://github.com/BioJulia/GeneticVariation.jl.git
+
+0.1.0
+-----
+a6b5301ac5bf42c3f9208e9acbdc3216c72af9ac
+julia 0.5
+Automa
+BGZFStreams
+BioCore 1.1.0
+BioSequences 0.6.2 0.7.0
+BufferedStreams
+Compat 0.17
+Twiddle
+IntervalTrees

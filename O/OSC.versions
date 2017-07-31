@@ -4,3 +4,8 @@ git://github.com/fundamental/OSC.jl.git
 -----
 4fa945b1757deae61c90fbe61fd42f05663d0b17
 julia 0.2-
+
+0.1.0
+-----
+c7f98793d067c6c0a394ffcfbddf54b875950a79
+julia 0.5

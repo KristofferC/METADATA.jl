@@ -113,3 +113,21 @@ StaticArrays
 ColorTypes
 FixedPointNumbers 0.3
 Iterators
+
+0.4.1
+-----
+40486bfd04e824a2509c99a3a1ed52c42f641b06
+julia 0.6
+IterTools
+StaticArrays 0.5.1
+ColorTypes 0.3.1
+FixedPointNumbers 0.3
+
+0.4.2
+-----
+81dbd66f0ab8935a99ee2c82bfc885610b310cf6
+julia 0.6
+IterTools
+StaticArrays 0.5.1
+ColorTypes 0.3.1
+FixedPointNumbers 0.3

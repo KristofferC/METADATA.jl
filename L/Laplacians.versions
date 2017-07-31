@@ -62,3 +62,10 @@ julia 0.5
 PyPlot 2.3.0
 DataStructures 0.5.0
 PyAMG 0.0.9
+
+0.2.0
+-----
+88b46471cf543ee01439395f8621af9cda32dc4d
+julia 0.6
+PyPlot 2.2.1
+DataStructures 0.5.0

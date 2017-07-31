@@ -44,3 +44,17 @@ b77f0bb65628d4e818984e5e1191bb9b042ce47a
 julia 0.5
 IndexedArrays
 Requires
+
+0.5.0
+-----
+6e5d3acf1665b8b69fe4a8dd1766973d5958b2a2
+julia 0.5
+NamedArrays
+RecipesBase
+
+0.5.1
+-----
+11fbf2961e5fe43c01f8d9c5fdace511e0b0acc2
+julia 0.5
+NamedArrays
+RecipesBase

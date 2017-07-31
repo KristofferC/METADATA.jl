@@ -1,0 +1,28 @@
+https://github.com/JuliaGeometry/RayTraceEllipsoid.jl.git
+
+0.0.1
+-----
+3947ead0171542ae179c2a3f56806fe9e3fb0916
+julia 0.6
+CoordinateTransformations
+StaticArrays
+OffsetArrays
+Rotations
+
+0.0.2
+-----
+c0a841898dc68cb0e6acc9056a0cc660ddc45586
+julia 0.6
+CoordinateTransformations
+StaticArrays
+OffsetArrays
+Rotations
+
+0.0.3
+-----
+442feae706a3d3eb7554b4baac7b5206e9da5e9d
+julia 0.6
+CoordinateTransformations
+StaticArrays
+OffsetArrays
+Rotations

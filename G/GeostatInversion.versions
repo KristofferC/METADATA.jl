@@ -79,3 +79,19 @@ julia 0.5
 IterativeSolvers 0.3.0
 RobustPmap
 Grid
+
+0.2.4
+-----
+21f2def57f284e1fa659aefb1b5107c63c182380
+julia 0.5
+IterativeSolvers 0.3.0
+RobustPmap
+Grid
+
+0.2.5
+-----
+6d7a4fb6cb23b73c71f7a34e9ecd7a7d30292fda
+julia 0.5
+RobustPmap
+IterativeSolvers 0.3.0
+Interpolations

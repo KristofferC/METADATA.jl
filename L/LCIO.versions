@@ -87,3 +87,11 @@ julia 0.5
 BinDeps 0.4.5
 Compat 0.8.0
 CxxWrap 0.3 0.4-
+
+0.7.0
+-----
+4f2973ab8ec916a395e07ed7bccf3b2a0216c06b
+julia 0.5
+BinDeps 0.4.5
+Compat 0.8.0
+CxxWrap 0.4.1 0.5-

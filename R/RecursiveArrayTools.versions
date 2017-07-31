@@ -20,10 +20,50 @@ julia 0.5
 47849e78095e4a86c8b23236ca05e861d61cb55d
 julia 0.5
 
+0.10.0
+------
+9f6ed2848bda622c9011077abd955ac484c0ec73
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
+0.10.1
+------
+a941a733727a057b978fa6ab7f8601e016c92d47
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
 0.1.1
 -----
 9d2a40e0a299966ae72af07acb16d77ea1b25046
 julia 0.5
+
+0.11.0
+------
+c049fc3eedea044892d7246c8e0c6cd187cca629
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
+0.11.1
+------
+06c800494be02cb8061cd02aba459667cf727e25
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
+0.11.2
+------
+876d5a4a12f4e3681bda45944b0c4ac63de2c0f6
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
 
 0.1.2
 -----

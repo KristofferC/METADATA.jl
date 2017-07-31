@@ -39,3 +39,51 @@ julia 0.5
 Compat 0.19
 NamedTuples 2.1.0
 PooledArrays
+
+0.1.5
+-----
+c507a5625676d09bf56e737615616b389380c630
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+
+0.1.6
+-----
+01856086e34aa0e4a1b6c41b00016d1cbc022284
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+
+0.1.7
+-----
+266d5f0a74fab23a4b6b114d257d26757b880cdd
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+
+0.1.8
+-----
+01dde0be3857f1dd358af2f18744e601ff225a67
+julia 0.5
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+
+0.2.0
+-----
+8c8e320ab6a06ff894d333bc1346bc9fac532173
+julia 0.6
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+
+0.2.1
+-----
+5698190578cf108ae342f70f7e25a30de8c9b989
+julia 0.6
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays

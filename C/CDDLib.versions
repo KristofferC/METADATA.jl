@@ -56,3 +56,33 @@ MathProgBase
 Polyhedra 0.1.5 0.2
 @windows WinRPM
 @osx Homebrew
+
+0.2.0
+-----
+b5af78174ca5678a5c9ee0db946afcb5f1c71703
+julia 0.6
+BinDeps
+MathProgBase 0.6
+Polyhedra 0.2 0.3
+@windows WinRPM
+@osx Homebrew
+
+0.2.1
+-----
+cc95315799684837ac2d523998b3fdbb8fa446ab
+julia 0.6
+BinDeps
+MathProgBase 0.6
+Polyhedra 0.2 0.3
+@windows WinRPM
+@osx Homebrew
+
+0.2.2
+-----
+d4bd403fc08c030a58a89c54f974f406e9bc5c71
+julia 0.6
+BinDeps
+MathProgBase 0.6
+Polyhedra 0.2 0.3
+@windows WinRPM
+@osx Homebrew

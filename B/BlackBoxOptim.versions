@@ -62,3 +62,12 @@ FactCheck
 StatsBase
 Distributions
 Compat
+
+0.3.0
+-----
+6eb8405c3ca99b4ea783e1e6b0972c495deb4e6f
+julia 0.5
+StatsBase
+Distributions
+Compat 0.18
+CPUTime

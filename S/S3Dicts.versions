@@ -1,0 +1,12 @@
+https://github.com/seung-lab/S3Dicts.jl.git
+
+0.5.2
+-----
+1f0cd4b9572206ebece7a286c14f5e4217b94146
+julia 0.5
+AWSCore
+AWSS3
+JSON
+Retry
+Libz
+Memoize

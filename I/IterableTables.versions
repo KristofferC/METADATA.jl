@@ -29,3 +29,27 @@ julia 0.6.0-rc1
 NamedTuples 3.0.2 4.0.0
 Requires 0.4.3
 DataValues 0.0.3
+
+0.3.0
+-----
+3809e2b0d99358859a255ac0e21e3535e85583ea
+julia 0.6.0-rc1
+NamedTuples 4.0.0
+Requires 0.4.3
+DataValues 0.0.3
+
+0.4.0
+-----
+4c9ff466325b69498d5b9187708425add7b7dc5a
+julia 0.6.0-rc1
+NamedTuples 4.0.0
+Requires 0.4.3
+DataValues 0.0.3
+
+0.4.1
+-----
+1064c2543da788b1b6a63e90c4ef2f281878f0ac
+julia 0.6.0-rc1
+NamedTuples 4.0.0
+Requires 0.4.3
+DataValues 0.0.3

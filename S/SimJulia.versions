@@ -115,3 +115,10 @@ Compat
 d1cfd1d2891d389bd683346334bb14981b5c5cad
 julia 0.3
 Compat
+
+0.4.0
+-----
+ee859c7efb148e1c90c43e3bd6a7f1fe7ab5075a
+julia 0.6
+DataStructures
+TaylorSeries

@@ -4,3 +4,9 @@ https://github.com/SimonDanisch/Matcha.jl.git
 -----
 c9026381539c34b6ba7c342e62c1557e4c39df89
 julia 0.5
+
+0.0.2
+-----
+67e3214cd3b7352ef772ac3888717d1feb77e7d9
+julia 0.5
+Compat 0.17.0

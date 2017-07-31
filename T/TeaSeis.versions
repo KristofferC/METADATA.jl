@@ -6,3 +6,10 @@ https://github.com/ChevronETC/TeaSeis.jl.git
 julia 0.5
 LightXML
 Documenter
+
+0.0.2
+-----
+0fda95aee315ef90d8cdc3798ab359708b59eb08
+julia 0.5
+LightXML
+Documenter

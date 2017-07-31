@@ -5,3 +5,9 @@ git://github.com/daqcore/Actors.jl.git
 3cf30b17a4c49f01f71786bbec1afb8bd55c2cfa
 julia 0.4
 EasyPkg
+
+0.1.0
+-----
+0727d762acf03b8d4dfbb8562006a6cf3930076f
+julia 0.5
+Compat 0.17.0

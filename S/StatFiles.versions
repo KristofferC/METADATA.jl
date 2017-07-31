@@ -1,0 +1,21 @@
+https://github.com/davidanthoff/StatFiles.jl.git
+
+0.0.1
+-----
+94fad8c025ec09643176563cee8f9e55e63e08f9
+julia 0.6-pre
+ReadStat 0.1.1
+IterableTables 0.2.0
+DataValues 0.1.0
+DataFrames 0.10.0
+FileIO 0.4.0
+
+0.0.2
+-----
+556a73a59c949314160a097e16873bd33c4324b4
+julia 0.6-pre
+ReadStat 0.1.1
+IterableTables 0.2.0
+DataValues 0.1.0
+DataFrames 0.10.0
+FileIO 0.4.0

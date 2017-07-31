@@ -222,7 +222,7 @@ Compat 0.17.0
 0b16531bdf53ea5341bb2b1b837e19d27daddfa1
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.1.0
+DiffEqBase 1.1.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -238,7 +238,7 @@ ForwardDiff 0.0.1
 a62a06b1f061e4ee7f76c1bfe15b35d4a798964d
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.1.0
+DiffEqBase 1.1.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -254,7 +254,7 @@ ForwardDiff 0.0.1
 3888bdc750bc1f79cb0e7258a678a635353817c2
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -270,7 +270,7 @@ ForwardDiff 0.0.1
 1e02d3a57bfe6c7971d88aa4612f9f6db83d03d5
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -286,7 +286,7 @@ ForwardDiff 0.0.1
 df56191ff71a4bf205794dca3166c0355a625b3b
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -302,7 +302,7 @@ ForwardDiff 0.0.1
 f792d76cd1f673571718bf511a6db77a47650f3d
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -318,7 +318,7 @@ ForwardDiff 0.0.1
 0f35b3869fb018653fdf6106c717861f734cd39b
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -335,7 +335,7 @@ StaticArrays
 9e160da798d88e201b16d0a6b814136c58ac49d8
 julia 0.5
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.2.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -352,7 +352,7 @@ StaticArrays
 ae69ef4f5cd80e2c7d36f479e59a57ec4d6e8e22
 julia 0.6.0-pre
 Parameters 0.5.0
-DiffEqBase 1.2.0
+DiffEqBase 1.2.0 1.15.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -368,7 +368,7 @@ StaticArrays
 b682c1e3d1f12388989d537d99b1129234d0fe94
 julia 0.6.0-pre
 Parameters 0.5.0
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -384,7 +384,7 @@ StaticArrays
 5ba1e83a9e1686e66c18b6e8fda6df14d3f74480
 julia 0.6.0-pre
 Parameters 0.5.0
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -401,7 +401,7 @@ Reexport
 bd0516b2db2a189267bdf1e0ab0cb6603e8486fe
 julia 0.6.0-pre
 Parameters 0.5.0
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -412,3 +412,110 @@ NLsolve
 ForwardDiff 0.5.0
 StaticArrays
 Reexport
+
+2.6.0
+-----
+3250f1b6f8363b3f811129258b54095eb5b8d40a
+julia 0.6.0-pre
+Parameters 0.5.0
+DiffEqBase 1.10.0 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.2.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+
+2.7.0
+-----
+77f77a52c18bbc1ed0da2db1cee0d4060eab7b4f
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.13.0 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.3.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers
+
+2.7.1
+-----
+044b6da9f84702cd81613a073f825d96e288ab6b
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.13.0 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.3.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers
+
+2.8.0
+-----
+ea3f1ae97f522f5c6bf74c48327efc26afb15593
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.3.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers
+
+2.9.0
+-----
+99c8fa134cbc8b0c90be3110c7506a5f7cd61cb7
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.3.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers
+
+2.9.1
+-----
+218e1b701ee0fe822a1309a1cf68b0f2d91bf15b
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.15.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.3.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers

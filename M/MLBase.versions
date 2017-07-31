@@ -164,3 +164,11 @@ Reexport
 StatsBase 0.6.9-
 Iterators
 Compat 0.8.7
+
+0.7.0
+-----
+f031fd4a701672db5c850b2d43d61d53047027f3
+julia 0.6
+Reexport
+StatsBase 0.6.9-
+IterTools

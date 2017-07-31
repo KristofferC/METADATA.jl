@@ -57,3 +57,70 @@ Combinatorics
 06a6539dbe8aaa458c91bb6e45014c78cb4b520d
 julia 0.5
 Combinatorics
+
+0.3.0
+-----
+38ab0047d681c63da629f4647abbe3298369b898
+julia 0.6
+Combinatorics
+SpecialFunctions
+
+0.3.1
+-----
+78cecf429127592e0dfa8c098763bc3a462a5469
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+
+0.3.2
+-----
+45e1f3dc08da57e3e802a6b8d31e94d9cc33464f
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+
+0.3.3
+-----
+19775ffedd111a597686daf1b00cf2bab0e103a0
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+
+0.3.4
+-----
+44f3f29f9a9ac98618a5a3f97f46410d410f5b84
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+RecipesBase
+
+0.3.5
+-----
+8dbff9d0f7074cef89896850c306a807eda4a089
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+RecipesBase
+
+0.3.6
+-----
+de116064bfe0a669f4bcb47758417957ef9367e1
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+RecipesBase
+
+0.3.7
+-----
+2cd1b6327872cd26b88669ecf99e9f5e16fecfb4
+julia 0.6
+Combinatorics
+SpecialFunctions
+Parameters
+RecipesBase

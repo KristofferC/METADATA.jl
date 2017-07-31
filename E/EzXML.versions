@@ -64,3 +64,10 @@ Compat 0.9.5
 julia 0.5
 Compat 0.17
 @windows WinRPM
+
+0.4.4
+-----
+b3f45752dad3a147925ccabffaa45aa5a9e7d847
+julia 0.5
+Compat 0.17
+@windows WinRPM

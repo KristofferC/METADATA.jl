@@ -503,7 +503,7 @@ Compat 0.17.0
 -----
 968537d2bd3b8c07de94ef622ee9cd607a4e3730
 julia 0.5
-DiffEqBase 0.15.0
+DiffEqBase 0.15.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -522,7 +522,7 @@ Compat 0.17.0
 -----
 095ecbfbf7746e6fb65ce2582d496d82226f10e6
 julia 0.5
-DiffEqBase 1.1.0
+DiffEqBase 1.1.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -541,7 +541,7 @@ Compat 0.17.0
 -----
 a10a8fb841d3f404121bc4ae64419fa4c6b178ef
 julia 0.5
-DiffEqBase 1.1.0
+DiffEqBase 1.1.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -560,7 +560,7 @@ Compat 0.17.0
 -----
 ca3f030a54639bffc33f323ad97fffb0c234a971
 julia 0.5
-DiffEqBase 1.1.0
+DiffEqBase 1.1.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -578,7 +578,7 @@ Compat 0.18.0
 -----
 aab5abb4b58c6fc2685f9111caf10a41a81cad27
 julia 0.5
-DiffEqBase 1.3.0
+DiffEqBase 1.3.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -596,7 +596,7 @@ Compat 0.18.0
 -----
 747e3b301551b4aaca23812fabbf7a97394d1ce5
 julia 0.5
-DiffEqBase 1.3.0
+DiffEqBase 1.3.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -610,11 +610,96 @@ DataStructures 0.4.6
 Iterators
 Compat 0.18.0
 
+2.10.0
+------
+5750bb0013ff877ec51861fa5aa8bff6599b0b78
+julia 0.6.0
+DiffEqBase 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.11.0
+------
+f6bf3ff18a6e1802165faa7c6774a6e5b189d26c
+julia 0.6.0
+DiffEqBase 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.11.1
+------
+d79eb2bf8637726887b16a4d8d520308b9816bb5
+julia 0.6.0
+DiffEqBase 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.11.2
+------
+3b8dd0dd341f65aa9654a92e636bc4436d25b198
+julia 0.6.0
+DiffEqBase 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.11.3
+------
+b70c49ecbb55f7c2d7d35afdf69cde23ea3c16d7
+julia 0.6.0
+DiffEqBase 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
 2.2.0
 -----
 a4cc81e0c33e31c46ed218719599764cf7bb1b30
 julia 0.5
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -632,7 +717,7 @@ Compat 0.18.0
 -----
 c4609003d8df5a193ef90face6fc94c19325072a
 julia 0.5
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -650,7 +735,7 @@ Compat 0.18.0
 -----
 8af219c5eb1335aa3912e5ace9ebf36e55628f10
 julia 0.5
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -669,7 +754,7 @@ StaticArrays
 -----
 e812271e77aec426f689ff81c2a765dddf70c0a6
 julia 0.5
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -687,7 +772,7 @@ StaticArrays
 -----
 0a36dd322f82ff4bc51683d2c2ad347fa760007e
 julia 0.5
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.2.4
 GenericSVD 0.0.2
@@ -705,7 +790,7 @@ StaticArrays
 -----
 3b4510e51379f91d95d498b21765dfcd428390c2
 julia 0.6.0-pre
-DiffEqBase 1.5.0
+DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -722,7 +807,7 @@ StaticArrays
 -----
 5468e199d6c2d8a2845613f09429a26419ced2de
 julia 0.6.0-pre
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -738,7 +823,7 @@ Compat 0.18.0
 -----
 74e06f378c5997b86548944d4ce1beacbcd0b400
 julia 0.6.0-pre
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -754,7 +839,7 @@ Compat 0.18.0
 -----
 2713e8f6c7a2feaba0bac6745c789291c71ce50e
 julia 0.6.0-pre
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -771,7 +856,41 @@ Reexport
 -----
 9025565498f0b8259b50ce95c42e1e76518454ca
 julia 0.6.0-pre
-DiffEqBase 1.10.0
+DiffEqBase 1.10.0 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.8.0
+-----
+805468d7d385572f80beee42ef99693110f73a60
+julia 0.6.0-pre
+DiffEqBase 1.11.0 1.15.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.8.0
+Juno 0.2.5
+Calculus 0.1.15
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+
+2.9.0
+-----
+3ef4a73dfa61d3e0f6a556288429d0d5e7eacb5e
+julia 0.6.0-pre
+DiffEqBase 1.11.0 1.15.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2

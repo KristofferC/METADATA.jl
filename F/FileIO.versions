@@ -107,3 +107,33 @@ Compat 0.9.5
 1e07cf37044c8273c6161de61a0248f0f8a76d8f
 julia 0.5
 Compat 0.17.0
+
+0.4.0
+-----
+8919166891d4bb5489ed19a829ef861823b977cd
+julia 0.5
+Compat 0.17.0
+
+0.4.1
+-----
+34ad95d46eaa07c51826d1feb35386290d0d2160
+julia 0.5
+Compat 0.17.0
+
+0.4.2
+-----
+2f77c74dbee36abd85319f3ae6cd218fc29ce188
+julia 0.5
+Compat 0.17.0
+
+0.5.0
+-----
+530ed87f4f8c30f61425233a0ecab2ad94eb1c0d
+julia 0.5
+Compat 0.17.0
+
+0.5.1
+-----
+c43eacd733a8e6db4450c340f8f7d39fc6a7f5b2
+julia 0.5
+Compat 0.17.0

@@ -38,3 +38,12 @@ DiffEqBase 0.6.0
 NLsolve
 ForwardDiff 0.5.0
 DiffBase
+
+0.2.1
+-----
+71bb6a686c530c81770da9349a8a108a1b9b46c9
+julia 0.6.0-pre
+DiffEqBase 0.6.0
+NLsolve
+ForwardDiff 0.5.0
+DiffBase

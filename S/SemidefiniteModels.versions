@@ -6,3 +6,11 @@ git://github.com/JuliaOpt/SemidefiniteModels.jl.git
 julia 0.5
 MathProgBase
 GZip
+
+0.0.3
+-----
+e5ca9c745d394dda426971e0b0d5c1fd11126cca
+julia 0.5
+MathProgBase
+GZip
+Compat 0.17

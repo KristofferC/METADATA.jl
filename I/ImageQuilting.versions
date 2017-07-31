@@ -211,3 +211,55 @@ LightGraphs 0.6.1
 RecipesBase
 ProgressMeter
 Hwloc
+
+0.4.6
+-----
+299f72614c88ea771b3163495206ad4580a0da38
+julia 0.5
+Combinatorics
+StatsBase
+Primes
+Images 0.7.0
+LightGraphs 0.6.1
+RecipesBase
+ProgressMeter
+Hwloc
+
+0.5.0
+-----
+262c8693797c93c4d87af19ec577cb3834914eea
+julia 0.6
+Combinatorics
+StatsBase
+Primes
+Images 0.7.0
+LightGraphs 0.6.1
+RecipesBase
+ProgressMeter
+Hwloc
+
+0.5.1
+-----
+44d70140e0b8652b31cc4775e6d86767a921322a
+julia 0.6
+Combinatorics
+StatsBase
+Primes
+Images 0.7.0
+LightGraphs 0.6.1
+RecipesBase
+ProgressMeter
+Hwloc
+
+0.5.2
+-----
+3a4af3caa3852527ccc41f486b207227edf309db
+julia 0.6
+Combinatorics
+StatsBase
+Primes
+Images 0.7.0
+LightGraphs 0.6.1
+RecipesBase
+ProgressMeter
+Hwloc

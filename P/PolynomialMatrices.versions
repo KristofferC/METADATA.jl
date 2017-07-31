@@ -15,3 +15,11 @@ julia 0.4
 DataStructures 0.5.1
 Polynomials 0.1.2
 Compat 0.19.0
+
+0.2.0
+-----
+e059c70791a661a433954c2afe741f8444246e5e
+julia 0.5
+DataStructures 0.5.2
+Polynomials 0.1.2
+Compat 0.19.0

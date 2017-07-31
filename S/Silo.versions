@@ -5,3 +5,10 @@ git://github.com/jgoldfar/Silo.jl.git
 15d70dda19d3d9a9a44b5430c51a8b2e3035dc9e
 julia 0.3-
 BinDeps
+
+0.2.0
+-----
+300009c3d8b8da6e12235629254403b726eceb59
+julia 0.4
+BinDeps 0.3.22
+Compat 0.4.10

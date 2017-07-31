@@ -50,3 +50,39 @@ DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
 Compat 0.17.0
+
+0.5.0
+-----
+118232270d498dac41ee022ec0b658cbffacbe8b
+julia 0.6
+DiffEqBase 0.15.0
+OrdinaryDiffEq 2.9.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Combinatorics
+Compat 0.17.0
+Reexport
+
+0.5.1
+-----
+32ab4b458c7a50348135c6f7cf1ffbcea1a80a82
+julia 0.6
+DiffEqBase 1.15.0
+OrdinaryDiffEq 2.10.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Combinatorics
+Compat 0.17.0
+Reexport
+
+0.5.2
+-----
+47342df9e537e6e3a044741a52a1e14ccccd0c12
+julia 0.6
+DiffEqBase 1.15.0
+OrdinaryDiffEq 2.10.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Combinatorics
+Compat 0.17.0
+Reexport

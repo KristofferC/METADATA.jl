@@ -36,3 +36,10 @@ VoronoiDelaunay
 julia 0.4
 VoronoiDelaunay 0.1.0
 Compat 0.8.4
+
+0.1.4
+-----
+db8b92ee54d7dcce982fe590e79c822bf790dbac
+julia 0.4
+VoronoiDelaunay 0.1.0
+Compat 0.8.4

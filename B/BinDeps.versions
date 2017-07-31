@@ -355,3 +355,11 @@ julia 0.5
 URIParser
 SHA
 Compat 0.17.0
+
+0.7.0
+-----
+e2553e57468d5692f7e13f45ddc888670bcbbfda
+julia 0.5
+URIParser
+SHA
+Compat 0.17.0

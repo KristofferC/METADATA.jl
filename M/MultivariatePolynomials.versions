@@ -4,3 +4,9 @@ https://github.com/blegat/MultivariatePolynomials.jl.git
 -----
 2f30dff3e774067666d4452a6441e13be6857e90
 julia 0.5
+
+0.0.2
+-----
+6019e9cd14614ebd1997304b69dc5fe6d1ff2417
+julia 0.5
+Compat 0.17

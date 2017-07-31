@@ -23,3 +23,9 @@ Switch
 -----
 1ce6e0847ecdb3d63faf9b2b8330a392c75e7a1a
 julia v0.4
+
+0.1.2
+-----
+a119793a5b2302e38276c4506c0c2ccf9ecbadeb
+julia v0.4
+Compat 0.17

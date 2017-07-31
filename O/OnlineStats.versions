@@ -16,6 +16,30 @@ Convex
 SCS
 Dates
 
+0.10.0
+------
+260dcce588fbd0f58eb313cedde819ae67ce7f3b
+julia 0.6.0
+OnlineStatsBase 0.0.5
+StatsBase
+LearnBase
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase
+
+0.10.1
+------
+9619b4aad89787db03865715bd4758bbdd95b398
+julia 0.6.0
+OnlineStatsBase 0.0.6
+StatsBase
+LearnBase
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase
+
 0.1.1
 -----
 42e4119366b0f85ad54e2c349ec1dca10376e2e0
@@ -164,3 +188,29 @@ julia 0.6.0-pre
 StatsBase
 LearnBase
 Distributions
+
+0.9.0
+-----
+ad980232fbd8f2cf998895375fa83ab4e043ae1d
+julia 0.6.0
+OnlineStatsBase 0.0.3
+StatsBase
+LearnBase
+Distributions
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase
+
+0.9.1
+-----
+4c498a992d6b54c842e63b7d5ae0af2e973f00d9
+julia 0.6.0
+OnlineStatsBase 0.0.3
+StatsBase
+LearnBase
+Distributions
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase

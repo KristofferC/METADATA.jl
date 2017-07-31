@@ -28,3 +28,10 @@ julia 0.4
 GeometricalPredicates 0.0.6
 Colors 0.6.9
 Compat 0.8.4
+
+0.2.0
+-----
+279f625dc941f9e09c3d6aecc76294746befe602
+julia 0.6
+GeometricalPredicates 0.0.5
+Colors 0.7

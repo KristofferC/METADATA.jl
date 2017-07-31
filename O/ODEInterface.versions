@@ -64,3 +64,18 @@ julia 0.4
 -----
 304c1b831b307a218b9927195fe1bfcf82ba4ed2
 julia 0.4
+
+0.1.3
+-----
+7d35506436f34d6094f6cdc51356eae490b45a71
+julia 0.4
+
+0.1.4
+-----
+6a7fb8bffa894f53e252de8857dac234f52cfd63
+julia 0.4
+
+0.4.0
+-----
+140bfaf1ddab8f4bc7226e7ea630cd2e0fd1fd6d
+julia 0.7-DEV

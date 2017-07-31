@@ -20,3 +20,10 @@ Iterators 0.2
 julia 0.5
 StaticArrays 0.3
 Iterators 0.2
+
+0.1.0
+-----
+225b89ec08cdce58f9b5a787b8ea625e50777b0a
+julia 0.6
+StaticArrays 0.5.1
+IterTools 0.1

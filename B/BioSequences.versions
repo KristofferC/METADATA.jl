@@ -15,3 +15,82 @@ julia 0.5
 PairwiseListMatrices
 Twiddle
 DataStructures
+
+0.6.0
+-----
+992a8108e1025d9093790453aa9e8972b84878aa
+julia 0.5
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+Compat 0.18
+IndexableBitVectors
+Iterators
+IntervalTrees
+Twiddle
+DataStructures
+
+0.6.1
+-----
+3904c46d6f513dae3cb13c533c46251e09adff5a
+julia 0.5
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+Compat 0.18
+IndexableBitVectors
+Iterators
+IntervalTrees
+Twiddle
+DataStructures
+
+0.6.2
+-----
+3c02bfe7cf8999ce191adcc93f4a7aaf6beb88ce
+julia 0.5
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+Compat 0.18
+IndexableBitVectors
+Iterators
+IntervalTrees
+Twiddle
+DataStructures
+
+0.6.3
+-----
+f7f4d882f1c8475a06b264fc4a10bf8f14d16c7a
+julia 0.5
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+Compat 0.18
+IndexableBitVectors
+IterTools 0.1
+IntervalTrees
+Twiddle
+DataStructures
+
+0.7.0
+-----
+da650d5a5e8303f8b7540925ccd7f09e30653ad9
+julia 0.6
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+IndexableBitVectors
+IterTools 0.1
+IntervalTrees
+Twiddle
+DataStructures

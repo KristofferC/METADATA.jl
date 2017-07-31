@@ -1,0 +1,31 @@
+https://github.com/ZKSI/Cumulants.jl.git
+
+0.2.0
+-----
+ad473396f0c8680d4147895dcb1848c55bcbc601
+julia 0.5
+SymmetricTensors
+NullableArrays
+Iterators
+Combinatorics
+Distributions
+FactCheck
+NPZ
+PyPlot
+PyCall
+ArgParse
+
+0.2.1
+-----
+3bc63c9cf8097f2babbcff91a5f3d549e5d5fbe9
+julia 0.5
+SymmetricTensors
+NullableArrays
+Iterators
+Combinatorics
+Distributions
+FactCheck
+NPZ
+PyPlot
+PyCall
+ArgParse

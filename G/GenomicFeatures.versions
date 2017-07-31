@@ -1,0 +1,52 @@
+https://github.com/BioJulia/GenomicFeatures.jl.git
+
+0.1.0
+-----
+3619443128a09774fb6583f6d2ab651eb60245e3
+julia 0.5
+Automa 0.2
+BioCore 1.0
+BioSequences 0.6
+BufferedStreams 0.3
+BGZFStreams 0.1
+ColorTypes 0.5
+Compat 0.18
+DataStructures 0.5
+FixedPointNumbers 0.3
+IntervalTrees 0.2
+Libz 0.2
+URIParser 0.1
+
+0.2.0
+-----
+baecd090de80b241c981ec4e195708abf1ed3c2f
+julia 0.5
+Automa 0.2
+BioCore 1.0
+BioSequences 0.6
+BufferedStreams 0.3
+BGZFStreams 0.1
+ColorTypes 0.5
+Compat 0.18
+DataStructures 0.5
+FixedPointNumbers 0.3
+IntervalTrees 0.3
+Libz 0.2
+URIParser 0.1
+
+0.2.1
+-----
+a2e54222240a0b06d52074a216b0f09ce3d2ba68
+julia 0.5
+Automa 0.2
+BioCore 1.0
+BioSequences 0.6
+BufferedStreams 0.3
+BGZFStreams 0.1
+ColorTypes 0.5
+Compat 0.18
+DataStructures 0.5
+FixedPointNumbers 0.3
+IntervalTrees 0.3
+Libz 0.2
+URIParser 0.1

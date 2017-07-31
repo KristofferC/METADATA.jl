@@ -45,3 +45,10 @@ c102799d28bcdbd9996eb1c263ba8bd8838b4943
 julia 0.5
 BinDeps
 AbstractTrees 0.0.4
+
+0.4.0
+-----
+e28b25eb7fbe24df358540ae96d72545c7b24809
+julia 0.6
+BinDeps
+AbstractTrees 0.1.0

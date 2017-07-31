@@ -5,3 +5,9 @@ https://github.com/baggepinnen/SingularSpectrumAnalysis.jl.git
 df8ad7ec982e48f91e56cea946d910037b83c50a
 julia 0.5
 Requires
+
+0.0.2
+-----
+e6b3b87cb9f6804e3c2070e72a741ebb8529d859
+julia 0.5
+Requires

@@ -1,0 +1,11 @@
+https://github.com/blegat/StructDualDynProg.jl.git
+
+0.0.1
+-----
+4321d69777db683efa454fdce65e07f52c5bfe11
+julia 0.6
+CutPruners 0.0.1
+MathProgBase 0.5
+JuMP 0.17
+StructJuMP 0.0.1
+DocStringExtensions 0.2

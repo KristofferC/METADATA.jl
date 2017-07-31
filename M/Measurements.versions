@@ -1,4 +1,4 @@
-git://github.com/giordano/Measurements.jl.git
+git://github.com/JuliaPhysics/Measurements.jl.git
 
 0.0.1
 -----
@@ -56,6 +56,14 @@ Calculus
 -----
 1eff4dda6582a3b4e09543a335fa9625221febb2
 julia 0.6.0-pre
+Calculus 0.1.5
+SpecialFunctions 0.1.0
+QuadGK 0.1.1
+
+0.5.0
+-----
+6c41199670374fdc749fc79bb3f63321368317bb
+julia 0.6.0
 Calculus 0.1.5
 SpecialFunctions 0.1.0
 QuadGK 0.1.1

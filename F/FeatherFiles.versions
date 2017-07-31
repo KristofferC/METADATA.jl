@@ -1,0 +1,21 @@
+https://github.com/davidanthoff/FeatherFiles.jl.git
+
+0.0.1
+-----
+8312610cc5859642c63c8c57d07cb90720e813a9
+julia 0.6-pre
+Feather 0.2.4
+IterableTables 0.2.0
+DataValues 0.1.0
+DataTables 0.0.3
+FileIO 0.4.0
+
+0.0.2
+-----
+fd89a7e0b079e6879c99b23d476842ca7943c5be
+julia 0.6-pre
+Feather 0.2.4
+IterableTables 0.2.0
+DataValues 0.1.0
+DataTables 0.0.3
+FileIO 0.4.0

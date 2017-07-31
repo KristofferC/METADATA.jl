@@ -19,3 +19,16 @@ a0b19122b439d82fc536673edbd83cedf17a90be
 julia 0.4
 Compat 0.9.2
 VideoIO 0.1.0
+
+0.2.2
+-----
+830246d478980862301675a2149ad1cfb12359cb
+julia 0.4
+Compat 0.9.2
+VideoIO 0.1.0
+
+1.0.0
+-----
+c2d818e270db1c197fda086fb5bf46aca5abf918
+julia 0.6
+VideoIO 0.1.0

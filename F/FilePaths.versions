@@ -16,3 +16,21 @@ Compat 0.17.0
 URIParser 0.1.8
 Glob 1.1.1
 Humanize 0.4.1
+
+0.2.0
+-----
+1889287dae99d5b614fec41b9d5108a061a15476
+julia 0.5
+Compat 0.17.0
+URIParser 0.1.8
+Glob 1.1.1
+Humanize 0.4.1
+
+0.2.1
+-----
+fbe7e9c42f1e01b8420b869d65ab2e0ef5a82576
+julia 0.5
+Compat 0.17.0
+URIParser 0.1.8
+Glob 1.1.1
+Humanize 0.4.1

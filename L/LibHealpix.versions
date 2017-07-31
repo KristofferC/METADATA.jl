@@ -9,3 +9,22 @@ julia 0.4-
 -----
 cdee4806ab9bdb86870aab3a51a14e7d9ba83292
 julia 0.4
+
+0.2.0
+-----
+c55da9ea0171e52d1582fdffda8107f338033c72
+julia 0.6-pre
+BinDeps
+FITSIO 0.10.0
+MacroTools
+StaticArrays 0.5.1
+
+0.2.1
+-----
+050d8a975954211691ef35b097a0b91fdca72b33
+julia 0.6-pre
+BinDeps
+FITSIO 0.10.0
+MacroTools
+StaticArrays 0.5.1
+@osx Homebrew

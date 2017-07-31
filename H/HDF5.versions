@@ -611,3 +611,23 @@ Blosc
 Compat 0.17.0
 @osx Homebrew 0.3.1
 @windows WinRPM
+
+0.8.2
+-----
+bac4e9ee89dcffc0bfe6dcfd384d77e565213eb6
+julia 0.5
+BinDeps 0.6.0
+Blosc
+Compat 0.17.0
+@osx Homebrew 0.3.1
+@windows WinRPM
+
+0.8.3
+-----
+13f7ad69e2357e5310891123f2626dde1dce59e8
+julia 0.5
+BinDeps 0.6.0
+Blosc
+Compat 0.17.0
+@osx Homebrew 0.3.1
+@windows WinRPM

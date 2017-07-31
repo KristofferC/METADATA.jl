@@ -11,3 +11,17 @@ StaticArrays
 DataStructures
 OpenCL 0.5.2
 SpecialFunctions
+
+0.1.0
+-----
+f7454e95d44a0755e7e4a60843f8a83a5e2c3dc9
+julia 0.6
+Compat 0.17.0
+Sugar 0.3.0
+Matcha
+StaticArrays 0.3.0
+DataStructures
+OpenCL 0.5.2
+#ModernGL
+#GLAbstraction
+SpecialFunctions

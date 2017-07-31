@@ -5,18 +5,25 @@ https://github.com/JuliaPOMDP/ParticleFilters.jl.git
 b791db4efc73d79c842562f5b224a3e21afe3bf4
 julia 0.5
 StatsBase
-POMDPs 0.4
+POMDPs 0.4 0.6
 
 0.0.2
 -----
 693fd211e3d481386ad883057a01b8963468d0a1
 julia 0.5
 StatsBase
-POMDPs 0.4
+POMDPs 0.4 0.6
 
 0.0.3
 -----
 b3865c87e450871b834a515a81ec58b0c118112c
 julia 0.5
 StatsBase
-POMDPs 0.4
+POMDPs 0.4 0.6
+
+0.1.0
+-----
+f526b040b2a0a6d206bb64c6824dbb104999442b
+julia 0.6
+StatsBase
+POMDPs 0.6

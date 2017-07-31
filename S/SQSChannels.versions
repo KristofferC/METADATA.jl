@@ -1,0 +1,8 @@
+https://github.com/seung-lab/SQSChannels.jl.git
+
+0.5.0
+-----
+29e6fc3a186aaf7eeb086a5be3b4929990374a5c
+julia 0.5
+AWS
+Retry

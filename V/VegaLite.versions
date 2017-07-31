@@ -22,3 +22,14 @@ julia 0.4
 Compat 0.8
 JSON
 Requires
+
+0.1.0
+-----
+ecb3172517e57b14ffe5d1d2c7fe42432d73b54f
+julia 0.5
+Compat 0.9.1
+JSON
+Requires
+NodeJS
+Cairo
+Rsvg

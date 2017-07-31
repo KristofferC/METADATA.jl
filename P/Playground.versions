@@ -55,3 +55,14 @@ ArgParse
 YAML
 Mocking
 Compat
+
+0.3.0
+-----
+c08a8fbf1e7477a9362b8c7270ceeee354cb984c
+julia 0.5
+ArgParse
+YAML
+FilePaths 0.2.0
+Mocking
+Compat 0.17.0
+Memento

@@ -34,3 +34,17 @@ LLVM 0.2
 julia 0.6.0-pre
 CUDAdrv 0.2
 LLVM 0.2
+
+0.3.0
+-----
+d2d7e28acda43271551ebf7ceda3954b50b74d02
+julia 0.6.0-pre
+CUDAdrv 0.4
+LLVM 0.2
+
+0.3.1
+-----
+fe0214e942a347742da415565729a06efadd6595
+julia 0.6
+CUDAdrv 0.4.2
+LLVM 0.3.5

@@ -1,0 +1,8 @@
+https://github.com/trappmartin/HilbertSchmidtIndependenceCriterion.jl.git
+
+0.1.0
+-----
+e53b59c189a2a10946ed6372a66d4d9ea9e8258d
+julia 0.6
+StatsFuns
+Distances

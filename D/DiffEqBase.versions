@@ -338,6 +338,17 @@ SimpleTraits 0.1.1
 Compat 0.19.0
 Iterators
 
+1.11.0
+------
+99e077dba8345f8490f09470da328dc567446f8b
+julia 0.6-pre
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
 1.1.2
 -----
 bb95b694f3e8dd94c509131b9cf4b899880a71fa
@@ -349,6 +360,72 @@ RecursiveArrayTools 0.4.0
 SimpleTraits 0.1.1
 Compat 0.19.0
 Iterators
+
+1.12.0
+------
+266412eb17414c649c72f8a837e1a9aa1ad1f639
+julia 0.6-pre
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
+1.13.0
+------
+d2f221bc300f2eff70edb8d31ef6debc1a55e2fe
+julia 0.6-pre
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
+1.14.0
+------
+df01c646a3f8e38fbf4d254d1091520c5a2b35bc
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
+1.14.1
+------
+4843464fe92d951d65284d36270c6c1a7be73708
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
+1.15.0
+------
+107eaac9c6f261397fe36e9883bfa3f5738597a1
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
+1.15.1
+------
+f7603656bf59128b3a3146d04920c70e841cf726
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
 
 1.2.0
 -----

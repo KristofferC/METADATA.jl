@@ -1,0 +1,25 @@
+https://github.com/lanl-ansi/PowerModelsAnnex.jl.git
+
+0.0.1
+-----
+7b4726b2148ece1b48a968a33fa5b0adfbad9df2
+julia 0.5
+JuMP 0.17 0.18-
+PowerModels 0.3 0.4-
+Compat 0.17
+
+0.0.2
+-----
+1b672c5a797b0f9e61eb1d259240ade5ec8d2d9e
+julia 0.5
+JuMP 0.17 0.18-
+PowerModels 0.3 0.4-
+Compat 0.17
+
+0.0.3
+-----
+13fdf1f9c523f0300cbd7190c9f36c83fa0aca75
+julia 0.5
+JuMP 0.17 0.18-
+PowerModels 0.3 0.4-
+Compat 0.17

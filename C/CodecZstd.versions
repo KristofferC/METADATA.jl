@@ -6,3 +6,10 @@ https://github.com/bicycle1885/CodecZstd.jl.git
 julia 0.6-rc1
 BinDeps
 TranscodingStreams 0.1
+
+0.2.0
+-----
+dfe9bd437fefdea78bf39c931b40c73d5c54a931
+julia 0.6-rc1
+BinDeps
+TranscodingStreams 0.2

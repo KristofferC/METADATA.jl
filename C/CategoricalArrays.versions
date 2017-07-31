@@ -63,3 +63,24 @@ NullableArrays
 julia 0.5.0
 Compat 0.19.0
 NullableArrays
+
+0.1.4
+-----
+76cf24739159e720533677c76290461b4292be91
+julia 0.5.0
+Compat 0.19.0
+NullableArrays
+
+0.1.5
+-----
+cdd5060d9d1e684ddbcd5d6888820eebc0f0b8f1
+julia 0.5.0
+Compat 0.19.0
+NullableArrays
+
+0.1.6
+-----
+15ab16f4a12894c2fb97d7c23bc14f0cb8f91c8c
+julia 0.5.0
+Compat 0.19.0
+NullableArrays

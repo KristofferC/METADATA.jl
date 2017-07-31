@@ -46,3 +46,18 @@ fca720fbe0ad35bb23a6c43f6fc7d64cc07bd31c
 julia 0.5
 DiffEqBase 1.7.0
 RecursiveArrayTools 0.6.0
+
+0.7.0
+-----
+7cee819f5eb5017f0f86ce51e5e01bac48bd1cac
+julia 0.6-pre
+DiffEqBase 1.12.0
+RecursiveArrayTools 0.6.0
+
+0.8.0
+-----
+223ee7e5cffc57afee15521a9f39248046f26516
+julia 0.6
+DiffEqBase 1.12.0
+RecursiveArrayTools 0.6.0
+DistributedArrays

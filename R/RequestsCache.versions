@@ -6,3 +6,12 @@ b37d61b8f52ea07db50f5ea3d2ac3d380c1f7620
 julia 0.4
 Requests
 JLD
+
+0.1.0
+-----
+9f9717e330fe49f5f913a08be89f291d1141e9a9
+julia 0.6
+URIParser
+HttpCommon
+Requests
+JLD

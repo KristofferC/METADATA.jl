@@ -102,3 +102,33 @@ Polynomials 0.1.0
 Reexport
 SpecialFunctions
 Compat 0.18.0
+
+0.3.0
+-----
+cfc3471ac26e0027c31fb39bd2d1af1b79ddebd6
+julia 0.6-rc1
+Polynomials 0.1.0
+Reexport
+SpecialFunctions
+AbstractFFTs
+FFTW
+
+0.3.1
+-----
+a17a968d2c0c8a13a7aa1beb42f9730318667b92
+julia 0.6-rc1
+Polynomials 0.1.0
+Reexport
+SpecialFunctions
+AbstractFFTs
+FFTW
+
+0.3.2
+-----
+b5d109d5040f339195c41440cbefcc6eb46b22db
+julia 0.6-rc1
+Polynomials 0.1.0
+Reexport
+SpecialFunctions
+AbstractFFTs
+FFTW

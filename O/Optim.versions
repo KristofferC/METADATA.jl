@@ -295,3 +295,25 @@ LineSearches 2.1.0
 Calculus
 NLSolversBase 2.1.0
 ForwardDiff 0.5.0
+
+0.9.2
+-----
+89675ad2a34ca75839a39ca1581cd9617ca3e8d8
+julia 0.6.0-pre
+PositiveFactorizations
+Compat 0.18.0
+LineSearches 2.1.0
+Calculus
+NLSolversBase 2.1.0
+ForwardDiff 0.5.0
+
+0.9.3
+-----
+c4e0116a5a1df651c5df16afe6c4b80e7411d148
+julia 0.6.0-pre
+PositiveFactorizations
+Compat 0.18.0
+LineSearches 2.1.0
+Calculus
+NLSolversBase 2.1.0
+ForwardDiff 0.5.0

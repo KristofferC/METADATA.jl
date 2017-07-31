@@ -1,0 +1,46 @@
+https://github.com/sambitdash/PDFIO.jl.git
+
+0.0.1
+-----
+c3901214f3108426e345ccbf73777311cc992ece
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+Documenter
+
+0.0.2
+-----
+a2c84be2042dc1c95d3f76b348dda972e79c014e
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+Documenter
+
+0.0.3
+-----
+a2c84be2042dc1c95d3f76b348dda972e79c014e
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+Documenter
+
+0.0.4
+-----
+a2c84be2042dc1c95d3f76b348dda972e79c014e
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+Documenter
+
+0.0.5
+-----
+b8d3dfb803628a63ed4e22440300ee4aaeb52d19
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+Documenter

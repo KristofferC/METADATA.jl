@@ -8,3 +8,22 @@ AbstractFFTs
 BinDeps 0.6.0
 @osx Homebrew
 @windows WinRPM
+
+0.0.2
+-----
+821e0c9866bdef236bea39174a12a9de440376e4
+julia 0.6.0-rc1
+AbstractFFTs
+BinDeps 0.6.0
+@osx Homebrew
+@windows WinRPM
+
+0.0.3
+-----
+070cd891fda64f956aab5c0f5062948ade060a16
+julia 0.6.0
+AbstractFFTs 0.2.0
+Compat 0.27.0
+BinDeps 0.6.0
+@osx Homebrew
+@windows WinRPM

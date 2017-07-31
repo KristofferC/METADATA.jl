@@ -129,3 +129,17 @@ Compat 0.8.4
 julia 0.5
 ScikitLearnBase 0.0.4
 Compat 0.8.4
+
+0.6.1
+-----
+051271024754502c44957d4df4c6c2eade2f9ca9
+julia 0.5
+ScikitLearnBase 0.0.4
+Compat 0.18.0
+
+0.6.2
+-----
+13ccdd3bd819d51d72b89dbc16737b20c10e4bb8
+julia 0.5
+ScikitLearnBase 0.0.4
+Compat 0.18.0

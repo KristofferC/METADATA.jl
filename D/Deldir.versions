@@ -17,3 +17,9 @@ DataFrames
 f647423eb36e29f077d12727290b64f97a4ead9a
 julia 0.4
 DataFrames
+
+1.0.0
+-----
+4147cc5886d478922075b94cbd18b8e879a9ffd7
+julia 0.6
+DataFrames 0.9.0

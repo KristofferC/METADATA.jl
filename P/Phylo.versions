@@ -6,3 +6,27 @@ ccd6d208ddb09c58cbc23164e0a9f81d0518d85d
 julia 0.5
 Compat 0.18.0
 Distributions 0.12.2
+
+0.1.1
+-----
+c81235a0f3cf19b5cc564c0f8489eb40031ac5cb
+julia 0.5
+Compat 0.18.0
+Distributions 0.12.2
+DataStructures 0.4.3
+
+0.1.2
+-----
+36eb97102666db032b9a8df003f2798d0ab32187
+julia 0.5
+Compat 0.18.0
+Distributions 0.12.2
+DataStructures 0.4.3
+
+0.1.3
+-----
+b1ceaefc7add7279ce6b140bba181f5c7c2401db
+julia 0.5
+Compat 0.18.0
+Distributions 0.12.2
+DataStructures 0.4.3

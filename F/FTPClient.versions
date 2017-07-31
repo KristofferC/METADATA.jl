@@ -17,3 +17,10 @@ LibCURL
 d163e916a864e5f6d683e05f2795267c2987d087
 julia 0.4-
 LibCURL
+
+0.2.1
+-----
+adcd17a554eec3bdfae4f8f72031b57165912985
+julia 0.4
+LibCURL 0.2.2
+Compat 0.8.3

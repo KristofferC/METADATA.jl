@@ -1,0 +1,12 @@
+https://github.com/JuliaMPC/NLOptControl.jl.git
+
+0.1.2
+-----
+28758bdea0a55cd05de3f01b3a42a37080d8c4c5
+julia 0.6
+MathProgBase
+FastGaussQuadrature
+JuMP
+DataFrames
+Ranges
+Ipopt

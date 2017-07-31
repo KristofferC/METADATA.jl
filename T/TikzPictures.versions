@@ -118,3 +118,16 @@ Compat 0.8.0
 julia 0.4
 LaTeXStrings
 Compat 0.8.0
+
+1.0.0
+-----
+0da220d372beec8ee74219de12aa78c729a5371b
+julia 0.6
+LaTeXStrings
+Compat 0.8.0
+
+1.1.0
+-----
+438013d9ebf5ea1a620da4f836658bc8ffe01138
+julia 0.6
+LaTeXStrings 0.2

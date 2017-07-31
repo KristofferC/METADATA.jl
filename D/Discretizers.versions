@@ -69,3 +69,19 @@ DataArrays 0.2.10
 StatsBase 0.8.0
 Compat 0.8.0
 DataStructures
+
+1.1.0
+-----
+f983998c7ae579030a5815f902505af8595628c7
+julia 0.5
+DataArrays 0.2.10
+StatsBase 0.8.0
+Compat 0.8.0
+DataStructures 0.5.0
+
+2.0.0
+-----
+575339f0399f135c4710cb64e6106420e4f72048
+julia 0.6
+StatsBase 0.8.0
+DataStructures 0.5.0

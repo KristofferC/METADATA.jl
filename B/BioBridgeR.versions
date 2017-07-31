@@ -1,0 +1,19 @@
+https://github.com/BioJulia/BioBridgeR.jl.git
+
+0.1.0
+-----
+ffc35dba755e880b40b38510df30c171f5f80521
+julia 0.6
+BioSymbols 1.1.1
+BioSequences
+RCall
+Twiddle
+
+0.1.1
+-----
+3c77845bc09ca09d3ede476d123fc3d99d3a7b03
+julia 0.6
+BioSymbols 1.1.1
+BioSequences
+RCall
+Twiddle

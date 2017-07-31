@@ -8,6 +8,25 @@ Distributions
 NLopt
 StatsBase 0 0.8.0
 
+0.10.0
+------
+f63b21fc0cc79e7aee002c6d2f7d5d025d7d67e5
+julia 0.5
+ArgCheck
+BlockArrays
+CategoricalArrays
+Compat 0.19.0
+DataArrays
+DataStructures
+DataFrames 0.9
+Distributions 0.11
+GLM 0.6.1
+NamedArrays
+NLopt 0.3
+Showoff
+StatsBase 0.11
+StatsFuns 0.3
+
 0.2.0
 -----
 785fa626395d508aeab00be22c6303b60a79a6da

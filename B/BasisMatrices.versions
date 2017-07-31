@@ -31,3 +31,21 @@ QuantEcon
 Compat 0.17
 Iterators
 Combinatorics
+
+0.3.2
+-----
+8bdb25ec02c25407c581e0f98015e31523304a43
+julia 0.5
+QuantEcon
+Compat 0.17
+Iterators
+Combinatorics
+
+0.4.0
+-----
+fa9b868f03a611ea42caaee37de120e54787e41f
+julia 0.5
+QuantEcon
+Compat 0.17
+Iterators
+Combinatorics

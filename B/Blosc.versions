@@ -97,3 +97,9 @@ Compat 0.8
 BinDeps
 julia 0.4
 Compat 0.8
+
+0.3.0
+-----
+0fdded9b19d8737138ba386ce742876270f8e351
+BinDeps 0.6
+julia 0.5

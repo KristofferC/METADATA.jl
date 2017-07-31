@@ -1,0 +1,8 @@
+https://github.com/JuliaIntervals/IntervalOptimisation.jl.git
+
+0.1.0
+-----
+e695b6ba59477e4007528d211ddd5e38aacd54d5
+julia 0.5
+IntervalArithmetic 0.9.1
+IntervalRootFinding 0.1

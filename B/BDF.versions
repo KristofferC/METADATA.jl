@@ -83,3 +83,11 @@ Compat 0.7.18
 DocStringExtensions
 HDF5
 julia 0.5
+
+0.3.0
+-----
+7896d01dd55c8f1ad32f1decd5b4e1f165578672
+Compat 0.7.18
+DocStringExtensions
+HDF5
+julia 0.6

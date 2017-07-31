@@ -1,0 +1,12 @@
+https://github.com/cstjean/TraceCalls.jl.git
+
+0.0.1
+-----
+38f933e3eb8f83d3817f3cc392687b210690d4d2
+julia 0.6
+MacroTools 0.3.3
+Memoize 0.1.0
+ClobberingReload 0.2.1
+DataStructures
+Requires
+Revise 0.0.4

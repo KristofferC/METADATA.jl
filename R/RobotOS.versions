@@ -89,3 +89,10 @@ Compat 0.8.0
 julia 0.4
 PyCall
 Compat 0.8.0
+
+0.4.3
+-----
+f601da6a2cc0ebd28ba981d0c487628e2fa7fd86
+julia 0.4
+PyCall 1.11.0
+Compat 0.17.0

@@ -31,3 +31,11 @@ Distributions
 DataFrames
 ProgressMeter
 Plots
+
+0.2.0
+-----
+b3b39da497155eabb1d06213536dfe36c919af81
+julia 0.5
+Distributions
+DataFrames
+ProgressMeter

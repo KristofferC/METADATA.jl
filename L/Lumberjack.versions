@@ -100,3 +100,12 @@ julia 0.4
 JSON
 StackTraces 0.1
 Mocking
+
+2.1.1
+-----
+c617443e26307cf719e3842ad2ded847e8d43873
+julia 0.4
+JSON
+Compat 0.17
+StackTraces 0.1
+Mocking

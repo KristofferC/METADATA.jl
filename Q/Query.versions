@@ -134,7 +134,18 @@ IterableTables 0.0.1
 -----
 02d635573a73a6bb72e3d5ecf1b1232a7e114561
 julia 0.6.0-rc1
-NamedTuples 3.0.2 4.0.0
+NamedTuples 3.0.2
+DataStructures 0.4.5
+Requires 0.4.3
+Documenter 0.9.0
+IterableTables 0.1.0
+DataValues 0.0.2
+
+0.6.0
+-----
+dfce164d30b81b1735a0fca9eed962c486445b42
+julia 0.6.0-rc1
+NamedTuples 3.0.2
 DataStructures 0.4.5
 Requires 0.4.3
 Documenter 0.9.0

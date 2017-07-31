@@ -31,6 +31,74 @@ FileIO
 Compat 0.19
 StatsBase   # for histrange
 
+0.10.1
+------
+aa04e63487d46f0e41041e4ca65365ea3aa240ba
+julia 0.5
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageTransformations 0.2.2
+ImageFiltering
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.19
+StatsBase   # for histrange
+
+0.11.0
+------
+d1b67195ec35bb21b119ea79062ff16fa19e8568
+julia 0.6.0
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageTransformations 0.2.2
+ImageFiltering
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.19
+StatsBase 0.14   # for histrange
+Requires
+
+0.11.1
+------
+7c8a791d6622d94a8812198a8bfeb5e587bd2687
+julia 0.6.0
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageTransformations 0.2.2
+ImageFiltering
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.19
+StatsBase 0.14   # for histrange
+Requires
+
 0.2.0
 -----
 f00c9ba81f3955454a92f9c21784c57e3a683bf6

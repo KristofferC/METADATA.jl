@@ -50,3 +50,39 @@ BlossomV 0.2
 Clustering
 DataStructures 0.5.0
 Compat 0.18
+
+0.3.0
+-----
+56a464381c082929c10ca78cb86e5bc68f8d6100
+julia 0.5
+GZip 0.2.20
+EzXML 0.4.0
+StatsFuns
+BlossomV 0.3
+Clustering
+DataStructures 0.5.0
+Compat 0.18
+
+0.4.0
+-----
+7e48013fb264137cceb291f7118cb7be20d07abc
+julia 0.5
+GZip 0.2.20
+EzXML 0.4.0
+StatsFuns
+BlossomV 0.3
+Clustering
+DataStructures 0.5.0
+Compat 0.18
+
+0.5.0
+-----
+462c82294cd1c2e84e5cbfdb0db5fb57102534fa
+julia 0.5
+GZip 0.2.20
+EzXML 0.4.0
+StatsFuns
+BlossomV 0.3
+Clustering
+DataStructures 0.5.0
+Compat 0.18

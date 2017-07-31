@@ -22,3 +22,54 @@ DataArrays
 Plots
 StatsBase
 Quaternions
+
+0.1.0
+-----
+0b15124fe4efe66f39c4d0caa5ff215517be12b3
+julia 0.5
+MAT
+DataFrames
+DataArrays
+RecipesBase
+Plots
+StatsBase
+Quaternions
+FixedSizeArrays
+
+0.2.0
+-----
+09ecba9eaee4519df5a2386c0b0368cf464183ec
+julia 0.6.0-pre
+MAT
+DataFrames
+DataArrays
+RecipesBase
+Plots
+StatsBase
+Quaternions
+StaticArrays
+
+0.2.1
+-----
+d1384f0cf990e5c14acc49c46c9c06d3fb919cad
+julia 0.6.0-pre
+MAT
+DataFrames
+DataArrays
+RecipesBase
+Plots
+StatsBase
+Quaternions
+StaticArrays
+
+0.2.2
+-----
+aa3d017ed9718d14176e2a4b5845a90672c18ea9
+julia 0.6.0
+MAT
+DataFrames
+DataArrays
+RecipesBase
+StatsBase
+Quaternions
+StaticArrays

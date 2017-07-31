@@ -1,0 +1,25 @@
+https://github.com/EconForge/Dolang.jl.git
+
+0.1.0
+-----
+d3cfb2032598b0f620be380af310c1816ff1c263
+julia 0.5
+DataStructures
+Compat 0.18
+Calculus
+
+0.1.1
+-----
+14e4cdf6ca6cc477b3622306b4a13a9f287cec36
+julia 0.5
+DataStructures
+Compat 0.18
+Calculus
+
+0.1.2
+-----
+cf7d0e2c4bf61dbbc0e5accd7f14227bbde7a461
+julia 0.5
+DataStructures
+Compat 0.18
+Calculus

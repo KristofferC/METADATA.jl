@@ -75,3 +75,11 @@ julia 0.5
 Compat 0.17
 Distances
 Iterators
+
+0.3.0
+-----
+bcc8f1a2488c0ebbbc97f6f9f6eda1eaba0705c6
+julia 0.5
+Compat 0.17
+Distances
+IterTools

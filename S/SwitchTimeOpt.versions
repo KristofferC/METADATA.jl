@@ -22,3 +22,12 @@ Ipopt
 julia 0.5
 MathProgBase
 ODE
+
+0.2.0
+-----
+d412a3712b3a2ce6ec44da80ef81b1cf81d519b8
+julia 0.6
+MathProgBase
+DiffEqBase
+OrdinaryDiffEq
+Ipopt

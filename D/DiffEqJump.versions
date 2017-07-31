@@ -51,3 +51,12 @@ DiffEqBase 0.13.0
 RecursiveArrayTools
 Compat 0.19.0
 Juno
+
+0.5.0
+-----
+cbd35d0f4351c327c920f980fe4f4ed7bf27e7f5
+julia 0.6
+DiffEqBase 0.13.0
+RecursiveArrayTools
+Compat 0.19.0
+Juno

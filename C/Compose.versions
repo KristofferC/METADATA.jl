@@ -488,3 +488,14 @@ DataStructures
 Iterators 0.1.5
 JSON
 Measures
+
+0.5.3
+-----
+5ddfae2eae52966b3aa73e659b8170e8aed4c50b
+julia 0.5
+Colors
+Compat 0.18.0
+DataStructures
+IterTools
+JSON
+Measures

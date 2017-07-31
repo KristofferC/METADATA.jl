@@ -348,3 +348,35 @@ Reexport
 MacroTools
 ASTInterpreter
 Gallium
+
+0.6.0
+-----
+7a55deda388658fdafa875746cce3dbe71089054
+julia 0.6.0-pre
+Juno 0.2.6
+Lazy 0.11.3
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+ASTInterpreter
+Gallium
+
+0.6.1
+-----
+ea49f246e0f32f815a9700635fecf41333ec78da
+julia 0.6.0-pre
+Juno 0.2.6
+Lazy 0.11.3
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools

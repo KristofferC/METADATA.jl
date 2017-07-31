@@ -6,4 +6,28 @@ e58692ea8e53e660ec67d18eb0f3d17feb780c1a
 julia 0.5
 DataFrames
 MacroTools
-LazyContext
+LazyContext 0.0.1 0.1.0
+
+0.1.0
+-----
+9df7ad86763b23a5083e92ff7c0821e41370d9e6
+julia 0.6
+LazyContext 0.1.1
+DataFrames
+MacroTools 0.3.3
+Query
+NamedTuples
+ChainRecursive 0.0.3
+
+0.1.1
+-----
+f8e628861229f2ea5d0f6aa0bc005c3819c936b9
+julia 0.6
+LazyContext 0.1.2
+DataFrames
+MacroTools 0.3.2
+Query
+NamedTuples
+ChainRecursive 0.0.3
+LazyCall 0.1.1
+DataArrays

@@ -21,3 +21,11 @@ Mocking 0.3
 julia 0.5
 JSON 0.8
 Mocking 0.3
+
+0.2.0
+-----
+626877b751179c5004cc23474a12054245ef9b4b
+julia 0.5
+Compat 0.17.0
+JSON 0.8
+Mocking 0.3

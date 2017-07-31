@@ -1,5 +1,25 @@
 https://github.com/JuliaIntervals/IntervalArithmetic.jl.git
 
+0.10.0
+------
+a0bff5584de46b10e72b9e96bec1005901bda96d
+julia 0.5
+CRlibm 0.5
+StaticArrays 0.3
+FastRounding 0.0.4
+AdjacentFloats 0.0.4
+RecipesBase
+
+0.11.0
+------
+f4be4b6b831dee83ca3e1f683110d8043dd3ab47
+julia 0.6-pre
+CRlibm 0.5
+StaticArrays 0.5
+FastRounding 0.0.4
+AdjacentFloats 0.0.5
+RecipesBase
+
 0.9.0
 -----
 28fde2fad77ba513dc4ffa17a7c91be794d995bd

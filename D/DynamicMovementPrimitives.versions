@@ -14,3 +14,11 @@ ODE
 RecipesBase
 FixedSizeArrays
 Requires
+
+0.2.0
+-----
+3a74fab646935555b0c55eba186282233a53a20a
+julia 0.6.0-pre
+ODE
+RecipesBase
+Requires

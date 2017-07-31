@@ -128,7 +128,14 @@ Compat 0.8.6
 0.5.0
 -----
 69313b342ea40c8ccf6bfb00809b13caca72101b
-julia 0.4
+julia 0.5
 Compat 0.9.5
+DataStructures
+@windows WinReg
+
+0.5.1
+-----
+9717ab38f263ffc12eeba04d6cc1958559487e5c
+julia 0.5
 DataStructures
 @windows WinReg

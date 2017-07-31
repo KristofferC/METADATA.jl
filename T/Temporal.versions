@@ -115,3 +115,18 @@ JSON
 julia 0.5
 Requests
 JSON
+
+0.4.0
+-----
+9de09ac6a0a5456a7aa2503e4c989442f1d61878
+julia 0.6
+Requests
+JSON
+
+0.4.1
+-----
+37458717cb347b55d298c311404b5f81740f60b3
+julia 0.6
+Requests
+JSON
+RecipesBase

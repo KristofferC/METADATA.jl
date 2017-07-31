@@ -1,0 +1,61 @@
+https://github.com/JuliaComputing/JuliaDB.jl.git
+
+0.1.0
+-----
+7f3ccbeb32622abbf2d6956fdc8aebd63678967e
+julia 0.6-
+IndexedTables 0.1.4
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays
+
+0.1.1
+-----
+f32c5a54dca43d14f04cd2c73ecb182bde0382fa
+julia 0.6-
+IndexedTables 0.1.4
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays
+
+0.1.2
+-----
+7725937798ce46dba630b7cb2f5188a95be8163e
+julia 0.6-
+IndexedTables 0.1.4
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays
+
+0.1.3
+-----
+d5a82f1de40bfcd1ea7885d3e14d2e0a848ec6a3
+julia 0.6
+IndexedTables 0.2.1
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays
+
+0.1.4
+-----
+e6cb1f30ad8a4b9988c44aae5a57d128813c8c09
+julia 0.6
+IndexedTables 0.2.1
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays

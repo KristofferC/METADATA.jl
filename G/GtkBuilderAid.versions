@@ -48,3 +48,10 @@ julia 0.4
 Cairo 0.2.24
 Gtk 0.8.4
 Compat 0.8.0
+
+0.1.0
+-----
+62b198996a9a81c771cc484f352255c0e52438ac
+julia 0.5
+Cairo 0.2.31
+Gtk 0.11.0

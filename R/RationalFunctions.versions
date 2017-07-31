@@ -30,3 +30,11 @@ julia 0.4
 Compat 0.8.0
 Polynomials 0.1.2
 RecipesBase
+
+0.1.0
+-----
+68fd334ef44ed2a532ce01c6f266c04cde8b2666
+julia 0.4
+Compat 0.8.0
+Polynomials 0.1.2
+RecipesBase
