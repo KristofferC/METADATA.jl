@@ -67,3 +67,12 @@ DiffBase 0.0.3 0.3.0
 ForwardDiff 0.3.4 0.5.0
 Compat 0.19.0
 FunctionWrappers 0.1
+
+0.1.5
+-----
+4f97151d4552c75a1a2eda35eed7e7128f064f4b
+julia 0.5
+DiffBase 0.0.3 0.4.0
+ForwardDiff 0.3.4 0.5.0
+Compat 0.19.0
+FunctionWrappers 0.1
