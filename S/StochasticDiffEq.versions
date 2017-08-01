@@ -471,7 +471,7 @@ RandomNumbers
 ea3f1ae97f522f5c6bf74c48327efc26afb15593
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -489,7 +489,7 @@ RandomNumbers
 99c8fa134cbc8b0c90be3110c7506a5f7cd61cb7
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -507,7 +507,7 @@ RandomNumbers
 218e1b701ee0fe822a1309a1cf68b0f2d91bf15b
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5

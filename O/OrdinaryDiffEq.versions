@@ -614,7 +614,7 @@ Compat 0.18.0
 ------
 5750bb0013ff877ec51861fa5aa8bff6599b0b78
 julia 0.6.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -631,7 +631,7 @@ Reexport
 ------
 f6bf3ff18a6e1802165faa7c6774a6e5b189d26c
 julia 0.6.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -648,7 +648,7 @@ Reexport
 ------
 d79eb2bf8637726887b16a4d8d520308b9816bb5
 julia 0.6.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -665,7 +665,7 @@ Reexport
 ------
 3b8dd0dd341f65aa9654a92e636bc4436d25b198
 julia 0.6.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
@@ -682,7 +682,7 @@ Reexport
 ------
 b70c49ecbb55f7c2d7d35afdf69cde23ea3c16d7
 julia 0.6.0
-DiffEqBase 1.15.0
+DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
 ForwardDiff 0.5.0
 GenericSVD 0.0.2
