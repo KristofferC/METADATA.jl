@@ -341,3 +341,19 @@ JLD
 LsqFit
 PyCall
 NMF
+
+0.3.6
+-----
+d4742980fd6c895cd2a9547b8da87320660b882d
+julia 0.5
+IJulia
+PyPlot
+JuMP 0.13
+Ipopt
+StatsBase
+Dierckx
+Distributions
+JLD
+LsqFit
+PyCall
+NMF

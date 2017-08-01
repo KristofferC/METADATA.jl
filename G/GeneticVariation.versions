@@ -12,3 +12,16 @@ BufferedStreams
 Compat 0.17
 Twiddle
 IntervalTrees
+
+0.2.0
+-----
+3a7c88f04aad3ed9446731a241af22701309541c
+julia 0.6
+Automa
+BGZFStreams
+BioCore 1.1.0
+BioSequences 0.7.0
+BufferedStreams
+Combinatorics
+Twiddle
+IntervalTrees
