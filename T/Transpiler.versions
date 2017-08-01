@@ -25,3 +25,17 @@ OpenCL 0.5.2
 #ModernGL
 #GLAbstraction
 SpecialFunctions
+
+0.2.0
+-----
+ac7c633f4a374f4692bacead0f38b334c2945563
+julia 0.6
+Compat 0.17.0
+Sugar 0.3.0
+Matcha
+StaticArrays 0.3.0
+DataStructures
+OpenCL 0.5.2
+#ModernGL
+#GLAbstraction
+SpecialFunctions
