@@ -13,3 +13,16 @@ BGZFStreams
 Compat 0.17
 GenomicFeatures 0.1
 IntervalTrees 0.2
+
+0.2.0
+-----
+f2c9ee4388849557f20bbd0e3524e3cdc82f9c56
+julia 0.6
+Automa 0.1
+BGZFStreams 0.0.1
+BioCore 1.0
+BioSequences 0.6
+BioSymbols 1.0
+BufferedStreams 0.3
+GenomicFeatures 0.1
+IntervalTrees 0.1
