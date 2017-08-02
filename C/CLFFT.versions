@@ -52,3 +52,12 @@ julia 0.5
 OpenCL
 Primes
 BinDeps
+
+0.5.0
+-----
+1cb4fe02e47af59ecc926eb756b930bd241a06a7
+julia 0.5
+OpenCL 0.6 # pre compilation & refcount bug fix
+Primes
+BinDeps
+Compat 0.9.1

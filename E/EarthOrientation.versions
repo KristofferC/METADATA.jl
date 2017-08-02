@@ -1,0 +1,9 @@
+https://github.com/JuliaAstro/EarthOrientation.jl.git
+
+0.1.0
+-----
+2420038ef8b65ddc147ef497b240c79b933eb5e9
+julia 0.6
+SmoothingSplines 0.1.1
+RemoteFiles 0.1.0
+OptionalData 0.1.0
