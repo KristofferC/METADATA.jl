@@ -76,3 +76,12 @@ JSON 0.6.0
 MathProgBase 0.5.4
 JuMP 0.17 0.18-
 Compat 0.17
+
+0.3.4
+-----
+0171f8baba821f27196a566365164fa5ab8c98a5
+julia 0.5
+JSON 0.6.0
+MathProgBase 0.5.4
+JuMP 0.17 0.18-
+Compat 0.17

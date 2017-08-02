@@ -18,3 +18,9 @@ f48192d530973eeb34f5f9f0cb7d5bbf4939c3d1
 julia 0.4
 DataFrames 0.7.0
 Compat 0.8.0
+
+2.0.0
+-----
+1cbffdfc5824b3c7140fdac67f06b830b6124646
+julia 0.6
+DataFrames 0.9.0
