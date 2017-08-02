@@ -55,3 +55,10 @@ Logging
 julia 0.5
 Compat 0.19
 Logging
+
+0.2.2
+-----
+ef70d95edfce45f90ea07ab4065fa01eaae0d8a2
+julia 0.5
+Compat 0.19
+Logging
