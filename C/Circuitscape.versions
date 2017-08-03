@@ -1,0 +1,11 @@
+https://github.com/ranjanan/Circuitscape.jl.git
+
+0.0.1
+-----
+56324d68f84e34c100f2bc05789049f0114258f8
+julia 0.6
+IterativeSolvers
+Logging
+LightGraphs
+PyAMG
+GZip
