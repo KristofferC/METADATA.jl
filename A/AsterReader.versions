@@ -1,0 +1,8 @@
+https://github.com/JuliaFEM/AsterReader.jl.git
+
+0.1.0
+-----
+70f0c4b33b737c1b80f5864055f6c027a9b2a199
+julia v0.6
+HDF5
+Logging

@@ -6,7 +6,7 @@ d1e7832c0b39ce884fa6edb60bf7eaefbcde6c46
 julia 0.6-pre
 Requests
 DataTables
-IndexedTables
+IndexedTables 0.0.0 0.3.0
 
 0.0.2
 -----
@@ -14,4 +14,4 @@ d2a2d9a77d2158b25a0c865289d64bf0c41fd013
 julia 0.6-pre
 Requests
 DataTables
-IndexedTables
+IndexedTables 0.0.0 0.3.0
