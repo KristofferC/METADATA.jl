@@ -10,3 +10,14 @@ ClobberingReload 0.2.1
 DataStructures
 Requires
 Revise 0.0.4
+
+0.0.2
+-----
+e2bb8e46012de7a87489b9c7adfdd01949dc1d4d
+julia 0.6
+MacroTools 0.3.3
+Memoize 0.1.0
+ClobberingReload 0.2.1
+DataStructures
+Requires
+Revise 0.0.6
