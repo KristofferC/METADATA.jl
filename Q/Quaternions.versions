@@ -43,3 +43,9 @@ Compat 0.7.15
 julia 0.5
 DualNumbers
 Compat 0.7.15
+
+0.3.0
+-----
+f702021ea580045276944a524a83297d0500e939
+julia 0.6
+DualNumbers
