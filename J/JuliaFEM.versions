@@ -34,3 +34,18 @@ HDF5 0.7
 DataFrames
 Formatting
 Logging
+
+0.3.0
+-----
+419edd97c825a3a5bbac62d55fb6f466d163ec6c
+julia 0.6
+ForwardDiff
+LightXML 0.4
+HDF5 0.7
+DataFrames
+Formatting
+Logging
+TimerOutputs
+AbaqusReader
+FEMQuad
+AsterReader
