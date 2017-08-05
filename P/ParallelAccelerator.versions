@@ -125,3 +125,14 @@ DataStructures 0.4.6
 Compat 0.8.0
 DocOpt
 @windows WinRPM
+
+0.3.2
+-----
+d2055962c0fe13656f33af6b1f21980fc2f4ff14
+julia 0.6
+CompilerTools 0.3.0
+DataStructures 0.4.6
+Compat 0.8.0
+DocOpt
+SpecialFunctions
+@windows WinRPM
