@@ -187,3 +187,12 @@ HDF5
 Compat 0.25.0
 FileIO
 LegacyStrings
+
+0.8.1
+-----
+b273c5e468d68e2f8e78d2deff35e6df23b4b119
+julia 0.6
+HDF5
+Compat 0.25.0
+FileIO
+LegacyStrings
