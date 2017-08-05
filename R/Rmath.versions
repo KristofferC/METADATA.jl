@@ -8,55 +8,55 @@ julia 0.2 0.3
 0.1.0
 -----
 2b3d4b86c26949edbd9a1415ed94f565ca8735ce
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 
 0.1.1
 -----
 22a36940d41e2dfae3555cc7cde07b972d5cce20
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.8.4
 
 0.1.2
 -----
 ee5083c4358d0ff85fb017a4c06973ca15440269
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.8.4
 
 0.1.3
 -----
 d43c100d5d56342233025fd912cf82ea1ac03376
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.9.1
 
 0.1.4
 -----
 cfecfa748b508c7bd705cb5df7589a2732f0f38d
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.9.1
 
 0.1.5
 -----
 f6b155e70b956ac8f67242b755e025fc90146e63
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.9.1
 
 0.1.6
 -----
 ee002e9ed4ec6689f59dbabb5e8c0eb0396eb778
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.9.1
 
 0.1.7
 -----
 1973a7049412e1f0ef7b7b9bf18249f37e5fd53d
-julia 0.4
+julia 0.4 0.7-
 BinDeps
 Compat 0.9.1
 

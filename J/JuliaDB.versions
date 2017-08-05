@@ -59,3 +59,15 @@ Dagger 0.2.0
 Glob 1.1.1
 PooledArrays 0.0.2
 NullableArrays
+
+0.1.5
+-----
+eb9204729ac9f3fce5905d57ce1f25c3ac5642d4
+julia 0.6
+IndexedTables 0.2.1 0.3.0
+NamedTuples 4.0.0
+TextParse 0.1.6
+Dagger 0.2.0
+Glob 1.1.1
+PooledArrays 0.0.2
+NullableArrays
