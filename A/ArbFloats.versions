@@ -84,3 +84,12 @@ dbce0537f2386c8c1cf319de05306fd83353c768
 julia 0.5.0
 Compat 0.9.4
 BinDeps 0.4.5
+
+0.2.0
+-----
+9a5186556456d7fa29a25977c9d29880a44dfd05
+julia 0.6.0
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.6.0
+ReadableNumbers 0.0.3
