@@ -6,3 +6,11 @@ fa72b59dec93a08fdb19d9ff68a5fbbf91487d98
 julia 0.5
 Einsum 0.1
 DataStructures 0.5.1
+
+0.2.0
+-----
+ddb6d41ef01d8c025b155903d8da1bda04b84e0b
+julia 0.6
+Einsum
+DataStructures 0.5.2
+Sugar
