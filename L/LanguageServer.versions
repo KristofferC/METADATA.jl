@@ -7,3 +7,57 @@ julia 0.5
 JSON 0.8.0 0.9.0
 Lint 0.2.5
 URIParser 0.1.6
+
+0.1.0
+-----
+ddaf44350873ab86fe89018e383c2fbb6efabca6
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize
+
+0.1.1
+-----
+82356e2f45005d63439fc3ae2338dd2fd1331fdc
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize
+
+0.1.2
+-----
+1d17204b1b2cf15f2289d3c3190d419941ef4ce6
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize
+
+0.1.3
+-----
+17f606b3a23e117cdf77b75c49f1c9731366e28f
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize
+
+0.1.4
+-----
+4ae5fdcdeb9413deb9a2a7787b22c03e4362d93e
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize
+
+0.1.5
+-----
+c37b7a7846e13cf20ea6ecc962c7d2c9d1562938
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser
+Tokenize

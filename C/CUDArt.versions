@@ -67,3 +67,10 @@ dc286ac19293aa621ac086599d2249a8c6193afe
 julia 0.5
 Compat 0.18.0
 CUDAdrv 0.2.4
+
+0.3.2
+-----
+622dfa539fa53c3eca434cff40af37ced69d533f
+julia 0.5
+Compat 0.18.0
+CUDAdrv 0.4.1

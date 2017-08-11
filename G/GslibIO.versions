@@ -5,3 +5,9 @@ https://github.com/juliohm/GslibIO.jl.git
 d5b43757f595be696ece0eb0ddb4c486f1afa9a8
 julia 0.5
 FileIO
+
+0.1.0
+-----
+aa3f8ca9cfc48c62b0d31438fe6651b698506d80
+julia 0.6
+FileIO

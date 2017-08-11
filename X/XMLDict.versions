@@ -70,3 +70,11 @@ DataStructures
 julia 0.5
 LightXML
 DataStructures
+
+0.1.3
+-----
+ef60cc7d48b9503de34e01cff99dae18c6d81778
+julia 0.5
+LightXML
+DataStructures
+IterTools

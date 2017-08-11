@@ -37,3 +37,11 @@ julia 0.5
 BinDeps
 MathProgBase 0.5 0.7
 Compat 0.8.6
+
+0.4.0
+-----
+ab5119ddf1272254b507c428195640262ae162ab
+julia 0.6
+BinDeps
+MathProgBase 0.5 0.7
+Compat 0.8.6

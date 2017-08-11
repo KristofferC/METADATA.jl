@@ -80,3 +80,18 @@ Retry
 XMLDict
 LightXML
 Nettle
+
+0.2.0
+-----
+98c8ddf2a1ddc1cc99ad78b8042421b25b62b2f9
+julia 0.5
+AWSCore 0.2
+HttpCommon
+Requests
+SymDict
+Retry
+XMLDict
+LightXML
+MbedTLS
+DataStructures
+URIParser

@@ -59,3 +59,23 @@ SymDict 0.1.2
 Retry
 Nettle
 URIParser
+
+0.2.0
+-----
+c8c8f75704003cb68bc4504cc923671f5b47eb5f
+julia 0.5
+AWSCore 0.2
+SymDict 0.1.2
+Retry
+MbedTLS
+URIParser
+
+0.2.1
+-----
+c8e559eb2dfdf4921a06c454029a062eb8dc81fa
+julia 0.5
+AWSCore 0.2
+SymDict 0.1.2
+Retry
+MbedTLS
+URIParser

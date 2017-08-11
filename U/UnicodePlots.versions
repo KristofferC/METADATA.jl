@@ -82,3 +82,10 @@ Compat 0.17
 julia 0.5
 StatsBase
 Compat 0.17
+
+0.2.5
+-----
+572d4ab22b4136e7ee74a2e13a9359d0ee0bb6cb
+julia 0.5
+StatsBase
+Compat 0.17

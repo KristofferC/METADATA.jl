@@ -13,3 +13,19 @@ julia 0.5
 AWSCore 0.1
 SymDict
 Retry
+
+0.2.0
+-----
+cd596962ec9b5e6a5236749b60aad55a683bc92a
+julia 0.5
+AWSCore 0.2
+SymDict
+Retry
+
+0.2.1
+-----
+77c465a18eac5810463d46f597b075285ee61e61
+julia 0.5
+AWSCore 0.2
+SymDict
+Retry

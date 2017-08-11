@@ -178,3 +178,18 @@ Reactive 0.4.0
 Graphics 0.2
 IntervalSets 0.0.5
 RoundingIntegers
+
+0.2.3
+-----
+ef10f00ab47df464269ba24db81713180aa2e3b5
+julia 0.5
+Compat 0.17
+Gtk 0.13
+Cairo
+Colors
+FixedPointNumbers 0.3
+Reexport
+Reactive 0.4.0
+Graphics 0.2
+IntervalSets 0.0.5
+RoundingIntegers

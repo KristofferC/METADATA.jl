@@ -263,3 +263,63 @@ URIParser 0.1.2
 Requests
 Nettle
 HttpCommon
+
+0.2.0
+-----
+b1e88217dbdbae0f9ba68ef17c0b514a5d15c1a1
+julia 0.5
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+MbedTLS
+HttpCommon
+DataStructures
+
+0.2.1
+-----
+f1c400b847a2c507611d441eacaa50a31bd13bbb
+julia 0.5
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+MbedTLS
+HttpCommon
+DataStructures
+
+0.2.2
+-----
+df1216674082eeecd2a511599820c924f5c7ca3d
+julia 0.5
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+MbedTLS
+HttpCommon
+DataStructures
+
+0.2.3
+-----
+be6551cdf6af85799143958aab9e227a4e33f5c3
+julia 0.5
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+URIParser 0.1.2
+Requests
+MbedTLS
+HttpCommon
+DataStructures

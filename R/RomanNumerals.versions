@@ -13,3 +13,10 @@ b700968e0ac9337d9f14bf9e4b8a2dace547351b
 8ae444ba6f6edddb21dc2bfaa2b74dd9b19993f9
 julia 0.5
 Primes
+
+0.2.1
+-----
+596e4b33ab9946bbd69985a6b843089e0e676c9a
+julia 0.5
+Primes
+Compat 0.9.4

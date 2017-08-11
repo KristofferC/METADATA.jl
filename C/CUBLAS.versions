@@ -16,3 +16,9 @@ julia 0.4-
 0f19aac8e811b446539992ac66e505a86856a735
 julia 0.5
 CUDArt 0.3.0
+
+0.2.0
+-----
+c053b1d81e2e57330d6e5b7a7e6cd744678f73d1
+julia 0.6
+CUDAdrv 0.5.0
