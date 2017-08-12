@@ -11,3 +11,9 @@ TranscodingStreams 0.1
 1628c7da97f0a3a2a600528ccec8761753737045
 julia 0.6.0-rc1
 TranscodingStreams 0.2
+
+0.3.0
+-----
+ac6157425d18850718c9044972f51b351c5cccdb
+julia 0.6.0
+TranscodingStreams 0.3

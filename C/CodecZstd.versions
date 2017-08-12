@@ -13,3 +13,10 @@ dfe9bd437fefdea78bf39c931b40c73d5c54a931
 julia 0.6-rc1
 BinDeps
 TranscodingStreams 0.2
+
+0.3.0
+-----
+e45386a73ddda71beef25b99168adebd9abc1bac
+julia 0.6
+BinDeps
+TranscodingStreams 0.3
