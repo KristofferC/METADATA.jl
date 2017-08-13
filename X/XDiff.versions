@@ -1,0 +1,8 @@
+https://github.com/dfdx/XDiff.jl.git
+
+0.1.0
+-----
+7b2aac77f362fee4043212056fd8d39861dcc25c
+julia 0.6
+IterTools
+Espresso 0.2.1
