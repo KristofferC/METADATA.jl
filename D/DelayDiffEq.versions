@@ -15,7 +15,7 @@ Combinatorics
 8dab499efec9e1a55a436ddfd75dfd6b09253e8b
 julia 0.5
 DiffEqBase 0.8.0 0.15.0
-OrdinaryDiffEq 1.2.0
+OrdinaryDiffEq 1.2.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -25,7 +25,7 @@ Combinatorics
 773873355acf8fcbc5035a4198fa58e8b0acc2d5
 julia 0.5
 DiffEqBase 0.8.0 0.15.0
-OrdinaryDiffEq 1.6.0
+OrdinaryDiffEq 1.6.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -35,7 +35,7 @@ Combinatorics
 f0e6bdeb7529b9097b3268fc8ec2f49abbd68666
 julia 0.5
 DiffEqBase 0.15.0
-OrdinaryDiffEq 1.6.0
+OrdinaryDiffEq 1.6.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -45,7 +45,7 @@ Combinatorics
 7edbbcfd7874ecf3779652dd06f91defa30a58b7
 julia 0.5
 DiffEqBase 0.15.0
-OrdinaryDiffEq 1.6.0
+OrdinaryDiffEq 1.6.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -56,7 +56,7 @@ Compat 0.17.0
 118232270d498dac41ee022ec0b658cbffacbe8b
 julia 0.6
 DiffEqBase 0.15.0
-OrdinaryDiffEq 2.9.0
+OrdinaryDiffEq 2.9.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -68,7 +68,7 @@ Reexport
 32ab4b458c7a50348135c6f7cf1ffbcea1a80a82
 julia 0.6
 DiffEqBase 1.15.0
-OrdinaryDiffEq 2.10.0
+OrdinaryDiffEq 2.10.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -80,7 +80,7 @@ Reexport
 47342df9e537e6e3a044741a52a1e14ccccd0c12
 julia 0.6
 DiffEqBase 1.15.0
-OrdinaryDiffEq 2.10.0
+OrdinaryDiffEq 2.10.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -92,7 +92,7 @@ Reexport
 f6a73dcc78438022d5871b4fd3fc5d556792b46a
 julia 0.6
 DiffEqBase 1.16.0
-OrdinaryDiffEq 2.10.0
+OrdinaryDiffEq 2.10.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -105,7 +105,7 @@ MuladdMacro
 ec27c8dd3c4bc14a3c6534b3da5ee805e3dfc974
 julia 0.6
 DiffEqBase 1.16.0
-OrdinaryDiffEq 2.13.0
+OrdinaryDiffEq 2.13.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -118,7 +118,7 @@ MuladdMacro
 fc7eadeded8835b5f182a6c98ccba695e97f77c9
 julia 0.6
 DiffEqBase 1.16.0
-OrdinaryDiffEq 2.13.0
+OrdinaryDiffEq 2.13.0 2.15.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics

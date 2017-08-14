@@ -185,3 +185,14 @@ RecursiveArrayTools 0.4.0
 DiffEqPDEBase
 DiffEqMonteCarlo
 DiffEqNoiseProcess
+
+0.9.5
+-----
+4d9ce3c5772312e148dd9798b49bc4f8e39ef7be
+julia 0.6-pre
+RecipesBase 0.1.0
+DiffEqBase 1.12.0
+RecursiveArrayTools 0.4.0
+DiffEqPDEBase
+DiffEqMonteCarlo
+DiffEqNoiseProcess
