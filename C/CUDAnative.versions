@@ -62,3 +62,10 @@ LLVM 0.3.8
 julia 0.6
 CUDAdrv 0.5.0
 LLVM 0.3.8
+
+0.4.2
+-----
+009039dbc03807324ba315e792ffcb76f8ec0a53
+julia 0.6
+CUDAdrv 0.5.0
+LLVM 0.3.8

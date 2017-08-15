@@ -20,3 +20,10 @@ Primes
 julia 0.5
 Primes
 Compat 0.9.4
+
+0.2.2
+-----
+867f09fc2c36f538c2205781ad25724bd66e235b
+julia 0.5
+Primes
+Compat 0.9.4
