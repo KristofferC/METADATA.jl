@@ -73,3 +73,12 @@ FactCheck
 Nettle 0.2
 Requests
 URIParser
+
+0.5.0
+-----
+92c2095369cbf8e7ddc4f2a313e5f589202f97a3
+julia 0.6
+FactCheck
+Nettle 0.2
+Requests
+URIParser

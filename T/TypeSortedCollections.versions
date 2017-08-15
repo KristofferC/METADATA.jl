@@ -1,0 +1,7 @@
+https://github.com/tkoolen/TypeSortedCollections.jl.git
+
+0.0.1
+-----
+fc4686896f772644824d4380866c67ec78f5fb93
+julia 0.6
+Compat 0.27 # for Val constructor

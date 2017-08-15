@@ -28,3 +28,10 @@ julia 0.5.0-rc0
 DataFrames
 GZip
 Compat
+
+0.4.0
+-----
+15e10908919413e96371ed0cb8d47eeb005ba7b3
+julia 0.6
+DataFrames
+GZip
