@@ -1,0 +1,9 @@
+https://github.com/MikeInnes/CuArrays.jl.git
+
+0.1.0
+-----
+03ec146e2f8c158bec2a5cedb630c9d44481a31d
+julia 0.6
+CUDAnative 0.4
+CUDAdrv 0.5
+CUBLAS
