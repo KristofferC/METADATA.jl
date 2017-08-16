@@ -9,6 +9,14 @@ GZip 0.2
 StatsBase 0.6 0.9.0
 DataStructures 0.3
 
+0.10.0
+------
+dab281af840ef1be1767ef21e39612e70819b59d
+julia 0.6.0-pre
+CodecZlib 0.2
+DataStructures 0.6
+SimpleTraits 0.4.0
+
 0.1.1
 -----
 32e021b216ee46bf173c3de2691a40c82262bb3e

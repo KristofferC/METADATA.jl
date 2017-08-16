@@ -87,3 +87,13 @@ StaticArrays 0.5
 MathProgBase 0.5.10 0.7
 JuMP 0.16
 RecipesBase 0.2
+
+0.2.2
+-----
+f4139981de46d6171c1f539ba246f70162124a70
+julia 0.6
+GeometryTypes 0.4
+StaticArrays 0.5
+MathProgBase 0.5.10 0.7
+JuMP 0.16
+RecipesBase 0.2
