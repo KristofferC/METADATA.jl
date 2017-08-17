@@ -19,3 +19,12 @@ BinDeps
 julia 0.5
 OpenCL 0.5
 BinDeps
+
+1.1.2
+-----
+8b11378bf298ae82c77d449dafd4eb2914509a67
+julia 0.5
+OpenCL 0.5
+BinDeps
+@osx Homebrew
+Compat 0.9.1
