@@ -138,3 +138,16 @@ Combinatorics
 Compat 0.17.0
 Reexport
 MuladdMacro
+
+0.9.1
+-----
+765287bef6a43647aec0b4e95316853198825705
+julia 0.6
+DiffEqBase 1.16.0
+OrdinaryDiffEq 2.15.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Combinatorics
+Compat 0.17.0
+Reexport
+MuladdMacro
