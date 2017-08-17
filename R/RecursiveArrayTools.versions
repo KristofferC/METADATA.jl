@@ -70,6 +70,14 @@ StaticArrays
 f2df3313b48babf66e4ca3e0a1bbf48f54545e55
 julia 0.5
 
+0.12.0
+------
+09e4ad153052dbb2606c8d1deaf6f2813acb1a86
+julia 0.6-pre
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
 0.2.0
 -----
 0c3431dd08ba840ad1d807c835e42d2360d9b411
