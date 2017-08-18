@@ -5,7 +5,7 @@ https://github.com/MikeInnes/Flux.jl.git
 1c317eeefec910170cc72a4fe09ac54e187b3624
 julia 0.5
 Iterators
-DataFlow
+DataFlow 0.0 0.2.1
 Juno
 
 0.1.1
@@ -13,7 +13,7 @@ Juno
 854a1e18865742c59b6db6c58e16fee6ef9ef8ce
 julia 0.5
 Iterators
-DataFlow
+DataFlow 0.0 0.2.1
 Juno
 
 0.2.0
@@ -21,7 +21,7 @@ Juno
 efcb9650da31c183b94b839f66aa3467d007c33f
 julia 0.6.0-pre
 Iterators
-DataFlow
+DataFlow 0.0 0.2.1
 Juno
 MacroTools  0.3.3
 
@@ -30,6 +30,14 @@ MacroTools  0.3.3
 7a85eff370b7c68d587b49699fa3f71e44993397
 julia 0.6.0-pre
 Iterators
-DataFlow
+DataFlow 0.0 0.2.1
+Juno
+MacroTools 0.3.3
+
+0.2.2
+-----
+b17eb78e0a7131de18501b621c594a9c4d459372
+julia 0.6.0
+DataFlow 0.2.1 0.3-
 Juno
 MacroTools 0.3.3
