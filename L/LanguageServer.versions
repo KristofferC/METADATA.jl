@@ -14,7 +14,7 @@ ddaf44350873ab86fe89018e383c2fbb6efabca6
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
 
 0.1.1
@@ -23,7 +23,7 @@ Tokenize
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
 
 0.1.2
@@ -32,7 +32,7 @@ Tokenize
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
 
 0.1.3
@@ -41,7 +41,7 @@ Tokenize
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
 
 0.1.4
@@ -50,7 +50,7 @@ Tokenize
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
 
 0.1.5
@@ -59,5 +59,5 @@ c37b7a7846e13cf20ea6ecc962c7d2c9d1562938
 julia 0.6.0-rc1
 JSON 0.8.1
 URIParser 0.1.8
-CSTParser
+CSTParser 0.0.2 0.2.0
 Tokenize
