@@ -41,3 +41,10 @@ Tokenize 0.1.10
 276263ebf1ca9c4cffae08c9749daa03b9a52ace
 julia 0.6.0-pre.beta
 Tokenize 0.1.10
+
+0.2.0
+-----
+729db0c46d814b85fcf349d4cf4a5586028a2c2d
+julia 0.6.0-pre.beta
+Tokenize 0.1.10
+AbstractTrees

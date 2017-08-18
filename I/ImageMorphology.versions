@@ -6,3 +6,9 @@ https://github.com/JuliaImages/ImageMorphology.jl.git
 julia 0.6
 ImageCore
 ImageMetadata
+
+0.0.2
+-----
+184845be503a1397b84b42da5e4a63acd78b2d18
+julia 0.6
+ImageCore

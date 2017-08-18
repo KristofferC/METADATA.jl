@@ -231,3 +231,10 @@ FixedPointNumbers 0.3.0
 julia 0.6
 Compat 0.26.0
 FixedPointNumbers 0.3.0
+
+0.6.1
+-----
+664068d97b4a7ce67a667653dd3d5071bca59e83
+julia 0.6
+Compat 0.26.0
+FixedPointNumbers 0.3.0

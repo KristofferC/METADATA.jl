@@ -112,3 +112,15 @@ Distributions
 DataFrames
 KernelDensity
 Loess
+
+0.4.2
+-----
+fc4608e79aa7f99d1cfaffc9004b9c48c6470b38
+julia 0.6-pre
+Reexport
+Plots 0.12.0
+StatsBase
+Distributions
+DataFrames
+KernelDensity
+Loess
