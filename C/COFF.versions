@@ -5,7 +5,7 @@ git://github.com/Keno/COFF.jl.git
 898361c92bed996c06e6368b6cbd002d49254fa4
 julia 0.5-
 ObjFileBase
-StructIO
+StructIO 0.0.1 0.1.0
 DWARF
 
 0.0.2
@@ -13,5 +13,5 @@ DWARF
 39c350110965350e077248b770996692ce5393e3
 julia 0.5-
 ObjFileBase
-StructIO
+StructIO 0.0.1 0.1.0
 DWARF
