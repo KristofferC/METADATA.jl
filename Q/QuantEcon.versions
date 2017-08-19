@@ -130,6 +130,19 @@ Primes
 Compat 0.18.0
 StatsBase
 
+0.13.0
+------
+f9a34ddcf2f97e3b989e05030ae5b7d13c395f25
+julia 0.5
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.18.0
+StatsBase
+Optim 0.7.3
+NLopt 0.3.4
+
 0.2.0
 -----
 af4a7f85e6b31da0bbd6777c519935457db3260b
