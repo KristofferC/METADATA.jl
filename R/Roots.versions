@@ -276,3 +276,10 @@ b15036fe00ce404429d50a1a7c7b1c99a54f2017
 julia 0.5
 ForwardDiff 0.2.0
 Compat 0.17.0
+
+0.4.1
+-----
+0b804a868d43d35053d83af2f2109be61678d05a
+julia 0.5
+ForwardDiff 0.2.0
+Compat 0.17.0
