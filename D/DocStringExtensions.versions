@@ -47,3 +47,9 @@ Compat 0.18
 a4cf2b837d59fa5f7b73848ce764ba4b75485ae9
 julia 0.4
 Compat 0.18
+
+0.4.0
+-----
+0fb7e6c7b05faa4da41aec44cfed29562accbc12
+julia 0.6
+Compat 0.27 # for Sys.iswindows

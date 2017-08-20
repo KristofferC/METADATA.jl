@@ -1,0 +1,10 @@
+https://github.com/JuliaImages/ImageDraw.jl.git
+
+0.0.1
+-----
+2c38a2bb773204109ec1fa2c047ccc21314aa11c
+julia 0.6
+ColorTypes 0.3.2
+ImageCore 0.1.1
+Distances 0.1.0
+Compat 0.17.0

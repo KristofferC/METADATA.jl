@@ -79,3 +79,15 @@ ColorVectorSpace 0.1.11
 ImageCore
 ImageAxes
 Compat 0.19
+
+0.3.0
+-----
+228fd883411d6c287bc28d3a08597d08ebcf6af1
+julia 0.6
+IndirectArrays
+FixedPointNumbers 0.3.0
+Colors
+ColorVectorSpace 0.1.11
+ImageCore
+ImageAxes
+Compat 0.19

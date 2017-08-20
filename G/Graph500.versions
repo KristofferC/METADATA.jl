@@ -1,0 +1,9 @@
+https://github.com/somil55/Graph500.jl.git
+
+0.0.1
+-----
+11b2d50a90019f3a31555f71e61939a37e27b437
+julia 0.6
+LightGraphs v0.10.0
+SimpleWeightedGraphs v0.0.1
+StatsBase v0.17.0
