@@ -209,3 +209,18 @@ Calculus 0.1.15
 IntervalSets 0.0.2
 StaticArrays 0.3
 Compat 0.19
+
+0.7.0
+-----
+a4141f6562eec07ec85752af355e744bf1a3a5f7
+julia 0.6
+FastGaussQuadrature 0.2.1
+FastTransforms 0.2
+RecipesBase 0.1
+DualNumbers 0.2.2
+BandedMatrices 0.3
+ToeplitzMatrices 0.2
+Calculus 0.1.15
+IntervalSets 0.0.2
+StaticArrays 0.3
+Compat 0.19
