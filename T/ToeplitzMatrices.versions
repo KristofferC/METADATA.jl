@@ -18,3 +18,11 @@ StatsBase 0.8.0
 julia 0.5
 Compat 0.18.0
 StatsBase 0.8.0
+
+0.3.0
+-----
+a6c839ae3415c4083ad22de65cdfd8acbf8a3209
+julia 0.6
+Compat 0.18.0
+StatsBase 0.8.0
+FFTW
