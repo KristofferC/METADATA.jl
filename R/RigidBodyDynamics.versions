@@ -79,3 +79,14 @@ DataStructures 0.4.6
 LightXML 0.4.0
 DocStringExtensions 0.3.1
 Compat 0.19.0
+
+0.3.0
+-----
+cd58a541cf085b31913e8a22c3206fff0003a751
+julia 0.6-rc3
+StaticArrays 0.6.2
+Rotations 0.6.0
+TypeSortedCollections 0.1
+LightXML 0.4.0
+DocStringExtensions 0.4.0
+Compat 0.27 # for Val constructor

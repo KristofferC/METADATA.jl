@@ -1,0 +1,9 @@
+https://github.com/CiaranOMara/BedgraphFiles.jl.git
+
+0.1.0
+-----
+771144ceb43704510349ed5d8b6688253f0488cf
+julia 0.6
+IterableTables 0.4.2
+FileIO 0.5.1
+DataFrames 0.10.0

@@ -1,0 +1,9 @@
+https://github.com/davidanthoff/TableTraitsUtils.jl.git
+
+0.0.1
+-----
+3f21e1490ac507e920bbd3fca29165ae838fdc26
+julia 0.6
+NamedTuples 4.0.0
+DataValues 0.0.1
+TableTraits 0.0.1
