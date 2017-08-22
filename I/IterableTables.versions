@@ -61,3 +61,12 @@ julia 0.6.0-rc1
 NamedTuples 4.0.0
 Requires 0.4.3
 DataValues 0.0.3
+
+0.5.0
+-----
+5dd87776d4f3629692579fe49e9fe76b9809d2ea
+julia 0.6.0
+NamedTuples 4.0.0
+Requires 0.4.3
+DataValues 0.0.3
+TableTraits 0.0.1
