@@ -211,3 +211,15 @@ Colors
 Graphics 0.2
 FileIO
 IntervalSets
+
+0.3.0
+-----
+6052b422cabf7c2e8fa7e479faee5a220049dc0b
+julia 0.5
+Gtk
+GtkReactive 0.0.3
+Cairo 0.2.5
+Colors
+Graphics 0.2
+FileIO
+IntervalSets
