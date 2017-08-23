@@ -37,3 +37,14 @@ Requests
 Libz
 MsgPack
 URIParser
+
+0.1.0
+-----
+6934ac06900dfdea8f5d433b819582a2cf8177fa
+julia 0.6
+JSON 0.7.0
+MbedTLS 0.3.1
+Requests
+Libz
+MsgPack
+URIParser

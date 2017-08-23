@@ -100,3 +100,17 @@ ForwardDiff
 Calculus
 Optim
 Compat 0.17.0
+
+0.6.0
+-----
+0642a7103f28ced165250ff46e8ce405735a33ca
+julia 0.6
+LsqFit 0.0.2
+DiffEqBase 1.7.0
+LossFunctions 0.0.2
+RecursiveArrayTools 0.10.0
+ForwardDiff
+Calculus
+Optim
+Compat 0.17.0
+PenaltyFunctions

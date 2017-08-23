@@ -1,0 +1,11 @@
+https://github.com/JuliaDiffEq/BoundaryValueDiffEq.jl.git
+
+0.0.1
+-----
+a29fbdf83020f27765e5e80391d90cdc4f972912
+julia 0.6
+DiffEqBase
+Reexport
+NLsolve
+DiffEqDiffTools
+BandedMatrices
