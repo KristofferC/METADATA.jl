@@ -23,3 +23,11 @@ julia 0.5
 JuMP 0.17 0.18-
 PowerModels 0.3 0.4-
 Compat 0.17
+
+0.0.4
+-----
+b236f37aa3c838a65f2dae8b4974ae7714cf9326
+julia 0.5
+JuMP 0.17 0.18-
+PowerModels 0.3 0.4-
+Compat 0.17
