@@ -3,7 +3,7 @@ https://github.com/JuliaAudio/PortAudio.jl.git
 0.2.1
 -----
 2889669b7f0b04adb2cbca93f778295d799e8aa7
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 Devectorize
 SampledSignals
@@ -14,7 +14,7 @@ RingBuffers 0.0.0 1.0.0
 0.3.0
 -----
 b6f59a1e9dcac55a746cf638e3fbe2b40c6fc87b
-julia 0.4
+julia 0.4 0.6.0-rc1
 Compat 0.8.8
 BinDeps
 Devectorize
@@ -26,7 +26,7 @@ RingBuffers 0.1.0 1.0.0
 0.4.0
 -----
 eaa5aa96bb0ba61b70be9d0608abeed5654c8704
-julia 0.4
+julia 0.4 0.6.0-rc1
 Compat 0.8.8
 BinDeps
 Devectorize
@@ -38,7 +38,7 @@ RingBuffers 0.1.0 1.0.0
 0.5.0
 -----
 a24cf8e9bc84af7a2e1a24185c14466830399e1f
-julia 0.4
+julia 0.4 0.6.0-rc1
 Compat 0.8.8
 BinDeps
 Devectorize

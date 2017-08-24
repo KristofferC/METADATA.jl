@@ -8,6 +8,14 @@ IterableTables 0.4.2 0.5.0
 FileIO 0.5.1
 DataFrames 0.10.0
 
+0.1.1
+-----
+06a56ce3ce90a28237dcbf11bdb1ab3dd0880b9f
+julia 0.6
+IterableTables 0.4.2
+FileIO 0.5.1
+DataFrames 0.9.1
+
 0.1.2
 -----
 b1cbbf035ed9153361828c849c2b64a3bad4f9eb

@@ -517,6 +517,17 @@ Compat 0.19.0
 Juno
 LinearMaps
 
+1.22.0
+------
+60718a2613d2cb6160bef2922e98ca4f70a86d50
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.9.0
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+
 1.3.0
 -----
 ba96c2d3d87403c8c4dba43056a4a6ec8ebc902c

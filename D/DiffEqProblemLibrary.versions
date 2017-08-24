@@ -23,6 +23,14 @@ FiniteElementDiffEq
 AlgebraicDiffEq
 JLD 0.6.5
 
+0.10.0
+------
+816bda7442cb323784a1786314c6da687f13fa68
+julia 0.6
+ParameterizedFunctions 2.0.0
+DiffEqBase 1.21.0
+DiffEqPDEBase
+
 0.2.0
 -----
 ef037a7865ef322872e505f29393d332c6ff8761

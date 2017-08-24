@@ -5,3 +5,9 @@ https://github.com/JuliaCloud/AWSSDK.jl.git
 28d8302e1a145ead37cef5578763de761b9a20c3
 julia 0.5
 AWSCore 0.2.2
+
+0.2.0
+-----
+41da8d7fbfb791ce2758eb086fcb7a42cbb09f05
+julia 0.5
+AWSCore 0.2.2

@@ -3,7 +3,7 @@ https://github.com/JuliaAudio/LibSndFile.jl.git
 0.2.1
 -----
 c96ba4924ac01ec433ad76eafa2e9e83eb8f9b1c
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 FileIO
 FixedPointNumbers
@@ -15,7 +15,7 @@ SIUnits
 0.3.0
 -----
 158ecab74c084a34571381392d99f6371c4aecd4
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 FileIO 0.1.1
 FixedPointNumbers
@@ -27,7 +27,7 @@ SIUnits
 0.4.0
 -----
 8abfe8a5f62669f9d72b05ff1f7f9b91ce6ecfa2
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 FileIO 0.1.1
 FixedPointNumbers
@@ -40,7 +40,7 @@ SIUnits
 0.5.0
 -----
 c36a10f95d1db4169bf0af7d5f6fafffbf21c862
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 FileIO 0.1.1
 SampledSignals 0.3.0
@@ -51,7 +51,7 @@ Compat 0.8.8
 0.5.1
 -----
 354ea6336705b0e453e91432992c2c979ca57081
-julia 0.4
+julia 0.4 0.6.0-rc1
 BinDeps
 FileIO 0.1.1
 SampledSignals 0.3.0
