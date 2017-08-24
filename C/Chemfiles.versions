@@ -26,3 +26,10 @@ BinDeps
 Compat
 @unix Conda 0.2
 @windows WinRPM
+
+0.7.4
+-----
+4c7e430d16bdb672518e6572abfba5188cc6bf63
+julia 0.5
+BinDeps 0.3.19
+Conda 0.5
