@@ -1,0 +1,9 @@
+https://github.com/pkofod/DistQuads.jl.git
+
+0.1.0
+-----
+dc38058ffd8093ff92b0cc2d76ad5e497c77fc26
+julia 0.5
+Distributions
+RCall
+Reexport
