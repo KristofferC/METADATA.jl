@@ -3,6 +3,6 @@ https://github.com/JuliaDiffEq/FEniCS.jl.git
 0.0.1
 -----
 84e753925a06cbe9f752aa0e23af205a9c0e3a2d
-julia 0.5
+julia 0.6
 PyCall
 Conda

@@ -1,0 +1,10 @@
+https://github.com/BioJulia/BioStructures.jl.git
+
+0.1.0
+-----
+3c302833b4a66c59c32a92acafcdb97b5eb606aa
+julia 0.6
+Libz 0.2
+BioCore
+BioSymbols
+BioSequences
