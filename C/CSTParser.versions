@@ -48,3 +48,10 @@ Tokenize 0.1.10
 julia 0.6.0-pre.beta
 Tokenize 0.1.10
 AbstractTrees
+
+0.2.1
+-----
+401690d2234b50047a6a6274564288db1ed1237a
+julia 0.6.0
+Tokenize 0.1.10
+AbstractTrees

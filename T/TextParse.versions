@@ -62,3 +62,12 @@ Compat 0.17
 NullableArrays
 PooledArrays 0.0.2
 WeakRefStrings
+
+0.1.8
+-----
+13e5fd9e224fdbbd27303f10b8b23bac704a49da
+julia 0.5
+Compat 0.17
+NullableArrays
+PooledArrays 0.0.2
+WeakRefStrings
