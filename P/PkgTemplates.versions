@@ -1,0 +1,10 @@
+https://github.com/invenia/PkgTemplates.jl.git
+
+0.1.0
+-----
+f4e75f3a574929b30dffeaf5f088cb0fffd55246
+julia 0.6
+AutoHashEquals
+Mustache
+TerminalMenus
+URIParser
