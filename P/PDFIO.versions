@@ -44,3 +44,15 @@ Compat
 BufferedStreams 0.3
 Libz 0.2
 Documenter
+
+0.0.6
+-----
+76e3dbe7dfc05f19c1cb16fb64046c6ee9720d54
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+StringEncodings
+TimeZones
+Documenter
+LabelNumerals

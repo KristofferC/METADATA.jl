@@ -1,0 +1,10 @@
+https://github.com/Datseris/DynamicalSystems.jl.git
+
+0.1.0
+-----
+839f85ab012297aa241bf7f4d58becfb110a6fd8
+julia 0.6
+OrdinaryDiffEq 2.17.0
+ForwardDiff 0.5
+Requires 0.4.3
+LsqFit 0.3.0

@@ -5,3 +5,10 @@ git://github.com/JuliaDB/Accumulo.jl.git
 dc0d083bd2f89b470933221b7162155f9ff9577f
 julia 0.4
 Thrift
+
+0.1.0
+-----
+f9f296963446a8a1bde365b477bef57dbf0ed12c
+julia 0.5
+Compat 0.17.0
+Thrift
