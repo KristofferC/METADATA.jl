@@ -5,3 +5,9 @@ https://github.com/sambitdash/LabelNumerals.jl.git
 2754aecc02bb3de77b95ff15f819d23c073b5669
 julia 0.6
 RomanNumerals
+
+0.0.3
+-----
+d521139e586b1ff80e2f9aa333c79e62221f1995
+julia 0.6
+RomanNumerals 0.2.2
