@@ -36,3 +36,10 @@ Debug
 julia 0.4- 0.7
 Compat
 Debug
+
+0.3.3
+-----
+9710407e523a4b38b4e8940c14dbbe947f088257
+julia 0.4 0.7
+Compat
+Debug
