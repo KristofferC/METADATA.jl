@@ -32,3 +32,16 @@ NamedTuples
 ChainRecursive 0.0.3
 LazyCall 0.1.1
 DataArrays
+
+0.1.2
+-----
+4ea05a847bca0ae00a113bd50ac5c92e9e684a2f
+julia 0.6
+LazyContext 0.1.2
+DataFrames
+MacroTools 0.3.2
+Query
+NamedTuples
+ChainRecursive 0.0.3
+LazyCall 0.1.1
+DataArrays
