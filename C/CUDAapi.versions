@@ -5,3 +5,9 @@ https://github.com/JuliaGPU/CUDAapi.jl.git
 44f54e34314e53e4aa3197c15913f5271315ea24
 julia 0.5
 Compat 0.28.0
+
+0.1.1
+-----
+8cb5c27cfd79841adbcec2e9fe0746b0e7945743
+julia 0.5
+Compat 0.28.0
