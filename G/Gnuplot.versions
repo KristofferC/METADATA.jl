@@ -1,0 +1,7 @@
+https://github.com/gcalderone/Gnuplot.jl.git
+
+0.1.0
+-----
+f33dc836928e69150dd09380c9ad057cfd451a20
+julia 0.6
+StatsBase

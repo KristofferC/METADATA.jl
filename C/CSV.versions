@@ -144,3 +144,12 @@ Compat 0.9.5
 DataStreams 0.1.0
 DataFrames
 WeakRefStrings 0.1.3
+
+0.1.5
+-----
+2c58187270213455d15577e85689767f89cf8de8
+julia 0.5
+Compat 0.9.5
+DataStreams 0.1.0 0.2.0
+DataFrames
+WeakRefStrings 0.1.3 0.3.0

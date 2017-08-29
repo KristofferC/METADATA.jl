@@ -3,34 +3,42 @@ https://github.com/chakravala/Fatou.jl.git
 0.0.1
 -----
 39208a0717930c16a65b37de4167b2c9f0aab2b0
-julia 0.5
+julia 0.5 0.6
 PyPlot
 SymPy
 
 0.0.2
 -----
 7be430d7d6f39f02c2effc499578754dcf84973a
-julia 0.5
+julia 0.5 0.6
 PyPlot
 SymPy
 
 0.0.3
 -----
 6e894a436a935e295bb5bcd3fe54aae1e04fdbe4
-julia 0.5
+julia 0.5 0.6
 PyPlot
 SymPy
 
 0.1.0
 -----
 c3701d88f6d5e2f45246002de716c7fa80907ca0
-julia 0.5
+julia 0.5 0.6
 PyPlot
 SymPy
 
 0.1.1
 -----
 5c4c00d7481e92d892b29715e701f634e88b8605
+julia 0.5 0.6
+PyPlot
+SymPy
+Colors
+
+0.1.2
+-----
+caf0537be36e21d90009f39dfa15e1db00215484
 julia 0.5
 PyPlot
 SymPy
