@@ -43,3 +43,10 @@ b72cad701c5007a417a882f939dfe6bb2616f864
 julia 0.6
 ForwardDiff
 SIMD
+
+0.7.3
+-----
+1f86e74f321147261f85398e844e1d91640370a7
+julia 0.6
+ForwardDiff
+SIMD
