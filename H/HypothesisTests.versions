@@ -118,3 +118,14 @@ StatsBase 0.9.0
 Compat 0.18.0
 Rmath 0.1.2
 Combinatorics
+
+0.6.0
+-----
+dfb41d4bf7a98d8c5bdf32d7cbf2f93aca9c4eb2
+julia 0.6
+Distributions 0.10.0
+Roots
+StatsBase 0.9.0
+Compat 0.18.0
+Rmath 0.1.2
+Combinatorics
