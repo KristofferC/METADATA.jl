@@ -3,3 +3,9 @@ git://github.com/scheinerman/Permutations.jl.git
 0.0.1
 -----
 f937a0f9d2c90a6243e9ab69db877b066bfba55a
+
+0.1.2
+-----
+9596c7668840aa08297b0ebe1c75100ce00ffd96
+julia 0.5
+Combinatorics
