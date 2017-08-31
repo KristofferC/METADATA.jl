@@ -3,7 +3,7 @@ git://github.com/bcbi/BioMedQuery.jl.git
 0.0.1
 -----
 f53683dfb10d80c09b21a60838469c0f400258f5
-julia 0.4.1
+julia 0.4.1 0.5
 ArgParse 0.3.0
 DataStreams 0.0.6 0.0.7
 Gumbo 0.2.0
@@ -18,7 +18,7 @@ XMLconvert 0.0.1
 0.0.2
 -----
 568cb6cff27748c9a6aa6524d843a7f44ec7bf03
-julia 0.4.1
+julia 0.4.1 0.5
 ArgParse 0.3.0
 DataStreams 0.0.6 0.0.7
 Gumbo 0.2.0
@@ -33,7 +33,7 @@ XMLconvert 0.0.1
 0.0.3
 -----
 d22c0643a2a3b84f7e96dd12b9a7af2f33ce8a2c
-julia 0.4.1
+julia 0.4.1 0.5
 ArgParse 0.3.0
 DataStreams 0.0.6 0.0.7
 Gumbo 0.2.0
@@ -50,7 +50,7 @@ XMLconvert 0.0.1
 21aa56e7236f6a8dc3dc7b853dd3e7a02f4b51e4
 julia 0.4.1
 ArgParse 0.3.0
-DataStreams 0.0.10
+DataStreams 0.0.10 0.2.0
 Gumbo 0.2.0
 Requests 0.3.8
 LightXML 0.2.1
@@ -66,7 +66,7 @@ MySQL 0.0.2
 a59fad12ef3be0d6fa9352133199cc991357aef4
 julia 0.4.1
 ArgParse 0.3.0
-DataStreams 0.0.10
+DataStreams 0.0.10 0.2.0
 Gumbo 0.2.0
 Requests 0.3.8
 LightXML 0.2.1
@@ -84,7 +84,7 @@ NullableArrays 0.0.8
 6784d8728ec34959a797e41b8178c17a1243251d
 julia 0.5
 ArgParse 0.3.0
-DataStreams 0.0.10
+DataStreams 0.0.10 0.2.0
 Gumbo 0.2.0
 Requests 0.3.8
 LightXML 0.2.1
@@ -103,7 +103,7 @@ DataStructures 0.4.6
 00f5dbd686d1f413f66546e505ff606979a4e9b7
 julia 0.5
 ArgParse 0.3.0
-DataStreams 0.0.10
+DataStreams 0.0.10 0.2.0
 Gumbo 0.2.0
 Requests 0.3.8
 LightXML 0.2.1
@@ -122,7 +122,7 @@ DataStructures 0.4.6
 c07871d62bf67ec695d3e0124da56df6c36a0813
 julia 0.5
 ArgParse 0.3.0
-DataStreams 0.0.10
+DataStreams 0.0.10 0.2.0
 Gumbo 0.2.0
 Requests 0.3.8
 LightXML 0.2.1

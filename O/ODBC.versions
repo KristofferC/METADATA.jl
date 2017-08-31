@@ -12,7 +12,7 @@ f450a51e6674c864be9e73530882d250d8e2264b
 DataFrames v0.2.0
 Datetime
 ProgressMeter
-julia 0.2-
+julia 0.2- 0.3
 
 0.2.1
 -----
@@ -20,7 +20,7 @@ julia 0.2-
 DataFrames v0.2.0
 Datetime
 ProgressMeter
-julia 0.2-
+julia 0.2- 0.3
 
 0.3.0
 -----
@@ -28,7 +28,7 @@ c48347ff45bc7496e994eeb3cba81cc3d7af8510
 DataFrames v0.2.0
 Datetime
 UTF16
-julia 0.2-
+julia 0.2- 0.3
 
 0.3.1
 -----
@@ -36,14 +36,14 @@ julia 0.2-
 DataFrames 0.3-
 Datetime 0.1-
 UTF16
-julia 0.2-
+julia 0.2- 0.3
 
 0.3.10
 ------
 65ed481c112a79f342fcf4618aa8a51b23bc095d
 DataFrames 0.5.2
 Dates 0.3.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.11
 ------
@@ -57,61 +57,61 @@ julia 0.3 0.5-
 0d2144638d34a8cd98022abbec89e29725285a0c
 DataFrames 0.4-
 Datetime 0.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.3
 -----
 d79b72f8a951d6a19e96336f8c9ee83ab99b0467
 DataFrames 0.4-
 Datetime 0.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.4
 -----
 837c361c91564e6108df8f77861ee2ae1df91229
 DataFrames 0.4-
 Datetime 0.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.5
 -----
 e30fa4c60d7e71b86facea775f71b9a7b447bd67
 DataFrames 0.4-
 Datetime 0.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.6
 -----
 90d2f4392056dc22cb4053c18e5dd34a85f95281
 DataFrames v0.5.2
 Datetime v0.1.2
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.7
 -----
 820d07d8d57c88c0cdfc9e33cbdda1018864155f
 DataFrames v0.5.2
 Datetime v0.1.2
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.8
 -----
 f614eb01596a5fc517c277e6460132eaccc49806
 DataFrames 0.5.2
 Datetime 0.1.2
-julia 0.3-
+julia 0.3- 0.4
 
 0.3.9
 -----
 7bc22671adbc51660c99083ee7560d4c6ddb6d08
 DataFrames 0.5.2
 Dates 0.3.1-
-julia 0.3-
+julia 0.3- 0.4
 
 0.4.0
 -----
 7ae7ebfac60ed3ffb1ccefd552993a3073f8b77b
-julia 0.4
+julia 0.4 0.5
 Compat
 NullableArrays
 DataStreams
@@ -122,7 +122,7 @@ DecFP
 0.4.1
 -----
 7ae7ebfac60ed3ffb1ccefd552993a3073f8b77b
-julia 0.4
+julia 0.4 0.5
 Compat
 NullableArrays
 DataStreams
@@ -133,7 +133,7 @@ DecFP
 0.4.2
 -----
 e194699064fad016ee2b6ace5780e59f85670701
-julia 0.4.1
+julia 0.4.1 0.5
 SQLite
 CSV
 DataStreams
@@ -145,8 +145,8 @@ DecFP
 0.5.0
 -----
 880d4b1a8120236df6cb7a02264226f92f76cb62
-julia 0.5
-DataStreams 0.1.0
+julia 0.5 0.7
+DataStreams 0.1.0 0.2.0
 DataFrames
 NullableArrays 0.0.9
 CategoricalArrays 0.0.5
@@ -156,8 +156,8 @@ WeakRefStrings
 0.5.1
 -----
 e12d9edecfafb9f16d2e8ed144b128982a4980d3
-julia 0.5
-DataStreams 0.1.0
+julia 0.5 0.7
+DataStreams 0.1.0 0.2.0
 DataFrames
 NullableArrays 0.0.9
 CategoricalArrays 0.0.5
@@ -167,8 +167,8 @@ WeakRefStrings
 0.5.2
 -----
 f0afedead6354c9ce69b264454e32d92adc62d98
-julia 0.5
-DataStreams 0.1.0
+julia 0.5 0.7
+DataStreams 0.1.0 0.2.0
 DataFrames
 NullableArrays 0.0.9
 CategoricalArrays 0.0.5

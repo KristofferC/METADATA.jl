@@ -3,13 +3,13 @@ git://github.com/JuliaData/DataStreamsIntegrationTests.jl.git
 0.0.1
 -----
 e92cc45b94ae5dcd12b2a1a48423d1133762b243
-julia 0.5
-DataStreams
+julia 0.5 0.7
+DataStreams 0.0.0 0.2.0
 NullableArrays
 
 0.0.2
 -----
 39607c912872eec9d370f50714dc69a49cedb3f6
-julia 0.5
-DataStreams
+julia 0.5 0.7
+DataStreams 0.0.0 0.2.0
 NullableArrays
