@@ -37,3 +37,12 @@ Compat 0.27.0
 BinDeps 0.6.0
 @osx Homebrew
 @windows WinRPM
+
+0.1.0
+-----
+16c27b0fee2dbebddb799c87811aa791130679d2
+julia 0.7.0-DEV.602
+AbstractFFTs 0.2.0
+Reexport
+Compat 0.27.0
+BinDeps 0.6.0
