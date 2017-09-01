@@ -1,0 +1,7 @@
+https://github.com/bramtayl/ValuedTuples.jl.git
+
+0.0.1
+-----
+cd4e6f26d3b67cff1a2c8ee6088e59877d0e1b78
+julia 0.6
+MacroTools
