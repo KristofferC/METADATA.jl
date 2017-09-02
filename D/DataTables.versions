@@ -5,7 +5,7 @@ https://github.com/JuliaData/DataTables.jl.git
 4316fa2af83330cd9dac2b099f431bef705874fc
 julia 0.5
 NullableArrays 0.1.0
-CategoricalArrays 0.0.6
+CategoricalArrays 0.0.6 0.2.0
 StatsBase 0.11.0
 GZip
 SortingAlgorithms
@@ -20,7 +20,7 @@ DataStreams 0.0.0 0.2.0
 9902e6eb2b233d7e2528379def3e86d2c4ad0b9e
 julia 0.5
 NullableArrays 0.1.0
-CategoricalArrays 0.0.6
+CategoricalArrays 0.0.6 0.2.0
 StatsBase 0.11.0
 GZip
 SortingAlgorithms
@@ -34,7 +34,7 @@ DataStreams 0.0.0 0.2.0
 46a4f3fa364ee32b85d6484006bcf8f593e9bcc5
 julia 0.5
 NullableArrays 0.1.0
-CategoricalArrays 0.1.2
+CategoricalArrays 0.1.2 0.2.0
 StatsBase 0.11.0
 SortingAlgorithms
 Reexport
