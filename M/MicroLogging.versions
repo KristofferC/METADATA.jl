@@ -1,0 +1,8 @@
+https://github.com/c42f/MicroLogging.jl.git
+
+0.1.0
+-----
+f8d43d1bc7e26d22e18d42c66d2e973f7e7022e5
+julia 0.6
+Compat 0.25.0
+FastClosures
