@@ -5,3 +5,9 @@ https://github.com/c42f/FastClosures.jl.git
 e2b851582d9fe9384a6e49bec3b78febf54ae10c
 julia 0.5
 Compat 0.26.0
+
+0.2.0
+-----
+170cad9e26326d6f6f664912e46b918b2f83c5ea
+julia 0.6
+Compat 0.26.0
