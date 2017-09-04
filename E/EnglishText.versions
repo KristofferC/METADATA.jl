@@ -34,3 +34,9 @@ dc37d19526ac577b450a87d3ee4de99c8dbb8ceb
 julia 0.5
 JSON 0.8.2
 Compat 0.17.0
+
+0.5.0
+-----
+31205e66adb8763e71496a4439d469cdb35e4cd1
+julia 0.6
+JSON 0.8.2
