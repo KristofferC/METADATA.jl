@@ -124,3 +124,16 @@ Combinatorics
 SpecialFunctions
 Parameters
 RecipesBase
+
+0.4.0
+-----
+ef6c5637422ec0460b493530c8a0ab3aaff0f574
+julia 0.6
+Reexport
+GeoStatsBase
+DataFrames
+Combinatorics
+SpecialFunctions
+Parameters
+NamedTuples
+RecipesBase
