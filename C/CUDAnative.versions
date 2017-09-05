@@ -19,60 +19,60 @@ LLVM 0.2 0.3.1
 e16b4723ea6ecd72fad1e8951b7adfcc873afdd8
 julia 0.6.0-pre
 CUDAdrv 0.2 0.5.0
-LLVM 0.2
+LLVM 0.2 0.3.10
 
 0.1.3
 -----
 25b395403b32c20e511ae8ade60119318560e0ec
 julia 0.6.0-pre
 CUDAdrv 0.2 0.5.0
-LLVM 0.2
+LLVM 0.2 0.3.10
 
 0.2.0
 -----
 0721783db9ac4cc2c2948cbf8cbff4aa5f7c4271
 julia 0.6.0-pre
 CUDAdrv 0.2 0.5.0
-LLVM 0.2
+LLVM 0.2 0.3.10
 
 0.3.0
 -----
 d2d7e28acda43271551ebf7ceda3954b50b74d02
 julia 0.6.0-pre
 CUDAdrv 0.4 0.5.0
-LLVM 0.2
+LLVM 0.2 0.3.10
 
 0.3.1
 -----
 fe0214e942a347742da415565729a06efadd6595
 julia 0.6
 CUDAdrv 0.4.2 0.5.0
-LLVM 0.3.5
+LLVM 0.3.5 0.3.10
 
 0.4.0
 -----
 1da524d321686e3f124bb2555914110c98bce646
 julia 0.6
 CUDAdrv 0.5.0
-LLVM 0.3.8
+LLVM 0.3.8 0.3.10
 
 0.4.1
 -----
 1bb9162e2613dc2c7010bf66cf5973d0898839b8
 julia 0.6
 CUDAdrv 0.5.0
-LLVM 0.3.8
+LLVM 0.3.8 0.3.10
 
 0.4.2
 -----
 009039dbc03807324ba315e792ffcb76f8ec0a53
 julia 0.6
 CUDAdrv 0.5.0
-LLVM 0.3.8
+LLVM 0.3.8 0.3.10
 
 0.5.0
 -----
 20790dd9d8cfd358ac2499b7780e814f1b8dbfc9
 julia 0.6
 CUDAdrv 0.5.0
-LLVM 0.3.8
+LLVM 0.3.8 0.3.10
