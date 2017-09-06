@@ -53,3 +53,11 @@ julia 0.5
 DataStructures 0.5
 RecipesBase 0.1
 Compat 0.17
+
+0.3.0
+-----
+ff93a1c5b4ad9e8a9a79ef33e48c4838ee4198db
+julia 0.6
+DataStructures 0.5
+RecipesBase 0.1
+Compat 0.17
