@@ -69,3 +69,10 @@ Logging
 julia 0.6
 Compat 0.19
 Logging
+
+0.3.1
+-----
+5328a33d21dc70808aea66fe12a0a0f003b38aa3
+julia 0.6
+Compat 0.19
+Logging
