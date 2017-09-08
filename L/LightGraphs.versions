@@ -33,6 +33,14 @@ CodecZlib 0.2
 DataStructures 0.6
 SimpleTraits 0.4.0
 
+0.10.3
+------
+640e2de7c94a283a50f610050575be47d54581e4
+julia 0.6
+CodecZlib 0.2
+DataStructures 0.7
+SimpleTraits 0.4.0
+
 0.1.1
 -----
 32e021b216ee46bf173c3de2691a40c82262bb3e

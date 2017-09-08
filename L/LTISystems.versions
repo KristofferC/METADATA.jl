@@ -1,0 +1,11 @@
+https://github.com/JuliaSystems/LTISystems.jl.git
+
+0.1.0
+-----
+337a8d05fb3ac4005452afc68cc9c62a85574462
+julia 0.5
+Compat 0.18.0
+OrdinaryDiffEq 1.0.0
+PolynomialMatrices 0.1.1
+RationalFunctions 0.1.1
+RecipesBase
