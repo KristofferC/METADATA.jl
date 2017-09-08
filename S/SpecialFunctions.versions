@@ -34,3 +34,10 @@ julia 0.6
 89ac6013b83e53c26c920f6725a4fb901e801885
 julia 0.6
 Compat 0.30
+
+0.3.2
+-----
+dcbf013e44301a55df66a8a27abd630a12201020
+julia 0.6
+Compat 0.30
+BinDeps

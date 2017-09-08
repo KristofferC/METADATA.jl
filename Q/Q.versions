@@ -1,0 +1,8 @@
+https://github.com/enlnt/Q.jl.git
+
+0.0.1
+-----
+55a73e5cc1c8adb4b7fe15b9c7ac7b1a37a5118a
+julia 0.6
+DataFrames 0.10.1
+Documenter 0.11.2

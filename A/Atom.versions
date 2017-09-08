@@ -380,3 +380,19 @@ Media
 Blink
 Reexport
 MacroTools
+
+0.6.2
+-----
+b0b8d589dd5bac4bb584a4da4fc2d2d047ee54a0
+julia 0.6.0-pre
+Juno 0.2.6
+Lazy 0.11.3
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+DocSeeker

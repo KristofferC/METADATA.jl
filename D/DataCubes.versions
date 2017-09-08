@@ -32,3 +32,11 @@ ec27b6dafb700c16e0739c0e547d7b9528134384
 julia 0.5
 DataFrames
 Formatting
+
+0.2.0
+-----
+5573e2d3bef571e35c51ad9ec95ca67ff1b6d60c
+julia 0.6
+DataFrames
+Formatting
+DataStructures
