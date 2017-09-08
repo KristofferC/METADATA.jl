@@ -111,3 +111,11 @@ julia 0.4
 Compat 0.25
 Mocking 0.2
 @windows LightXML
+
+0.4.2
+-----
+fc5f1451c313d7c45cc6435990dc711e34e32ebb
+julia 0.4
+Compat 0.25
+Mocking 0.2
+@windows LightXML 0.2

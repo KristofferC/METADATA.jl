@@ -1,0 +1,8 @@
+https://github.com/JuliaData/DBFTables.jl.git
+
+0.0.1
+-----
+dc0cafb5e712807a7460847bdbc5ddb5e423fa8c
+julia 0.6
+Nulls
+DataFrames

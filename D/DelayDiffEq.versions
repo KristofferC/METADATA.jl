@@ -25,7 +25,7 @@ Combinatorics
 87cfee41d426c251f73a14024dc979ceb2aefd63
 julia 0.6
 DiffEqBase 1.21.0
-OrdinaryDiffEq 2.17.0
+OrdinaryDiffEq 2.17.0 2.18.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -144,7 +144,7 @@ MuladdMacro
 ca571ed0920965b31025ce4e87dff5b7d8baf0ed
 julia 0.6
 DiffEqBase 1.16.0
-OrdinaryDiffEq 2.15.0
+OrdinaryDiffEq 2.15.0 2.18.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics
@@ -157,7 +157,7 @@ MuladdMacro
 765287bef6a43647aec0b4e95316853198825705
 julia 0.6
 DiffEqBase 1.16.0
-OrdinaryDiffEq 2.15.0
+OrdinaryDiffEq 2.15.0 2.18.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Combinatorics

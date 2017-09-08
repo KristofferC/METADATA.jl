@@ -1,0 +1,19 @@
+https://github.com/milanflach/MultivariateAnomalies.jl.git
+
+0.1.0
+-----
+7196977f8f45e9936c57bfa8962c20fe312a7634
+julia 0.6
+Distances
+LIBSVM
+MultivariateStats
+Combinatorics
+
+0.1.1
+-----
+2f68180ba9095f054fa63199ae8ea31ca93f9e22
+julia 0.6
+Distances
+LIBSVM
+MultivariateStats
+Combinatorics
