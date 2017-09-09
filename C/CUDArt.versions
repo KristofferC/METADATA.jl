@@ -82,3 +82,11 @@ julia 0.5
 Compat 0.18.0
 CUDAdrv 0.4.1
 CUDAapi
+
+0.4.1
+-----
+55fbd5a4d2b6f03269d66b8d6c953cb2cd855290
+julia 0.5
+Compat 0.18.0
+CUDAdrv 0.4.1
+CUDAapi
