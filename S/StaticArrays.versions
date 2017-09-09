@@ -3,107 +3,107 @@ https://github.com/JuliaArrays/StaticArrays.jl.git
 0.0.1
 -----
 cd71bb8cc916c24403232a41874aacd62fce5f90
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.10
 ------
 eaf6a55406b1df38a05ba113ca507e07c1f56484
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.11
 ------
 b43192c9a1b16cfbbcac6d93825d2ec0addb5ec9
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.2
 -----
 afcb14581431c6b2f53b05a650eeb805a7d546f6
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.3
 -----
 c7f25990f58493daad28baf0f86dbb5f323c8c8f
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.4
 -----
 ce42f74868d5c25f5236f0a699149f0920fe7a25
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.5
 -----
 e72b2192db0aba27e6081ad546ca5354b438caa7
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.6
 -----
 c57557a6d456036b76eeb74e0e8c59b7fd350f25
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.7
 -----
 997e5dd1e671f7c2e792d0f2b76f488aa8f63fc4
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.8
 -----
 5b733a3c4e320dc2fc575c2ce59d779fded9f9a4
-julia 0.5-
+julia 0.5- 0.6-
 
 0.0.9
 -----
 d1561ea5086343c7d891a5cb6df84de4984f9fcc
-julia 0.5-
+julia 0.5- 0.6-
 
 0.1.0
 -----
 6df38acc9379d91f3529c86988898113c6a0a0d7
-julia 0.5-
+julia 0.5- 0.6-
 
 0.1.1
 -----
 261939b1f39c9f301dd05edc100f26ab76708f24
-julia 0.5-
+julia 0.5- 0.6-
 
 0.1.2
 -----
 324308b79ac5d076f41ebc0478ac51a6915fe5af
-julia 0.5-
+julia 0.5- 0.6-
 
 0.1.3
 -----
 726b18b0969f50d9cd9645e50f88064e608894e5
-julia 0.5-
+julia 0.5- 0.6.0-dev.1671
 
 0.1.4
 -----
 e5337be23cd27db2f7c4c0ba145b7b6f65fa7bdc
-julia 0.5-
+julia 0.5- 0.6.0-dev.1671
 
 0.1.5
 -----
 cc229220a72ee33cc2d1cd3c5a57d04f755a99ad
-julia 0.5
+julia 0.5 0.6.0-dev.1671
 
 0.2.0
 -----
 7f610e0c4249b53ecc0ea06cf4c44c48038463e6
-julia 0.5
+julia 0.5 0.6.0-dev.1671
 
 0.2.1
 -----
 1be47ccdce1044e96e89736364b63c1e44ee4e8b
-julia 0.5
+julia 0.5 0.6.0-dev.1671
 
 0.3.0
 -----
 e6d73879caf3c070e19b942211da5ca28381bd4d
-julia 0.5
+julia 0.5 0.6-
 
 0.3.1
 -----
 26dde0be38e36727d36d7189d6811fbf1377c269
-julia 0.5
+julia 0.5 0.6-
 
 0.4.0
 -----

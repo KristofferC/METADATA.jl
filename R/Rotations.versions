@@ -25,37 +25,37 @@ Quaternions
 0.3.0
 -----
 760f1fa3100adbfea9916630ead7cfa3abfeb503
-julia 0.5-
+julia 0.5- 0.6-
 StaticArrays 0.0.3 0.3.0-
 
 0.3.1
 -----
 5135a03ec7ef5ecebe063b19280963947645ff25
-julia 0.5-
+julia 0.5- 0.6-
 StaticArrays 0.0.3 0.3.0-
 
 0.3.2
 -----
 a16511b4be90f2c75c17b3ffa956137566e7f04b
-julia 0.5-
+julia 0.5- 0.6-
 StaticArrays 0.0.3 0.3.0-
 
 0.3.3
 -----
 c2cce971a58f5828c7d89db4157bb753659915a4
-julia 0.5-
+julia 0.5- 0.6-
 StaticArrays 0.0.3 0.3.0-
 
 0.3.4
 -----
 5ee49051762d4b3aaa717660a6d6a06bd7dbfab3
-julia 0.5-
+julia 0.5- 0.6-
 StaticArrays 0.0.3 0.3.0-
 
 0.3.5
 -----
 3ef1cce96f25dc604fc4dcb5c84b51b4c84cd488
-julia 0.5
+julia 0.5 0.6-
 StaticArrays 0.3.0 0.4.0-
 
 0.4.0

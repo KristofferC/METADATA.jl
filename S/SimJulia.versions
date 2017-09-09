@@ -122,3 +122,11 @@ ee859c7efb148e1c90c43e3bd6a7f1fe7ab5075a
 julia 0.6
 DataStructures
 TaylorSeries
+
+0.4.1
+-----
+c8d9567bd5a92f091a11abaac458c7505635dcce
+julia 0.6
+DataStructures
+ResumableFunctions
+TaylorSeries

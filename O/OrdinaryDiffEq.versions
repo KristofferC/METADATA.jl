@@ -826,6 +826,25 @@ Reexport
 MuladdMacro 0.0.2
 StaticArrays
 
+2.19.0
+------
+f2966ce4f44862989a8f7743bd3a27cc1bacedcb
+julia 0.6.0
+DiffEqBase 1.23.0
+Parameters 0.5.0
+ForwardDiff 0.5.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.12.0
+Juno 0.2.5
+DiffEqDiffTools
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+MuladdMacro 0.0.2
+StaticArrays
+
 2.2.0
 -----
 a4cc81e0c33e31c46ed218719599764cf7bb1b30
