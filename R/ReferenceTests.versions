@@ -1,0 +1,11 @@
+https://github.com/Evizero/ReferenceTests.jl.git
+
+0.0.1
+-----
+4ecfa29a6f7b4c6b9f975008fb905713d07f5b05
+julia 0.6
+Images 0.6
+FileIO 0.4
+ImageInTerminal 0.2
+ColorTypes 0.4
+SHA
