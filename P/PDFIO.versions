@@ -56,3 +56,16 @@ StringEncodings
 TimeZones
 Documenter
 LabelNumerals
+
+0.0.7
+-----
+fecd63141d328f607763f90d7fc9308a29eac803
+julia 0.6
+Compat
+BufferedStreams 0.3
+Libz 0.2
+TimeZones
+Documenter
+LabelNumerals
+IntervalTrees
+AdobeGlyphList
