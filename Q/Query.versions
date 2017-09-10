@@ -164,3 +164,16 @@ Documenter 0.9.0
 IterableTables 0.5.0
 DataValues 0.0.2
 MacroTools 0.3.7
+
+0.7.1
+-----
+63c7bc625bfb912bf912b5eff60f2782d043ea7c
+julia 0.6.0
+TableTraits 0.0.1
+NamedTuples 3.0.2
+DataStructures 0.4.5
+Requires 0.4.3
+Documenter 0.9.0
+IterableTables 0.5.0
+DataValues 0.0.2
+MacroTools 0.3.7

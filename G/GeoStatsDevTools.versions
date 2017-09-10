@@ -1,0 +1,8 @@
+https://github.com/juliohm/GeoStatsDevTools.jl.git
+
+0.0.1
+-----
+7263f355361c86dbf2fc64ee688ed3b11def9080
+julia 0.6
+GeoStatsBase
+DataFrames
