@@ -1,0 +1,12 @@
+https://github.com/JuliaIO/MetaImageFormat.jl.git
+
+0.0.1
+-----
+25b93e581bde4ab9428385ce68ff0c5a8c79c73a
+julia 0.6
+FixedPointNumbers
+Colors
+ColorVectorSpace
+AxisArrays
+MappedArrays
+FileIO
