@@ -28,3 +28,12 @@ OpenCL 0.5
 BinDeps
 @osx Homebrew
 Compat 0.9.1
+
+1.1.3
+-----
+355907d8abf38f46b0d55b31d71552ec991f0f3b
+julia 0.5
+OpenCL 0.5
+BinDeps
+@osx Homebrew
+Compat 0.9.1
