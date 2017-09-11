@@ -61,3 +61,13 @@ OpenCL 0.6 # pre compilation & refcount bug fix
 Primes
 BinDeps
 Compat 0.9.1
+
+0.5.1
+-----
+af9c3979fb54c9d03f5c274894f586f671e3a5fe
+julia 0.5
+OpenCL 0.6 # pre compilation & refcount bug fix
+Primes
+BinDeps
+@osx Homebrew
+Compat 0.9.1
