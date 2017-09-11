@@ -95,3 +95,13 @@ julia 0.6
 Compat 0.19
 NamedTuples 2.1.0
 PooledArrays
+
+0.3.2
+-----
+03c94730492a4a6ebe0ad689ac3034d65ab27f94
+julia 0.6
+Compat 0.19
+NamedTuples 2.1.0
+PooledArrays
+TableTraits 0.0.1
+TableTraitsUtils 0.0.1
