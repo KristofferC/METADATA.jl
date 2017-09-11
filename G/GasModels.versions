@@ -1,0 +1,10 @@
+https://github.com/lanl-ansi/GasModels.jl.git
+
+0.1.0
+-----
+bdbaf8df76cbaa52c312a6b923bafab7b6e493d0
+julia 0.5
+JSON 0.6.0
+MathProgBase 0.5.4
+JuMP 0.17 0.19-
+Compat 0.17
