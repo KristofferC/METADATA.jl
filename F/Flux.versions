@@ -41,3 +41,14 @@ julia 0.6.0
 DataFlow 0.2.1 0.3-
 Juno
 MacroTools 0.3.3
+
+0.3.0
+-----
+5f24d61ba3abff93cbd42d871d24b6d6f48ce7ae
+julia 0.6.0
+DataFlow 0.2.1
+Juno
+MacroTools 0.3.3
+NNlib
+ForwardDiff
+Requires
