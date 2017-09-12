@@ -93,3 +93,11 @@ julia 0.5
 IntervalSets 0.1
 RangeArrays
 Compat 0.19
+
+0.2.0
+-----
+dee0c63b9f6b11bda4ab77bee8e6972499727ae8
+julia 0.6
+IntervalSets 0.1
+IterTools
+RangeArrays
