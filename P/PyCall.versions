@@ -289,6 +289,14 @@ Compat 0.20.0
 Conda 0.2
 MacroTools 0.3
 
+1.15.0
+------
+0550f890c86878375f74821a459da41e7cc943f6
+julia 0.5
+Compat 0.27.0
+Conda 0.2
+MacroTools 0.3
+
 1.2.0
 -----
 874b044ab4239aa20993cf67e41749abf8dd9668
