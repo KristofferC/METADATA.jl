@@ -1,0 +1,8 @@
+https://github.com/FluxML/Tokamak.jl.git
+
+0.1.0
+-----
+b7d5db8f91d8b6bced1b23cc20f1932934a9b06a
+julia 0.6
+MacroTools
+DataFlow
