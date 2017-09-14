@@ -29,3 +29,12 @@ NPZ
 PyPlot
 PyCall
 ArgParse
+
+0.3.0
+-----
+3194fa1ef83c88f350ddeafb1bcb289d75d69197
+julia 0.6
+SymmetricTensors
+NullableArrays
+Combinatorics
+Distributions

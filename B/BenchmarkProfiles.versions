@@ -5,3 +5,10 @@ https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl.git
 b0c11e433949b3bb95cb7273b1b590d2fa8d4924
 julia 0.5
 Plots
+
+0.0.2
+-----
+55d9024e810dffb26f982299732ac5175ffa053d
+julia 0.5
+Plots
+NaNMath

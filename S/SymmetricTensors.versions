@@ -8,3 +8,11 @@ NullableArrays
 Iterators
 Combinatorics
 FactCheck
+
+0.2.0
+-----
+a0ba28212a54d93378bf95c580a344cc84b4a169
+julia 0.6
+NullableArrays
+IterTools
+Combinatorics
