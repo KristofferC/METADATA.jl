@@ -1,0 +1,9 @@
+https://github.com/Alexander-Barth/NCDatasets.jl.git
+
+0.0.1
+-----
+4d80495834765ffb01ad312273567f1f331186db
+julia 0.6
+DataArrays 0.5
+BinDeps 0.4
+Conda 0.3
