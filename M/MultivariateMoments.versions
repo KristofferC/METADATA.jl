@@ -1,0 +1,9 @@
+https://github.com/blegat/MultivariateMoments.jl.git
+
+0.0.1
+-----
+961654af2d90e713c3486e4686b7ec47d0d44fe5
+julia 0.6
+MultivariatePolynomials 0.1.0
+SemialgebraicSets 0.0.1
+RowEchelon
