@@ -17,3 +17,12 @@ Polynomials
 Distributions 0.11.1
 StaticArrays 0.6.1
 Compat 0.28.0
+
+0.6.0
+-----
+d12c8728206fd37d64e460d2631d16393f0f2cf0
+julia 0.6
+Polynomials
+Distributions 0.11.1
+StaticArrays 0.6.1
+Compat 0.28.0

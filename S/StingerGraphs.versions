@@ -1,0 +1,8 @@
+https://github.com/stingergraph/StingerGraphs.jl.git
+
+0.0.1
+-----
+76c12abfefdb14d6e5fbd2619978e2348ca1af1e
+julia 0.6
+BinDeps
+UnsafeAtomics
