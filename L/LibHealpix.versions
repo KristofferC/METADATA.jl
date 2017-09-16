@@ -48,3 +48,13 @@ FITSIO 0.10.0
 MacroTools
 StaticArrays 0.5.1
 @osx Homebrew
+
+0.2.4
+-----
+b84a00fcae9a4482bde6ff912de1c94d44c2d886
+julia 0.6-pre
+BinDeps
+FITSIO 0.10.0
+MacroTools
+StaticArrays 0.5.1
+@osx Homebrew
