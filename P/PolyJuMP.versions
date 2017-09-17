@@ -6,3 +6,11 @@ c4207f0d1d28ec421d684e0f06ff0eb61f85d2d8
 julia 0.5
 MultivariatePolynomials 0.0.1 0.1.0
 JuMP
+
+0.1.0
+-----
+2edda32c1e7a6910ecff9c3c02fb4a34431332c8
+julia 0.6
+MultivariatePolynomials 0.1.0
+SemialgebraicSets 0.0.1
+JuMP 0.17.1

@@ -4,54 +4,61 @@ https://github.com/ZacLN/CSTParser.jl.git
 -----
 395662bd87affd5d276b604ad4a7a66dd25d5846
 julia 0.6.0-pre.beta
-Tokenize 0.1.7
+Tokenize 0.1.7 0.1.8
 
 0.0.3
 -----
 05196e66cb0df254dc22e2e8189b7c5ae545066f
 julia 0.6.0-pre.beta
-Tokenize 0.1.7
+Tokenize 0.1.7 0.1.8
 
 0.0.4
 -----
 d10c504b30385e484fcabfd375d5018adf682d9f
 julia 0.6.0-pre.beta
-Tokenize 0.1.7
+Tokenize 0.1.7 0.1.8
 
 0.0.5
 -----
 f0b850b226f0b75698f8c48a9fcf26b0b75b1356
 julia 0.6.0-pre.beta
-Tokenize 0.1.7
+Tokenize 0.1.7 0.1.8
 
 0.0.6
 -----
 3eb416382f12e385d36ea7da8dc1417b7d09cb69
 julia 0.6.0-pre.beta
-Tokenize 0.1.7
+Tokenize 0.1.7 0.1.8
 
 0.1.0
 -----
 daceb0cbfb3b06a135c8b324e041a7c214b1d11a
 julia 0.6.0-pre.beta
-Tokenize 0.1.10
+Tokenize 0.1.10 0.2.0
 
 0.1.1
 -----
 276263ebf1ca9c4cffae08c9749daa03b9a52ace
 julia 0.6.0-pre.beta
-Tokenize 0.1.10
+Tokenize 0.1.10 0.2.0
 
 0.2.0
 -----
 729db0c46d814b85fcf349d4cf4a5586028a2c2d
 julia 0.6.0-pre.beta
-Tokenize 0.1.10
+Tokenize 0.1.10 0.2.0
 AbstractTrees
 
 0.2.1
 -----
 401690d2234b50047a6a6274564288db1ed1237a
+julia 0.6.0
+Tokenize 0.1.10 0.2.0
+AbstractTrees
+
+0.2.2
+-----
+cf374919080908d0dada1c14a66b328b0ef17016
 julia 0.6.0
 Tokenize 0.1.10
 AbstractTrees

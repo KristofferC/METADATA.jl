@@ -6,3 +6,11 @@ https://github.com/juliohm/GeoStatsDevTools.jl.git
 julia 0.6
 GeoStatsBase
 DataFrames
+
+0.0.2
+-----
+57dabe976d5391bc47e296686db3b34cdd829e10
+julia 0.6
+GeoStatsBase
+DataFrames
+Parameters

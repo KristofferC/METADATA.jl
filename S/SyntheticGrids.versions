@@ -1,0 +1,14 @@
+https://github.com/invenia/SyntheticGrids.jl.git
+
+0.0.1
+-----
+0959ad8d58211afb209584981c4237d29c33f4bb
+julia 0.6
+Conda 0.5.3
+PyCall 1.10.0
+JSON 0.8.0
+JLD 0.6.6
+CSV 0.1.2
+AutoHashEquals 0.1.1
+Geodesy 0.3.0
+WeakRefStrings  0.1.0 0.2.9

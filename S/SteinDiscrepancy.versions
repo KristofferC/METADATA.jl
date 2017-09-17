@@ -19,3 +19,14 @@ DataStructures 0.5.2
 Distributions 0.12.0
 MathProgBase 0.5.10
 JuMP 0.15.1
+
+0.1.0
+-----
+c78cabea0197d62e032e5a8dc4606a37cf247cee
+julia 0.6
+BinDeps 0.6.0
+DataStructures 0.6.1
+Distributions 0.14.2
+MathProgBase 0.6.4
+JuMP 0.18.0
+Clp 0.3.1
