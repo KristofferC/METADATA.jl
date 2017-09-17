@@ -4,5 +4,5 @@ https://github.com/ZacLN/DocumentFormat.jl.git
 -----
 dc3163ef1fec03a095e65285070a38a85c04c37c
 julia 0.6
-CSTParser 0.2
-Tokenize
+CSTParser 0.2 0.3
+Tokenize 0.1.10 0.4
