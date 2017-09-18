@@ -89,3 +89,10 @@ Compat 0.18.0
 a1a36a4a0f337736ad2407f864d14fbf02888dfb
 julia 0.5
 Compat 0.18.0
+
+0.5.3
+-----
+fc18bbad0c2286cbd42b2bc8b101663b18df38c5
+julia 0.5
+Compat 0.18.0
+CUDAapi 0.1.1

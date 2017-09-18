@@ -63,3 +63,11 @@ julia 0.6.0
 Crayons
 Tokenize
 Compat 0.27.0
+
+0.2.8
+-----
+df3ad496a8f765ae3119eef22435a568b9a3db1c
+julia 0.6.0
+Crayons
+Tokenize
+Compat 0.27.0

@@ -10,3 +10,14 @@ ColorVectorSpace
 AxisArrays
 MappedArrays
 FileIO
+
+0.1.0
+-----
+c8e92435ddc65fde715c6344dec2ec4c8b46495b
+julia 0.6
+FixedPointNumbers
+Colors
+ColorVectorSpace
+AxisArrays
+MappedArrays
+FileIO

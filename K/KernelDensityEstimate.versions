@@ -105,3 +105,15 @@ Colors
 Compose
 Distributions
 Compat 0.17
+
+0.2.6
+-----
+85fb606d2729ddb9db3d3dc11d21eedbd39326eb
+julia 0.5
+Cairo
+Fontconfig
+Gadfly
+Colors
+Compose
+Distributions
+Compat 0.18
