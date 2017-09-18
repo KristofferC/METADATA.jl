@@ -6,4 +6,4 @@ https://github.com/davidanthoff/DataValueArrays.jl.git
 julia 0.6.0-rc1
 Compat 0.19.0
 Reexport
-DataValues
+DataValues 0.0.1 0.3.0
