@@ -13,3 +13,10 @@ CustomUnitRanges
 julia 0.5
 OffsetArrays
 CustomUnitRanges
+
+0.1.0
+-----
+f2ad24a647a0f97102ecb5f9b984e77ade205165
+julia 0.6
+OffsetArrays
+CustomUnitRanges

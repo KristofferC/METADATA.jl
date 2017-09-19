@@ -5,3 +5,9 @@ https://github.com/JuliaArrays/IdentityRanges.jl.git
 711075b9bfcbf62e49ef32e037a438e215e6e791
 julia 0.5
 OffsetArrays
+
+0.1.0
+-----
+79d37148dd0c163fb604a2817d1c34438299a3a5
+julia 0.6
+OffsetArrays
