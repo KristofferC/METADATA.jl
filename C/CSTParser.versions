@@ -62,3 +62,10 @@ cf374919080908d0dada1c14a66b328b0ef17016
 julia 0.6.0
 Tokenize 0.1.10
 AbstractTrees
+
+0.3.0
+-----
+eaecd7929130cb66b20c74229e653d20d110194a
+julia 0.6.0
+Tokenize 0.4.0
+AbstractTrees
