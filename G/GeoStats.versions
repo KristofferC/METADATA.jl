@@ -164,3 +164,17 @@ SpecialFunctions
 Parameters
 NamedTuples
 RecipesBase
+
+0.4.3
+-----
+efe1a2c7e7102dc195b1af26ac485acb70d05ad8
+julia 0.6
+Reexport
+GeoStatsBase
+GeoStatsDevTools
+StatsBase
+Combinatorics
+SpecialFunctions
+Parameters
+NamedTuples
+RecipesBase

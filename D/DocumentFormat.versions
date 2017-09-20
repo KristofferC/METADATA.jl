@@ -6,3 +6,10 @@ dc3163ef1fec03a095e65285070a38a85c04c37c
 julia 0.6
 CSTParser 0.2 0.3
 Tokenize 0.1.10 0.4
+
+0.1.0
+-----
+a3aba9c34f2ea5d4b95330286d6f5f7ce9a45098
+julia 0.6
+CSTParser 0.3.0
+Tokenize 0.4.0

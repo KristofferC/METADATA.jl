@@ -1,0 +1,11 @@
+https://github.com/juliohm/InverseDistanceWeighting.jl.git
+
+0.0.1
+-----
+2c7e1a266c001db7121cb526632e52a3dae7872d
+julia 0.6
+Reexport
+GeoStatsBase
+GeoStatsDevTools
+NearestNeighbors
+Distances
