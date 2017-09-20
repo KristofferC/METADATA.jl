@@ -268,3 +268,14 @@ Distributions 0.10.0
 StatsBase 0.12.0
 StatsFuns 0.3.0
 Reexport
+
+0.8.0
+-----
+dbad91a9598659380853b042e231af63b86f38d5
+julia 0.6
+Compat 0.18.0
+Distributions 0.10.0
+StatsBase 0.12.0
+StatsFuns 0.3.0
+Reexport
+SpecialFunctions 0.1.0
