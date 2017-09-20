@@ -4,41 +4,49 @@ git://github.com/JuliaNLSolvers/LineSearches.jl.git
 -----
 88322990c6c3304e1471589ca34caef59ba8a8d3
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.0.2
 -----
 90d99c3898de5b45ba10924862a968982d84432b
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.0
 -----
 e37e4f1cdd24424562712c0926ab6b0fe9e63085
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.1
 -----
 b9e51540a5632b0186c81bca163bcda6af86087f
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.2
 -----
 628f019e3c33d4800fc79a9e5f934dbc69f5e2c0
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.3
 -----
 430ff8695553aac267f530748a9676ec54c4e60c
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.4
 -----
 e6c85ef55b81ee194dd737539c08544bdd9681a6
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 0.1.5
 -----
 007640e240e4e8a2a2d38636d2c6f22540c69b3c
 julia 0.4
+NLSolversBase 0.0.1 3.0
 
 1.0.0
 -----
@@ -50,32 +58,32 @@ NLSolversBase 1.0 2.0
 -----
 7fb4d38446b046bd78dee3aa8a8011f44a33d14f
 julia 0.5
-NLSolversBase 2.0
+NLSolversBase 2.0 3.0
 
 2.1.0
 -----
 35d523df9c22fdec6d93317e720ee5286017c725
 julia 0.5
-NLSolversBase 2.0
+NLSolversBase 2.0 3.0
 Parameters
 
 2.1.1
 -----
 33c9bd02eb7ce01c276724e0aa0df5c2d8678ae9
 julia 0.5
-NLSolversBase 2.0
+NLSolversBase 2.0 3.0
 Parameters
 
 2.2.0
 -----
 32f5337120338d7805e03f7f5eedcff2e96becad
 julia 0.6-pre
-NLSolversBase 2.0
+NLSolversBase 2.0 3.0
 Parameters
 
 2.2.1
 -----
 f382f9c0f4ca18cbb205f61d41cc62342e784b1a
 julia 0.6-pre
-NLSolversBase 2.0
+NLSolversBase 2.0 3.0
 Parameters
