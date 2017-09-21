@@ -86,7 +86,7 @@ cd58a541cf085b31913e8a22c3206fff0003a751
 julia 0.6-rc3
 StaticArrays 0.6.2
 Rotations 0.6.0
-TypeSortedCollections 0.1
+TypeSortedCollections 0.1 0.1.1
 LightXML 0.4.0
 DocStringExtensions 0.4.0
 Compat 0.27 # for Val constructor
