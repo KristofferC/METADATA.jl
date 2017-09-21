@@ -277,3 +277,19 @@ LightGraphs 0.6.1
 RecipesBase
 ProgressMeter
 Hwloc
+
+0.5.4
+-----
+aadd4bc495fc117aa16c2ba9536152ddd3dbdea8
+julia 0.6
+GeoStatsBase
+GeoStatsDevTools
+Combinatorics
+StatsBase
+Primes
+ImageFiltering
+ImageMorphology
+LightGraphs 0.6.1
+RecipesBase
+ProgressMeter
+Hwloc

@@ -20,3 +20,14 @@ LightXML
 MathProgBase 0.4 0.6
 Requests
 Libz
+
+0.2.0
+-----
+d64ca7a81fd7b776b57d5d82029b41afca27eab7
+julia 0.5
+Codecs
+LightXML
+MathProgBase 0.5 0.7
+Requests
+Libz
+Compat 0.9.5
