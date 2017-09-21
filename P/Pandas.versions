@@ -99,3 +99,15 @@ Lazy 0.11.4
 Compat 0.17
 TableTraits 0.0.1
 TableTraitsUtils 0.0.1
+
+0.6.1
+-----
+d6f558db1dc0038412b7afb987e318c8b88fd9b4
+julia 0.6
+PyCall 1.7.2
+PyPlot 2.2.4
+Lazy 0.11.4
+Compat 0.17
+TableTraits 0.0.1
+TableTraitsUtils 0.0.1
+DataValues 0.0.1

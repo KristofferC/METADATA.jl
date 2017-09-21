@@ -87,3 +87,10 @@ f382f9c0f4ca18cbb205f61d41cc62342e784b1a
 julia 0.6-pre
 NLSolversBase 2.0 3.0
 Parameters
+
+3.0.0
+-----
+5979facd949db19a0e5b66d24aa142f703578880
+julia 0.6
+NLSolversBase 3.0
+Parameters

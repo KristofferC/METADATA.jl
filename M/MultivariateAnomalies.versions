@@ -17,3 +17,12 @@ Distances
 LIBSVM
 MultivariateStats
 Combinatorics
+
+0.1.2
+-----
+55dbe1673794cec3c18ac8715b2351cef9a347f0
+julia 0.6
+Distances
+LIBSVM
+MultivariateStats
+Combinatorics

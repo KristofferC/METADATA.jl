@@ -14,3 +14,11 @@ julia 0.6
 GeoStatsBase
 DataFrames
 Parameters
+
+0.0.3
+-----
+bac1b72610441e4dbc0d867ffffc7adf5cdda15c
+julia 0.6
+GeoStatsBase
+DataFrames
+Parameters 0.7.3

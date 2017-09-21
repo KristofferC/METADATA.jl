@@ -107,3 +107,12 @@ StatsBase
 UnicodePlots
 RecipesBase
 Distributions
+
+0.6.1
+-----
+4d0bf0f5e96f94c940c28eabc24278aceb8c292c
+julia 0.6
+StatsBase
+UnicodePlots
+RecipesBase
+Distributions
