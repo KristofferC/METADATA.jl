@@ -91,3 +91,10 @@ NullableArrays
 julia 0.6
 Compat 0.19.0
 Nulls 0.0.2
+
+0.2.1
+-----
+874c6eb1e2fe09282982fbe7977950d71bec76ce
+julia 0.6
+Compat 0.19.0
+Nulls 0.0.2
