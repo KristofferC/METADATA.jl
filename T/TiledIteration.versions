@@ -11,3 +11,9 @@ OffsetArrays
 62d7ed488a67e64f3f20605bbba194862eac2525
 julia 0.5
 OffsetArrays
+
+0.1.0
+-----
+95234d1692d843e02502ff8e261872915312c6b7
+julia 0.6
+OffsetArrays
