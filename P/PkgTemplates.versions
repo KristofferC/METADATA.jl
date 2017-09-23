@@ -17,3 +17,12 @@ AutoHashEquals
 Mustache
 TerminalMenus
 URIParser
+
+0.2.0
+-----
+c7f9eb5974f90ac3a4903a354abc50012df9dad3
+julia 0.6
+AutoHashEquals
+Mustache
+TerminalMenus
+URIParser
