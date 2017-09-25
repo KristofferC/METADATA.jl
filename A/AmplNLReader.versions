@@ -1,0 +1,10 @@
+https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl.git
+
+0.1.0
+-----
+ec4c1f77562193e5b917218d45ac8e1f097bbe2a
+julia 0.4
+BinDeps
+Compat 0.7.15
+@osx Homebrew 0.4.0
+NLPModels 0.0.1

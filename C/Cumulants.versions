@@ -38,3 +38,12 @@ SymmetricTensors
 NullableArrays
 Combinatorics
 Distributions
+
+0.3.1
+-----
+df29e469195ceb7abc3a6338c3abc05b56ccdb48
+julia 0.6
+SymmetricTensors
+NullableArrays
+Combinatorics
+Distributions
