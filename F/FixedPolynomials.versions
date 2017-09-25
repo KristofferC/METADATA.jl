@@ -5,3 +5,9 @@ https://github.com/saschatimme/FixedPolynomials.jl.git
 718fb764ef72b3fdf739c80e721961b6c5025f25
 julia 0.6
 MultivariatePolynomials 0.1.0
+
+0.1.1
+-----
+52ef79fa3269207be568cf03740eb2815472ce1f
+julia 0.6
+MultivariatePolynomials 0.1.1

@@ -6,8 +6,8 @@ https://github.com/JuliaGPU/GPUArrays.jl.git
 julia 0.5
 StaticArrays
 Compat 0.19.0
-Transpiler 0.0.1
-Sugar 0.0.3
+Transpiler 0.0.1 0.4
+Sugar 0.0.3 0.4
 Matcha
 CUDArt
 CUBLAS
@@ -23,8 +23,8 @@ julia 0.5
 StaticArrays
 Compat 0.19.0
 ColorTypes
-Transpiler 0.0.1
-Sugar 0.0.3
+Transpiler 0.0.1 0.4
+Sugar 0.0.3 0.4
 Matcha
 CUDArt
 CUBLAS
