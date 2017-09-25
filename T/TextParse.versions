@@ -90,3 +90,13 @@ NullableArrays
 PooledArrays 0.0.2
 WeakRefStrings
 DataStructures
+
+0.3.0
+-----
+fe90ad7ea8b9f524688131a6d967d1dc71cb8d94
+julia 0.5
+Compat 0.17
+DataValues
+PooledArrays 0.0.2
+WeakRefStrings
+DataStructures

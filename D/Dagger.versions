@@ -76,3 +76,19 @@ Logging
 julia 0.6
 Compat 0.19
 Logging
+
+0.3.2
+-----
+fbc47a945ee3c18ed1c1df44049c45d3541d1dd0
+julia 0.6
+MemPool
+Compat 0.19
+Logging
+
+0.4.0
+-----
+fc4f5bfe7f0f997b9e5e6fcea86bbda30933c443
+julia 0.6
+MemPool 0.0.2
+Compat 0.19
+Logging

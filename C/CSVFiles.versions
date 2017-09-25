@@ -4,7 +4,7 @@ https://github.com/davidanthoff/CSVFiles.jl.git
 -----
 8c3e9e04d2c91be8358c79d77cde991c721813fa
 julia 0.6-pre
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 IterableTables 0.2.0 0.5.0
 DataValues 0.1.0
 DataTables 0.0.3
@@ -14,7 +14,7 @@ FileIO 0.4.0
 -----
 59037c3cd7d3a60919e11a03b5cfe54600644725
 julia 0.6-pre
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 IterableTables 0.2.0 0.5.0
 DataValues 0.1.0
 DataTables 0.0.3
@@ -24,7 +24,7 @@ FileIO 0.4.0
 -----
 9686ca0143a042cbbd6f4a083ff403156e3b997e
 julia 0.6-pre
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 IterableTables 0.2.0 0.5.0
 DataValues 0.1.0
 DataTables 0.0.3
@@ -34,7 +34,7 @@ FileIO 0.4.0
 -----
 98e274eeb4939aaa7a6ebd2430a731c44a44ac80
 julia 0.6
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 IterableTables 0.4.0 0.5.0
 DataValues 0.1.0
 FileIO 0.4.0
@@ -44,7 +44,7 @@ HTTP 0.4.2
 -----
 648d243221adf70ab2c7cc06014cb4d71a6da242
 julia 0.6
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 TableTraits 0.0.1
 TableTraitsUtils 0.0.1
 DataValues 0.1.0
@@ -55,7 +55,7 @@ HTTP 0.4.2
 -----
 90da3b6fb8d24558d23ef16920cc674e1a34f57d
 julia 0.6
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 TableTraits 0.0.1
 TableTraitsUtils 0.0.1
 DataValues 0.1.0
@@ -67,7 +67,7 @@ IterableTables 0.5.0
 -----
 113e834a4669602cf5bd63587e84935ff9f77e68
 julia 0.6
-TextParse 0.1.6
+TextParse 0.1.6 0.3.0
 TableTraits 0.0.1
 TableTraitsUtils 0.0.1
 DataValues 0.1.0
