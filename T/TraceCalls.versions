@@ -81,3 +81,15 @@ DataStructures
 Requires
 Revise 0.0.6
 Crayons
+
+0.0.8
+-----
+467784e848c7d8e7c2c990e72ad157da70405242
+julia 0.6
+MacroTools 0.3.3
+Memoize 0.1.0
+ClobberingReload 0.2.1
+DataStructures
+Requires
+Revise 0.0.9
+Crayons
