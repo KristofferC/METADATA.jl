@@ -4,6 +4,30 @@ git://github.com/sens/FaSTLMM.jl.git
 -----
 6cc4f07920b9b8256b55b551e77a11fcd84333c6
 julia 0.4
-Optim 0.0 0.5
+Optim
+DataArrays
+DataFrames
+
+0.0.2
+-----
+401b43b91313364e6c248254068f8e6e8e9f8305
+julia 0.5
+Optim
+DataArrays
+DataFrames
+
+0.0.3
+-----
+1147bb61ec4cee1777ce4ba5100f2155ccd20c65
+julia 0.6
+Optim
+DataArrays
+DataFrames
+
+0.1.0
+-----
+ff01601b579b5561a3062689ad0b94d68aa29e2a
+julia 0.6
+Optim
 DataArrays
 DataFrames
