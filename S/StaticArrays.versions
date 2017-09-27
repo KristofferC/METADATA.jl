@@ -134,3 +134,9 @@ julia 0.6.0-pre
 -----
 9e720addb512e53b03aeb3f80fd2cedd343e67e9
 julia 0.6.0
+
+0.6.3
+-----
+12bab2aeb596fd5c8321ed0ceacaf205a877a964
+julia 0.6.0
+Compat 0.26
