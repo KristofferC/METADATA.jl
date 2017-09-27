@@ -94,7 +94,17 @@ DataStructures
 0.3.0
 -----
 fe90ad7ea8b9f524688131a6d967d1dc71cb8d94
-julia 0.5
+julia 0.6
+Compat 0.17
+DataValues
+PooledArrays 0.0.2
+WeakRefStrings
+DataStructures
+
+0.3.1
+-----
+13433b098170f3c16cec038728ec738ef2791c47
+julia 0.6
 Compat 0.17
 DataValues
 PooledArrays 0.0.2
