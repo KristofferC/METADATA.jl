@@ -1,4 +1,4 @@
-https://github.com/FluxML/CuArrays.jl.git
+https://github.com/JuliaGPU/CuArrays.jl.git
 
 0.1.0
 -----
@@ -15,5 +15,15 @@ julia 0.6
 CUDAnative 0.5
 CUDAdrv 0.5
 CUBLAS 0.2.2
+CUDNN 0.4.0
+NNlib
+
+0.2.0
+-----
+54e550b2d8c3fcfaf0009341532d179497a642ba
+julia 0.6
+CUDAnative 0.5
+CUDAdrv 0.5
+CUDAapi
 CUDNN 0.4.0
 NNlib
