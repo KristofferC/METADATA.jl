@@ -142,3 +142,14 @@ Reexport
 SpecialFunctions
 AbstractFFTs
 FFTW
+
+0.3.4
+-----
+69abc408a8d3eaeba8e3999b8c3d8f7a87150f24
+julia 0.6-rc1
+Compat 0.32
+Polynomials 0.1.0
+Reexport
+SpecialFunctions
+AbstractFFTs
+FFTW
