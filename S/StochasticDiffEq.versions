@@ -326,7 +326,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -345,7 +345,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -364,7 +364,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.5.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -417,7 +417,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 
 2.4.0
@@ -433,7 +433,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 
 2.5.0
@@ -449,7 +449,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 
@@ -466,7 +466,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 
@@ -483,7 +483,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.2.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 
@@ -500,7 +500,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -518,7 +518,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -536,7 +536,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -554,7 +554,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers
@@ -572,7 +572,7 @@ Roots
 Compat 0.17.0
 DiffEqNoiseProcess 0.3.0
 NLsolve
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 StaticArrays
 Reexport
 RandomNumbers

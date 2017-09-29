@@ -616,7 +616,7 @@ Compat 0.18.0
 julia 0.6.0
 DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -633,7 +633,7 @@ f6bf3ff18a6e1802165faa7c6774a6e5b189d26c
 julia 0.6.0
 DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -650,7 +650,7 @@ d79eb2bf8637726887b16a4d8d520308b9816bb5
 julia 0.6.0
 DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -667,7 +667,7 @@ Reexport
 julia 0.6.0
 DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -684,7 +684,7 @@ b70c49ecbb55f7c2d7d35afdf69cde23ea3c16d7
 julia 0.6.0
 DiffEqBase 1.15.0 1.16.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -701,7 +701,7 @@ Reexport
 julia 0.6.0
 DiffEqBase 1.16.0 1.19.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -719,7 +719,7 @@ MuladdMacro
 julia 0.6.0
 DiffEqBase 1.16.0 1.19.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -737,7 +737,7 @@ MuladdMacro
 julia 0.6.0
 DiffEqBase 1.20.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -756,7 +756,7 @@ StaticArrays
 julia 0.6.0
 DiffEqBase 1.20.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -775,7 +775,7 @@ StaticArrays
 julia 0.6.0
 DiffEqBase 1.20.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -794,7 +794,7 @@ b035dacb92503bff20ab06560c36f758e076d288
 julia 0.6.0
 DiffEqBase 1.20.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
@@ -813,7 +813,7 @@ StaticArrays
 julia 0.6.0
 DiffEqBase 1.20.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
@@ -832,7 +832,7 @@ f2966ce4f44862989a8f7743bd3a27cc1bacedcb
 julia 0.6.0
 DiffEqBase 1.23.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
@@ -851,7 +851,7 @@ f1a265b042daa8bbd867b4ecbe54c7f12f59944e
 julia 0.6.0
 DiffEqBase 1.23.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
@@ -961,7 +961,7 @@ StaticArrays
 julia 0.6.0-pre
 DiffEqBase 1.5.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -978,7 +978,7 @@ StaticArrays
 julia 0.6.0-pre
 DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -994,7 +994,7 @@ Compat 0.18.0
 julia 0.6.0-pre
 DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -1010,7 +1010,7 @@ Compat 0.18.0
 julia 0.6.0-pre
 DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -1027,7 +1027,7 @@ Reexport
 julia 0.6.0-pre
 DiffEqBase 1.10.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -1044,7 +1044,7 @@ Reexport
 julia 0.6.0-pre
 DiffEqBase 1.11.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
@@ -1061,7 +1061,7 @@ Reexport
 julia 0.6.0-pre
 DiffEqBase 1.11.0 1.15.0
 Parameters 0.5.0
-ForwardDiff 0.5.0
+ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.8.0
