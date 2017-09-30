@@ -46,3 +46,12 @@ AbstractFFTs 0.2.0
 Reexport
 Compat 0.27.0
 BinDeps 0.6.0
+
+0.1.1
+-----
+084713cbb4a3e7c44449ad6b2c630a2ae5ddcf1f
+julia 0.7.0-DEV.602
+AbstractFFTs 0.2.0
+Reexport
+Compat 0.27.0
+BinDeps 0.6.0

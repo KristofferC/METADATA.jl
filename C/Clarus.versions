@@ -1,0 +1,8 @@
+https://github.com/ClarusFinancialTechnology/Clarus.jl.git
+
+0.0.4
+-----
+57524ebb89be5d55c736d4a0cfe3b81bc62d11f8
+julia 0.6
+Requests 0.5
+DataFrames

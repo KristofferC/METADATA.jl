@@ -144,3 +144,12 @@ julia 0.4
 BinDeps
 MathProgBase 0.5 0.7
 Compat 0.8
+
+0.3.6
+-----
+78a635d334b51dd6ab696bb7d2670973e794846e
+julia 0.4
+@osx Homebrew
+BinDeps
+MathProgBase 0.5 0.7
+Compat 0.8
