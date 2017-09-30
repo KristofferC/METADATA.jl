@@ -74,3 +74,24 @@ ComputationalResources 0.0.2
 ShowItLikeYouBuildIt
 FileIO
 Compat 0.17
+
+0.3.0
+-----
+7b9db6cf3ade32c68fe70e4ea5769c13a78296fb
+julia 0.6
+MappedArrays 0.0.3
+ImageCore 0.1.2
+ImageTransformations 0.3.0
+ImageFiltering 0.1.4
+CoordinateTransformations 0.4.0
+Interpolations 0.6
+Rotations
+StaticArrays
+OffsetArrays
+IdentityRanges
+ColorTypes 0.4
+MLDataPattern 0.1.2
+ComputationalResources 0.0.2
+ShowItLikeYouBuildIt
+FileIO
+Compat 0.17
