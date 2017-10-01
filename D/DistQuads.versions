@@ -7,3 +7,11 @@ julia 0.5
 Distributions
 RCall
 Reexport
+
+1.0.0
+-----
+e1b6132c7dbb3bee0185ac27fb5cffae9627a41b
+julia 0.6
+Distributions
+Reexport
+FastGaussQuadrature
