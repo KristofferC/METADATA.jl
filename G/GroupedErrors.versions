@@ -1,0 +1,15 @@
+https://github.com/piever/GroupedErrors.jl.git
+
+0.0.1
+-----
+842296386d8fd586ee25299be2e86ff629d6df86
+julia 0.6
+StatsBase
+KernelDensity
+Loess
+IndexedTables 0.3.2
+IterableTables 0.5.1
+TableTraitsUtils 0.1.0
+TableTraits
+MacroTools
+Lazy

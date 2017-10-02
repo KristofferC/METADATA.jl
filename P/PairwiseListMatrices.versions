@@ -58,3 +58,10 @@ RecipesBase
 julia 0.5
 NamedArrays
 RecipesBase
+
+0.6.0
+-----
+a25424a2fedcbc747c4cae327e41ef4241b689f2
+julia 0.6
+NamedArrays
+RecipesBase

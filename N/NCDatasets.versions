@@ -15,3 +15,11 @@ julia 0.6
 DataArrays 0.5
 BinDeps 0.4
 Conda 0.3
+
+0.0.3
+-----
+66a6dac99eecdf19e39cae9dfcd0a09e8a1ea314
+julia 0.6
+DataArrays 0.5
+BinDeps 0.4
+Conda 0.3

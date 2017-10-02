@@ -97,3 +97,9 @@ DataStructures 0.5.2
 afc8843e1c4384e31b34fc699d7073575bc6bf40
 julia 0.5
 DataStructures 0.5.2
+
+0.8.0
+-----
+465c65eb7a16f2627018277d6ec8e02ad83258ba
+julia 0.6
+DataStructures 0.7.2
