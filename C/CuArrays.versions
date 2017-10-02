@@ -27,3 +27,12 @@ CUDAdrv 0.5
 CUDAapi
 CUDNN 0.4.0
 NNlib
+
+0.2.1
+-----
+114c1c82523d140060277ac5760e72408fde234d
+julia 0.6
+CUDAnative 0.5
+CUDAdrv 0.5
+CUDAapi
+NNlib

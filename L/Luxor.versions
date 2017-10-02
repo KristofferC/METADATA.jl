@@ -163,3 +163,14 @@ Cairo
 FileIO
 Juno
 Hiccup
+
+0.9.2
+-----
+2aa223c688ceca31d9236406ce712f422a5a454a
+julia 0.5
+Compat 0.9.1
+Colors
+Cairo
+FileIO
+Juno
+Hiccup
