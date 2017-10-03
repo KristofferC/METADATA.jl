@@ -1,0 +1,10 @@
+https://github.com/davidanthoff/QueryOperators.jl.git
+
+0.0.1
+-----
+1eded27a27b4abc6cf29ccdaf65327c5d4a7a466
+julia 0.6
+DataStructures 0.4.5
+NamedTuples 3.0.2
+DataValues 0.0.2
+TableTraits 0.0.1
