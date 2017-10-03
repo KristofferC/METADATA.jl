@@ -40,3 +40,11 @@ julia 0.4
 Distributions
 StatsBase
 Compat 0.9.3
+
+0.3.0
+-----
+f3d7cf19e7684986f64bead9940fb553d13a6b69
+julia 0.6
+Distributions
+StatsBase
+Compat 0.9.3

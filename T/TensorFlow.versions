@@ -389,3 +389,20 @@ Compat 0.18
 MacroTools 0.3.6
 AutoHashEquals 0.1.0
 MNIST 0.0.2
+
+0.7.3
+-----
+6f19e0d44d6dba106b2e9e3e2d5571aae37f30fd
+julia 0.6
+ProtoBuf 0.3.0
+PyCall 1.7.1
+Conda 0.6.0
+Distributions 0.10.2
+StatsFuns 0.3.0
+JLD 0.6.3
+FileIO 0.1.2
+Juno 0.2.3
+Compat 0.18
+MacroTools 0.3.6
+AutoHashEquals 0.1.0
+MNIST 0.0.2
