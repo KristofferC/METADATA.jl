@@ -14,3 +14,11 @@ julia 0.6
 Requests 0.5
 DataFrames 0.10
 CSV 0.1
+
+0.0.6
+-----
+ac65250aca7d94900f952ea470d31a518bec0c62
+julia 0.6
+Requests 0.5
+DataFrames 0.10
+CSV 0.1
