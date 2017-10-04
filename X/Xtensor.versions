@@ -49,3 +49,10 @@ a37407ff3f9190871884265501b333855ba2ae13
 julia 0.5
 BinDeps 0.4.2
 CxxWrap 0.5.0
+
+0.0.8
+-----
+05c1427a5d15dba3c7ea08853dc18c761b3e1f7b
+julia 0.5
+BinDeps 0.4.2
+CxxWrap 0.5.0
