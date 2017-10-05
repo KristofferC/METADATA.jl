@@ -169,7 +169,7 @@ Compat 0.17
 ef3ce845ed2b1ff2b2a6dcf453a68fb0facb4ca7
 julia 0.6
 WeakRefStrings 0.3.0
-Nulls 0.0.5
+Nulls 0.0.5 0.1.0
 
 0.2.1
 -----
