@@ -25,3 +25,16 @@ BufferedStreams
 Combinatorics
 Twiddle
 IntervalTrees
+
+0.3.0
+-----
+4ad828442cc3c6e8f1fe3ab3b69ce5877e882fb2
+julia 0.6
+Automa
+BGZFStreams
+BioCore 1.1.0
+BioSequences 0.8.0
+BufferedStreams
+Combinatorics
+Twiddle
+IntervalTrees
