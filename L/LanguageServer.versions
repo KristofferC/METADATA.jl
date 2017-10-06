@@ -71,3 +71,13 @@ URIParser 0.1.8
 CSTParser 0.3.1
 Tokenize 0.4.0
 DocumentFormat
+
+0.2.1
+-----
+b373f99f52dacaa640eb519757a9fea01edd0f92
+julia 0.6.0-rc1
+JSON 0.8.1
+URIParser 0.1.8
+CSTParser 0.3.1
+Tokenize 0.4.0
+DocumentFormat
