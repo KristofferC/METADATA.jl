@@ -59,3 +59,13 @@ Iterators
 ProgressMeter
 Distributions
 StatsBase 0.15
+
+0.2.4
+-----
+dbc925f5f466658c947afb3c18f4b6296fe851e5
+julia 0.6
+POMDPs 0.6
+Iterators
+ProgressMeter
+Distributions
+StatsBase 0.15
