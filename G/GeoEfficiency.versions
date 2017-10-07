@@ -66,3 +66,10 @@ c03c19370cd3c791cff84bdeedf1fd81a128bc81
 julia 0.6
 QuadGK 0.1.2
 Compat 0.26.0
+
+0.9.1
+-----
+63dbdacca9fd79ce57b5cde06a1af3cb1c63835a
+julia 0.6
+QuadGK 0.1.2
+Compat 0.32.0

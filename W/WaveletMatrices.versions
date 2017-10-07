@@ -13,3 +13,10 @@ ed62a02f0d5b2fc8eaed23b93af9535bc6324ba9
 julia 0.4-
 IntArrays
 IndexableBitVectors
+
+0.2.0
+-----
+82cdda0aea5e7f5e107e7de0a57426747a02a34f
+julia 0.6
+IntArrays
+IndexableBitVectors

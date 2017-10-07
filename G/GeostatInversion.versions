@@ -103,3 +103,11 @@ julia 0.5
 RobustPmap
 IterativeSolvers 0.3.0
 Interpolations
+
+0.2.7
+-----
+d4957accc1b461d5b193c73a98ea1861b33a66e5
+julia 0.5
+RobustPmap
+IterativeSolvers 0.3.0
+Interpolations

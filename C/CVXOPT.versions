@@ -5,3 +5,9 @@ https://github.com/cvxopt/CVXOPT.jl.git
 37ce8cf28b4bbcdfa3479e1f7170ced74012bd6a
 julia 0.4
 PyCall
+
+0.2.0
+-----
+63ef260d6ce8f369b0b7ec6202e4776721481477
+julia 0.5
+PyCall 1.12
