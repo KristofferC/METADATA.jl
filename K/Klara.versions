@@ -6,7 +6,7 @@ git://github.com/JuliaStats/Klara.jl.git
 julia 0.4
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.2.0
+ForwardDiff 0.2.0 0.6
 ReverseDiffSource 0.2.1
 StatsBase 0.7.4
 
@@ -16,7 +16,7 @@ af6251c5d6bb353e73b4ff8c9e2204e11a75bb45
 julia 0.4
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.2.0
+ForwardDiff 0.2.0 0.6
 ReverseDiffSource 0.2.1
 StatsBase 0.7.4
 
@@ -26,7 +26,7 @@ ccb5bea54e1bf5c34290835323ebafafe4a51710
 julia 0.5
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.2.0
+ForwardDiff 0.2.0 0.6
 ReverseDiffSource 0.2.1
 StatsBase 0.7.4
 
@@ -37,7 +37,7 @@ julia 0.5
 DiffBase 0.0.2
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.3.3
+ForwardDiff 0.3.3 0.6
 ReverseDiffSource 0.2.1
 StatsBase 0.7.4
 
@@ -48,7 +48,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -59,7 +59,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -70,7 +70,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -81,7 +81,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -92,7 +92,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -103,7 +103,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -114,7 +114,7 @@ julia 0.5
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
 
@@ -125,6 +125,6 @@ julia 0.6
 DiffBase 0.1
 Distributions 0.4.7
 Formatting 0.1.4
-ForwardDiff 0.4
+ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
