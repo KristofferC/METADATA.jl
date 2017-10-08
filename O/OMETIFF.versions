@@ -10,3 +10,15 @@ FixedPointNumbers
 FileIO
 Colors
 AxisArrays
+
+0.1.0
+-----
+0b0190665b22c6af82a19c04527da706b28ffc98
+julia 0.6
+EzXML 0.4.2
+Unitful
+FixedPointNumbers
+FileIO
+Colors
+AxisArrays
+DataStructures
