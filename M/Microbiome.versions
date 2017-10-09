@@ -1,0 +1,11 @@
+https://github.com/kescobo/Microbiome.jl.git
+
+0.1.0
+-----
+eb8947946cafeda7cad50a5d97295ba34c11ed3b
+julia 0.6-
+RecipesBase
+Distances
+DataFrames
+Clustering
+Colors

@@ -1,0 +1,10 @@
+https://github.com/sylvaticus/MultiDimEquations.jl.git
+
+0.1.0
+-----
+88d9b36682c1395fe31aa208ad2b94e3f5eec7e4
+julia 0.6
+DataFrames
+DataStructures
+DataFramesMeta
+MacroTools
