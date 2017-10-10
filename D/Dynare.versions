@@ -6,3 +6,10 @@ git://github.com/DynareTeam/Dynare.jl.git
 julia 0.3-
 Calculus
 NLsolve
+
+0.1.0
+-----
+349a8b0abe6b092dd58377b9febb81fbdbc5dc43
+julia 0.6
+Calculus
+NLsolve
