@@ -1,0 +1,8 @@
+https://github.com/BioJulia/NaturalSelection.jl.git
+
+0.1.0
+-----
+2b833179891869138ca2abfb4be50c9e3d102fcf
+julia 0.6
+BioSequences
+GeneticVariation 0.3.1
