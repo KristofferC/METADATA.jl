@@ -14,3 +14,12 @@ julia 0.5
 DiffEqJump
 DiffEqBase
 Compat 0.17.0
+
+0.3.0
+-----
+891472d7d5e50c8d8f1b42fa5c486f2c418adbdc
+julia 0.5
+DiffEqJump
+DiffEqBase
+Compat 0.17.0
+DataStructures 0.4.6

@@ -108,3 +108,21 @@ JLD
 HDF5
 Optim
 ProgressMeter
+
+0.0.8
+-----
+64f5d302dabcb89c20524007dd15938dbd0b5915
+julia 0.5
+IncrementalInference 0.2.10
+Graphs 0.8.0
+TransformUtils 0.0.6
+CoordinateTransformations
+Rotations
+KernelDensityEstimate 0.2.6
+Distributions
+Colors
+Gadfly 0.6.2
+JLD
+HDF5
+Optim
+ProgressMeter
