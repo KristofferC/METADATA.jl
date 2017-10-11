@@ -152,3 +152,14 @@ JSON
 URIParser
 MbedTLS
 Compat 0.17.0
+
+0.4.0
+-----
+c8e3fb6f7a3cbf9da2e65f7535a614e9f199c73e
+julia 0.5
+LightXML
+Requests
+JSON
+URIParser
+MbedTLS
+Compat 0.17.0
