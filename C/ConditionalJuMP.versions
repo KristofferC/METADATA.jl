@@ -6,3 +6,10 @@ https://github.com/rdeits/ConditionalJuMP.jl.git
 julia 0.6
 JuMP 0.16 0.19
 IntervalArithmetic 0.9
+
+0.0.2
+-----
+e7e4a4df881cdc9dfc8cd9a4ff312a79cdcc0081
+julia 0.6
+JuMP 0.16 0.19
+IntervalArithmetic 0.9

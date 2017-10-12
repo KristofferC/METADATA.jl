@@ -13,3 +13,9 @@ d42bb70039681ea20f94acbaaa81080b4f333b85
 ef9342c7610f47191a5cc81b86a609fe908ac0d2
 julia 0.3
 BinDeps
+
+1.1.2
+-----
+f9b42d88a215b4f6333c7e6dc929b0e85cc7a235
+julia 0.5
+BinDeps

@@ -35,3 +35,9 @@ FactCheck 0.4.2
 ea417f4ed9e3b2bdae881d5a98e7ae0d655b9afc
 julia 0.5
 TaylorSeries 0.5.1
+
+0.2.0
+-----
+1816a9ec41b638a04d1fe3f9a0cd1961dc64f134
+julia 0.6
+TaylorSeries 0.6.0
