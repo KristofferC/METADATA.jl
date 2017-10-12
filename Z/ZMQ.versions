@@ -223,3 +223,12 @@ BinDeps 0.3.21
 @osx Homebrew
 Compat 0.17.0
 @windows WinRPM
+
+0.5.0
+-----
+89f9e3f62fe990f33d5e38d3202e6466a2fe258b
+julia 0.5
+BinDeps 0.3.21
+@osx Homebrew
+Compat 0.27.0
+@windows WinRPM
