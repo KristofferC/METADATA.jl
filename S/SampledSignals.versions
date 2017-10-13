@@ -56,3 +56,11 @@ julia 0.6.0-pre
 SIUnits
 FixedPointNumbers
 DSP
+
+1.1.0
+-----
+5ce80a836d2b70093566937bcacd18a04a21a3fe
+julia 0.6.0-pre
+SIUnits
+FixedPointNumbers
+DSP
