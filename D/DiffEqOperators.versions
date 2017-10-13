@@ -1,0 +1,8 @@
+https://github.com/JuliaDiffEq/DiffEqOperators.jl.git
+
+0.0.1
+-----
+db4152af36a4b97e7327e344aa9e42d084947229
+julia 0.6
+DiffEqBase 1.19.0
+LinearMaps
