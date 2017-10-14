@@ -56,3 +56,19 @@ NearestNeighbors 0.1.0
 IterTools 0.1.0
 Distances
 Combinatorics
+
+0.4.5
+-----
+2233e3a22cc1c88ebc20bca6e5fb66d72b4f3f9d
+julia 0.6
+OrdinaryDiffEq 2.17.0
+ForwardDiff 0.5
+Requires 0.4.3
+LsqFit 0.3.0
+StaticArrays 0.5.0
+StatsBase 0.8.2
+RecursiveArrayTools 0.12.0
+NearestNeighbors 0.1.0
+IterTools 0.1.0
+Distances
+Combinatorics
