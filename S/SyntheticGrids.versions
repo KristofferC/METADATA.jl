@@ -25,3 +25,16 @@ CSV 0.1.2
 AutoHashEquals 0.1.1
 Geodesy 0.3.0
 WeakRefStrings  0.1.0 0.2.9
+
+0.0.3
+-----
+0d73baff07f2a934c80e4382bbb851c3aedf353e
+julia 0.6
+Conda 0.5.3
+PyCall 1.10.0
+JSON 0.8.0
+CSV 0.1.2
+AutoHashEquals 0.1.1
+Geodesy 0.3.0
+WeakRefStrings  0.1.0 0.2.9
+HDF5 0.8.5

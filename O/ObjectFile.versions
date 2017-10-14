@@ -1,0 +1,8 @@
+https://github.com/staticfloat/ObjectFile.jl.git
+
+0.1.0
+-----
+24a24a41b367f9c9b62cf115716316e7d6b80b7b
+julia 0.6
+StructIO 0.2
+Reexport
