@@ -97,11 +97,19 @@ Nulls 0.0.2 0.1.0
 874c6eb1e2fe09282982fbe7977950d71bec76ce
 julia 0.6
 Compat 0.19.0
-Nulls 0.0.2
+Nulls 0.0.2 0.1.2
 
 0.2.2
 -----
 3a401b9adb9b04c8645cb5e893ddd5f5702cece5
 julia 0.6
 Compat 0.19.0
-Nulls 0.1.0
+Nulls 0.1.0 0.1.2
+
+0.2.3
+-----
+4cf4e2185ee7e7f4a3339021ed01b335587ba45a
+julia 0.6
+Compat 0.19.0
+Nulls 0.1.2
+Reexport
