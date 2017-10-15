@@ -36,3 +36,10 @@ f6b50605f6bb6e27167f37f7211fb089d4aa9e47
 julia 0.5
 Compat 0.8.8
 SpecialFunctions 0.1
+
+0.3.0
+-----
+b6c0971b8579a8da6a98da8fc2fe020f5f1ab9a6
+julia 0.6
+Compat 0.8.8
+SpecialFunctions 0.1

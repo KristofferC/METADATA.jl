@@ -5,3 +5,9 @@ https://github.com/garrison/UniqueVectors.jl.git
 a7b83e82bc49763d31612fcf6595a60230d35e25
 julia 0.5
 Compat 0.17
+
+0.5.0
+-----
+bb2cee5a53dac023fdebb2e7f8a1f1b195f90e8a
+julia 0.6
+Compat 0.33.0
