@@ -6,3 +6,10 @@ https://github.com/staticfloat/ObjectFile.jl.git
 julia 0.6
 StructIO 0.2
 Reexport
+
+0.1.2
+-----
+98d7b327448456df024ab87243520f972c715e16
+julia 0.6
+StructIO 0.2
+Reexport
