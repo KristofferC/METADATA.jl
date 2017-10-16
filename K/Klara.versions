@@ -139,3 +139,14 @@ Formatting 0.1.4
 ForwardDiff 0.4 0.6
 ReverseDiff 0.1
 StatsBase 0.7.4
+
+0.9.2
+-----
+329566393dde471897922eeb358674586fdc81cd
+julia 0.6
+DiffBase 0.1
+Distributions 0.4.7
+Formatting 0.1.4
+ForwardDiff 0.4 0.6
+ReverseDiff 0.1
+StatsBase 0.7.4

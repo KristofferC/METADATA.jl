@@ -36,3 +36,12 @@ MacroTools
 DataStructures
 Requires
 Crayons
+
+0.1.5
+-----
+df29875481a6d121d0847be18a8912b0ec080909
+julia 0.6.0-pre
+MacroTools
+DataStructures
+Requires
+Crayons
