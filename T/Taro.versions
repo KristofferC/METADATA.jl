@@ -69,3 +69,12 @@ JavaCall
 DataFrames
 DataArrays
 Compat 0.8
+
+0.5.0
+-----
+f29e3513996bab4e4e1bf6a5c708a36aee9cec2c
+julia 0.5
+JavaCall
+DataFrames
+DataArrays
+Compat 0.8
