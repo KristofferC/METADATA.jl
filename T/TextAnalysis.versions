@@ -63,3 +63,12 @@ Languages 0.1.0+
 DataFrames
 BinDeps
 Compat 0.17
+
+0.2.1
+-----
+172f50377c1dbcb1ac85eece62dc7a719ddfdef5
+julia 0.5
+Languages 0.1.0+
+DataFrames
+BinDeps
+Compat 0.17
