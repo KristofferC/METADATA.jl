@@ -7,3 +7,12 @@ julia 0.4-
 SuffixArrays
 WaveletMatrices
 IndexableBitVectors
+
+0.1.0
+-----
+4dc7556d45ef8f07d619decb9a1c4c70b91bb3ce
+julia 0.5
+SuffixArrays
+WaveletMatrices
+IndexableBitVectors
+Humanize
