@@ -1,0 +1,10 @@
+https://github.com/bramtayl/Keys.jl.git
+
+0.0.1
+-----
+51258778a30ea064212a28eeda7bab86434264a2
+julia 0.6
+MacroTools
+TypedBools
+RecurUnroll
+MappedArrays
