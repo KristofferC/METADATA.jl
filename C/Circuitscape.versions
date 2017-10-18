@@ -9,3 +9,14 @@ Logging
 LightGraphs
 PyAMG
 GZip
+
+0.0.2
+-----
+c7636ddc1a3227ad460f34ec06b5c1d4fb568152
+julia 0.6
+IterativeSolvers 0.4.1
+Logging
+SimpleWeightedGraphs 0.3.0
+LightGraphs 0.11.0
+AMG 0.0.2
+GZip

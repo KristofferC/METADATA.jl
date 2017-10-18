@@ -4,3 +4,9 @@ https://github.com/mistguy/Hop.jl.git
 -----
 15ac69e39bd5d9b80022a4dc5ab74cc7f3853237
 julia 0.6
+
+0.0.2
+-----
+b4ca041f878b089d4431b1e9d495d9f1ae77bda5
+julia 0.6
+StaticArrays

@@ -97,6 +97,12 @@ bd10d626db31bb01db8d2bdd1fc00d041c28f0bc
 julia 0.5
 MathProgBase 0.5.1 0.6
 
+0.6.4
+-----
+81d9f9270bcc7381ca4a5a4b228f67dc6dfd40c1
+julia 0.5
+MathProgBase 0.5.1 0.6
+
 0.7.0
 -----
 0d01505ef99b6048353f2b7d5a60070eb7bfaeaf
