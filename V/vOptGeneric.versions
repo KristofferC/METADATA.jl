@@ -1,0 +1,8 @@
+https://github.com/vOptSolver/vOptGeneric.jl.git
+
+0.1.0
+-----
+99551e8476094ca54ca5ce081255d8ac8acee80a
+julia 0.6
+JuMP 0.18
+Combinatorics

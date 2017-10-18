@@ -1,0 +1,14 @@
+https://github.com/darwindarak/PotentialFlow.jl.git
+
+0.0.1
+-----
+ad07a389773b7f98abfe13038c38c636eafabc7a
+julia 0.6-
+Documenter
+DocStringExtensions
+Interpolations
+Reexport
+MacroTools
+ForwardDiff
+MappedArrays
+RecipesBase

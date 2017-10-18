@@ -1,0 +1,11 @@
+https://github.com/juliohm/LocallyWeightedRegression.jl.git
+
+0.0.1
+-----
+4951eb45082f58565566e68bdff94e1800f8f7e5
+julia 0.6
+Reexport
+GeoStatsBase
+GeoStatsDevTools
+NearestNeighbors
+Distances
