@@ -8,3 +8,12 @@ DataFrames
 DataStructures
 DataFramesMeta
 MacroTools
+
+0.1.1
+-----
+ca94080a7ddd5459835d20cba5d0324c84f29652
+julia 0.6
+DataFrames
+DataStructures
+DataFramesMeta
+MacroTools

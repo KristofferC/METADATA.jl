@@ -59,3 +59,10 @@ Compat
 julia 0.5.2
 Compat
 SpecialFunctions
+
+2.0.0
+-----
+f6f75ce6062e2e2eea6dd0465d77a83e35f14c6e
+julia 0.7-
+Compat
+SpecialFunctions
