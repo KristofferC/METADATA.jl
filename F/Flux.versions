@@ -74,3 +74,14 @@ MacroTools 0.3.3
 NNlib
 ForwardDiff
 Requires
+
+0.3.3
+-----
+2a66545ef8d3e8d456718670e59d752e778e83c9
+julia 0.6.0
+DataFlow 0.2.1
+Juno
+MacroTools 0.3.3
+NNlib
+ForwardDiff
+Requires
