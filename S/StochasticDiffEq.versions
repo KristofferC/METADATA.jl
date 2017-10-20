@@ -389,6 +389,25 @@ Reexport
 RandomNumbers
 MuladdMacro
 
+2.12.0
+------
+1e5a24cad6b1ffe84f030a4ed6341d6fda6f3fa0
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 1.24.0
+RecursiveArrayTools 0.8.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.5.0
+NLsolve
+ForwardDiff 0.5.0
+StaticArrays
+Reexport
+RandomNumbers
+MuladdMacro
+
 2.2.0
 -----
 0f35b3869fb018653fdf6106c717861f734cd39b
