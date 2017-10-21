@@ -69,3 +69,11 @@ julia 0.6
 DiffEqBase 1.18.0
 RecursiveArrayTools 0.6.0
 DistributedArrays
+
+0.9.1
+-----
+6ab0632b05e8c6a024362d450ba234deee6bc309
+julia 0.6
+DiffEqBase 1.18.0
+RecursiveArrayTools 0.6.0
+DistributedArrays
