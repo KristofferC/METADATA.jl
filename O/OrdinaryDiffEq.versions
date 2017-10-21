@@ -886,7 +886,7 @@ Compat 0.18.0
 ------
 d46d242936a88109f37a5866ec46845f27c16084
 julia 0.6.0
-DiffEqBase 1.24.1
+DiffEqBase 1.24.1 2.0.0
 Parameters 0.5.0
 ForwardDiff 0.5.0 0.6.0
 GenericSVD 0.0.2
