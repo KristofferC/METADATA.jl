@@ -5,5 +5,5 @@ https://github.com/JuliaNLSolvers/OptimBase.jl.git
 24d37a5f2b425afaf2df23231c6cd881dcd92698
 julia 0.5
 Reexport
-NLSolversBase 2.0 3.0
+NLSolversBase 2.0
 Compat 0.18
