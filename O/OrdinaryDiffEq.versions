@@ -919,6 +919,25 @@ DataStructures 0.4.6
 Iterators
 Compat 0.18.0
 
+2.21.0
+------
+ad1e14e1910f67d94beb02a9999f6498003db8c1
+julia 0.6.0
+DiffEqBase 2.0.0
+Parameters 0.5.0
+ForwardDiff 0.5.0 0.6.0
+GenericSVD 0.0.2
+NLsolve 0.9.1
+RecursiveArrayTools 0.12.0
+Juno 0.2.5
+DiffEqDiffTools
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+MuladdMacro 0.0.2
+StaticArrays
+
 2.3.1
 -----
 8af219c5eb1335aa3912e5ace9ebf36e55628f10
