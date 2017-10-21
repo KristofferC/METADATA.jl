@@ -337,7 +337,7 @@ ForwardDiff 0.0.1 0.5.0
 1b4c869860430e9846efd40a7c3af87c53fac170
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.16.0
+DiffEqBase 1.16.0 2.0.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -356,7 +356,7 @@ MuladdMacro
 8518980759fe694ab56d685d7aef246dcbe03768
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.16.0
+DiffEqBase 1.16.0 2.0.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -375,7 +375,7 @@ MuladdMacro
 db687b77bc9f1e527e364acbb58c0bbc5ee4e146
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.16.0
+DiffEqBase 1.16.0 2.0.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -394,7 +394,7 @@ MuladdMacro
 1e5a24cad6b1ffe84f030a4ed6341d6fda6f3fa0
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.24.0
+DiffEqBase 1.24.0 2.0.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
@@ -413,7 +413,7 @@ MuladdMacro
 f53d32cbfba78920cbc2ad610f51a128cc68df66
 julia 0.6.0
 Parameters 0.5.0
-DiffEqBase 1.24.0
+DiffEqBase 1.24.0 2.0.0
 RecursiveArrayTools 0.8.0
 DataStructures 0.4.6
 Juno 0.2.5
