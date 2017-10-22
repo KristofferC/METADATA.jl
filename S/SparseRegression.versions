@@ -1,0 +1,11 @@
+https://github.com/joshday/SparseRegression.jl.git
+
+0.0.1
+-----
+a2885a0e2e91f60db32d3b1207c3318dfbdc2a92
+julia 0.6
+LearningStrategies
+LossFunctions
+PenaltyFunctions
+SweepOperator
+RecipesBase
