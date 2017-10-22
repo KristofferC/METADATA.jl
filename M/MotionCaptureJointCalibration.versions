@@ -1,0 +1,10 @@
+https://github.com/tkoolen/MotionCaptureJointCalibration.jl.git
+
+0.0.1
+-----
+e09f8e3c84dbe190efd01e364759d9bc13733b9a
+julia 0.6
+RigidBodyDynamics 0.3
+JuMP
+Parameters
+Requires # for optional visualization stuff
