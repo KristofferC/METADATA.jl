@@ -40,3 +40,14 @@ Dates
 TimeSeries 0.5.11
 NLopt
 Optim 0.0 0.5
+
+0.1.0
+-----
+648b5296a030d7b4dcce3e091c71c2cb7deb24c2
+julia 0.6
+Compat
+Distributions
+StatsBase
+TimeSeries 0.5.11
+Optim
+NLopt

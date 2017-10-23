@@ -1,0 +1,8 @@
+https://github.com/cstjean/FProfile.jl.git
+
+0.0.1
+-----
+da7bdba10cc5a5a7d33974dabdf3d5f3cf6a5f10
+julia 0.6
+DataFrames
+DataStructures
