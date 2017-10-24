@@ -7,6 +7,18 @@ julia 0.4
 Colors
 Cairo
 
+0.10.0
+------
+32aa4bb905107fbc3aec5529671775f6fb5c7d64
+julia 0.6
+Compat 0.9.1
+Colors
+Cairo
+FileIO
+Juno
+Hiccup
+@linux ImageMagick
+
 0.2.0
 -----
 a0e8a4c5cdb6856eafe3f27d214bbf64b9d1de4c
