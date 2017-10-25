@@ -4,3 +4,9 @@ https://github.com/dextorious/NumericalIntegration.jl.git
 -----
 32557ae47ab57c033db02f57b601bf6e1dd20ed7
 julia 0.5
+
+0.0.2
+-----
+d999d21ff31664ac5ad7323b9a1a38e913c20092
+julia 0.5
+Compat 0.17.0
