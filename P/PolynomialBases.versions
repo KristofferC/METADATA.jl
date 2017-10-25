@@ -6,3 +6,10 @@ https://github.com/ranocha/PolynomialBases.jl.git
 julia 0.6
 Parameters
 FastGaussQuadrature
+
+0.2.0
+-----
+ac2c176f992b3cfac7f523e27cb5e4a80340a90e
+julia 0.6
+Parameters
+FastGaussQuadrature

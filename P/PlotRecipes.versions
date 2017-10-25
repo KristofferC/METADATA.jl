@@ -68,3 +68,13 @@ RecipesBase
 Plots 0.10
 StatPlots
 NetworkLayout
+
+0.3.0
+-----
+d276ac807305587a3fca61251528e0c33d6d0aa5
+julia 0.6
+Reexport
+RecipesBase
+Plots 0.13
+StatPlots
+NetworkLayout

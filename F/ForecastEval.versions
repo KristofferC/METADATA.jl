@@ -7,3 +7,11 @@ julia 0.5
 StatsBase 0.11.0
 Distributions 0.11.0
 DependentBootstrap 0.0.1
+
+0.1.0
+-----
+58c7fcf04bcddc1d13839391794cc95369d94a2f
+julia 0.6
+StatsBase 0.11.0
+Distributions 0.11.0
+DependentBootstrap 0.1.0
