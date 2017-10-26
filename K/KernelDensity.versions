@@ -82,3 +82,13 @@ StatsBase
 Distributions
 Optim
 Interpolations
+
+0.4.0
+-----
+a688cebc81cea8c0b72a5db7eda1c3472d7a6fc5
+julia 0.6
+Compat 0.17
+StatsBase
+Distributions
+Optim
+Interpolations
