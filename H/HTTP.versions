@@ -50,3 +50,9 @@ Compat 0.17
 f4316604096119522963d04eaefa63d82ac00997
 julia 0.6
 MbedTLS 0.4.0
+
+0.5.2
+-----
+d6d42bc0bc096498c2c52a7c3c9feac2611275ec
+julia 0.6
+MbedTLS 0.4.0
