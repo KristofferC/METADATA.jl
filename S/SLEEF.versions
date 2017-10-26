@@ -4,3 +4,9 @@ https://github.com/musm/SLEEF.jl.git
 -----
 414f0abbcbb4f970ba8c01435dae08e1f90b3975
 julia 0.6
+
+0.4.4
+-----
+c9dcd2eb090d69ec40790f19798c5fef2aba2616
+julia 0.6
+Compat 0.33

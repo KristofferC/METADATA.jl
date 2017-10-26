@@ -1,0 +1,13 @@
+https://github.com/alan-turing-institute/PDSampler.jl.git
+
+0.0.1
+-----
+5ea1c9a16d81587eaebfdc0c078d7a368e99066e
+julia 0.5
+Compat
+Distributions
+Polynomials
+QuadGK
+ProgressMeter
+Klara
+ApproxFun
