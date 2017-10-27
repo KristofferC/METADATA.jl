@@ -5,3 +5,9 @@ https://github.com/stevengj/ChangePrecision.jl.git
 5a506586a6cf86b0de804212b177ad2a9ee09d53
 julia 0.6
 Compat 0.30.0
+
+0.2.0
+-----
+4f48a3ccbb8ac723564a1ff65a0c03e729d822a9
+julia 0.6
+Compat 0.30.0
