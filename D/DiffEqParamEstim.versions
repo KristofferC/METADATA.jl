@@ -114,3 +114,16 @@ Calculus
 Optim
 Compat 0.17.0
 PenaltyFunctions
+
+0.7.0
+-----
+b1cc279b9cc6b7112cb60999eadd998bd796ff6c
+julia 0.6
+LsqFit 0.0.2
+DiffEqBase 1.7.0
+LossFunctions 0.0.2
+RecursiveArrayTools 0.10.0
+ForwardDiff
+Calculus
+Optim
+PenaltyFunctions
