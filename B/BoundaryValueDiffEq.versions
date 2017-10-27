@@ -9,3 +9,13 @@ Reexport
 NLsolve
 DiffEqDiffTools
 BandedMatrices
+
+0.1.0
+-----
+a075a774c48b896001dafd72514cca9892be59b9
+julia 0.6
+DiffEqBase
+Reexport
+NLsolve
+DiffEqDiffTools
+BandedMatrices
