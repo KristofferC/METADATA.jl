@@ -91,3 +91,16 @@ Reexport
 Colors
 FixedPointNumbers 0.3.0
 Compat 0.17
+
+0.4.0
+-----
+3e9d83e7c5d15184616e9b6ae6129e5402a38385
+julia 0.6
+ImageCore 0.2
+AxisArrays
+MappedArrays
+SimpleTraits
+Reexport
+Colors
+FixedPointNumbers 0.3.0
+Compat 0.17

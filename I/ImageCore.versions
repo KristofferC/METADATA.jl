@@ -228,3 +228,18 @@ Graphics
 ShowItLikeYouBuildIt 0.1
 OffsetArrays
 Compat 0.19
+
+0.5.0
+-----
+a278c6d92cb195ea153bbb5f57ee27592bdb82d0
+julia 0.6.0
+FixedPointNumbers 0.3.0
+ColorTypes 0.4
+Colors
+MappedArrays 0.0.3
+PaddedViews 0.0.2
+Graphics
+ShowItLikeYouBuildIt 0.1
+OffsetArrays
+Compat 0.19
+FFTW

@@ -16,3 +16,10 @@ StaticArrays
 36a48415830065b8379d1d53213bee774db41258
 julia 0.6
 StaticArrays
+
+0.0.4
+-----
+d233d06b0b158a134f72f1e1989dde0abcc8dd56
+julia 0.6
+StaticArrays
+PyPlot

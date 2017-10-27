@@ -110,3 +110,12 @@ DataValues
 PooledArrays 0.0.2
 WeakRefStrings
 DataStructures
+
+0.3.2
+-----
+bdcecc419c680aff15e0219fbdb081344f50c79b
+julia 0.6
+Compat 0.17
+DataValues
+PooledArrays 0.0.2
+DataStructures

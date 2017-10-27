@@ -171,3 +171,16 @@ Dagger 0.4.0
 Glob 1.1.1
 PooledArrays 0.0.2
 DataValues
+
+0.3.4
+-----
+1fc18d1f58c891eb19badfc734019337b1148f85
+julia 0.6
+IndexedTables 0.3.0
+NamedTuples 4.0.0
+TextParse 0.3.0
+MemPool
+Dagger 0.4.0
+Glob 1.1.1
+PooledArrays 0.0.2
+DataValues

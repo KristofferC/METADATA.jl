@@ -3,5 +3,12 @@ https://github.com/chakravala/Dendriform.jl.git
 0.0.3
 -----
 85cd17d312f6d5159554a10609332387cfc91e27
-julia 0.5
+julia 0.5 0.6
 Combinatorics
+
+0.1.0
+-----
+06e58ea1332fa884deaf3813d2815889369e9876
+julia 0.6
+Combinatorics
+Compat 0.34
