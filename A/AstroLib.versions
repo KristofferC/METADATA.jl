@@ -48,3 +48,9 @@ Compat 0.7.15
 -----
 0bd8f0c24a94128f32951611aa0379e3c3d5bdbc
 julia 0.6-
+
+0.2.0
+-----
+b14c418b91604b92cb2ca9ba0b1c5da2b4a24776
+julia 0.6
+StaticArrays 0.5.0
