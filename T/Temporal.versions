@@ -154,3 +154,19 @@ julia 0.6
 Requests
 JSON
 RecipesBase
+
+0.4.5
+-----
+c2d9ba8d3fdf48d4c7ac093b47116b20bdb6453b
+julia 0.6
+Requests
+JSON
+RecipesBase
+
+0.4.6
+-----
+117ce77950d1271ea1e4e9ceaa70651d8e180be7
+julia 0.6
+Requests
+JSON
+RecipesBase

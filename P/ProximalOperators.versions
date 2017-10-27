@@ -30,3 +30,9 @@ julia 0.6
 -----
 6d98bd8bda1bda05133a22c7c777a6ef58c5600b
 julia 0.6
+
+0.5.0
+-----
+309b34b918607e1a8e925a533a2952a7c7d0fa17
+julia 0.6
+IterativeSolvers 0.4.0
