@@ -119,3 +119,12 @@ Compat 0.17
 DataValues
 PooledArrays 0.0.2
 DataStructures
+
+0.3.3
+-----
+71a75782b971d926af9feb8165c71555e858750f
+julia 0.6
+Compat 0.17
+DataValues
+PooledArrays 0.0.2
+DataStructures
