@@ -46,3 +46,10 @@ af8c3cdfd84c886c12ed3e6d7d6d0862d3a91293
 julia 0.5
 GZip
 MappedArrays
+
+0.3.0
+-----
+98910e59f5f3d752b54132ee90fa7972ccbb7fda
+julia 0.6
+GZip
+MappedArrays
