@@ -9,3 +9,12 @@ ProgressMeter
 @windows WinRPM
 GZip
 JLD2
+
+0.0.2
+-----
+75fec04f592a274a29765cf3fce76d31a3f3b296
+julia 0.6
+ProtoBuf
+@windows WinRPM
+GZip
+JLD2
