@@ -1,0 +1,8 @@
+https://github.com/jbrea/NOMAD.jl.git
+
+0.1.0
+-----
+6771e7ab89c997811f94884127196ef8836dc5d9
+julia 0.6
+Cxx
+MathProgBase

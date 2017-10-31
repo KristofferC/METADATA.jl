@@ -64,3 +64,11 @@ julia 0.4
 TikzPictures 0.3.5
 LightGraphs 0.6.0
 Compat 0.17.0
+
+0.5.1
+-----
+90521a479c2b0dfa828678c821adc353e6f8009b
+julia 0.4
+TikzPictures 0.3.5
+LightGraphs 0.6.0
+Compat 0.8.0
