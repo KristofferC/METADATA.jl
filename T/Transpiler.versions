@@ -87,3 +87,15 @@ StaticArrays 0.3.0
 DataStructures
 SpecialFunctions
 MacroTools
+
+0.4.3
+-----
+c464cfb5aa9f2e5286aff74be76e876a013df96a
+julia 0.6
+Compat 0.17.0
+Sugar 0.4.1
+Matcha
+StaticArrays 0.3.0
+DataStructures
+SpecialFunctions
+MacroTools
