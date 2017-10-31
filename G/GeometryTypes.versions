@@ -131,3 +131,12 @@ IterTools
 StaticArrays 0.5.1
 ColorTypes 0.3.1
 FixedPointNumbers 0.3
+
+0.4.3
+-----
+96daf9e2e8ead2f8aa85237b7e4e3083a5429908
+julia 0.6
+IterTools
+StaticArrays 0.5.1
+ColorTypes 0.3.1
+FixedPointNumbers 0.3
