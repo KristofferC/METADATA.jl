@@ -96,3 +96,10 @@ f601da6a2cc0ebd28ba981d0c487628e2fa7fd86
 julia 0.4
 PyCall 1.11.0
 Compat 0.17.0
+
+0.5.0
+-----
+ae7728474c072e135946c0db755692114d8a39ae
+julia 0.5
+PyCall 1.11.0
+Compat 0.17.0

@@ -13,3 +13,10 @@ e278467a0e03aae7daf376042e9486e03a5b326e
 julia 0.6
 DataFrames
 DataStructures
+
+0.0.3
+-----
+db90ea064cc0516d41d798b729564b0764b577ec
+julia 0.6
+DataFrames
+DataStructures
