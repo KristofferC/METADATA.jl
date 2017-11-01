@@ -224,3 +224,12 @@ SymEngine 0.2.0
 DataStructures 0.4.6
 DiffEqBase 0.14.0
 SimpleTraits 0.1.1
+
+2.3.0
+-----
+91687d6c00f60ced3fc126879ad434fc1a13c535
+julia 0.6
+SymEngine 0.2.0
+DataStructures 0.4.6
+DiffEqBase 0.14.0
+SimpleTraits 0.1.1
