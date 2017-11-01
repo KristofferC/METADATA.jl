@@ -57,3 +57,10 @@ JLD 0.6.6
 julia 0.6
 Compat 0.26
 JSON
+
+0.2.1
+-----
+aafc7e19d240961c1817478bc01558c0196c727c
+julia 0.6
+Compat 0.26
+JSON
