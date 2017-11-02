@@ -95,3 +95,16 @@ LightXML
 MbedTLS
 DataStructures
 URIParser
+
+0.3.0
+-----
+18ee4693d1aca13b3485dafa2f069d74b9cfec1c
+julia 0.6
+AWSCore 0.3
+HTTP 0.5.4
+SymDict
+Retry
+XMLDict
+LightXML
+MbedTLS
+DataStructures

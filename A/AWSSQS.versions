@@ -79,3 +79,13 @@ SymDict 0.1.2
 Retry
 MbedTLS
 URIParser
+
+0.3.0
+-----
+ca456d551c3f3373d269619806be70f10464660f
+julia 0.6
+AWSCore 0.3
+SymDict 0.1.2
+Retry
+MbedTLS
+HTTP 0.5.4

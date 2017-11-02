@@ -11,3 +11,15 @@ AWSCore 0.2.2
 41da8d7fbfb791ce2758eb086fcb7a42cbb09f05
 julia 0.5
 AWSCore 0.2.2
+
+0.3.0
+-----
+19afbfc6161fe69443f3a20998e9024fd648f9ca
+julia 0.6
+AWSCore 0.3
+
+0.3.1
+-----
+af6e4f52f1c90ee70c85e957facffb658ff841ce
+julia 0.6
+AWSCore 0.3

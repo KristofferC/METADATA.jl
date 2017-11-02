@@ -78,3 +78,12 @@ AWSCore 0.2
 AWSIAM
 SymDict 0.1.2
 Retry
+
+0.3.0
+-----
+554bb196cafcf7ec6c9dbcd267e33ec0e2526ed7
+julia 0.6
+AWSCore 0.3
+AWSIAM
+SymDict 0.1.2
+Retry

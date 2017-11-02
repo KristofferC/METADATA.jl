@@ -99,3 +99,33 @@ AWSSQS
 AWSLambda
 SymDict 0.1.2
 Retry
+
+0.3.0
+-----
+544e4d7d371c906ebbfb9943558209a00e4d5ec0
+julia 0.6
+AWSCore 0.3
+AWSSQS
+AWSLambda
+SymDict 0.1.2
+Retry
+
+0.3.1
+-----
+fe2004f8916288c2025d969024107cec43757b90
+julia 0.6
+AWSCore 0.3
+AWSSQS
+AWSLambda
+SymDict 0.1.2
+Retry
+
+0.3.2
+-----
+58a98305f38e487abc4d42109b5cb1712ddf1ce5
+julia 0.6
+AWSCore 0.3
+AWSSQS
+AWSLambda
+SymDict 0.1.2
+Retry

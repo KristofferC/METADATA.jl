@@ -323,3 +323,29 @@ Requests
 MbedTLS
 HttpCommon
 DataStructures
+
+0.3.0
+-----
+1ab6d6dcefd6a66a62ec16221f25cb5946cb05d0
+julia 0.6
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+HTTP 0.5.4
+MbedTLS
+DataStructures
+
+0.3.1
+-----
+7ddf9559e30b355c0d85fc51cacf4a0326e59384
+julia 0.6
+Retry
+SymDict 0.1.2
+XMLDict
+JSON
+IniFile
+HTTP 0.5.4
+MbedTLS
+DataStructures
