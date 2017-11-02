@@ -220,3 +220,17 @@ MuladdMacro
 ForwardDiff
 NLsolve
 Roots
+
+1.2.1
+-----
+58e5bda57ebee024b291460770daa1216499e4fb
+julia 0.6
+DiffEqBase 2.0.0
+OrdinaryDiffEq 2.21.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Reexport
+MuladdMacro
+ForwardDiff
+NLsolve
+Roots
