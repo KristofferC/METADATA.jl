@@ -127,3 +127,16 @@ ForwardDiff
 Calculus
 Optim
 PenaltyFunctions
+
+0.7.1
+-----
+e9d0efc0b3f6625dbbab1beeca53ab6bd4fb6df0
+julia 0.6
+LsqFit 0.0.2
+DiffEqBase 1.7.0
+LossFunctions 0.0.2
+RecursiveArrayTools 0.10.0
+ForwardDiff
+Calculus
+Optim
+PenaltyFunctions
