@@ -49,3 +49,12 @@ DataArrays 0.3
 FileIO 0.1.2
 GZip 0.2
 Compat 0.17
+
+0.2.0
+-----
+ebc1335252cf790e552f9310c2473df2822ad14b
+julia 0.6
+DataFrames 0.9
+DataArrays 0.4
+FileIO 0.1.2
+CodecZlib 0.4
