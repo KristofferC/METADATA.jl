@@ -1,0 +1,8 @@
+https://github.com/oxinabox/ExpectationStubs.jl.git
+
+0.1.0
+-----
+b8aa50ae2dc7accb1d95db54ff2ead1cb5e38bcb
+julia 0.6
+MacroTools
+DataStructures
