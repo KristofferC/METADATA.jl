@@ -18,3 +18,10 @@ LightGraphs 0.9
 julia 0.6
 LightGraphs 0.11
 JLD2
+
+0.2.1
+-----
+585ecf34b917a6676864740a0cc5b279f0febf61
+julia 0.6
+LightGraphs 0.11
+JLD2
