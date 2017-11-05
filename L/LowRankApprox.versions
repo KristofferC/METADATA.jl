@@ -1,4 +1,4 @@
-https://github.com/klho/LowRankApprox.jl.git
+https://github.com/JuliaMatrices/LowRankApprox.jl.git
 
 0.0.1
 -----
@@ -10,3 +10,10 @@ julia 0.5
 18095ab8ba331c2fe685b6e9090096bc3b648fc9
 julia 0.5
 Compat 0.18
+
+0.1.0
+-----
+d32fcad35d9ce39536b36e58421fbace2bb0ee73
+julia 0.6
+Compat 0.18
+FFTW 0.0.4
