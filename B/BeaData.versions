@@ -35,3 +35,13 @@ JSON
 DataFrames
 DataStructures
 DocStringExtensions
+
+0.2.0
+-----
+f1cbef98ea6a95183af5cd71f3063435df3af345
+julia 0.6
+HTTP
+JSON
+DataFrames
+DataStructures
+DocStringExtensions

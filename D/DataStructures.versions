@@ -12,32 +12,32 @@ julia 0.2-
 0.2.10
 ------
 af0d3739bdf18ebfcd4aa53ca9f4187840ac938f
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.11
 ------
 7cb00c6bc3cb1c132b91047fb6424a60dd163d05
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.12
 ------
 81cca83f9d691f54f24e7fba2aba09a9b43e731c
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.13
 ------
 d7f79801adc41b8d0bafcc016bd5b28d10308543
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.14
 ------
 f0d185a3604e0c0cd87f0ac4544bd423c28913ea
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.15
 ------
 398b13cff75994afa23e7c46ee6f60143a93723b
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.2
 -----
@@ -67,27 +67,27 @@ julia 0.2-
 0.2.7
 -----
 3d21cee067f35016997ec1781ad48cef570bc633
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.8
 -----
 7198c4fb7c5d468998bce89c0c1629dee3ce665f
-julia 0.2-
+julia 0.2- 0.4.0
 
 0.2.9
 -----
 162249b625014952b066ba661eb258129991c94c
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.0
 -----
 87a29b0a0fdde625037943759a51c3be069a3951
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.1
 -----
 5a4a6421fd0e387a9f2b9826a1eb4fbf175bd15b
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.10
 ------
@@ -127,27 +127,27 @@ Docile
 0.3.2
 -----
 b4aea82ce1cf165b96115f9271efd33776435fe0
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.3
 -----
 4900dc27d473508668cd0f164dd655b429a75ee2
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.4
 -----
 7f8b770aaee5d827737dc8823ed2aca9294f4043
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.5
 -----
 d5308421daea7370a60d3e2718e1b3fc5fe47f50
-julia 0.3-
+julia 0.3- 0.4.0
 
 0.3.6
 -----
 006562497d9be04d7ed6507306e639032ad47829
-julia 0.3-
+julia 0.3- 0.4.0
 Compat
 
 0.3.7

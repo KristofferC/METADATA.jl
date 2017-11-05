@@ -1,0 +1,9 @@
+https://github.com/anders-dc/Granular.jl.git
+
+0.1.0
+-----
+7d738fefaee58a786bcd8d336ea42e9601eab07c
+julia 0.6
+WriteVTK
+NetCDF
+Documenter
