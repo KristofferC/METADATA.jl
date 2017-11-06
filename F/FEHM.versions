@@ -1,0 +1,9 @@
+https://github.com/zemjulia/FEHM.jl.git
+
+0.1.0
+-----
+deb90ca4040afbe141bf5d4482d6a95cbfed97f3
+julia 0.5
+JLD
+WriteVTK
+DocumentFunction
