@@ -6,3 +6,11 @@ https://github.com/jbrea/NOMAD.jl.git
 julia 0.6
 Cxx
 MathProgBase
+
+0.1.1
+-----
+2c6367ea2b5804bf74a427e87526f8fb36426449
+julia 0.6
+Cxx
+MathProgBase
+BinDeps
