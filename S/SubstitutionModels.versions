@@ -1,0 +1,8 @@
+https://github.com/BioJulia/SubstitutionModels.jl.git
+
+0.1.0
+-----
+602596cc3c45bfc3da8cc9b05afd3639076d69f4
+julia 0.6
+BioSymbols 1.2.0
+StaticArrays 0.6.1

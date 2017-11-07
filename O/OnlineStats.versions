@@ -101,6 +101,17 @@ PenaltyFunctions
 RecipesBase
 Reexport
 
+0.12.1
+------
+3cfb0d63c3647bae7a97dae273b4246bcd52dfb4
+julia 0.6.0
+OnlineStatsBase 0.1.0
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase
+Reexport
+
 0.1.3
 -----
 8d038179835bb7bfa2217a6c4d3bc659f1d19a29
