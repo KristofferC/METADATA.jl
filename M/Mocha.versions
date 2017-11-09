@@ -91,3 +91,12 @@ HDF5 0.7.0
 JLD 0.6.6
 Logging 0.3.1
 Compat 0.9.5
+
+0.3.0
+-----
+262eca51b9c7b10c00424fe04f82e7f973d461ff
+julia 0.6
+HDF5 0.7.0
+JLD 0.6.6
+Compat 0.9.5
+Memento

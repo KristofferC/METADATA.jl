@@ -1,0 +1,10 @@
+https://github.com/JuliaSystems/ControlToolbox.jl.git
+
+0.1.0
+-----
+f762ca6365ff5b8ba30500054412f45fda4a165c
+julia 0.5
+Compat 0.17.0
+LTISystems 0.1.0
+MathProgBase 0.6.0
+Optim 0.7.8

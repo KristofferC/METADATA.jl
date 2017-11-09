@@ -626,6 +626,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.11.0
 ------
@@ -643,6 +644,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.11.1
 ------
@@ -660,6 +662,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.11.2
 ------
@@ -677,6 +680,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.11.3
 ------
@@ -694,6 +698,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.12.0
 ------
@@ -712,6 +717,7 @@ DataStructures 0.4.6
 Compat 0.18.0
 Reexport
 MuladdMacro
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.13.0
 ------
@@ -730,6 +736,7 @@ DataStructures 0.4.6
 Compat 0.18.0
 Reexport
 MuladdMacro
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.14.0
 ------
@@ -749,6 +756,7 @@ Compat 0.18.0
 Reexport
 MuladdMacro 0.0.2
 StaticArrays
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.15.0
 ------
@@ -768,6 +776,7 @@ Compat 0.18.0
 Reexport
 MuladdMacro 0.0.2
 StaticArrays
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.16.0
 ------
@@ -787,6 +796,7 @@ Compat 0.18.0
 Reexport
 MuladdMacro 0.0.2
 StaticArrays
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.17.0
 ------
@@ -799,7 +809,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -818,7 +828,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -837,7 +847,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -856,7 +866,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -893,7 +903,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -930,7 +940,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -949,7 +959,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -968,7 +978,7 @@ GenericSVD 0.0.2
 NLsolve 0.9.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -987,7 +997,7 @@ GenericSVD 0.0.2
 NLsolve 0.12.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -1006,7 +1016,7 @@ GenericSVD 0.0.2
 NLsolve 0.12.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -1025,7 +1035,7 @@ GenericSVD 0.0.2
 NLsolve 0.12.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -1044,7 +1054,7 @@ GenericSVD 0.0.2
 NLsolve 0.12.1
 RecursiveArrayTools 0.12.0
 Juno 0.2.5
-DiffEqDiffTools
+DiffEqDiffTools 0.0.2 0.1.0
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
@@ -1123,6 +1133,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 StaticArrays
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.6.0
 -----
@@ -1139,6 +1150,7 @@ Calculus 0.1.15
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.6.1
 -----
@@ -1155,6 +1167,7 @@ Calculus 0.1.15
 Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.7.0
 -----
@@ -1172,6 +1185,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.7.1
 -----
@@ -1189,6 +1203,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.8.0
 -----
@@ -1206,6 +1221,7 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
 
 2.9.0
 -----
@@ -1223,3 +1239,4 @@ Roots 0.2.1
 DataStructures 0.4.6
 Compat 0.18.0
 Reexport
+DiffEqDiffTools 0.0.2 0.1.0
