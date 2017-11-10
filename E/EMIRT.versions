@@ -17,3 +17,12 @@ HDF5
 FileIO
 Colors
 FixedPointNumbers 0.3
+
+0.6.0
+-----
+4b54152a52165009cff5a3e25dea02466cc9e9a3
+julia 0.6
+HDF5
+FileIO
+Colors
+FixedPointNumbers 
