@@ -64,3 +64,10 @@ aafc7e19d240961c1817478bc01558c0196c727c
 julia 0.6
 Compat 0.26
 JSON
+
+0.2.2
+-----
+d0f48045f70b3233db4c291d6adfc39117566d35
+julia 0.6
+Compat 0.33
+JSON
