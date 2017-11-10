@@ -108,3 +108,11 @@ Parameters
 julia 0.6
 NLSolversBase 3.0
 Parameters
+
+3.2.0
+-----
+56155bdb64d660452c1f014eac3d51e8e3608c71
+julia 0.6
+NLSolversBase 3.0
+Parameters
+NaNMath
