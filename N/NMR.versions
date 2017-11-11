@@ -1,0 +1,15 @@
+https://github.com/hessammehr/NMR.jl.git
+
+0.1.0
+-----
+bea29377d0b4fe9d3ba898e5837190f4033f187f
+julia 0.6
+Interpolations
+
+0.2.0
+-----
+23fa29450de7267fab49d6f02071ed7bc2f3f3cb
+julia 0.6
+Formatting
+Interpolations
+Plots

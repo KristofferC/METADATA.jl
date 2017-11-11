@@ -1,0 +1,11 @@
+https://github.com/fredo-dedup/HeadlessChromium.jl.git
+
+0.0.1
+-----
+89d01e0a0f6aedd122198904af1fa631b2c59f2e
+julia 0.6
+HttpServer
+WebSockets
+JSON
+HTTP
+Mustache
