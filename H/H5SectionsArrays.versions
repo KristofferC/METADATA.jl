@@ -5,3 +5,9 @@ https://github.com/seung-lab/H5SectionsArrays.jl.git
 81ecf5b9bed19e64860d661d5d55ce40347747a8
 julia 0.5
 HDF5
+
+0.6.0
+-----
+fd2fe64d04c3f5ee8ca32f19238cc9179357bf7f
+julia 0.6
+HDF5

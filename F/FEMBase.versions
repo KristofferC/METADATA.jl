@@ -1,0 +1,9 @@
+https://github.com/JuliaFEM/FEMBase.jl.git
+
+0.0.1
+-----
+110acde568e5906fe3e051a16b8087016107aa30
+julia 0.6
+FEMBasis
+FEMQuad
+TimerOutputs

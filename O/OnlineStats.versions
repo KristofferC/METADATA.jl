@@ -124,6 +124,17 @@ Distributions
 MultivariateStats
 Dates
 
+0.13.0
+------
+03aaf530eff350024a96ec7fbeecb5c537877d8d
+julia 0.6.0
+OnlineStatsBase 0.2.0
+SweepOperator
+LossFunctions
+PenaltyFunctions
+RecipesBase
+Reexport
+
 0.2.0
 -----
 77ada53848a1d3c66923b124471622ff3b175987

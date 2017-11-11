@@ -1,0 +1,11 @@
+https://github.com/anriseth/MultiJuMP.jl.git
+
+0.1.1
+-----
+11c607bb1a5a70cb7421590fd29f7fa9aab91402
+julia 0.6
+JuMP 0.17.1
+Ipopt
+Combinatorics
+RecipesBase
+LaTeXStrings

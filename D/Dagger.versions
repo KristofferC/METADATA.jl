@@ -92,3 +92,12 @@ julia 0.6
 MemPool 0.0.2
 Compat 0.19
 Logging
+
+0.5.0
+-----
+09f122b70450fdef4a6b9e40329b3570a8a37715
+julia 0.6
+MemPool 0.0.4
+Compat 0.19
+StatsBase
+Logging
