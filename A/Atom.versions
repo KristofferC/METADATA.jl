@@ -430,3 +430,20 @@ Reexport
 MacroTools
 DocSeeker
 ASTInterpreter2
+
+0.6.5
+-----
+19e3cd8682b823eb95c239196128dba3abd987ec
+julia 0.6.0-pre
+Juno 0.2.6
+Lazy 0.11.3
+LNR
+JSON
+CodeTools
+Hiccup
+Media
+Blink
+Reexport
+MacroTools
+DocSeeker
+ASTInterpreter2
