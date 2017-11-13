@@ -1,0 +1,19 @@
+https://github.com/timbitz/Whippet.jl.git
+
+0.9.0
+-----
+7003fa9b1eaa2841ec6841521188f0a144bd5fda
+julia 0.6
+DataStructures
+ArgParse
+BioSymbols
+BioSequences
+FMIndexes
+IntArrays
+IntervalTrees
+BufferedStreams
+Libz
+StatsBase
+Distributions
+Glob
+SuffixArrays
