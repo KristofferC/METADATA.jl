@@ -42,3 +42,15 @@ POMDPToolbox
 AutoHashEquals
 StaticArrays
 StatsBase 0.15
+
+0.2.1
+-----
+eca50761d8cf1cecc67921d3d46476298e0907c4
+julia 0.6
+Distributions
+POMDPs 0.6
+TikzPictures
+POMDPToolbox
+AutoHashEquals
+StaticArrays
+StatsBase 0.15
