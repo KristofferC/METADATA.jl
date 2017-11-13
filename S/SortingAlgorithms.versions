@@ -47,3 +47,10 @@ Compat 0.8.4
 julia 0.4
 Compat 0.9.4
 DataStructures 0.5.3
+
+0.2.0
+-----
+593642f67948bc6daec17c55cf6480e64e67800a
+julia 0.6
+Compat 0.9.4
+DataStructures 0.5.3
