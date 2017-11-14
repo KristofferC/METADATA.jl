@@ -13,3 +13,10 @@ e7e4a4df881cdc9dfc8cd9a4ff312a79cdcc0081
 julia 0.6
 JuMP 0.16 0.19
 IntervalArithmetic 0.9
+
+0.0.3
+-----
+85a19975aca4f91328432b22fef83bffed41f832
+julia 0.6
+JuMP 0.16 0.19
+IntervalArithmetic 0.9

@@ -37,3 +37,10 @@ CoordinateTransformations 0.3.0
 # - Julia 0.6 only using StaticArrays 0.5.0 and up
 # - Julia 0.5 uses StaticArrays between 0.0.4 and 0.4.0-
 StaticArrays 0.0.4 0.4.0- 0.5.0
+
+0.4.0
+-----
+0530d8e470f07b2c07df2f3a288ad98fc62d3c10
+julia 0.6
+CoordinateTransformations 0.3.0
+StaticArrays 0.5.0

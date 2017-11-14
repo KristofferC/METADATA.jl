@@ -47,3 +47,13 @@ LearnBase 0.1.5 0.2.0
 MLLabelUtils 0.0.3
 ShowItLikeYouBuildIt
 Compat 0.19
+
+0.3.0
+-----
+f79ed89f842d66ef4b8e4272d3e0b83e2a6d4ff4
+julia 0.6
+StatsBase 0.13
+LearnBase 0.1.5 0.2.0
+MLLabelUtils 0.0.3
+ShowItLikeYouBuildIt
+Compat 0.19

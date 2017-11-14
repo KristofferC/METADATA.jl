@@ -41,3 +41,10 @@ Compat 0.8
 julia 0.5
 JSON
 GeoInterface 0.2
+
+0.3.0
+-----
+4b351268718b8d3414412563129125ddbf9cd1c5
+julia 0.6
+JSON 0.9
+GeoInterface 0.2

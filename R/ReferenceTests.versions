@@ -19,3 +19,13 @@ FileIO 0.4
 ImageInTerminal 0.2
 ColorTypes 0.4
 SHA
+
+0.1.0
+-----
+eed2f919a1382ba7dc9c6f231a1ca0b56d130cef
+julia 0.6
+Images 0.6
+FileIO 0.4
+ImageInTerminal 0.2
+ColorTypes 0.4
+SHA
