@@ -121,6 +121,12 @@ MathProgBase 0.5.1 0.7
 julia 0.6
 MathProgBase 0.5.1 0.7
 
+0.7.3
+-----
+878f149e26ba24fc8d4d192d4496a576defa3a2a
+julia 0.6
+MathProgBase 0.5.1 0.7
+
 0.8.0
 -----
 707b184522622920ec104ce1eec1c59a3344cff9
