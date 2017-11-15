@@ -51,3 +51,12 @@ Distributions 0.8.10
 ODE 0.2.1
 GSL 0.3.1
 Compat 0.9.2
+
+0.3.0
+-----
+37c16a0528f215cd67a3fa1eaeaddd5d6c6ed233
+julia 0.6
+Combinatorics 0.2
+Distributions 0.8.10
+OrdinaryDiffEq 2.19.1
+GSL 0.3.1
