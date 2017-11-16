@@ -96,3 +96,14 @@ ProgressMeter
 Interpolations
 CutPruners 0.0.2 
 Compat 0.18
+
+0.5.0
+-----
+73feb492598cf1e47a6dee1126a425a5a8662d82
+julia 0.5
+JuMP 0.17
+Distributions
+ProgressMeter
+Interpolations
+CutPruners 0.0.2 
+Compat 0.18

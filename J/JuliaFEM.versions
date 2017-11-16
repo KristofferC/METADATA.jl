@@ -97,3 +97,20 @@ AbaqusReader
 AsterReader
 FEMBasis
 FEMQuad
+
+0.3.4
+-----
+3e8fb609e67ac8213210238aaccbcc2475ee7531
+julia 0.6
+FEMBase
+ForwardDiff
+LightXML 0.4
+HDF5 0.7
+DataFrames
+Formatting
+Logging
+TimerOutputs
+AbaqusReader
+AsterReader
+FEMBasis
+FEMQuad

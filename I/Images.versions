@@ -171,6 +171,30 @@ Compat 0.19
 StatsBase 0.14   # for histrange
 Requires
 
+0.11.5
+------
+b6f85f6b2a2d62a91db7caed552d9f143a3e4e7e
+julia 0.6.0
+Reexport
+Colors 0.7.0
+ColorVectorSpace 0.2
+FixedPointNumbers 0.3.0
+ImageCore
+ImageTransformations 0.2.2
+ImageFiltering
+ImageMorphology
+AxisArrays
+ImageAxes
+ImageMetadata
+IndirectArrays
+MappedArrays
+SIUnits
+Graphics 0.1
+FileIO
+Compat 0.19
+StatsBase 0.14   # for histrange
+Requires
+
 0.2.0
 -----
 f00c9ba81f3955454a92f9c21784c57e3a683bf6
