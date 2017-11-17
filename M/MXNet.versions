@@ -104,3 +104,13 @@ Compat 0.9.5
 Formatting
 BinDeps
 JSON
+
+0.3.0
+-----
+1fdcb31e626ec914ccb0f22761ffe23ce4f52b4c
+julia 0.6
+Formatting
+BinDeps
+JSON
+MacroTools
+TakingBroadcastSeriously
