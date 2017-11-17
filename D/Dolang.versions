@@ -23,3 +23,12 @@ julia 0.5
 DataStructures
 Compat 0.18
 Calculus
+
+0.2.0
+-----
+70a2b4d6f7ec6b8f854055ed658bdad5323806e3
+julia 0.6
+DataStructures
+Compat 0.18
+SymEngine
+StaticArrays
