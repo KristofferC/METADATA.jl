@@ -72,3 +72,13 @@ OrdinaryDiffEq
 RecursiveArrayTools
 DataStructures
 RecipesBase
+
+0.5.0
+-----
+6ea4a0a0d4588ca714ffc1a01adb0e54a986373e
+julia 0.6.0
+DiffEqBase 0.6.0
+OrdinaryDiffEq 2.21.3
+RecursiveArrayTools
+DataStructures
+RecipesBase
