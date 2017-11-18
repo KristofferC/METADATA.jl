@@ -185,3 +185,11 @@ julia 0.6
 WeakRefStrings 0.3.0
 Nulls 0.0.5
 NamedTuples 4.0
+
+0.3.0
+-----
+be1a9dde178d703e4f2e168fd1ed867208fdcfa6
+julia 0.6
+WeakRefStrings 0.4.0
+Missings
+NamedTuples 4.0
