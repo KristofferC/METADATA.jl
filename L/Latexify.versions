@@ -1,0 +1,9 @@
+https://github.com/korsbo/Latexify.jl.git
+
+0.0.1
+-----
+8080774c4518cfc6975d6a17bd176d3d8210a5a7
+julia 0.6
+DifferentialEquations 3.0
+SymEngine 0.2.0
+DataFrames 0.10.0

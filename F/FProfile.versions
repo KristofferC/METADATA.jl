@@ -20,3 +20,11 @@ db90ea064cc0516d41d798b729564b0764b577ec
 julia 0.6
 DataFrames
 DataStructures
+
+0.0.4
+-----
+fadbd5583058d11a434deb7f91a0a140f3fbb054
+julia 0.6
+DataFrames
+DataStructures
+Requires
