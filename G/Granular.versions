@@ -19,3 +19,15 @@ BinDeps 0.2.12-
 Compat 0.9.1
 @osx Homebrew 0.0.4-
 @windows WinRPM
+
+0.2.1
+-----
+f8e0e4db6963a0e5775539a65d8f85add7af9565
+julia 0.6
+WriteVTK
+NetCDF
+Documenter
+Compat 0.9.1
+BinDeps 0.3
+@osx Homebrew 0.0.4-
+@windows WinRPM

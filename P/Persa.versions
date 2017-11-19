@@ -1,0 +1,9 @@
+https://github.com/JuliaRecsys/Persa.jl.git
+
+0.0.3
+-----
+85520e66147c51096cc7b9c1c9b3d4d18ab7573f
+julia 0.6
+DataFrames
+MLBase
+Distances
