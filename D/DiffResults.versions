@@ -5,3 +5,9 @@ https://github.com/JuliaDiff/DiffResults.jl.git
 0e698b217fb1d7244568a52e677610fb9928528c
 julia 0.6
 StaticArrays 0.5.0
+
+0.0.2
+-----
+02f7ebe4e35ca4eca4709e5375bd0cec2f53cbc1
+julia 0.6
+StaticArrays 0.5.0
