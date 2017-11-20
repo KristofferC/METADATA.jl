@@ -6,3 +6,10 @@ https://github.com/davidanthoff/NodeJS.jl.git
 julia 0.4
 BinDeps
 Compat 0.9.1
+
+0.1.0
+-----
+e777aa7b4d71af843be1639bbc20d6198f3fdaee
+julia 0.5
+BinDeps
+Compat 0.9.1
