@@ -52,4 +52,4 @@ Compat 0.18
 -----
 a8fc40cd027635fa365d254943502ca09ac23d60
 julia 0.5
-MathProgBase 0.6 0.7
+MathProgBase 0.6 0.8

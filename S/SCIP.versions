@@ -43,5 +43,5 @@ Compat 0.8.6
 ab5119ddf1272254b507c428195640262ae162ab
 julia 0.6
 BinDeps
-MathProgBase 0.5 0.7
+MathProgBase 0.5 0.8
 Compat 0.8.6

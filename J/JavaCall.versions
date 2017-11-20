@@ -139,3 +139,10 @@ DataStructures
 julia 0.5
 DataStructures
 @windows WinReg
+
+0.5.2
+-----
+50c4146314e3b956ff7319f33418f3f2340e66df
+julia 0.5
+DataStructures
+@windows WinReg

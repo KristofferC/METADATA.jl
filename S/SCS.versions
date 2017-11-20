@@ -210,6 +210,6 @@ BinDeps
 -----
 5a60bd7852e0f6a3fd7bf14d7d6b2d445038eab5
 julia 0.5
-MathProgBase 0.5 0.7
+MathProgBase 0.5 0.8
 BinDeps
 @osx Homebrew
