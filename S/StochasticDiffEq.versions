@@ -559,7 +559,7 @@ StaticArrays
 Reexport
 RandomNumbers
 MuladdMacro
-DiffEqDiffTools 0.1.0
+DiffEqDiffTools 0.1.0 0.2.0
 
 2.17.0
 ------
@@ -579,7 +579,7 @@ StaticArrays
 Reexport
 RandomNumbers
 MuladdMacro
-DiffEqDiffTools 0.1.0
+DiffEqDiffTools 0.1.0 0.2.0
 
 2.2.0
 -----
