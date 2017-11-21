@@ -241,3 +241,15 @@ DiffRules 0.0.1
 NaNMath 0.2.2
 SpecialFunctions 0.1.0
 CommonSubexpressions 0.0.1
+
+0.7.0
+-----
+49292ee6fccac514d0f532a7b98e62d5b8c47dfb
+julia 0.6.0
+Compat 0.31.0
+StaticArrays 0.5.0
+DiffResults 0.0.1
+DiffRules 0.0.1
+NaNMath 0.2.2
+SpecialFunctions 0.1.0
+CommonSubexpressions 0.0.1
