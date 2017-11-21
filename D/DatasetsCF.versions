@@ -1,0 +1,10 @@
+https://github.com/JuliaRecsys/DatasetsCF.jl.git
+
+0.2.0
+-----
+00283dab4e442a3b0174c0bb20baa9b33965f847
+julia 0.6
+Persa
+MLBase
+DataFrames
+BinDeps
