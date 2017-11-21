@@ -12,6 +12,12 @@ MacroTools
 julia 0.6
 MacroTools
 
+0.1.10
+------
+ec55bcf9bc1cd24ba84b28743e10953795f1d90d
+julia 0.6
+MacroTools 0.4
+
 0.1.2
 -----
 944a554855b3adda2a75b637066e929bc2644fa0
