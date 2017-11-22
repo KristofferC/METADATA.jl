@@ -46,3 +46,11 @@ julia 0.5
 DiffEqBase 1.5.1
 Compat 0.17.0
 Reexport
+
+0.5.0
+-----
+d0bb3c8afe811f742bca478bd3aadcea661e39fb
+julia 0.5
+DiffEqBase 1.5.1
+Compat 0.17.0
+Reexport
