@@ -5,3 +5,9 @@ https://github.com/JuliaData/Missings.jl.git
 d4370da79eba2b18f1260f1e084eac3bf13d7f00
 julia 0.6
 Compat 0.31
+
+0.2.1
+-----
+c08d4bbdc27a8257694814bba26200fbc5d11b7f
+julia 0.6
+Compat 0.31
