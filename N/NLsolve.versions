@@ -86,6 +86,17 @@ Optim 0.0 0.5
 Calculus
 DualNumbers
 
+0.13.0
+------
+5f0c944943e861eed9c31264c13dc898481fb952
+julia 0.6.0
+Calculus
+Distances
+ForwardDiff 0.7.0
+LineSearches 2.1.0
+DiffBase
+NLSolversBase 2.1.0
+
 0.1.4
 -----
 acf07d94269fa9c343cf195771dfb4ed01012033
