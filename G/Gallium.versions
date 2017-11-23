@@ -50,3 +50,9 @@ ASTInterpreter
 AbstractTrees
 COFF
 CRC
+
+0.1.0
+-----
+d5da619a1c36a63917be37cc7608cb9b3154ba45
+julia 0.6
+ASTInterpreter2
