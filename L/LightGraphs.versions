@@ -94,6 +94,14 @@ DataStructures 0.3
 LightXML 0.1.10
 StatsBase 0.6 0.9.0
 
+0.11.1
+------
+ef6538fc0cde9cf2a1013e5e54a72e48487fc881
+julia 0.6
+CodecZlib 0.4
+DataStructures 0.7
+SimpleTraits 0.4.0
+
 0.1.12
 ------
 72fe35132959f41efb2a2b66b13886bb68681c27

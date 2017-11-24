@@ -19,6 +19,18 @@ Juno
 Hiccup
 @linux ImageMagick
 
+0.10.1
+------
+f4a77f298285b6f4b84a7b9057ec1570c7dd5015
+julia 0.6
+Compat 0.9.1
+Colors
+Cairo
+FileIO
+Juno
+Hiccup
+@linux ImageMagick
+
 0.2.0
 -----
 a0e8a4c5cdb6856eafe3f27d214bbf64b9d1de4c
