@@ -10,7 +10,7 @@ DataFrames 0.0.1 0.11.0
 bd491efc20c523b94441a31f2d883a5e520f1116
 julia 0.3
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 
 0.2.0
 -----

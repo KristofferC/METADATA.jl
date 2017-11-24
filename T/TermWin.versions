@@ -103,7 +103,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 
 0.0.24
@@ -113,7 +113,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 
 0.0.25
@@ -123,7 +123,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -134,7 +134,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -145,7 +145,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -156,7 +156,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -167,7 +167,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -182,7 +182,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 
@@ -193,7 +193,7 @@ Lint 0.1.60
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 DataFramesMeta
 Lazy

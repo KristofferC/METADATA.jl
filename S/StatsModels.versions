@@ -19,3 +19,13 @@ CategoricalArrays 0.0.6 0.2.0
 NullableArrays 0.0.10
 StatsBase 0.11.1
 Compat 0.9.2
+
+0.1.0
+-----
+85e3abde7aaf4cbe8cbed25616dd50739100be1e
+julia 0.6
+DataFrames 0.11
+CategoricalArrays 0.3.0
+Missings
+StatsBase 0.11.1
+Compat 0.9.2

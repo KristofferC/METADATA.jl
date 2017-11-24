@@ -6,6 +6,6 @@ c361fee6e13024372baa2ee9cabeffcc10109717
 julia 0.5
 LowRankModels
 LightGraphs
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 StatsBase

@@ -21,21 +21,21 @@ DataFrames 0.0.1 0.11.0
 -----
 46458c72f18c38a51b05e8688b3b8025c28e9182
 julia 0.2-
-DataArrays 0.0-
+DataArrays 0.0- 0.7.0
 DataFrames 0.0.1 0.11.0
 
 0.1.0
 -----
 895369038b359c42702d514d0bccdedf3b6d791d
 julia 0.2-
-DataArrays 0.1-
+DataArrays 0.1- 0.7.0
 DataFrames 0.0.1 0.11.0
 
 0.1.1
 -----
 75fb2ce8580feda6971593f2124a19564b5d9379
 julia 0.2-
-DataArrays
+DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
 
 0.1.2

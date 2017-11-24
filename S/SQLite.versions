@@ -11,14 +11,14 @@ julia 0.2- 0.4
 ea203134508e7fb46f37538098330675c8785bf4
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 
 0.1.2
 -----
 6d7b15860aa1ee3725cdd2a9c1f113ea9a9504a2
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 BinDeps
 
 0.1.3
@@ -26,7 +26,7 @@ BinDeps
 b417021503fb34c37ac3c8b31f608bcb96e19602
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 BinDeps
 @osx Homebrew
 @windows WinRPM
@@ -36,7 +36,7 @@ BinDeps
 3342a60eceada1cc2d3406ce7c258e4f2028fd85
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 BinDeps
 @osx Homebrew
 @windows WinRPM
@@ -46,7 +46,7 @@ BinDeps
 08267a97c6608dc3bd6009fe5ccb709f3d492da1
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 BinDeps
 @osx Homebrew
 @windows WinRPM
@@ -56,7 +56,7 @@ BinDeps
 cd5970384f4a4a72c27d360d789132a41ab3b564
 julia 0.2- 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 BinDeps
 @osx Homebrew
 @windows WinRPM

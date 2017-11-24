@@ -76,7 +76,7 @@ CategoricalArrays 0.0.6 0.2.0
 DataFrames 0.0.1 0.11.0
 DataStreams 0.1.0 0.2.0
 WeakRefStrings 0.1.3 0.3.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 
 0.2.2
 -----
@@ -88,7 +88,7 @@ CategoricalArrays 0.0.6 0.2.0
 DataFrames 0.0.1 0.11.0
 DataStreams 0.1.0 0.2.0
 WeakRefStrings 0.1.3 0.3.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 
 0.2.3
 -----
@@ -100,7 +100,7 @@ CategoricalArrays 0.0.6 0.2.0
 DataFrames 0.0.1 0.11.0
 DataStreams 0.1.0 0.2.0
 WeakRefStrings 0.1.3 0.3.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 
 0.2.5
 -----
@@ -112,4 +112,4 @@ CategoricalArrays 0.0.6 0.2.0
 DataFrames 0.0.1 0.11.0
 DataStreams 0.1.0 0.2.0
 WeakRefStrings 0.1.3 0.3.0
-DataArrays
+DataArrays 0.0.1 0.7.0

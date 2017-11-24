@@ -435,3 +435,12 @@ julia 0.6
 StatsBase 0.15.0
 Reexport
 SpecialFunctions
+
+0.7.0
+-----
+e8fe4f25727dad1f7155c784621bbc50737bb064
+julia 0.6
+Missings 0.2.1
+StatsBase 0.15.0
+Reexport
+SpecialFunctions

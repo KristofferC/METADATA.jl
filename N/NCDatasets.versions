@@ -4,7 +4,7 @@ https://github.com/Alexander-Barth/NCDatasets.jl.git
 -----
 4d80495834765ffb01ad312273567f1f331186db
 julia 0.6
-DataArrays 0.5
+DataArrays 0.5 0.7.0
 BinDeps 0.4
 Conda 0.3
 
@@ -12,7 +12,7 @@ Conda 0.3
 -----
 c574408d734d3f6b77ab0a2dda9a5bf650f32d21
 julia 0.6
-DataArrays 0.5
+DataArrays 0.5 0.7.0
 BinDeps 0.4
 Conda 0.3
 
@@ -20,7 +20,7 @@ Conda 0.3
 -----
 66a6dac99eecdf19e39cae9dfcd0a09e8a1ea314
 julia 0.6
-DataArrays 0.5
+DataArrays 0.5 0.7.0
 BinDeps 0.4
 Conda 0.3
 
@@ -28,7 +28,7 @@ Conda 0.3
 -----
 899297f3fe686a9407f6039fe7ee54a9115bdca6
 julia 0.6
-DataArrays 0.5
+DataArrays 0.5 0.7.0
 BinDeps 0.4
 Conda 0.3
 
@@ -36,6 +36,6 @@ Conda 0.3
 -----
 a5e4553d8c6bae2927bf47770c8d989270929f31
 julia 0.6
-DataArrays 0.5
+DataArrays 0.5 0.7.0
 BinDeps 0.4
 Conda 0.3

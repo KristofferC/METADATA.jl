@@ -4,7 +4,7 @@ https://github.com/WizardMac/ReadStat.jl.git
 -----
 429ddf8264da159d5cabdf412c9ddb96135cc19f
 julia 0.5
-DataArrays
+DataArrays 0.0.1 0.7.0
 NullableArrays
 DataFrames 0.0.1 0.11.0
 DataTables
@@ -15,7 +15,7 @@ BinDeps
 -----
 dd32c71ea37401d46f497ab3f89d201216babb1b
 julia 0.5
-DataArrays
+DataArrays 0.0.1 0.7.0
 NullableArrays
 DataFrames 0.0.1 0.11.0
 DataTables

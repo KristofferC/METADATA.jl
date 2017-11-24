@@ -8,7 +8,7 @@ git://github.com/sisl/Discretizers.jl.git
 -----
 2c3f5c8420d3460f4ae52d276a85897455c44565
 julia 0.3
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 Compat
 Lint
 
@@ -16,7 +16,7 @@ Lint
 -----
 f906770b1403228a75ff0af3a62f06cdc5af87c8
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 Compat
 Lint
 
@@ -24,7 +24,7 @@ Lint
 -----
 e5c8e79701cde5beb86dca1d60c3ec00a06d7130
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 Compat
 Lint
 
@@ -32,7 +32,7 @@ Lint
 -----
 e9fb57d0d155a1b9ce505b0ed5760077b3f2e229
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 Compat
 Lint
 
@@ -40,7 +40,7 @@ Lint
 -----
 86642958566785956e216d469ee2ba8e77005113
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 Compat
 Lint
 
@@ -48,7 +48,7 @@ Lint
 -----
 ccf7f5b453d0d1aa42b7a9754d394e0aab138d49
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 StatsBase
 Compat
 Lint
@@ -57,7 +57,7 @@ Lint
 -----
 728a1281c1c2ab4997983dc7eb49ede6dab8725a
 julia 0.4
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 StatsBase 0.8.0
 Compat 0.8.0
 
@@ -65,7 +65,7 @@ Compat 0.8.0
 -----
 476bd074d12233baad9d87a4f63afeb7019b5766
 julia 0.5
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 StatsBase 0.8.0
 Compat 0.8.0
 DataStructures
@@ -74,7 +74,7 @@ DataStructures
 -----
 f983998c7ae579030a5815f902505af8595628c7
 julia 0.5
-DataArrays 0.2.10
+DataArrays 0.2.10 0.7.0
 StatsBase 0.8.0
 Compat 0.8.0
 DataStructures 0.5.0

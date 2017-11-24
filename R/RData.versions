@@ -5,7 +5,7 @@ https://github.com/JuliaStats/RData.jl.git
 2ff1091a9217a2d9b0764a515fab4525ae085ac8
 julia 0.4
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 FileIO
 GZip
 Compat
@@ -15,7 +15,7 @@ Compat
 3034b379d8a689e3172e7e7224b0a4914255cb18
 julia 0.4
 DataFrames 0.7 0.11.0
-DataArrays 0.3
+DataArrays 0.3 0.7.0
 FileIO 0.1
 GZip 0.2
 Compat 0.8
@@ -25,7 +25,7 @@ Compat 0.8
 006766516c2055bd462b42140d515f7547192afa
 julia 0.4
 DataFrames 0.7 0.11.0
-DataArrays 0.3
+DataArrays 0.3 0.7.0
 FileIO 0.1
 GZip 0.2
 Compat 0.8
@@ -35,7 +35,7 @@ Compat 0.8
 dbb27b8ddde5f320283ea5ed5cb97195db20d856
 julia 0.4
 DataFrames 0.7 0.11.0
-DataArrays 0.3
+DataArrays 0.3 0.7.0
 FileIO 0.1.2
 GZip 0.2
 Compat 0.8
@@ -45,7 +45,7 @@ Compat 0.8
 54d3385e575828c176d3c091f410f29c89077666
 julia 0.5
 DataFrames 0.7 0.11.0
-DataArrays 0.3
+DataArrays 0.3 0.7.0
 FileIO 0.1.2
 GZip 0.2
 Compat 0.17
@@ -55,6 +55,6 @@ Compat 0.17
 ebc1335252cf790e552f9310c2473df2822ad14b
 julia 0.6
 DataFrames 0.9 0.11.0
-DataArrays 0.4
+DataArrays 0.4 0.7.0
 FileIO 0.1.2
 CodecZlib 0.4

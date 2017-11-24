@@ -58,7 +58,7 @@ b314631195a5ab269f2cf2fe4a9e9c70a39b45ff
 julia 0.4
 JavaCall
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 Compat
 
 0.4.0
@@ -67,7 +67,7 @@ Compat
 julia 0.4
 JavaCall
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 Compat 0.8
 
 0.5.0
@@ -76,5 +76,5 @@ f29e3513996bab4e4e1bf6a5c708a36aee9cec2c
 julia 0.5
 JavaCall
 DataFrames 0.0.1 0.11.0
-DataArrays
+DataArrays 0.0.1 0.7.0
 Compat 0.8
