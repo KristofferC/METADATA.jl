@@ -4,7 +4,7 @@ git://github.com/madeleineudell/LowRankModels.jl.git
 -----
 f6e92c116f694803823575694417fa6ff8fd8131
 julia 0.3-
-DataFrames
+DataFrames 0.0.1 0.11.0
 ArrayViews
 Optim 0.0 0.5
 
@@ -12,7 +12,7 @@ Optim 0.0 0.5
 -----
 3ef14d97b65452e65bd82db1e11640670c611625
 julia 0.3-
-DataFrames
+DataFrames 0.0.1 0.11.0
 ArrayViews
 Optim 0.0 0.5
 Compat
@@ -21,7 +21,7 @@ Compat
 -----
 5e08e34287bd223e462901661dc41e3c699329db
 julia 0.3-
-DataFrames
+DataFrames 0.0.1 0.11.0
 StatsBase
 ArrayViews
 Optim 0.0 0.5
@@ -32,7 +32,7 @@ Compat
 -----
 ddc40abd2b292eb993d0cf29b820d25ca66b9248
 julia 0.3
-DataFrames
+DataFrames 0.0.1 0.11.0
 StatsBase
 ArrayViews
 Optim 0.0 0.5
@@ -44,7 +44,7 @@ Compat
 -----
 499726aa4095dea61cb6cc2ed82d15351bf3ffd1
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 StatsBase
 ArrayViews
 Optim 0.0 0.5
@@ -56,7 +56,7 @@ Compat
 -----
 2e2191092e4bb6737e29ca953e9bf4280d245f9a
 julia 0.5
-DataFrames 0.8
+DataFrames 0.8 0.11.0
 StatsBase 0.10
 ArrayViews 0.6
 Optim 0.6

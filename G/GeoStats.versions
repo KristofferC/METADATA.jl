@@ -131,7 +131,7 @@ ef6c5637422ec0460b493530c8a0ab3aaff0f574
 julia 0.6
 Reexport
 GeoStatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 Combinatorics
 SpecialFunctions
 Parameters
@@ -144,7 +144,7 @@ fcf32635d40d82d8436654920b6634a83ecba78e
 julia 0.6
 Reexport
 GeoStatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 Combinatorics
 SpecialFunctions
 Parameters

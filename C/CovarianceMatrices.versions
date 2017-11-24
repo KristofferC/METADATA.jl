@@ -6,7 +6,7 @@ git://github.com/gragusa/CovarianceMatrices.jl.git
 julia 0.3-
 StatsBase 0.6.10-
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.2
 -----
@@ -14,7 +14,7 @@ DataFrames
 julia 0.3
 StatsBase 0.6.10
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.0.3
@@ -23,7 +23,7 @@ Compat
 julia 0.3
 StatsBase 
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.0.4
@@ -32,7 +32,7 @@ Compat
 julia 0.3
 StatsBase 
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.0.5
@@ -41,7 +41,7 @@ Compat
 julia 0.3
 StatsBase 
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.1.0
@@ -50,7 +50,7 @@ Compat
 julia 0.4
 StatsBase 
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.1.1
@@ -59,7 +59,7 @@ Compat
 julia 0.4
 StatsBase 
 GLM
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 
 0.1.2
@@ -68,7 +68,7 @@ Compat
 julia 0.4 0.5
 StatsBase 
 GLM 0.5.5
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat 0.8.4
 
 0.2.0
@@ -77,7 +77,7 @@ Compat 0.8.4
 julia 0.5
 StatsBase 
 GLM 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.1
 -----
@@ -85,7 +85,7 @@ d13d20a255615a8b43e3850fb37b6b8af9a75e90
 julia 0.5
 StatsBase 
 GLM 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.2
 -----
@@ -93,7 +93,7 @@ DataFrames
 julia 0.5
 StatsBase 
 GLM 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.3.1
 -----
@@ -101,4 +101,4 @@ DataFrames
 julia 0.6.0-pre
 StatsBase 
 GLM 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0

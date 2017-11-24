@@ -3,7 +3,7 @@ git://github.com/JuliaStats/GLM.jl.git
 0.0.0
 -----
 aefc6c1c616f784ddec920ea07ee6e3ab712bb50
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 StatsBase 0.0.0 0.8.3
 
@@ -11,7 +11,7 @@ StatsBase 0.0.0 0.8.3
 -----
 d4e951dbfce965fa4a8dca4897fd6eadbacf40ab
 julia 0.2-
-DataFrames 0.3.6-
+DataFrames 0.3.6- 0.11.0
 Distributions 0.2.0-
 NumericExtensions 0.2.12-
 StatsBase 0.0.0 0.8.3
@@ -20,7 +20,7 @@ StatsBase 0.0.0 0.8.3
 -----
 0258f520324f16a02f5578fa50eb9479faa11ee8
 julia 0.2-
-DataFrames 0.3.6-
+DataFrames 0.3.6- 0.11.0
 Distributions 0.2.0-
 NumericExtensions 0.2.17-
 StatsBase 0.0.0 0.8.3
@@ -29,7 +29,7 @@ StatsBase 0.0.0 0.8.3
 -----
 f6d420b40749199df514c78985349c77f5a9aada
 julia 0.2-
-DataFrames 0.3.6-
+DataFrames 0.3.6- 0.11.0
 Distributions 0.2.0-
 NumericExtensions 0.2.17-
 StatsBase 0.0.0 0.8.3
@@ -65,7 +65,7 @@ StatsBase 0.2.10- 0.8.3
 -----
 583e747419f5d5c49f1174ffb0c17bcffc536c1e
 julia 0.3-
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions 0.4-
 NumericExtensions 0.5-
 StatsBase 0.3.7- 0.8.3
@@ -74,7 +74,7 @@ StatsBase 0.3.7- 0.8.3
 -----
 939bd42ee8257ef317d63d6448f44b4fc8c45b99
 julia 0.3-
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions 0.4-
 NumericExtensions 0.6-
 NumericFuns 0.2.1-
@@ -84,7 +84,7 @@ StatsBase 0.3.7- 0.8.3
 -----
 44131fbda5a6cfc87c962045f1d06d2d9887299e
 julia 0.3-
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions 0.4-
 NumericExtensions 0.6-
 NumericFuns 0.2.1-

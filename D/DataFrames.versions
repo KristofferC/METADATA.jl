@@ -37,6 +37,19 @@ Reexport
 Compat 0.18.0
 FileIO 0.1.2
 
+0.11.0
+------
+7cc19d5bf44b603f1f6f3eedea1491ef36ff923f
+julia 0.6
+Missings 0.2.1
+CategoricalArrays 0.3.0
+StatsBase 0.11.0
+SortingAlgorithms
+Reexport
+WeakRefStrings 0.4.0
+DataStreams 0.3.0
+GZip
+
 0.2.0
 -----
 b5f0fe945459e268939c653dfceafac5c13d393d

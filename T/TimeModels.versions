@@ -4,7 +4,7 @@ git://github.com/JuliaStats/TimeModels.jl.git
 -----
 e093c27f7458db9a26e71d06ddb58f8237b72bb7
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 Calendar
 UTF16
 TimeSeries
@@ -13,7 +13,7 @@ TimeSeries
 -----
 8a9e91fbf40c00e3dc16cea42f23ddc3c4438ed5
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 TimeSeries
 Winston

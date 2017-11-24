@@ -5,14 +5,14 @@ https://github.com/ClarusFinancialTechnology/Clarus.jl.git
 57524ebb89be5d55c736d4a0cfe3b81bc62d11f8
 julia 0.6
 Requests 0.5
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.5
 -----
 d5448b26639cd0f2a3108dcad5935365e14f8421
 julia 0.6
 Requests 0.5
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 CSV 0.1
 
 0.0.6
@@ -20,7 +20,7 @@ CSV 0.1
 ac65250aca7d94900f952ea470d31a518bec0c62
 julia 0.6
 Requests 0.5
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 CSV 0.1
 
 0.1.1
@@ -28,7 +28,7 @@ CSV 0.1
 63f7217fe0fc38632b414f904ff53dfe50efe066
 julia 0.6
 Requests 0.5
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 CSV 0.1
 
 0.1.2
@@ -36,5 +36,5 @@ CSV 0.1
 17b58b36d6d8df12a4d88a974b0cf807ddb70ee4
 julia 0.6
 Requests 0.5
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 CSV 0.1

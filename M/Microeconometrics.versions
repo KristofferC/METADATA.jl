@@ -4,7 +4,7 @@ https://github.com/lbittarello/Microeconometrics.jl.git
 -----
 2314e89c82735418f679f13c339e047f96fef421
 julia 0.6.0-pre
-DataFrames 0.10.0
+DataFrames 0.10.0 0.11.0
 StatsBase 0.16.0
 StatsFuns 0.5.0
 Optim 0.9.1
@@ -14,7 +14,7 @@ Formatting 0.2.1
 -----
 09a05b9986e351211ba77292a5f99b2cc8bc7316
 julia 0.6.0-pre
-DataFrames 0.10.0
+DataFrames 0.10.0 0.11.0
 StatsBase 0.16.0
 StatsFuns 0.5.0
 Optim 0.9.1
@@ -24,7 +24,7 @@ Formatting 0.2.1
 -----
 d719790950e4edcc1690a720fc338ec71d677b1b
 julia 0.6.0-pre
-DataFrames 0.10.0
+DataFrames 0.10.0 0.11.0
 StatsBase 0.16.0
 StatsFuns 0.5.0
 Optim 0.9.1

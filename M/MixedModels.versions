@@ -18,7 +18,7 @@ CategoricalArrays 0.0.1 0.2.0
 Compat 0.19.0
 DataArrays
 DataStructures
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -34,7 +34,7 @@ julia 0.6
 ArgCheck
 BlockArrays
 DataArrays
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 Distributions 0.11
 GLM 0.7
 NamedArrays
@@ -50,7 +50,7 @@ julia 0.6
 ArgCheck
 BlockArrays
 DataArrays
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 Distributions 0.11
 GLM 0.7
 NamedArrays
@@ -104,7 +104,7 @@ StatsBase 0 0.8.0
 30b681556483c1ce227a32ea29a7f552a4d05cdd
 julia 0.3- 0.6
 NLopt 0.0.3-
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 NumericExtensions 0.6-
 NumericFuns 0.2-
 StatsBase 0 0.8.0
@@ -113,7 +113,7 @@ StatsBase 0 0.8.0
 ------
 ea1c0045250a5ea105898b9b9ab9a63d2bc8190d
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -123,7 +123,7 @@ StatsBase 0 0.8.0
 ------
 4c290aa062c42023764536acd8b498acc3279521
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -133,7 +133,7 @@ StatsBase 0 0.8.0
 ------
 f4c55935a64e443feec7f3940f6af626108a19a3
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -143,7 +143,7 @@ StatsBase 0 0.8.0
 ------
 2859a2e84e1a8c34acd4de40a95c1cf9f0eb93d2
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -153,7 +153,7 @@ StatsBase 0 0.8.0
 ------
 dfc20e6bef58573399f998535d7127609d93a29d
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -163,7 +163,7 @@ StatsBase 0 0.8.0
 ------
 08933fb9a7ee50f1406d3593780faa5848d8db19
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -173,7 +173,7 @@ StatsBase 0 0.8.0
 ------
 695bdff24be10d258704c6b687ed2a7a0dafcd4b
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -183,7 +183,7 @@ StatsBase 0 0.8.0
 ------
 1b8bc3bfc6094d5d9b64c61b34fe437b518cd1c5
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -193,7 +193,7 @@ StatsBase 0 0.8.0
 ------
 a699033e09d15e385f93327f9c418cd8e5c227fb
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -203,7 +203,7 @@ StatsBase 0 0.8.0
 -----
 cd738c4601b3e691e59d8284dd5693a3081382c8
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 NLopt 0.0.3-
 NumericExtensions 0.6-
 NumericFuns 0.2-
@@ -213,7 +213,7 @@ StatsBase 0 0.8.0
 ------
 e6286b75ed6905b019b673df5b7a7580de8baa8f
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.1-
 PDMats 0.2.3-
@@ -224,7 +224,7 @@ StatsBase 0 0.8.0
 7d30ba9bbf1b80442a0c8e0d6d56f460dd615e45
 julia 0.3- 0.6
 Compat
-DataFrames 0.6-
+DataFrames 0.6- 0.11.0
 Distributions 0.6-
 Docile 0.4-
 NLopt 0.2-
@@ -237,7 +237,7 @@ StatsBase 0 0.8.0
 4274319047192716ba05f2014661c6860f3cb3a1
 julia 0.3- 0.6
 Compat
-DataFrames 0.6-
+DataFrames 0.6- 0.11.0
 Distributions 0.6-
 Docile 0.4-
 NLopt 0.2-
@@ -249,7 +249,7 @@ StatsBase 0 0.8.0
 -----
 f6cd758135fe889d4f9f4771821f9615b1bec91e
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -260,7 +260,7 @@ StatsBase 0 0.8.0
 -----
 b568f0f6eb447483b92b564cdee370f1742f67e6
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -271,7 +271,7 @@ StatsBase 0 0.8.0
 -----
 3bcc2479137b363786a8cf060a7c8f74922c310a
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -282,7 +282,7 @@ StatsBase 0 0.8.0
 -----
 3e9abeb654547da528490513bada67f52e757472
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -293,7 +293,7 @@ StatsBase 0 0.8.0
 -----
 540c929f221ecbeda59503933f0a40f40d35d53c
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -304,7 +304,7 @@ StatsBase 0 0.8.0
 -----
 039ba426199dbff142a05084cbea26743271737d
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -316,7 +316,7 @@ StatsBase 0 0.8.0
 -----
 b925f6f2df35ba112c4a1d95e43aa07d51eb7f0c
 julia 0.3- 0.6
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 Distributions
 NLopt 0.0.3-
 NumericExtensions 0.6-
@@ -328,7 +328,7 @@ StatsBase 0 0.8.0
 -----
 059fa5ae969fd64bcab4e74af81d24553088bd82
 julia 0.4- 0.6
-DataFrames 0.6+
+DataFrames 0.6+ 0.11.0
 Distributions 0.6+
 NLopt 0.2+
 Showoff
@@ -338,7 +338,7 @@ StatsBase 0 0.8.0
 -----
 4b78f2a5f653a855d408e476c57d7ce747e2a289
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 NLopt 0.2
 Showoff
@@ -349,7 +349,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 1b6ff9a3d0abf0a61a6812c44a4dbcb14b36fa48
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 NLopt 0.2
 Showoff
@@ -360,7 +360,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 3f49d673a0f83247117776ea051739c7b3c6587c
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 NLopt 0.2
 Showoff
@@ -371,7 +371,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 34f508b5e295d4bd36ea8a4ac4331c7ed1df3abd
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 NLopt 0.2
 Showoff
@@ -382,7 +382,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 6eda39ccd39126f4b813b8f83178708c981179ce
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 NLopt 0.2
 Showoff
@@ -393,7 +393,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 cb03fa312403b1010b4e59cec0e81501c6a43a22
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 GLM 0.5
 NLopt 0.2
@@ -405,7 +405,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 95871af4e17226dbde002bc95886e2a6e45655ae
 julia 0.4
-DataFrames 0.6
+DataFrames 0.6 0.11.0
 Distributions 0.8
 GLM 0.5
 NLopt 0.2
@@ -417,7 +417,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 fe81c549d37931543d09cb45a8daeeb20b1f4085
 julia 0.4
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 Distributions 0.8
 GLM 0.5
 NLopt 0.3
@@ -431,7 +431,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 8c70796d2566e1a8ffd8705b25db1c3acaa98b6c
 julia 0.4
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 Distributions 0.8
 GLM 0.5
 NLopt 0.3
@@ -445,7 +445,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 bb177dee01a1760b4d05b3d8c84a870787b3a1d9
 julia 0.4
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 Distributions 0.8
 GLM 0.5.2
 NLopt 0.3
@@ -460,7 +460,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 ec6c32b80b2e4ad43a95b3225802b10fcf9dcb29
 julia 0.4
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 Distributions 0.8
 GLM 0.5.2
 NLopt 0.3
@@ -475,7 +475,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 8251b5d0e9c949ae2f7f148800c71e01d6a42299
 julia 0.4
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 Distributions 0.8
 GLM 0.5.2
 NLopt 0.3
@@ -490,7 +490,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 ab841caffba6f307adde8f52fb931c522ce031e4
 julia 0.4
-DataFrames 0.8
+DataFrames 0.8 0.11.0
 Distributions 0.10
 GLM 0.5.2
 NLopt 0.3
@@ -505,7 +505,7 @@ CategoricalArrays 0.0.1 0.2.0
 -----
 3a1e7b49159bf4ba714ed484add509fa8c37676f
 julia 0.4
-DataFrames 0.8
+DataFrames 0.8 0.11.0
 Distributions 0.10
 GLM 0.5.2
 NLopt 0.3
@@ -521,7 +521,7 @@ CategoricalArrays 0.0.1 0.2.0
 44b78b528247cadf094ed0b588c83dcad576ae39
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6
 NamedArrays
@@ -537,7 +537,7 @@ NullableArrays
 b3bc8c08cf5f7e5390f9aa917ba373003beb1aec
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6
 NamedArrays
@@ -553,7 +553,7 @@ NullableArrays
 80cb318054809176fba06a953de133022255176f
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -569,7 +569,7 @@ NullableArrays
 9a2686c28340ba4e7d1c81a2b4fea15770bf4a0f
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -585,7 +585,7 @@ NullableArrays
 5808da9da37a733f870e7cb5b5c6914e73473d37
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -601,7 +601,7 @@ NullableArrays
 c354b51691fe1569bd1c1cf31c9262b65486f8ee
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -617,7 +617,7 @@ NullableArrays
 41b79c59f1197b2fb882753ec65bae7186f8c3eb
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -633,7 +633,7 @@ NullableArrays
 d88408afa9145b8ad05faf47ddeadd9f60e066d2
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -649,7 +649,7 @@ NullableArrays
 6d2cc9a03ec942e371f87de3cfc67e8e73ebb1b5
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -665,7 +665,7 @@ NullableArrays
 1cdc683ddec2e64dc106a974bd881938ffc7d8c8
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -681,7 +681,7 @@ NullableArrays
 ec01fdfb610e1761463b7682b1bb31887e635fe9
 julia 0.5
 DataArrays
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -701,7 +701,7 @@ CategoricalArrays 0.0.1 0.2.0
 Compat 0.19.0
 DataArrays
 DataStructures
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays
@@ -720,7 +720,7 @@ CategoricalArrays 0.0.1 0.2.0
 Compat 0.19.0
 DataArrays
 DataStructures
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 Distributions 0.11
 GLM 0.6.1
 NamedArrays

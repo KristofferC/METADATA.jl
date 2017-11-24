@@ -7,7 +7,7 @@ julia 0.0- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -20,7 +20,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -33,7 +33,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -46,7 +46,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -59,7 +59,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -72,7 +72,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -86,7 +86,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -100,7 +100,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -114,7 +114,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -128,7 +128,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -142,7 +142,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -157,7 +157,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 JSON
 Loess
@@ -170,7 +170,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -185,7 +185,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -198,7 +198,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -213,7 +213,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -228,7 +228,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -243,7 +243,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -258,7 +258,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -273,7 +273,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -288,7 +288,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -303,7 +303,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -318,7 +318,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -333,7 +333,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Iterators
@@ -348,7 +348,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -361,7 +361,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -377,7 +377,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -394,7 +394,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -407,7 +407,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -420,7 +420,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -433,7 +433,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -446,7 +446,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -459,7 +459,7 @@ julia 0.2- 0.5
 ArgParse
 Codecs
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 Iterators
 JSON
@@ -472,7 +472,7 @@ julia 0.3- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -489,7 +489,7 @@ julia 0.3- 0.5
 Codecs
 Color
 Compose
-DataFrames
+DataFrames 0.0.1 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -506,7 +506,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -523,7 +523,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -540,7 +540,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -557,7 +557,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -574,7 +574,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -591,7 +591,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 Datetime
 Distributions
 Hexagons
@@ -608,7 +608,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -626,7 +626,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -644,7 +644,7 @@ julia 0.2- 0.5
 Codecs
 Color
 Compose 0.3.0
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -663,7 +663,7 @@ Codecs
 Color
 Contour 0.0.0 0.2-
 Compose 0.3.0
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -682,7 +682,7 @@ Color 0.3.4
 Compat
 Compose 0.3.10
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -703,7 +703,7 @@ Color 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -724,7 +724,7 @@ Color 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -745,7 +745,7 @@ Color 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -766,7 +766,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -787,7 +787,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -808,7 +808,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -829,7 +829,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -850,7 +850,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -870,7 +870,7 @@ Codecs
 Color
 Contour 0.0.0 0.2-
 Compose 0.3.0
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -888,7 +888,7 @@ Codecs
 Color
 Contour 0.0.0 0.2-
 Compose 0.3.0
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -906,7 +906,7 @@ Codecs
 Color
 Compose 0.3.0
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -925,7 +925,7 @@ Codecs
 Color
 Compose 0.3.0
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -944,7 +944,7 @@ Codecs
 Color
 Compose 0.3.6
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -963,7 +963,7 @@ Codecs
 Color 0.3.4
 Compose 0.3.7
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -982,7 +982,7 @@ Codecs
 Color 0.3.4
 Compose 0.3.8
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Datetime
 Distributions
@@ -1001,7 +1001,7 @@ Codecs
 Color 0.3.4
 Compose 0.3.9
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -1022,7 +1022,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -1043,7 +1043,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -1064,7 +1064,7 @@ Colors 0.3.4
 Compat
 Compose 0.3.11
 Contour 0.0.0 0.2-
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Dates
 Distributions
@@ -1085,7 +1085,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1105,7 +1105,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1124,7 +1124,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1144,7 +1144,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1164,7 +1164,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1184,7 +1184,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1204,7 +1204,7 @@ Colors 0.3.4
 Compat 0.8.5
 Compose 0.4.4
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1224,7 +1224,7 @@ Colors 0.3.4
 Compat 0.18.0
 Compose 0.5
 Contour 0.1.1
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1245,7 +1245,7 @@ Compat 0.18.0
 Compose 0.5.1
 Contour 0.1.1
 CoupledFields
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataStructures
 Distributions
 Hexagons
@@ -1266,7 +1266,7 @@ Compat 0.18.0
 Compose 0.5.2
 Contour 0.1.1
 CoupledFields
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataArrays
 DataStructures
 Distributions
@@ -1288,7 +1288,7 @@ Compat 0.18.0
 Compose 0.5.2
 Contour 0.1.1
 CoupledFields
-DataFrames 0.4.2
+DataFrames 0.4.2 0.11.0
 DataArrays
 DataStructures
 Distributions

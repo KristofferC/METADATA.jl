@@ -21,25 +21,25 @@ YAML
 17bf37d2f90173f081cab19ab00cad0f08e7b59d
 julia 0.2-
 YAML
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.0
 -----
 8956082b24972ba0f10c94ed14cddd2a8b636fdf
 julia 0.3-
 YAML
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.3.0
 -----
 2530372a9c7fe1cb134c1c93cb01025956ef3b20
 julia 0.3-
 YAML
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.4.0
 -----
 7a62f8bffe8aebe5998f01944d74d4f1968e5548
 julia 0.4
 YAML
-DataFrames
+DataFrames 0.0.1 0.11.0

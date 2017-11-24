@@ -6,7 +6,7 @@ dc8e829603a62c953033d796b2b74709a25ade0d
 julia 0.4
 Distributions
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -17,4 +17,4 @@ julia 0.4
 Compat 0.8.6
 Distributions
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0

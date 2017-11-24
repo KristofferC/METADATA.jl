@@ -22,6 +22,6 @@ JWAS 0.0 0.2
 -----
 45e913ec7fbca4a5e46151f9521f6534767df74c
 julia 0.4 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 JWAS 0.1- 0.2

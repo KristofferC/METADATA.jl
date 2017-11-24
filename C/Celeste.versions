@@ -5,7 +5,7 @@ git://github.com/jeff-regier/Celeste.jl.git
 c89f80bcb253b657963bb03dc63ad9956b72f836
 julia 0.4 0.6
 Compat
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 DocOpt
 ForwardDiff 0.0 0.2
@@ -20,7 +20,7 @@ SloanDigitalSkySurvey 0.1.0
 -----
 eb94769f0ac08ac7f295d27d152ca1a1ddc96733
 julia 0.5- 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 DocOpt
 Dtree
@@ -35,7 +35,7 @@ StaticArrays
 -----
 59b2f51518750a490ab6eb78cc8996565ac6a0be
 julia 0.5- 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 Distributions
 FITSIO 0.8.4
 ForwardDiff 0.2
@@ -49,7 +49,7 @@ StaticArrays
 1d88b038aad438d17afa2f3e1e164a211d20eee3
 julia 0.6-
 Compat 0.18.0
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures 0.5.2
 Distributions
 FITSIO 0.8.4
@@ -67,7 +67,7 @@ bd525cf5e6042640ef5c8a3c5bb122f5a6caf027
 julia 0.6
 BinDeps
 Compat 0.18.0
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures 0.7.0
 Distributions
 FITSIO 0.11.0

@@ -4,7 +4,7 @@ https://github.com/bramtayl/LazyQuery.jl.git
 -----
 e58692ea8e53e660ec67d18eb0f3d17feb780c1a
 julia 0.5
-DataFrames
+DataFrames 0.0.1 0.11.0
 MacroTools
 LazyContext 0.0.1 0.1.0
 Query 0.0.0 0.7.0
@@ -14,7 +14,7 @@ Query 0.0.0 0.7.0
 9df7ad86763b23a5083e92ff7c0821e41370d9e6
 julia 0.6
 LazyContext 0.1.1
-DataFrames
+DataFrames 0.0.1 0.11.0
 MacroTools 0.3.3
 Query 0.0.1 0.7.0
 NamedTuples
@@ -25,7 +25,7 @@ ChainRecursive 0.0.3
 f8e628861229f2ea5d0f6aa0bc005c3819c936b9
 julia 0.6
 LazyContext 0.1.2
-DataFrames
+DataFrames 0.0.1 0.11.0
 MacroTools 0.3.2
 Query 0.0.1 0.7.0
 NamedTuples
@@ -38,7 +38,7 @@ DataArrays
 4ea05a847bca0ae00a113bd50ac5c92e9e684a2f
 julia 0.6
 LazyContext 0.1.2
-DataFrames
+DataFrames 0.0.1 0.11.0
 MacroTools 0.3.2
 Query 0.0.0 0.8.0
 NamedTuples
@@ -51,7 +51,7 @@ DataArrays
 b1300d0f86fd19c61aa86a6a5b9c6a7e54b8aed1
 julia 0.6
 LazyContext 0.1.2
-DataFrames
+DataFrames 0.0.1 0.11.0
 MacroTools 0.3.2
 Query 0.0.0 0.8.0
 NamedTuples

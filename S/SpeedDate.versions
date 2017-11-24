@@ -15,14 +15,14 @@ julia 0.5
 Bio 0.4.3
 ArgParse 0.4
 Gtk 0.10.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.0
 -----
 2e04a6f098f386c931508c06a6b7f509c4fef44f
 julia 0.5
 Query
-DataFrames
+DataFrames 0.0.1 0.11.0
 Gadfly
 Bio 0.4.3
 ArgParse 0.4
@@ -32,7 +32,7 @@ Gtk 0.10.4
 -----
 578d4fcf294f22f3d0318739278a80b923703543
 julia 0.5
-DataFrames
+DataFrames 0.0.1 0.11.0
 Gadfly
 Bio 0.4.3
 ArgParse 0.4
@@ -42,7 +42,7 @@ Gtk 0.10.4
 -----
 011946be8d08114971ee9d939e63f137db9e604f
 julia 0.5
-DataFrames
+DataFrames 0.0.1 0.11.0
 Gadfly
 Bio 0.4.7
 ArgParse 0.4

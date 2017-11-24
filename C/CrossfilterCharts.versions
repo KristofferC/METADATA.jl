@@ -4,23 +4,23 @@ git://github.com/tawheeler/CrossfilterCharts.jl.git
 -----
 4d619bfb2998ad71a5e9e5de5e4c4613674121d9
 julia 0.4
-DataFrames 0.7.0
+DataFrames 0.7.0 0.11.0
 
 0.1.0
 -----
 7f18b54450bf4018c32c60a5fdc6e96ba9177e9a
 julia 0.4
-DataFrames 0.7.0
+DataFrames 0.7.0 0.11.0
 
 0.1.1
 -----
 f48192d530973eeb34f5f9f0cb7d5bbf4939c3d1
 julia 0.4
-DataFrames 0.7.0
+DataFrames 0.7.0 0.11.0
 Compat 0.8.0
 
 2.0.0
 -----
 1cbffdfc5824b3c7140fdac67f06b830b6124646
 julia 0.6
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0

@@ -3,7 +3,7 @@ git://github.com/JuliaArchive/Graphs.jl.git
 0.0.0
 -----
 8c1504f2e5321517659697e9ffbb9dd4867da76f
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.0
 -----

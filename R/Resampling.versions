@@ -4,4 +4,4 @@ git://github.com/johnmyleswhite/Resampling.jl.git
 -----
 c258f535c9ff85fc9e52134a5d8c0e5550515726
 julia 0.2 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0

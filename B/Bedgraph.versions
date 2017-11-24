@@ -4,10 +4,10 @@ https://github.com/CiaranOMara/Bedgraph.jl.git
 -----
 9a7fa29eed468d025a15365432cde811fd449207
 julia 0.6
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 
 0.1.1
 -----
 51e1a7958d9222fd3f2e80121c23eaa0e0173b13
 julia 0.6
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0

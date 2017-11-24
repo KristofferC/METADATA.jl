@@ -31,7 +31,7 @@ julia 0.5
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 
@@ -42,7 +42,7 @@ julia 0.6
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 TimerOutputs
@@ -57,7 +57,7 @@ julia 0.6
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 TimerOutputs
@@ -73,7 +73,7 @@ julia 0.6
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 TimerOutputs
@@ -89,7 +89,7 @@ julia 0.6
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 TimerOutputs
@@ -106,7 +106,7 @@ FEMBase
 ForwardDiff
 LightXML 0.4
 HDF5 0.7
-DataFrames
+DataFrames 0.0.1 0.11.0
 Formatting
 Logging
 TimerOutputs

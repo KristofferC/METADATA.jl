@@ -4,4 +4,4 @@ git://github.com/emoszkowski/EconModels.jl.git
 -----
 da8cf123089d9acb26e1879e27e68f786a25cf4a
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0

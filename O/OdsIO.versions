@@ -11,7 +11,7 @@ PyCall 1.7
 ed6657128cb192e50d2535994c6e2c3f0e0456bb
 julia 0.5
 PyCall 1.7
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 DataStructures 0.5.0
 
 0.1.1
@@ -19,7 +19,7 @@ DataStructures 0.5.0
 bc41d268459ba750a2c0775f259f308c6de135b7
 julia 0.5
 PyCall 1.7
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 DataStructures 0.5.0
 
 0.1.2
@@ -27,7 +27,7 @@ DataStructures 0.5.0
 7c161c183831497723b2e78c910e88e5976a3ea1
 julia 0.5
 PyCall 1.7
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 DataStructures 0.5.0
 
 0.2.0
@@ -35,5 +35,5 @@ DataStructures 0.5.0
 41294b6168a1958202e60cc45e17a06189355d9c
 julia 0.5
 PyCall 1.7
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 DataStructures 0.5.0

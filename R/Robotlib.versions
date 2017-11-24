@@ -5,7 +5,7 @@ git://github.com/baggepinnen/Robotlib.jl.git
 7b4895f65ac772b21c36ece001843d6d3f6fafdf
 julia 0.4
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 Plots
 StatsBase
@@ -17,7 +17,7 @@ PyPlot
 aa45504c8a4478112f2a0e6ecb88957e04fda643
 julia 0.4
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 Plots
 StatsBase
@@ -28,7 +28,7 @@ Quaternions
 0b15124fe4efe66f39c4d0caa5ff215517be12b3
 julia 0.5
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 RecipesBase
 Plots
@@ -41,7 +41,7 @@ FixedSizeArrays
 09ecba9eaee4519df5a2386c0b0368cf464183ec
 julia 0.6.0-pre
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 RecipesBase
 Plots
@@ -54,7 +54,7 @@ StaticArrays
 d1384f0cf990e5c14acc49c46c9c06d3fb919cad
 julia 0.6.0-pre
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 RecipesBase
 Plots
@@ -67,7 +67,7 @@ StaticArrays
 aa3d017ed9718d14176e2a4b5845a90672c18ea9
 julia 0.6.0
 MAT
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataArrays
 RecipesBase
 StatsBase

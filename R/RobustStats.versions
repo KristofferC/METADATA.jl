@@ -4,7 +4,7 @@ git://github.com/mrxiaohe/RobustStats.jl.git
 -----
 2667bc6020f38058570f493a961e28b598d47dd9
 julia 0.1 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Rmath
 StatsBase
 Distributions
@@ -15,7 +15,7 @@ GLM
 -----
 e1cb6d9d0fba718b1e496907971381c183148328
 julia 0.3- 0.4
-DataFrames 0.5-
+DataFrames 0.5- 0.11.0
 DataArrays
 Rmath
 StatsBase 0.3.7-

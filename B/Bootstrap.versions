@@ -33,7 +33,7 @@ julia 0.3-
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.1.1
@@ -43,7 +43,7 @@ julia 0.3-
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -54,7 +54,7 @@ julia 0.3
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -65,7 +65,7 @@ julia 0.3
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -76,7 +76,7 @@ julia 0.3
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -87,7 +87,7 @@ julia 0.3
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 
@@ -98,7 +98,7 @@ julia 0.3
 StatsBase
 Iterators
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 Lexicon
 Compat
@@ -109,7 +109,7 @@ Compat
 julia 0.4
 StatsBase
 Distributions
-DataFrames
+DataFrames 0.0.1 0.11.0
 FactCheck
 
 1.1.0
@@ -118,6 +118,6 @@ FactCheck
 julia 0.5
 StatsBase
 Distributions
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 FactCheck
 Compat 0.17.0

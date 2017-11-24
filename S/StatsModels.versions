@@ -4,7 +4,7 @@ https://github.com/JuliaStats/StatsModels.jl.git
 -----
 00d476123a491ac4b94ca3e2d6f20ba378339251
 julia 0.5
-DataFrames 0.8.3
+DataFrames 0.8.3 0.11.0
 CategoricalArrays 0.0.6 0.2.0
 NullableArrays 0.0.10
 StatsBase 0.11.1

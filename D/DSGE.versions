@@ -80,7 +80,7 @@ Roots
 e3347771c5bf9bc52ffee9ae886aff1edcdaa40d
 julia 0.4
 Calculus
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures
 Distributions
 FredData
@@ -96,7 +96,7 @@ StateSpaceRoutines
 62353c8861ad97c76b7561398614579f91c17501
 julia 0.5
 Calculus
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures
 Distributions
 FredData
@@ -112,7 +112,7 @@ StateSpaceRoutines
 0b2ce8552ed065c79fbd7ec67c5e12ae98c5cd87
 julia 0.5
 Calculus
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures
 Distributions
 FredData
@@ -128,7 +128,7 @@ StateSpaceRoutines
 f6a07ecd11988f391c7eacccdcf44876b28cc88a
 julia 0.6
 Calculus
-DataFrames
+DataFrames 0.0.1 0.11.0
 DataStructures
 Distributions
 FredData

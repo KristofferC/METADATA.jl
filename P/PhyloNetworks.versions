@@ -5,7 +5,7 @@ git://github.com/crsl4/PhyloNetworks.jl.git
 d2c8b0ad22e978018a7d52b14bfbddb1fff4ede2
 julia 0.3
 Compat
-DataFrames
+DataFrames 0.0.1 0.11.0
 NLopt
 GraphViz
 
@@ -14,7 +14,7 @@ GraphViz
 76d2e5c6d48c94669c6de882afe09b41243f4fab
 julia 0.4
 Compat
-DataFrames
+DataFrames 0.0.1 0.11.0
 NLopt
 GraphViz
 
@@ -23,7 +23,7 @@ GraphViz
 37ce1810bdc2d7381ec5445cf93c841b85742e67
 julia 0.4
 Compat
-DataFrames
+DataFrames 0.0.1 0.11.0
 NLopt
 Gadfly
 GLM
@@ -34,7 +34,7 @@ a3d30ad857b6bbc5a51c734a133d6b3a811cbddb
 julia 0.4
 Compat
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 NLopt
 ColorTypes
 Gadfly
@@ -46,7 +46,7 @@ GLM
 julia 0.4
 Compat
 StatsBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 NLopt
 ColorTypes
 Gadfly
@@ -58,7 +58,7 @@ ccd85899ea9d914f24337b76471a83422c6658b8
 julia 0.4
 Compat 0.8
 StatsBase 0.9
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 NLopt 0.3
 ColorTypes 0.2
 Gadfly 0.4
@@ -70,7 +70,7 @@ GLM 0.5
 julia 0.5
 Compat 0.8
 StatsBase 0.9
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 NLopt 0.3
 ColorTypes 0.2
 Gadfly 0.4
@@ -83,7 +83,7 @@ Combinatorics 0.3
 julia 0.5
 Compat 0.8
 StatsBase 0.9
-DataFrames 0.7
+DataFrames 0.7 0.11.0
 NLopt 0.3
 ColorTypes 0.2
 Gadfly 0.4
@@ -96,7 +96,7 @@ a5d7349d531b6fcda9610cc8a5060f49cd63447e
 julia 0.5
 Compat 0.8
 StatsBase 0.11
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NLopt 0.3
 ColorTypes 0.2
 Gadfly 0.4
@@ -108,7 +108,7 @@ Combinatorics 0.3
 4a1ba68cc276bbd60b17a04905420cd3df7e35ae
 julia 0.6
 StatsBase 0.11
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 DataStructures 0.5.2
 NLopt 0.3
 ColorTypes 0.2

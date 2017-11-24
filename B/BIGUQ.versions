@@ -4,7 +4,7 @@ git://github.com/madsjulia/BIGUQ.jl.git
 -----
 46720791b251bf3d51030a45a1688d159c72cb82
 julia 0.4-
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -15,7 +15,7 @@ Mads
 -----
 e604acdc1f5b912d83a4fa35bb0e8fcce9bfdead
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -29,7 +29,7 @@ julia 0.4
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -38,7 +38,7 @@ Distributions
 -----
 47f7b4135dc39d3e8d6e4ac88274b5dd08eb747a
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -49,7 +49,7 @@ Mads
 -----
 ae9857acf478fa1e1796091a51e0ffc49e2de521
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -60,7 +60,7 @@ Mads
 -----
 bb1c47bc10c51487e1447916745b565c8ebcfde2
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -71,7 +71,7 @@ Mads
 -----
 0d191c4daa3c8191197242966da1a57ba71dd52c
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora 0.4.4
 ForwardDiff
 BlackBoxOptim
@@ -82,7 +82,7 @@ Mads
 -----
 1a9135620c847eab40e537ce540a85f898d593fd
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Lora
 ForwardDiff
 BlackBoxOptim
@@ -94,7 +94,7 @@ Mads
 -----
 cdb6eaa6e2415b53ad87a934f0f8136dc940d2e8
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Klara 0.6
 ForwardDiff
 BlackBoxOptim
@@ -106,7 +106,7 @@ Mads
 -----
 8a6a60400889886616f6d80ddac88f5de820dd59
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 Klara 0.6
 ForwardDiff
 BlackBoxOptim
@@ -121,7 +121,7 @@ julia 0.4
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -133,7 +133,7 @@ julia 0.4
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -145,7 +145,7 @@ julia 0.4
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -157,7 +157,7 @@ julia 0.5
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -169,7 +169,7 @@ julia 0.5
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -181,7 +181,7 @@ julia 0.5
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -193,7 +193,7 @@ julia 0.5
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions
@@ -205,7 +205,7 @@ julia 0.5
 RobustPmap
 AffineInvariantMCMC
 Klara 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 ForwardDiff
 BlackBoxOptim
 Distributions

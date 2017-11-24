@@ -256,7 +256,7 @@ Contour 0.2.0
 ImageMagick
 Discretizers
 StatsBase 0.9.0
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 Reel 0.1.0
 
 1.5.0
@@ -272,7 +272,7 @@ Contour 0.2.0
 ImageMagick 0.2.3
 Discretizers
 StatsBase 0.9.0
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 Reel 0.1.0
 IndirectArrays 0.1.1
 
@@ -289,7 +289,7 @@ Contour 0.2.0
 ImageMagick 0.2.3
 Discretizers
 StatsBase 0.9.0
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 Reel 0.1.0
 IndirectArrays 0.1.1
 
@@ -306,7 +306,7 @@ Contour 0.2.0
 ImageMagick 0.2.3
 Discretizers
 StatsBase 0.9.0
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 Reel 0.1.0
 IndirectArrays 0.1.1
 
@@ -323,7 +323,7 @@ Contour 0.2.0
 ImageMagick 0.2.3
 Discretizers
 StatsBase 0.9.0
-DataFrames 0.8.0
+DataFrames 0.8.0 0.11.0
 Reel 0.1.0
 IndirectArrays 0.1.1
 
@@ -339,7 +339,7 @@ Contour 0.4.0
 ImageMagick 0.2.3
 Discretizers 2.0.0
 StatsBase 0.9.0
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 Reel 1.0.1
 IndirectArrays 0.1.1
 
@@ -355,7 +355,7 @@ Contour 0.4.0
 ImageMagick 0.2.3
 Discretizers 2.0.0
 StatsBase 0.9.0
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 IndirectArrays 0.1.1
 
 2.2.0
@@ -370,7 +370,7 @@ Contour 0.4.0
 ImageMagick 0.2.3
 Discretizers 2.0.0
 StatsBase 0.9.0
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 IndirectArrays 0.1.1
 
 2.2.1
@@ -385,5 +385,5 @@ Contour 0.4.0
 ImageMagick 0.2.3
 Discretizers 2.0.0
 StatsBase 0.9.0
-DataFrames 0.9.0
+DataFrames 0.9.0 0.11.0
 IndirectArrays 0.1.1

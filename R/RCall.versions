@@ -6,7 +6,7 @@ c31cac0c967f34911c47bc5d48db524ee71c3f46
 julia 0.1 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.0.2
@@ -15,7 +15,7 @@ d614442301579fa3caacb5396d6f57fb5d4269f9
 julia 0.1 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.0.3
@@ -24,7 +24,7 @@ a45eea0816fa406d0640c1a82a0f7ee2eea40e39
 julia 0.1 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.1.0
@@ -33,7 +33,7 @@ Docile
 julia 0.1 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.1.1
@@ -42,7 +42,7 @@ Docile
 julia 0.1 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.1.2
@@ -52,7 +52,7 @@ julia 0.1 0.6
 BinDeps
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.2.0
@@ -62,7 +62,7 @@ julia 0.1 0.6
 BinDeps
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.2.1
@@ -72,7 +72,7 @@ julia 0.1 0.6
 BinDeps
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.3.0
@@ -82,7 +82,7 @@ julia 0.3 0.6
 BinDeps
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.3.1
@@ -92,7 +92,7 @@ julia 0.3 0.6
 BinDeps
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.3.2
@@ -101,7 +101,7 @@ Docile
 julia 0.3 0.6
 Compat
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Docile
 
 0.4.0
@@ -109,14 +109,14 @@ Docile
 e47af2b32fbb8a2d5abf355fd448c6b6bcad1bf2
 julia 0.4 0.6
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.4.1
 -----
 d92e90798a411dfd45ac1fd8c1dce9ae96716df5
 julia 0.4 0.6
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 @windows WinReg
 
 0.5.0
@@ -125,7 +125,7 @@ DataFrames
 julia 0.4
 DataStructures
 DataArrays
-DataFrames
+DataFrames 0.0.1 0.11.0
 Compat
 @windows WinReg
 CategoricalArrays 0.0.1 0.2.0
@@ -136,7 +136,7 @@ CategoricalArrays 0.0.1 0.2.0
 julia 0.4
 DataStructures
 DataArrays 0.3.8
-DataFrames 0.7.6
+DataFrames 0.7.6 0.11.0
 Compat 0.8
 @windows WinReg
 CategoricalArrays 0.0.1 0.2.0
@@ -147,7 +147,7 @@ e3129371049e24520d50c568ae2193cc98059d2b
 julia 0.4
 DataStructures
 DataArrays 0.3.8
-DataFrames 0.7.6
+DataFrames 0.7.6 0.11.0
 Compat 0.8
 @windows WinReg
 CategoricalArrays 0.0.1 0.2.0
@@ -157,7 +157,7 @@ CategoricalArrays 0.0.1 0.2.0
 7255e665f418d73b7f02fd00309f2a3fdbf65490
 julia 0.5
 DataStructures 0.4.3
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 NullableArrays 0.0.10
 CategoricalArrays 0.0.6 0.2.0
 Compat 0.8
@@ -168,7 +168,7 @@ Compat 0.8
 13d1cb6290208fd0220defeded1de112e8a287fe
 julia 0.5
 DataStructures 0.4.3
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 NullableArrays 0.0.10
 CategoricalArrays 0.0.6 0.2.0
 Compat 0.8
@@ -179,7 +179,7 @@ Compat 0.8
 8191a6c37c7f378fead9223b4b07032838f976da
 julia 0.5
 DataStructures 0.4.3
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 NullableArrays 0.0.10
 CategoricalArrays 0.0.6 0.2.0
 Compat 0.8
@@ -190,7 +190,7 @@ Compat 0.8
 53fb8557655bd5613db1b4bbddf5324b934a81b6
 julia 0.5
 DataStructures 0.4.3
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 NullableArrays 0.0.10
 CategoricalArrays 0.0.6 0.2.0
 Compat 0.8
@@ -201,7 +201,7 @@ Compat 0.8
 a782a65fd8c4c3ec1d7b047bcadf58c77ce80805
 julia 0.5
 DataStructures 0.4.3
-DataFrames 0.8.4
+DataFrames 0.8.4 0.11.0
 NullableArrays 0.0.10
 CategoricalArrays 0.0.6 0.2.0
 Compat 0.8
@@ -212,7 +212,7 @@ Compat 0.8
 a2c5aa14aecc56c3bbf68fe2657f90ff65bdeac0
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.2.0
 AxisArrays 0.0.6
@@ -225,7 +225,7 @@ Compat 0.17.0
 ab05d71714c7d90c9103fbe1ae70c057118d8a43
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.2.0
 AxisArrays 0.0.6
@@ -238,7 +238,7 @@ Compat 0.17.0
 8152909226519f204e33b1cd9bff0c135c139212
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.2.0
 AxisArrays 0.0.6
@@ -251,7 +251,7 @@ Compat 0.17.0
 b357b6d842514252248d1b17ec62a90ae44442f8
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.2.0
 AxisArrays 0.0.6
@@ -264,7 +264,7 @@ Compat 0.17.0
 0b45b5d5e8c2955775b10df3c323e1f10fa3b189
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.2.0
 AxisArrays 0.0.6
@@ -277,7 +277,7 @@ Compat 0.17.0
 9c795a58219aa653709643f46e5cfe311fd6419f
 julia 0.5
 DataStructures 0.5.0
-DataFrames 0.9
+DataFrames 0.9 0.11.0
 NullableArrays 0.1.0
 CategoricalArrays 0.1.0 0.3.0
 AxisArrays 0.0.6
@@ -291,7 +291,7 @@ a149e49a0d73ab70e232110b798c9f35eb2fbb5f
 julia 0.6
 Nulls 0.1.0
 DataStructures 0.5.0
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 DataArrays 0.5.0
 CategoricalArrays 0.1.0 0.3.0
 NullableArrays 0.1.0
@@ -306,7 +306,7 @@ f3d0613b271f92650ad60e7ec00ad9e3da309e09
 julia 0.6
 Nulls 0.1.0
 DataStructures 0.5.0
-DataFrames 0.10
+DataFrames 0.10 0.11.0
 DataArrays 0.5.0
 CategoricalArrays 0.1.0 0.3.0
 NullableArrays 0.1.0

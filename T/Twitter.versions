@@ -9,7 +9,7 @@ HttpCommon
 Requests
 JSON
 Nettle
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.2
 -----
@@ -20,7 +20,7 @@ HttpCommon
 Requests
 JSON
 Nettle
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.3
 -----
@@ -31,7 +31,7 @@ HttpCommon
 Requests
 JSON
 Nettle
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.1.0
 -----
@@ -42,14 +42,14 @@ HttpCommon
 Requests
 JSON
 Nettle
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.2.0
 -----
 23c33a7bd8da33ff8bc1cdfa208d4f9d8baa36fa
 julia 0.3
 JSON
-DataFrames
+DataFrames 0.0.1 0.11.0
 OAuth
 
 0.2.1
@@ -57,7 +57,7 @@ OAuth
 e74f6a8ce59f299351a271599673483a64ab1448
 julia 0.3
 JSON
-DataFrames
+DataFrames 0.0.1 0.11.0
 OAuth
 Compat
 
@@ -65,7 +65,7 @@ Compat
 -----
 e86dd7db82772cf7c240497fcaf1378c29b9498f
 julia 0.4-
-DataFrames
+DataFrames 0.0.1 0.11.0
 OAuth
 Compat
 
@@ -73,6 +73,6 @@ Compat
 -----
 dd0f93cb5b41c1ca564eafade2cbc2e6b6c221c1
 julia 0.4
-DataFrames
+DataFrames 0.0.1 0.11.0
 OAuth
 Compat

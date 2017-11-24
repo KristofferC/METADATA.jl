@@ -4,7 +4,7 @@ https://github.com/JuliaRecsys/Persa.jl.git
 -----
 85520e66147c51096cc7b9c1c9b3d4d18ab7573f
 julia 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 MLBase
 Distances
 
@@ -12,6 +12,6 @@ Distances
 -----
 8b6e743c864501413e1f750cbff5d6375fab0453
 julia 0.6
-DataFrames
+DataFrames 0.0.1 0.11.0
 MLBase
 Distances

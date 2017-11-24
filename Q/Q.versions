@@ -4,24 +4,24 @@ https://github.com/enlnt/Q.jl.git
 -----
 55a73e5cc1c8adb4b7fe15b9c7ac7b1a37a5118a
 julia 0.6
-DataFrames 0.10.1
+DataFrames 0.10.1 0.11.0
 Documenter 0.11.2
 
 0.0.2
 -----
 5eb55a29f0433b9a86ed2a889b65b54127ceeda9
 julia 0.6
-DataFrames 0.10.1
+DataFrames 0.10.1 0.11.0
 Documenter 0.11.2
 
 0.0.3
 -----
 95920b40614270aac3c529e18114269ab834ee77
 julia 0.6
-DataFrames 0.10.1
+DataFrames 0.10.1 0.11.0
 
 0.0.4
 -----
 f3f875d2a6e8e068803faee4ec9f4d31cc0440b6
 julia 0.6
-DataFrames 0.10.1
+DataFrames 0.10.1 0.11.0

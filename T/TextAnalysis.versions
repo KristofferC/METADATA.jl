@@ -4,20 +4,20 @@ git://github.com/JuliaText/TextAnalysis.jl.git
 -----
 c902d07b6c6c0ff527cf5937036762eedace674c
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.1
 -----
 f022c37fbf1be8b5414a962ece186d6971e53b10
 julia 0.2-
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 
 0.0.2
 -----
 d40a74e48fc1822d22b128af0bd76e0c27ec10c1
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 
 0.0.3
@@ -25,7 +25,7 @@ BinDeps
 17ce58c18958ff73f52ec4641bae3f4e3000b2f5
 julia 0.3
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 
 0.0.4
@@ -33,7 +33,7 @@ BinDeps
 f90253139d31d9665140eb9a2600c868058c1424
 julia 0.3
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 Compat
 
@@ -42,7 +42,7 @@ Compat
 c8852342945ca1762646e6f324d692631ef87e9d
 julia 0.3
 Languages
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 Compat
 
@@ -51,7 +51,7 @@ Compat
 0a1c2b1a5d62b715ae3e919f39a10b316fc8e631
 julia 0.4
 Languages 0.0.5+
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 Compat 0.8.8
 
@@ -60,7 +60,7 @@ Compat 0.8.8
 9724c7e55f40bc450d3b60721d0df2adc1bfe0e8
 julia 0.5
 Languages 0.1.0+
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 Compat 0.17
 
@@ -69,6 +69,6 @@ Compat 0.17
 172f50377c1dbcb1ac85eece62dc7a719ddfdef5
 julia 0.5
 Languages 0.1.0+
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
 Compat 0.17

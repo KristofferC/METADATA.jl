@@ -6,5 +6,5 @@ https://github.com/JuliaRecsys/DatasetsCF.jl.git
 julia 0.6
 Persa
 MLBase
-DataFrames
+DataFrames 0.0.1 0.11.0
 BinDeps
