@@ -193,3 +193,11 @@ julia 0.6
 WeakRefStrings 0.4.0
 Missings
 NamedTuples 4.0
+
+0.3.1
+-----
+c8a690c5f326b3e68c4c32e46511839dbb55bdbc
+julia 0.6
+WeakRefStrings 0.4.0
+Missings
+NamedTuples 4.0
