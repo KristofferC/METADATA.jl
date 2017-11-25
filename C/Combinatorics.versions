@@ -77,3 +77,11 @@ julia 0.5
 Compat 0.18.0
 Polynomials
 IterTools
+
+0.5.0
+-----
+aaaf5f48413f2003531b6d00918d68a139511c44
+julia 0.5
+Compat 0.18.0
+Polynomials
+IterTools
