@@ -1,0 +1,8 @@
+https://github.com/SimonDanisch/PackageCompiler.jl.git
+
+0.1.0
+-----
+748049ef9f861dde3176afb41d5808802c64972d
+julia 0.6
+SnoopCompile
+@windows WinRPM

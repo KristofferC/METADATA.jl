@@ -9,3 +9,13 @@ CollisionDetection
 Combinatorics
 FastGaussQuadrature
 StaticArrays
+
+0.1.0
+-----
+e0be4e7b3075bb2693e2e0e0bb5657ea49ce1cde
+julia 0.6
+Compat 0.18
+CollisionDetection
+Combinatorics
+FastGaussQuadrature
+StaticArrays

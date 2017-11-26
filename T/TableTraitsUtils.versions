@@ -15,3 +15,19 @@ julia 0.6
 NamedTuples 4.0.0
 DataValues 0.0.1
 TableTraits 0.0.1
+
+0.1.1
+-----
+4c6fd1ae9890f02fe8289be1a434c033b8435a2d
+julia 0.6
+NamedTuples 4.0.0
+DataValues 0.0.1
+TableTraits 0.0.1
+
+0.1.2
+-----
+614cdac086d144b0eb3f04dd62b080f26e6616c3
+julia 0.6
+NamedTuples 4.0.0
+DataValues 0.0.1
+TableTraits 0.0.1
