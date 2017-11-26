@@ -188,3 +188,12 @@ JSON
 MbedTLS
 HTTP 0.5.4
 HttpCommon # for deprecations
+
+3.0.1
+-----
+0d9f04ce4be061d3c2b12644316a232c8f889b44
+julia 0.6
+JSON
+MbedTLS
+HTTP 0.5.4
+HttpCommon # for deprecations
