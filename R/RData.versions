@@ -58,3 +58,13 @@ DataFrames 0.9 0.11.0
 DataArrays 0.4 0.7.0
 FileIO 0.1.2
 CodecZlib 0.4
+
+0.3.0
+-----
+7e17dcfc1b331bf8d6067ac68eeaae00551fc3c9
+julia 0.6
+DataFrames 0.11
+Missings 0.2
+CategoricalArrays 0.3
+FileIO 0.1.2
+CodecZlib 0.4

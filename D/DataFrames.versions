@@ -50,6 +50,19 @@ WeakRefStrings 0.4.0
 DataStreams 0.3.0
 GZip
 
+0.11.1
+------
+f031a3d482d8eb489d45b0d8f703b82a7e5b999e
+julia 0.6
+Missings 0.2.1
+CategoricalArrays 0.3.0
+StatsBase 0.11.0
+SortingAlgorithms
+Reexport
+WeakRefStrings 0.4.0
+DataStreams 0.3.0
+GZip
+
 0.2.0
 -----
 b5f0fe945459e268939c653dfceafac5c13d393d

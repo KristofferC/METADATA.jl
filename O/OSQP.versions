@@ -5,3 +5,9 @@ https://github.com/oxfordcontrol/OSQP.jl.git
 a2d741fe08318d3c7c3ac39bb6d935f5d17b8efc
 BinDeps
 julia 0.6
+
+0.1.1
+-----
+ae25317516937f2f074aaaddc3ef598b9873755f
+BinDeps
+julia 0.6
