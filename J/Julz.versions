@@ -17,3 +17,16 @@ Mustache
 EnglishText
 PkgDev
 DocOpt
+
+0.1.0
+-----
+9b21100e60ff4e28eb2e40e2ed4052500c6479a6
+julia 0.6
+Mustache
+EnglishText
+PkgDev
+DocOpt
+Documenter
+TestSetExtensions
+DataStructures
+Revise

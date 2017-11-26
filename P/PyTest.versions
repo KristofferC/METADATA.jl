@@ -13,3 +13,11 @@ ArgParse
 julia 0.5
 Iterators
 ArgParse
+
+0.1.0
+-----
+0b5834662288cfdf99e1754dd4320c02f154eef8
+julia 0.6
+Iterators
+ArgParse
+ResumableFunctions

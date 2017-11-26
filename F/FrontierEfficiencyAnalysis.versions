@@ -1,0 +1,9 @@
+git://github.com/wen-chih/FrontierEfficiencyAnalysis.jl.git
+
+0.0.1
+-----
+ae2a649392dd170a638f4cacc221acc30a3c587f
+julia 0.5
+JuMP
+MathProgBase
+Gurobi

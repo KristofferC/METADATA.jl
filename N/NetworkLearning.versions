@@ -1,0 +1,12 @@
+https://github.com/zgornel/NetworkLearning.jl.git
+
+0.0.1
+-----
+0ef96214fe46be758806deaaccb5c38b0c5f09d7
+julia 0.6
+LearnBase
+MLDataPattern
+MLLabelUtils
+LightGraphs
+SimpleWeightedGraphs
+Distances

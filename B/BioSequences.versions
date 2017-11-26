@@ -109,3 +109,18 @@ IterTools 0.1
 IntervalTrees
 Twiddle
 DataStructures
+
+0.8.1
+-----
+f42bf8c8fac2468a6927d18a12c714f40ec0f357
+julia 0.6
+Automa
+BioCore
+BioSymbols
+BufferedStreams
+Combinatorics
+IndexableBitVectors
+IterTools 0.1
+IntervalTrees
+Twiddle
+DataStructures

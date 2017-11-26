@@ -1,0 +1,8 @@
+https://github.com/JuliaHomotopyContinuation/Homotopies.jl.git
+
+0.1.0
+-----
+74e0f56da5b9b8a04551ca105fed95407794dfdf
+julia 0.6
+MultivariatePolynomials 0.1.1
+FixedPolynomials 0.2
