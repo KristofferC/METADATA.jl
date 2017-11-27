@@ -1,0 +1,8 @@
+https://github.com/sisl/ExprOptimization.jl.git
+
+0.1.0
+-----
+3f91ac0de329ea6aff2365b26584924e3765db1b
+julia 0.6
+Reexport
+ExprRules

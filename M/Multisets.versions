@@ -4,3 +4,8 @@ https://github.com/scheinerman/Multisets.jl.git
 -----
 ac6668210c3775f32fa17e70c69d14efdc95bbfc
 julia 0.5
+
+0.1.0
+-----
+ff9a40bf31457e5f9b3155d15c3a354d283c1809
+julia 0.6

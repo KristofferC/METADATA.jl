@@ -59,6 +59,23 @@ Showoff
 StatsBase 0.11
 StatsFuns 0.3
 
+0.13.0
+------
+6d99ac613fd84364fcd8f79a47fd611413e0ffa9
+julia 0.6
+ArgCheck
+BlockArrays
+DataArrays
+DataFrames 0.9
+Distributions 0.11
+GLM 0.7
+NamedArrays
+NLopt 0.3
+Showoff
+StaticArrays 0.6
+StatsBase 0.11
+StatsFuns 0.3
+
 0.2.0
 -----
 785fa626395d508aeab00be22c6303b60a79a6da

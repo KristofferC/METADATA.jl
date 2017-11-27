@@ -30,3 +30,9 @@ julia 0.4
 -----
 54379f35b24f11bc789a23cddeb764cae2d71019
 julia 0.5
+
+0.2.0
+-----
+3a5691ab4b3de285dd83e9275b0e40bbcb722514
+julia 0.6
+Unitful 0.0.3
