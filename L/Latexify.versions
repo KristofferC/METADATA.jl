@@ -7,3 +7,12 @@ julia 0.6
 DifferentialEquations 3.0
 SymEngine 0.2.0
 DataFrames 0.10.0 0.11.0
+
+0.1.0
+-----
+cf53951b89aed678aa20c0dc1bae69dc81986aa6
+julia 0.6
+DiffEqBase v2.4.0
+SymEngine 0.2.0
+Missings 0.2.2
+LaTeXStrings v0.3.0
