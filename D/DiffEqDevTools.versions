@@ -33,6 +33,18 @@ OrdinaryDiffEq
 FiniteElementDiffEq
 RecursiveArrayTools 0.0.0 0.4.0
 
+0.10.0
+------
+b68d1ce963001df1da3b61cff912576e7d0b0661
+julia 0.6
+RecipesBase 0.1.0
+DiffEqBase 1.12.0
+RecursiveArrayTools 0.4.0
+DiffEqPDEBase
+DiffEqMonteCarlo
+DiffEqNoiseProcess
+Juno
+
 0.1.1
 -----
 e4926152be620885ac10b5500227cf1167fa43d5
