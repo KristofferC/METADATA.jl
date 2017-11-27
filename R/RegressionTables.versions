@@ -1,0 +1,11 @@
+https://github.com/jmboehm/RegressionTables.jl.git
+
+0.0.1
+-----
+1fcfa6e26904e200d96e49ae258f8ad8d2391baf
+julia 0.6.0
+FixedEffectModels 0.4.0
+StatsBase 0.7.1
+RDatasets 0.2.0
+Distributions 0.4.6
+Formatting 0.3.0
