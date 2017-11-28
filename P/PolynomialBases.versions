@@ -20,3 +20,11 @@ f11e014a18dba2b1b9dbce5dbecf75c1e402fe82
 julia 0.6
 Parameters
 FastGaussQuadrature
+
+0.3.0
+-----
+b5d79b0148e612788dc568b602d14b64038b9310
+julia 0.6
+Requires
+Parameters
+FastGaussQuadrature
