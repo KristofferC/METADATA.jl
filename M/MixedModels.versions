@@ -76,6 +76,24 @@ StaticArrays 0.6
 StatsBase 0.11
 StatsFuns 0.3
 
+0.14.1
+------
+7570a04dea81144027ef298d747c647dd23b8ad0
+julia 0.6.1
+ArgCheck
+BlockArrays
+CategoricalArrays
+DataFrames 0.11.0
+Distributions 0.11
+GLM 0.7
+NamedArrays
+NLopt 0.3
+Showoff
+StaticArrays 0.6
+StatsBase 0.19
+StatsFuns 0.5
+StatsModels 0.1
+
 0.2.0
 -----
 785fa626395d508aeab00be22c6303b60a79a6da
