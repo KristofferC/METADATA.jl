@@ -45,6 +45,18 @@ DiffEqMonteCarlo
 DiffEqNoiseProcess
 Juno
 
+0.10.1
+------
+1e022c6cb897ff434ac836668edfa3110e2909df
+julia 0.6
+RecipesBase 0.1.0
+DiffEqBase 1.12.0
+RecursiveArrayTools 0.4.0
+DiffEqPDEBase
+DiffEqMonteCarlo
+DiffEqNoiseProcess
+Juno
+
 0.1.1
 -----
 e4926152be620885ac10b5500227cf1167fa43d5
