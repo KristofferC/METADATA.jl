@@ -23,3 +23,11 @@ julia 0.5
 NamedArrays
 DataArrays 0.0.1 0.7.0
 DataFrames 0.0.1 0.11.0
+
+0.2.0
+-----
+78290d336fdeee8afde18302e538ab2332b2ab1f
+julia 0.6
+NamedArrays
+CategoricalArrays 0.3.0
+DataFrames 0.11.0

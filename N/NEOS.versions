@@ -31,3 +31,15 @@ MathProgBase 0.5 0.7
 Requests
 Libz
 Compat 0.9.5
+
+0.3.0
+-----
+66d12b7b007a45c3c79237fe057f3db1dea55e0b
+julia 0.6
+Codecs
+LightXML
+MathProgBase 0.5 0.8
+Requests
+Libz
+AmplNLWriter 0.4.0
+ZipFile

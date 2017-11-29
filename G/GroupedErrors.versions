@@ -13,3 +13,17 @@ TableTraitsUtils 0.1.0
 TableTraits
 MacroTools
 Lazy
+
+0.1.0
+-----
+1ac554af742108d5e5003d2a54bfb113465908e3
+julia 0.6
+StatsBase
+KernelDensity
+Loess
+IndexedTables 0.4.1
+IterableTables 0.5.1
+TableTraitsUtils 0.1.0
+TableTraits
+MacroTools
+Lazy
