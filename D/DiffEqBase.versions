@@ -834,3 +834,15 @@ Compat 0.19.0
 Juno
 LinearMaps
 FunctionWrappers
+
+2.6.1
+-----
+ae82a17ca286ed1f262f3c574718d35808f5d9da
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.12.3
+SimpleTraits 0.1.1
+Compat 0.19.0
+Juno
+LinearMaps
+FunctionWrappers
