@@ -9,3 +9,14 @@ DataStreams 0.3.1
 DocStringExtensions
 Missings 0.2.1
 Memento 0.3
+
+0.0.2
+-----
+32e318fb6bdd42024fe45832209fe7d6dfe34b0c
+julia 0.6
+BinDeps 0.6
+Compat 0.33
+DataStreams 0.3.1
+DocStringExtensions
+Missings 0.2.1
+Memento 0.3

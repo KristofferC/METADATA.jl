@@ -46,3 +46,9 @@ Compat
 julia 0.5
 DataFrames 0.0.1 0.11.0
 Compat 0.17
+
+0.3.0
+-----
+4f727e106f087efac9271b1c3650a54ba58d8ae8
+julia 0.6
+DataFrames 0.11
