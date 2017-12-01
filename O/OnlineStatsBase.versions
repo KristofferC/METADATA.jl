@@ -57,3 +57,9 @@ LearnBase
 -----
 b70dc612bc46677c391baf7b91c37824e94a9df3
 julia 0.6
+
+0.3.0
+-----
+759ee04d8d1ab354aff06c5ffe84dc24b45470f4
+julia 0.6
+NamedTuples
