@@ -11,3 +11,9 @@ LibCURL
 f14bfe77e9275b1f1bbb090b2d1b5cdd3e4d5ef3
 julia 0.4 0.5
 LibCURL
+
+0.2.0
+-----
+8c27846a5eaaa3981d39116d1cf010a8e5a8e624
+julia 0.6
+LibCURL
