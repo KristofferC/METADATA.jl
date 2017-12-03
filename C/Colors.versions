@@ -3,7 +3,7 @@ git://github.com/JuliaGraphics/Colors.jl.git
 0.4.7
 -----
 409bd7a4efdd7fff9664e6d72b24c11554e0c857
-julia 0.3
+julia 0.3 0.6
 Compat 0.2
 FixedPointNumbers 0.0.0- 0.3.0
 Graphics 0.1
@@ -11,7 +11,7 @@ Graphics 0.1
 0.5.0
 -----
 4bf77fa42c6c3229caa96e3bf46f05d3e938017c
-julia 0.3
+julia 0.3 0.6
 ColorTypes
 FixedPointNumbers 0.0.0- 0.3.0
 Compat 0.2
