@@ -119,3 +119,9 @@ d3ab995342c109695d559c1296ac47e7c5bb067c
 julia 0.4
 Compat 0.9.5
 FileIO 0.2.0
+
+0.9.0
+-----
+f0ed3cdd48591b6fd004c8932f8b1887607340d1
+julia 0.6
+FileIO 0.2.0
