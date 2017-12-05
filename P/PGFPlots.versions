@@ -6,6 +6,7 @@ ad63bf581d3c99578371592ec48ab695a1608432
 julia 0.3-
 TikzPictures
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 0.0.2
 -----
@@ -14,6 +15,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 0.0.3
 -----
@@ -22,6 +24,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----
@@ -30,6 +33,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 0.1.1
 -----
@@ -38,6 +42,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.0.0
 -----
@@ -46,6 +51,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.0.1
 -----
@@ -54,6 +60,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.1.0
 -----
@@ -62,6 +69,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.1.1
 -----
@@ -70,6 +78,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.2.0
 -----
@@ -78,6 +87,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.2.1
 -----
@@ -86,6 +96,7 @@ julia 0.3-
 TikzPictures
 Images
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.2.2
 -----
@@ -96,6 +107,7 @@ Images
 Compat
 Colors
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.2.3
 -----
@@ -106,6 +118,7 @@ Images
 Compat
 Colors
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.3.0
 -----
@@ -116,6 +129,7 @@ Images
 Compat
 Colors
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.3.1
 -----
@@ -127,6 +141,7 @@ Compat
 Colors
 ColorBrewer
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.3.2
 -----
@@ -138,6 +153,7 @@ Compat
 Colors
 ColorBrewer
 Contour 0.0.0 0.2.0-
+DataFrames 0.0.0 0.11.0
 
 1.3.3
 -----
@@ -150,6 +166,7 @@ Colors
 ColorBrewer
 Contour 0.0.0 0.2-
 ImageMagick
+DataFrames 0.0.0 0.11.0
 
 1.3.4
 -----
@@ -162,6 +179,7 @@ Colors
 ColorBrewer
 Contour 0.0.0 0.2-
 ImageMagick
+DataFrames 0.0.0 0.11.0
 
 1.3.5
 -----
@@ -174,6 +192,7 @@ Colors
 ColorBrewer
 Contour 0.0.0 0.2-
 ImageMagick
+DataFrames 0.0.0 0.11.0
 
 1.3.6
 -----
@@ -187,6 +206,7 @@ ColorBrewer
 Contour 0.2.0
 ImageMagick
 Discretizers
+DataFrames 0.0.0 0.11.0
 
 1.3.7
 -----
@@ -200,6 +220,7 @@ ColorBrewer
 Contour 0.2.0
 ImageMagick
 Discretizers
+DataFrames 0.0.0 0.11.0
 
 1.4.0
 -----
@@ -214,6 +235,7 @@ Contour 0.2.0
 ImageMagick
 Discretizers
 StatsBase 0.9.0
+DataFrames 0.0.0 0.11.0
 
 1.4.1
 -----
@@ -228,6 +250,7 @@ Contour 0.2.0
 ImageMagick
 Discretizers
 StatsBase 0.9.0
+DataFrames 0.0.0 0.11.0
 
 1.4.2
 -----
@@ -242,6 +265,7 @@ Contour 0.2.0
 ImageMagick
 Discretizers
 StatsBase 0.9.0
+DataFrames 0.0.0 0.11.0
 
 1.4.3
 -----

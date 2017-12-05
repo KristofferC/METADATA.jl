@@ -8,7 +8,7 @@ Requests
 LightXML
 HttpCommon
 JSON
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Formatting
 
 1.0.1
@@ -19,7 +19,7 @@ Requests
 LightXML
 HttpCommon
 JSON
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Formatting
 
 1.0.2
@@ -30,7 +30,7 @@ Requests 0.3.9
 LightXML
 HttpCommon
 JSON
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Formatting
 
 1.0.3
@@ -41,7 +41,7 @@ Requests 0.3.9
 LightXML
 HttpCommon
 JSON
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Formatting
 
 1.0.4
@@ -52,7 +52,7 @@ Requests 0.3.9
 LightXML
 HttpCommon
 JSON
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Formatting
 
 1.0.5

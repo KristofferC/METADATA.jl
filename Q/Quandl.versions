@@ -4,7 +4,7 @@ git://github.com/milktrader/Quandl.jl.git
 -----
 932a97d27f32433971ecec0c460e7ca59a953005
 julia 0.1- 0.2- 
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Calendar
 TimeSeries
 
@@ -13,23 +13,26 @@ TimeSeries
 9aa84993ed3a9823548b63d135afed766ddbf105
 # julia 0.1- 0.2-
 Calendar
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----
 654f35c6c350636e6c3e25465fda25f68179e620
 TimeSeries
+DataFrames 0.0.0 0.11.0
 
 0.1.1
 -----
 fad1962b25c57197b2d9a5bdfee45fa2de8c0cb6
 TimeSeries
+DataFrames 0.0.0 0.11.0
 
 0.1.2
 -----
 a55ecff6b6571b9099ca163da3be7d04d1114797
 julia 0.3-
 TimeSeries
+DataFrames 0.0.0 0.11.0
 
 0.2.0
 -----
@@ -38,6 +41,7 @@ julia 0.3-
 Datetime
 TimeSeries
 Requests
+DataFrames 0.0.0 0.11.0
 
 0.2.1
 -----
@@ -46,6 +50,7 @@ julia 0.3-
 Datetime
 TimeSeries
 Requests
+DataFrames 0.0.0 0.11.0
 
 0.3.0
 -----
@@ -53,7 +58,7 @@ b93a2a4ccecbbea291e4e248736ada28944eba54
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.3.1
@@ -62,7 +67,7 @@ Requests
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.3.10
@@ -70,7 +75,7 @@ Requests
 69bf2158d36e9225083769ec3609478917e064b5
 julia 0.3-
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -81,7 +86,7 @@ Reexport
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -92,7 +97,7 @@ Reexport
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -103,7 +108,7 @@ d6b97a48cf7e4c9d44cacdc93114ee8db6cacfd4
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -113,7 +118,7 @@ e845af7203aa7bce901ad7122f89e04f6b896260
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -123,7 +128,7 @@ d0a94af391fc5689c90e942fffdadc849e08bf6c
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -133,7 +138,7 @@ eb90cc4321d2458cbc8a8cd35d85ce2c5d222ce6
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.3.3
@@ -142,7 +147,7 @@ Requests
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.3.4
@@ -151,7 +156,7 @@ Requests
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -161,7 +166,7 @@ JSON
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -172,7 +177,7 @@ Reexport
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -183,7 +188,7 @@ bfe46dbfe4725851142bc7209b6e67bd14226a7f
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -194,7 +199,7 @@ d430e873754d8e4fab91ce426ecf160fde775d28
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -205,7 +210,7 @@ fb7b1140a2216a9211d132310ba5868286c16a45
 julia 0.3-
 Datetime
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 Reexport
@@ -216,7 +221,7 @@ b59dbfb75fecdeb0a4a2054aa433c68fd52382d1
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -226,7 +231,7 @@ JSON
 julia 0.3-
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -236,7 +241,7 @@ f894ab575437c133a7c35890da3c6a06b4e36e65
 julia 0.3
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -246,7 +251,7 @@ JSON
 julia 0.3
 Dates
 TimeSeries
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 JSON
 
@@ -256,7 +261,7 @@ JSON
 julia 0.3 0.4-
 Dates
 TimeSeries 0.5.11 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.5.0
@@ -264,7 +269,7 @@ Requests
 906e4304d554dce57c29cb2a369ac86585c8294d
 julia 0.4- 0.5-
 TimeSeries 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.5.1
@@ -272,7 +277,7 @@ Requests
 633270f2592ad3c753315944050be71b4a0839fc
 julia 0.4- 0.5-
 TimeSeries 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.5.2
@@ -280,7 +285,7 @@ Requests
 00495f2d035f968f96d740ee2ab8490b2ef7591e
 julia 0.4- 0.5-
 TimeSeries 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.5.3
@@ -288,7 +293,7 @@ Requests
 b319e149fbc17849a7b3ae21a6ef870b063b0440
 julia 0.4- 0.5-
 TimeSeries 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.5.4
@@ -296,7 +301,7 @@ Requests
 a364f001eac10af91bc162e17432d44e4366f1f1
 julia 0.4- 0.5-
 TimeSeries 0.6.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.6.0
@@ -304,7 +309,7 @@ Requests
 ad432068bbef034ecbac1401f158bb525c6e9f0f
 julia 0.5
 TimeSeries 0.9.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests
 
 0.6.1
@@ -312,5 +317,5 @@ Requests
 d8ae4e242226ad92a95cd8662b4d15f600c9a893
 julia 0.5
 TimeSeries 0.9.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Requests

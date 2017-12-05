@@ -6,7 +6,7 @@ git://github.com/davidavdav/ROCAnalysis.jl.git
 julia 0.3
 Requires
 NumericFuns
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----

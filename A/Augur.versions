@@ -6,7 +6,7 @@ git://github.com/AugurProject/Augur.jl.git
 julia 0.3
 Distributions
 Dates
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 HDF5
 Gadfly
@@ -21,7 +21,7 @@ ec1a803517d6b3906891ebc2be3e3ce38c609d6f
 julia 0.3
 Distributions
 Dates
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 HDF5
 Gadfly
@@ -36,7 +36,7 @@ Distances
 julia 0.3
 Distributions
 Dates
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 HDF5
 Gadfly
@@ -51,7 +51,7 @@ Distances
 julia 0.3
 Distributions
 Dates
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 HDF5
 Gadfly
@@ -66,7 +66,7 @@ a9a18c05841c2224e35f8642353f794c30f745dd
 julia 0.3
 Distributions
 Dates
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 HDF5
 Gadfly

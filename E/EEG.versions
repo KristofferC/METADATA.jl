@@ -7,7 +7,7 @@ julia 0.3
 AWS
 DSP # Requires master for filter coeffients to be exported
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits # Requires master
 ProgressMeter
 Distributions
@@ -27,7 +27,7 @@ julia 0.4
 AWS
 DSP # Requires master for filter coeffients to be exported
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits # Requires master
 ProgressMeter
 Distributions
@@ -49,7 +49,7 @@ julia 0.4
 AWS
 DSP # Requires master for filter coeffients to be exported
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits # Requires master
 ProgressMeter
 Distributions
@@ -72,7 +72,7 @@ julia 0.4 0.5-
 AWS
 DSP 0.0.9
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits 0.0.6
 ProgressMeter
 Distributions
@@ -91,7 +91,7 @@ julia 0.4 0.5-
 AWS
 DSP 0.0.9
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits 0.0.6
 ProgressMeter
 Distributions
@@ -111,7 +111,7 @@ AWS
 Compat
 DSP
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits
 ProgressMeter
 Distributions
@@ -131,7 +131,7 @@ julia 0.5-
 AWS
 DSP
 BDF
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SIUnits
 ProgressMeter
 Distributions

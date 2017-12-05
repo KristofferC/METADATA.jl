@@ -4,7 +4,7 @@ git://github.com/JuliaStats/TimeSeries.jl.git
 -----
 c5619f46cb5433cb17ab6d1c47c1ebf31cccd9f3
 StatsBase
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Calendar
 UTF16
 
@@ -12,14 +12,14 @@ UTF16
 -----
 c390fd4dec87298149de962a6c98c15e325575e1
 StatsBase
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Calendar
 UTF16
 
 0.1.0
 -----
 874d23a26f35b2b6a1a116c31e717d274ef7357f
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Datetime
 
 0.10.0
@@ -31,55 +31,55 @@ RecipesBase
 0.1.1
 -----
 9e433492a582b82dd4ba61b764663b05a02a57e9
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Datetime
 
 0.1.2
 -----
 07491c39d3b819f65f36ec57e3892238644afed5
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.1.3
 -----
 ad708f7a3137822c28dac70450768fdb557f2aa7
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.1.4
 -----
 814122e0c5b68a585c28732e9f311d05007a9dfe
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.1.5
 -----
 1c1d71ce182fe28433d05d66f534caec9734a37f
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.1.6
 -----
 9247dac058cfc08651daebfbab2c0828656caa6b
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.1.7
 -----
 42a73fc1a038ad73b5f7f41faf45072a1d6c186b
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 
 0.2.0
 -----
 4301ed5b9a8b11346851235c30f46b248c841705
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Datetime
 

@@ -4,44 +4,44 @@ git://github.com/aviks/Taro.jl.git
 -----
 8243617091516ba186563f97a5d1983c08acd471
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.1
 -----
 da741d69803f2aa43b4556cf805adc750b979165
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.2
 -----
 d5330b6aaea9a5bb9d00d64d8991464c1fbc7f6d
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.3
 -----
 717c023f72f50d979a7e1a8b7af05188596e9b45
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.4
 -----
 61c0008b2089be20e3cf80da00d42568a3eaace7
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.2.0
 -----
 9c17be5a5ef1e4f9cdcc69b69e9c972c7e9965aa
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.2.1
 -----
 a58c2047be9942b15b96037494b1407cd401c9f8
 julia 0.3
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 
 0.3.0
@@ -49,7 +49,7 @@ Compat
 5078b5135f51015a31a846964e3eed19d1e82b3f
 julia 0.4
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 
 0.3.1
@@ -57,7 +57,7 @@ Compat
 b314631195a5ab269f2cf2fe4a9e9c70a39b45ff
 julia 0.4
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Compat
 
@@ -66,7 +66,7 @@ Compat
 85db148fb562078b695ea0c2b382d82911df007d
 julia 0.4
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Compat 0.8
 
@@ -75,6 +75,6 @@ Compat 0.8
 f29e3513996bab4e4e1bf6a5c708a36aee9cec2c
 julia 0.5
 JavaCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 Compat 0.8

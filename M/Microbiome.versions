@@ -6,6 +6,6 @@ eb8947946cafeda7cad50a5d97295ba34c11ed3b
 julia 0.6-
 RecipesBase
 Distances
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Clustering
 Colors

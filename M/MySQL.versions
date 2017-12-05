@@ -4,7 +4,7 @@ git://github.com/JuliaDB/MySQL.jl.git
 -----
 5fc89185297915c2e97d850d61b947912ac3c447
 julia 0.3
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 Dates
 
@@ -12,7 +12,7 @@ Dates
 -----
 c7024e7e406c16b47b5825a398e829fcdfd57421
 julia 0.3
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 Dates
 
@@ -20,7 +20,7 @@ Dates
 -----
 90abdef9c497da238d8f98aa4cf7e68545018958
 julia 0.4
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat 0.8.0
 ConfParser
 
@@ -28,6 +28,6 @@ ConfParser
 -----
 99da11396366c41fc48b364ca26ebe5457230d1f
 julia 0.5
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat 0.17.0
 ConfParser

@@ -5,6 +5,7 @@ git://github.com/OpenGene/OpenGene.jl.git
 efbb6d052e902723e95fe7cc25a78fed991477dc
 julia 0.4
 Libz
+DataFrames 0.0.0 0.11.0
 
 0.1.1
 -----
@@ -12,7 +13,7 @@ Libz
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.10
 ------
@@ -20,7 +21,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.4
 GZip
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 Compat
 
@@ -30,7 +31,7 @@ Compat
 julia 0.4
 GZip
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 Compat
 
@@ -40,7 +41,7 @@ f4e46ab283307a8a2bc95f75e4956dcf1d543027
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.3
 -----
@@ -48,7 +49,7 @@ aab656909c22df2375b0eb5b3ce9c88601390ee3
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.4
 -----
@@ -56,7 +57,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.5
 -----
@@ -64,7 +65,7 @@ e12d9587bce95f1b59ef3ff86f621c6b65d99fa5
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.6
 -----
@@ -72,7 +73,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 
 0.1.7
@@ -81,7 +82,7 @@ e824c76092f920634556d7d0c06006d2aada8be8
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 
 0.1.8
@@ -90,7 +91,7 @@ SHA
 julia 0.4
 Libz
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 
 0.1.9
@@ -99,6 +100,6 @@ e45dba650dd6936bd8ddb89c0ea20acb2c713576
 julia 0.4
 GZip
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 SHA
 Compat

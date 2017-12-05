@@ -5,5 +5,5 @@ git://github.com/rennis250/Sparrow.jl.git
 29a2a0ff2c81dbeb2f63a2bb3fc23710566041c1
 julia 0.3
 Compat
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Color

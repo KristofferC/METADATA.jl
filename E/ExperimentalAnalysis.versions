@@ -4,7 +4,7 @@ git://github.com/baggepinnen/ExperimentalAnalysis.jl.git
 -----
 7b0ced2732c1197bb8333941725d75e70deece83
 julia 0.4
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Plots 0.0 0.7
 PyPlot
 GLM
@@ -13,7 +13,7 @@ GLM
 -----
 4dcf8ee87490b55b67c97b025c88d6051539e1de
 julia 0.4
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Plots 0.0 0.7
 PyPlot
 GLM
@@ -22,7 +22,7 @@ GLM
 -----
 3e93b817ce7a7a6cfa97e6c940057f63703133b3
 julia 0.5
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Plots
 GLM
 Coverage
@@ -31,7 +31,7 @@ Coverage
 -----
 545fdd2dc130765d3136d9c9aabd9a6935c7e948
 julia 0.5
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Plots
 GLM
 Coverage

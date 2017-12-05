@@ -5,6 +5,7 @@ git://github.com/sylvaticus/OdsIO.jl.git
 5b871b58c764d8d65373fd1cb12156b6342df2a4
 julia 0.5
 PyCall 1.7
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----

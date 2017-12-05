@@ -7,6 +7,7 @@ julia 0.5
 LsqFit
 PyPlot
 PyCall
+DataFrames 0.0.0 0.11.0
 
 0.1.4
 -----
@@ -15,7 +16,7 @@ julia 0.5
 LsqFit
 PyCall
 PyPlot
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 
 0.2.0

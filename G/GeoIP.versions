@@ -3,20 +3,20 @@ git://github.com/JuliaWeb/GeoIP.jl.git
 0.0.0
 -----
 497369f762359b7b79484b55755f5b3ed1ae8b79
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----
 bd491efc20c523b94441a31f2d883a5e520f1116
 julia 0.3
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataArrays 0.0.1 0.7.0
 
 0.2.0
 -----
 aba1f767449bc2c4d6f536765f0047808c965c03
 IPNets
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ZipFile
 Requests
 
@@ -24,7 +24,7 @@ Requests
 -----
 b8339213682ac8ed88d0ae0e219abd2e0e263db8
 IPNets
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ZipFile 0.2.4
 Requests
 
@@ -33,6 +33,6 @@ Requests
 598fe5a8571f9c51c25f34d34277d4d5f95b00ad
 julia 0.3
 IPNets
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ZipFile 0.2.4
 Requests 0.2.4

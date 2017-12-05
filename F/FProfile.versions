@@ -4,27 +4,27 @@ https://github.com/cstjean/FProfile.jl.git
 -----
 da7bdba10cc5a5a7d33974dabdf3d5f3cf6a5f10
 julia 0.6
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataStructures
 
 0.0.2
 -----
 e278467a0e03aae7daf376042e9486e03a5b326e
 julia 0.6
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataStructures
 
 0.0.3
 -----
 db90ea064cc0516d41d798b729564b0764b577ec
 julia 0.6
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataStructures
 
 0.0.4
 -----
 fadbd5583058d11a434deb7f91a0a140f3fbb054
 julia 0.6
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 DataStructures
 Requires

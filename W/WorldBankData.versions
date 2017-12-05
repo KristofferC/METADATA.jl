@@ -6,7 +6,7 @@ git://github.com/4gh/WorldBankData.jl.git
 HTTPClient
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.2
 -----
@@ -14,7 +14,7 @@ DataFrames 0.0.1 0.11.0
 HTTPClient
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.3
 -----
@@ -22,7 +22,7 @@ DataFrames 0.0.1 0.11.0
 HTTPClient
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.4
 -----
@@ -30,7 +30,7 @@ e6434363d10d6401ec78f7284a4f4649936decc5
 HTTPClient
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 
 0.0.5
@@ -40,7 +40,7 @@ julia 0.3
 HTTPClient
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Compat
 
 0.0.6
@@ -50,7 +50,7 @@ julia 0.6
 HTTP
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----
@@ -59,4 +59,4 @@ julia 0.6
 HTTP
 JSON
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0

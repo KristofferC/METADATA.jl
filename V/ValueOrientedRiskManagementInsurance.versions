@@ -6,7 +6,7 @@ f7d17f436dc0b4663c90bf97a0f2128bd27f82c0
 julia 0.4
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.2
 -----
@@ -14,7 +14,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.4
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.3
 -----
@@ -22,7 +22,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.4
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.4
 -----
@@ -30,7 +30,7 @@ d75bc10925b7ac1d0a3e2a7bed05f1ea0094d505
 julia 0.4
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.0.5
 -----
@@ -38,7 +38,7 @@ DataFrames 0.0.1 0.11.0
 julia 0.6
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.0
 -----
@@ -46,4 +46,4 @@ DataFrames 0.0.1 0.11.0
 julia 0.6
 Distributions
 DataArrays 0.0.1 0.7.0
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0

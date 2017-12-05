@@ -5,7 +5,7 @@ git://github.com/crsl4/PhyloNetworks.jl.git
 d2c8b0ad22e978018a7d52b14bfbddb1fff4ede2
 julia 0.3
 Compat
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 NLopt
 GraphViz
 
@@ -14,7 +14,7 @@ GraphViz
 76d2e5c6d48c94669c6de882afe09b41243f4fab
 julia 0.4
 Compat
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 NLopt
 GraphViz
 
@@ -23,7 +23,7 @@ GraphViz
 37ce1810bdc2d7381ec5445cf93c841b85742e67
 julia 0.4
 Compat
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 NLopt
 Gadfly
 GLM
@@ -34,7 +34,7 @@ a3d30ad857b6bbc5a51c734a133d6b3a811cbddb
 julia 0.4
 Compat
 StatsBase
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 NLopt
 ColorTypes
 Gadfly
@@ -46,7 +46,7 @@ GLM
 julia 0.4
 Compat
 StatsBase
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 NLopt
 ColorTypes
 Gadfly

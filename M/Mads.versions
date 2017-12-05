@@ -27,7 +27,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 
 0.1.1
 -----
@@ -55,7 +55,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Lexicon
 
 0.1.10
@@ -84,7 +84,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -117,7 +117,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -147,7 +147,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -177,7 +177,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -202,7 +202,7 @@ LightXML
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ForwardDiff
 ODE
 Lora
@@ -230,7 +230,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 Lora
 Optim
@@ -257,7 +257,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 Lora
 Optim
@@ -284,7 +284,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 Lora
 Optim
@@ -311,7 +311,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Lora 0.5
@@ -347,7 +347,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Lexicon
 
 0.1.3
@@ -377,7 +377,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Lexicon
 
 0.1.4
@@ -407,7 +407,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Lexicon
 
 0.1.5
@@ -436,7 +436,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -466,7 +466,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -496,7 +496,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -526,7 +526,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -556,7 +556,7 @@ YAML
 JSON
 JLD
 Gadfly
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Lexicon
 
@@ -579,7 +579,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Lora 0.5
@@ -607,7 +607,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Lora 0.5
@@ -636,7 +636,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -665,7 +665,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -694,7 +694,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -723,7 +723,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -753,7 +753,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -783,7 +783,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -813,7 +813,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -843,7 +843,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -874,7 +874,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -905,7 +905,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -933,7 +933,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Lora 0.5
@@ -961,7 +961,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Lora 0.5
@@ -989,7 +989,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1017,7 +1017,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1045,7 +1045,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1073,7 +1073,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1102,7 +1102,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1131,7 +1131,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.6
@@ -1162,7 +1162,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1193,7 +1193,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1227,7 +1227,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1262,7 +1262,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1296,7 +1296,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1332,7 +1332,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1366,7 +1366,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 Klara 0.7
@@ -1400,7 +1400,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1435,7 +1435,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1471,7 +1471,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1507,7 +1507,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1543,7 +1543,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1579,7 +1579,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1617,7 +1617,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1655,7 +1655,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -1694,7 +1694,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 NMF
 BlackBoxOptim
@@ -1732,7 +1732,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 NMF
 BlackBoxOptim
@@ -1770,7 +1770,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 NMF
 BlackBoxOptim
@@ -1808,7 +1808,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 ODE
 NMF
 BlackBoxOptim
@@ -1846,7 +1846,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -1884,7 +1884,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -1922,7 +1922,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -1960,7 +1960,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -1995,7 +1995,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2034,7 +2034,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2072,7 +2072,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2110,7 +2110,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2148,7 +2148,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2186,7 +2186,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2224,7 +2224,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2262,7 +2262,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2300,7 +2300,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2339,7 +2339,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2378,7 +2378,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2413,7 +2413,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2453,7 +2453,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2492,7 +2492,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 OrdinaryDiffEq
 NMF
 BlackBoxOptim
@@ -2566,7 +2566,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2602,7 +2602,7 @@ JLD
 ProgressMeter
 Distributions 0.12.5
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2638,7 +2638,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2675,7 +2675,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2712,7 +2712,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF
@@ -2749,7 +2749,7 @@ JLD
 ProgressMeter
 Distributions
 DataStructures
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 StatsBase
 ODE
 NMF

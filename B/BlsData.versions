@@ -5,7 +5,7 @@ git://github.com/micahjsmith/BlsData.jl.git
 754842961b781ef3a0db428ed53867ede198729d
 julia 0.4
 Requests
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 JSON
 
 0.0.2
@@ -13,7 +13,7 @@ JSON
 fa73dcd5e0993a875bf2fb442dad368026af50ce
 julia 0.4
 Requests
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 JSON
 HttpCommon
 Compat 0.7.9

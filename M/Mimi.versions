@@ -6,7 +6,7 @@ git://github.com/anthofflab/Mimi.jl.git
 julia 0.3
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Compat
 
@@ -16,7 +16,7 @@ Compat
 julia 0.3
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 Compat
 
@@ -26,7 +26,7 @@ f750096ad7dd34d1233f60687d4b90f398755a17
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Docile
 
 0.1.0
@@ -35,7 +35,7 @@ fa025d367bae776a1c6eb2afde8691793190e075
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 
 0.1.1
@@ -44,7 +44,7 @@ Documenter
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 
 0.2.0
@@ -53,7 +53,7 @@ Documenter
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 Compat 0.8.6
 
@@ -63,7 +63,7 @@ Compat 0.8.6
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 Compat 0.8.6
 
@@ -73,7 +73,7 @@ Compat 0.8.6
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 Compat 0.8.6
 
@@ -83,7 +83,7 @@ bfea3f3cd6e03390fddf7e7a50e32f95720ea5f8
 julia 0.4
 DataStructures
 Distributions
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Documenter
 Compat 0.8.6
 

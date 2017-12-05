@@ -3,11 +3,11 @@ git://github.com/mguzmann/LinguisticData.jl.git
 0.0.1
 -----
 24ebccaee7b64201a3c6838b0650ca67346c7957
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Reexport
 
 0.0.2
 -----
 3aab5cb46d04dc524942df26bb898b260c52a310
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Reexport

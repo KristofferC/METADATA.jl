@@ -78,7 +78,7 @@ PyCall
 8ca6627441ec491f62d2c5a5eac3f4d36227f5fd
 julia 0.2-
 PyCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Gadfly
 
 0.2.20
@@ -170,7 +170,7 @@ Plots 0.4.0
 8ca6627441ec491f62d2c5a5eac3f4d36227f5fd
 julia 0.2-
 PyCall
-DataFrames 0.0.1 0.11.0
+DataFrames 0.0.0 0.11.0
 Gadfly
 
 0.2.30
