@@ -4,6 +4,7 @@ git://github.com/tonyhffong/TermWin.jl.git
 -----
 13b7f8b96799244f71e3b9107c46e6e465ebd3b8
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.10
 ------
@@ -11,6 +12,7 @@ DataFrames 0.0.0 0.11.0
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.11
 ------
@@ -19,6 +21,7 @@ Lint
 Dates
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.12
 ------
@@ -27,6 +30,7 @@ Lint
 Dates
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.13
 ------
@@ -34,6 +38,7 @@ DataFrames 0.0.0 0.11.0
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.14
 ------
@@ -41,6 +46,7 @@ DataFrames 0.0.0 0.11.0
 Lint 0.1.17
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.15
 ------
@@ -48,6 +54,7 @@ DataFrames 0.0.0 0.11.0
 Lint 0.1.17
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.16
 ------
@@ -55,6 +62,7 @@ DataFrames 0.0.0 0.11.0
 Lint 0.1.17
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.17
 ------
@@ -63,6 +71,7 @@ Lint 0.1.17
 julia 0.3-
 Compat 0.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.18
 ------
@@ -71,6 +80,7 @@ Lint 0.1.17
 julia 0.3-
 Compat 0.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.19
 ------
@@ -79,11 +89,13 @@ Lint 0.1.17
 julia 0.3-
 Compat 0.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.2
 -----
 4ee6df781e8a5ab79ef26c3080b19e02e6084a59
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.20
 ------
@@ -92,6 +104,7 @@ Lint 0.1.17
 julia 0.3-
 Compat 0.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.21
 ------
@@ -101,6 +114,7 @@ julia 0.3-
 Compat 0.1
 Formatting 0.1.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.22
 ------
@@ -110,6 +124,7 @@ julia 0.3-
 Compat 0.1
 Formatting 0.1.1
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.23
 ------
@@ -118,7 +133,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 
 0.0.24
@@ -128,7 +143,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 
 0.0.25
@@ -138,7 +153,7 @@ Lint 0.1.55
 julia 0.3-
 Compat 0.1
 Formatting 0.1.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -149,7 +164,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -160,7 +175,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -171,7 +186,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -182,7 +197,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -190,6 +205,7 @@ DataFramesMeta
 -----
 a130c59a24847e0afad77b2c9c879c65bd975904
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.30
 ------
@@ -198,7 +214,7 @@ Lint 0.1.58
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 
@@ -209,7 +225,7 @@ Lint 0.1.60
 julia 0.3-
 Compat 0.1
 Formatting 0.1.2
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 DataFramesMeta
 Lazy
@@ -218,11 +234,13 @@ Lazy
 -----
 c2dceb9ff214ef776e6dae18c33f23dff7aa4a18
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.5
 -----
 623d44be85ebb95286789f40b6d5c67abe45a5e9
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.6
 -----
@@ -230,6 +248,7 @@ DataFrames 0.0.0 0.11.0
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.7
 -----
@@ -237,6 +256,7 @@ DataFrames 0.0.0 0.11.0
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.8
 -----
@@ -244,6 +264,7 @@ d7cde18fd66337ce230ecb0258a05a37b2c11d2e
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0
 
 0.0.9
 -----
@@ -251,3 +272,4 @@ DataFrames 0.0.0 0.11.0
 Lint
 julia 0.3-
 DataFrames 0.0.0 0.11.0
+DataArrays 0.0.0 0.7.0

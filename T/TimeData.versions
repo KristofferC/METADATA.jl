@@ -5,6 +5,7 @@ git://github.com/JuliaFinMetriX/TimeData.jl.git
 8e21647279adb3722a3d8a0ad11a43c96fb28fc8
 julia 0.2-
 DataFrames 0.4.1 0.11.0
+DataArrays 0.0.0 0.7.0
 Datetime 0.1.2
 
 0.1.0

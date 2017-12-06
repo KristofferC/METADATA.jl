@@ -10,7 +10,7 @@ Compat
 StatsBase
 Distances
 Distributions
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Clustering
 
@@ -24,7 +24,7 @@ Compat
 StatsBase
 Distances
 Distributions
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Clustering
 
@@ -38,7 +38,7 @@ Compat
 StatsBase
 Distances
 Distributions
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Clustering
 
@@ -52,7 +52,7 @@ Compat
 StatsBase
 Distances
 Distributions
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Clustering
 

@@ -7,7 +7,7 @@ julia 0.3
 Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 GLM
 
@@ -18,7 +18,7 @@ julia 0.3
 Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 GLM
 
@@ -29,7 +29,7 @@ julia 0.3
 Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.3
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 GLM
 
@@ -40,7 +40,7 @@ julia 0.3
 Distributions 0.4.6
 Distances 0.1.1
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 
 0.1.1
@@ -50,7 +50,7 @@ julia 0.3
 Compat
 Distributions 0.4.6
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 
 0.2.0
@@ -60,7 +60,7 @@ julia 0.4-
 Compat
 Distributions 0.4.6
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 
 0.2.1
@@ -70,7 +70,7 @@ julia 0.4-
 Compat
 Distributions 0.4.6
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 
 0.2.2
@@ -80,7 +80,7 @@ julia 0.4-
 Compat
 Distributions 0.4.6
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.7.7
 
 0.3.0
@@ -90,7 +90,7 @@ julia 0.5-
 Compat
 Distributions 0.4.6
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.8.0
 
 0.3.1

@@ -6,7 +6,7 @@ c5b4d86c7955b5be776078b4e23cf146806fd17a
 julia 0.5-
 Distances  0.1.1
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.11.0
 LeastSquaresOptim 0.2.0
 Reexport
@@ -18,7 +18,7 @@ FixedEffectModels 0.3.0
 julia 0.5
 Distances  0.1.1
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.11.0
 LeastSquaresOptim 0.2.0
 Reexport
@@ -30,7 +30,7 @@ FixedEffectModels 0.3.1
 julia 0.6.0-pre
 Distances  0.1.1
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.11.0
 LeastSquaresOptim 0.3.0
 Reexport
@@ -43,7 +43,7 @@ fca6ec7de77aff576f5c87a9d8ad6094762189af
 julia 0.6.0-pre
 Distances  0.1.1
 StatsBase 0.7.1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.6 0.11.0
 LeastSquaresOptim 0.4.0
 Reexport

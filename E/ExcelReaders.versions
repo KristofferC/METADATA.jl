@@ -4,7 +4,7 @@ git://github.com/davidanthoff/ExcelReaders.jl.git
 -----
 664bd6aabc4e6d80bf0caa3dc59cd585b9cd586e
 PyCall
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 
@@ -12,7 +12,7 @@ Dates
 -----
 a1336ef08b964bd493d7fd00bc4aff39ea9c964c
 PyCall
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 
@@ -21,7 +21,7 @@ Dates
 f09fc99145143a5a1a816bc18531f8b57f37b937
 julia 0.3
 Compat
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall
@@ -31,7 +31,7 @@ PyCall
 b5b29a04be142454e2d2e4ed2743c16fed1f296d
 julia 0.3
 Compat
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.1
@@ -41,7 +41,7 @@ Conda
 -----
 8aea18cde0a31551013904ea105d44334ef59850
 julia 0.4
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.1
@@ -51,7 +51,7 @@ Conda
 -----
 3a1c133b9af691d4f2679b504e70e89e3b055843
 julia 0.4
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.5
@@ -60,7 +60,7 @@ PyCall 1.5
 -----
 398738ccdf5111b05782f0f523197b2fd950d429
 julia 0.4
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.5
@@ -69,7 +69,7 @@ PyCall 1.5
 -----
 e8cfbe66649a0ae8dea5538ebf755dae341e3ea0
 julia 0.4
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.5
@@ -79,7 +79,7 @@ Compat 0.8.6
 -----
 5be5a99eee42c905a67e10a956e912eb6b40ee1b
 julia 0.5
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.5
@@ -89,7 +89,7 @@ Compat 0.9.5
 -----
 81fdd918a4c77e45fb9fd054c5bac005635e6b19
 julia 0.6.0-rc1
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 Dates
 PyCall 1.5
@@ -98,7 +98,7 @@ PyCall 1.5
 -----
 3e55cdb38d265f707773c51c08f23f2c103641d3
 julia 0.6
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 PyCall 1.5
 
@@ -106,6 +106,6 @@ PyCall 1.5
 -----
 89b76f938d9f3c14ce48c3cd617066472736813b
 julia 0.6
-DataArrays 0.0.1 0.7.0
+DataArrays 0.0.0 0.7.0
 DataFrames 0.0.0 0.11.0
 PyCall 1.5
