@@ -81,7 +81,7 @@ LLVM 0.3.8 0.3.10
 -----
 b04f4ea250744c720f7bad594f520d0cfa085fa7
 julia 0.6
-CUDAdrv 0.5.0
+CUDAdrv 0.5.0 0.7.0
 LLVM 0.3.11
 CUDAapi
 
@@ -89,7 +89,7 @@ CUDAapi
 -----
 4001bf0e03e569864d387ed488e15e9af826995c
 julia 0.6
-CUDAdrv 0.5.0
+CUDAdrv 0.5.0 0.7.0
 LLVM 0.3.11
 CUDAapi 0.1.3
 
@@ -97,6 +97,6 @@ CUDAapi 0.1.3
 -----
 efd50d8efd94dcf0c5e792cdd5b1dc878c65a5f3
 julia 0.6
-CUDAdrv 0.5.0
+CUDAdrv 0.5.0 0.7.0
 LLVM 0.3.11
 CUDAapi 0.1.3

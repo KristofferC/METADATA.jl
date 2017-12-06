@@ -117,3 +117,10 @@ dccdaa0f39477e9570b5c24d0b15ac849e93582f
 julia 0.6
 Compat 0.33.0
 CUDAapi 0.1.1
+
+0.7.0
+-----
+9dc229600e70223b4ab4cfab7bc23e4b36da7bf0
+julia 0.6
+Compat 0.33.0
+CUDAapi 0.1.1

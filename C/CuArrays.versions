@@ -5,7 +5,7 @@ https://github.com/JuliaGPU/CuArrays.jl.git
 03ec146e2f8c158bec2a5cedb630c9d44481a31d
 julia 0.6
 CUDAnative 0.4
-CUDAdrv 0.5
+CUDAdrv 0.5 0.7.0
 CUBLAS
 
 0.1.1
@@ -13,7 +13,7 @@ CUBLAS
 f989092aa5585056828b189257ef73ed5276187f
 julia 0.6
 CUDAnative 0.5
-CUDAdrv 0.5
+CUDAdrv 0.5 0.7.0
 CUBLAS 0.2.2
 CUDNN 0.4.0
 NNlib
@@ -23,7 +23,7 @@ NNlib
 54e550b2d8c3fcfaf0009341532d179497a642ba
 julia 0.6
 CUDAnative 0.5
-CUDAdrv 0.5
+CUDAdrv 0.5 0.7.0
 CUDAapi
 CUDNN 0.4.0
 NNlib
@@ -33,7 +33,7 @@ NNlib
 114c1c82523d140060277ac5760e72408fde234d
 julia 0.6
 CUDAnative 0.5
-CUDAdrv 0.5
+CUDAdrv 0.5 0.7.0
 CUDAapi
 NNlib
 
@@ -42,7 +42,7 @@ NNlib
 12269b828626bf519e442076caf36b5b9582d775
 julia 0.6
 CUDAnative 0.5
-CUDAdrv 0.5
+CUDAdrv 0.5 0.7.0
 CUDAapi
 NNlib
 GPUArrays

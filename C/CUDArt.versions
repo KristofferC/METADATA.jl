@@ -59,28 +59,28 @@ julia 0.4-
 88c44b70edc1d0a256297f91f0ee5bef774d8d5c
 julia 0.5
 Compat 0.18.0
-CUDAdrv 0.2.4
+CUDAdrv 0.2.4 0.7.0
 
 0.3.1
 -----
 dc286ac19293aa621ac086599d2249a8c6193afe
 julia 0.5
 Compat 0.18.0
-CUDAdrv 0.2.4
+CUDAdrv 0.2.4 0.7.0
 
 0.3.2
 -----
 622dfa539fa53c3eca434cff40af37ced69d533f
 julia 0.5
 Compat 0.18.0
-CUDAdrv 0.4.1
+CUDAdrv 0.4.1 0.7.0
 
 0.4.0
 -----
 d9b78c53c8223833412557433a8b5970b6d6e7f1
 julia 0.5
 Compat 0.18.0
-CUDAdrv 0.4.1
+CUDAdrv 0.4.1 0.7.0
 CUDAapi
 
 0.4.1
@@ -88,5 +88,5 @@ CUDAapi
 55fbd5a4d2b6f03269d66b8d6c953cb2cd855290
 julia 0.5
 Compat 0.18.0
-CUDAdrv 0.4.1
+CUDAdrv 0.4.1 0.7.0
 CUDAapi
