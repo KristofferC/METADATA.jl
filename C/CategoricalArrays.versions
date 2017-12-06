@@ -120,3 +120,11 @@ e1c57a24027666dc856598e952ecc2c9018f53c9
 julia 0.6
 Missings
 Reexport
+
+0.3.1
+-----
+8e2da16f24fc47c324db16f0bbc851cc8f022268
+julia 0.6
+Missings
+Reexport
+Compat 0.32.0

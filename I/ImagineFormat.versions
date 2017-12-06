@@ -96,3 +96,13 @@ ImageMetadata 0.1.1
 FixedPointNumbers 0.3.0
 FileIO
 Unitful
+
+0.7.0
+-----
+6ecc90676fd29c9b6f4656a89aa429705bc11849
+julia 0.6
+AxisArrays
+ImageMetadata 0.1.1
+FixedPointNumbers 0.3.0
+FileIO
+Unitful
