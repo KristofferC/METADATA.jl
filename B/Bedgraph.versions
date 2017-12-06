@@ -18,6 +18,12 @@ cbd1aa001f2148a7e5626b06fd976a1dbe90e79e
 julia 0.6
 DataFrames 0.9.0
 
+0.2.1
+-----
+b6c392f8498cffad3671635b4ad23bdb4e87fd6b
+julia 0.6
+DataFrames 0.9.0
+
 0.2.2
 -----
 4f7730bc3cdb9983fceefafc3162df33d31863a4

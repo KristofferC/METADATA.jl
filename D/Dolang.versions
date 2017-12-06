@@ -32,3 +32,12 @@ DataStructures
 Compat 0.18
 SymEngine
 StaticArrays
+
+0.2.1
+-----
+7a87a425eb7ccf071237574f22953f714b2e454c
+julia 0.6
+DataStructures
+Compat 0.18
+SymEngine
+StaticArrays
