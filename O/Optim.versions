@@ -46,6 +46,17 @@ Calculus
 Distributions
 Options
 
+0.11.0
+------
+77858908144b3b852f2ad8e84d52921eea5e69a5
+julia 0.6.0
+PositiveFactorizations
+Compat 0.18.0
+LineSearches 3.2.0
+Calculus
+NLSolversBase 3.0.0
+ForwardDiff 0.5.0
+
 0.1.2
 -----
 28cb0952b5c0934a3375f94979ce2a58a194a85f
