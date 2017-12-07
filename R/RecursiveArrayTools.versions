@@ -118,6 +118,14 @@ Juno
 RecipesBase 0.1.0
 StaticArrays
 
+0.13.1
+------
+3f956efb265d2ca05ca03b1b438705d9c539e356
+julia 0.6
+Juno
+RecipesBase 0.1.0
+StaticArrays
+
 0.2.0
 -----
 0c3431dd08ba840ad1d807c835e42d2360d9b411
