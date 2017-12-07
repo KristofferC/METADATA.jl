@@ -254,7 +254,7 @@ Roots
 67bd41944754cb8c36c99dfdaf61216dc56305a1
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.24.0
+OrdinaryDiffEq 2.24.0 2.30.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport
@@ -268,7 +268,7 @@ Roots
 085d714bf74174581634204620e4301902307fca
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.24.0
+OrdinaryDiffEq 2.24.0 2.30.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport
@@ -282,7 +282,7 @@ Roots
 c3de652feb158ba818d9eb88f0d16cffcceece71
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.24.0
+OrdinaryDiffEq 2.24.0 2.30.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport
@@ -296,7 +296,22 @@ Roots
 7a5a15e6ec39f12a4911e0808a09d892ab5bd61d
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.24.0
+OrdinaryDiffEq 2.24.0 2.30.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Reexport
+MuladdMacro
+ForwardDiff
+NLsolve
+Roots
+DiffEqDiffTools 0.2.0
+
+1.8.0
+-----
+0427380909b1eedde2e8f6caeea52a3633d753d9
+julia 0.6
+DiffEqBase 2.0.0
+OrdinaryDiffEq 2.31.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport

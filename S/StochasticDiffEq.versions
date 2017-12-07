@@ -9,6 +9,7 @@ Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.0.0 0.8.0
 ForwardDiff 0.0.0 0.5.0
+RecursiveArrayTools 0.0.0 0.13.0
 
 0.0.2
 -----
@@ -19,6 +20,7 @@ Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.0.0 0.8.0
 ForwardDiff 0.0.0 0.5.0
+RecursiveArrayTools 0.0.0 0.13.0
 
 0.0.3
 -----
@@ -29,6 +31,7 @@ Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.0.0 0.8.0
 ForwardDiff 0.0.0 0.5.0
+RecursiveArrayTools 0.0.0 0.13.0
 
 0.0.4
 -----
@@ -38,7 +41,7 @@ ParameterizedFunctions 0.1.0
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.0.0 0.8.0
-RecursiveArrayTools
+RecursiveArrayTools 0.0.0 0.13.0
 ForwardDiff 0.0.0 0.5.0
 
 0.0.5
@@ -48,7 +51,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.0.0 0.8.0
-RecursiveArrayTools
+RecursiveArrayTools 0.0.0 0.13.0
 ForwardDiff 0.0.0 0.5.0
 
 0.1.0
@@ -58,7 +61,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.2.0 0.8.0
-RecursiveArrayTools 0.0.2
+RecursiveArrayTools 0.0.2 0.13.0
 ForwardDiff 0.0.0 0.5.0
 
 0.1.1
@@ -68,7 +71,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.2.0 0.8.0
-RecursiveArrayTools 0.0.2
+RecursiveArrayTools 0.0.2 0.13.0
 ForwardDiff 0.0.0 0.5.0
 
 0.2.0
@@ -78,7 +81,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.2.0 0.8.0
-RecursiveArrayTools 0.0.2
+RecursiveArrayTools 0.0.2 0.13.0
 ForwardDiff 0.0.0 0.5.0
 
 0.3.0
@@ -88,7 +91,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.2.0 0.8.0
-RecursiveArrayTools 0.0.2
+RecursiveArrayTools 0.0.2 0.13.0
 DataStructures
 ResettableStacks
 Juno
@@ -101,7 +104,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.4.0 0.8.0
-RecursiveArrayTools 0.1.2
+RecursiveArrayTools 0.1.2 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -114,7 +117,7 @@ julia 0.5
 Parameters 0.5.0
 ChunkedArrays 0.1.0
 DiffEqBase 0.4.0 0.8.0
-RecursiveArrayTools 0.1.2
+RecursiveArrayTools 0.1.2 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -126,7 +129,7 @@ e04accfa8f7acb988e11eae19d5a87a92ef407cd
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.8.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -140,7 +143,7 @@ b91b8cd99f4996d1a46d9ee0d3f33c20184b0898
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.8.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -154,7 +157,7 @@ d2c97966d5d547e221b280d097d4b8dd3cc6029d
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.8.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -168,7 +171,7 @@ d956d619c36baf1c2663d24d443b95fbbb82507e
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.11.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -182,7 +185,7 @@ ForwardDiff 0.0.0 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.11.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -197,7 +200,7 @@ c21f9414bbd1868f376e9226781b69772de677a8
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.11.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -212,7 +215,7 @@ ForwardDiff 0.0.0 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.13.0 0.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -227,7 +230,7 @@ ForwardDiff 0.0.0 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 0.15.0 1.0.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 ResettableStacks 0.0.1
 Juno 0.2.5
@@ -242,7 +245,7 @@ ForwardDiff 0.0.0 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.1.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -258,7 +261,7 @@ a62a06b1f061e4ee7f76c1bfe15b35d4a798964d
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.1.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -274,7 +277,7 @@ ForwardDiff 0.0.1 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -290,7 +293,7 @@ ForwardDiff 0.0.1 0.5.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -306,7 +309,7 @@ df56191ff71a4bf205794dca3166c0355a625b3b
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -322,7 +325,7 @@ f792d76cd1f673571718bf511a6db77a47650f3d
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -338,7 +341,7 @@ ForwardDiff 0.0.1 0.5.0
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.16.0 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -357,7 +360,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.16.0 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -376,7 +379,7 @@ db687b77bc9f1e527e364acbb58c0bbc5ee4e146
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.16.0 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -395,7 +398,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.24.0 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -414,7 +417,7 @@ f53d32cbfba78920cbc2ad610f51a128cc68df66
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.24.0 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -433,7 +436,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -452,7 +455,7 @@ d5d2c3a20ef28c5dbf7e3a0302282e6353034da6
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -471,7 +474,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -490,7 +493,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -509,7 +512,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -528,7 +531,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.0.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -547,7 +550,7 @@ MuladdMacro
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.4.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -567,7 +570,7 @@ DiffEqDiffTools 0.1.0 0.2.0
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.4.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -587,7 +590,7 @@ DiffEqDiffTools 0.1.0 0.2.0
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.4.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -607,7 +610,7 @@ DiffEqDiffTools 0.2.0
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.4.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -627,7 +630,7 @@ f930d6e570ea72ff6979ad427f48796dd0df5f31
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 2.6.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -647,7 +650,7 @@ DiffEqDiffTools 0.2.0
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -658,13 +661,33 @@ NLsolve
 ForwardDiff 0.0.1 0.5.0
 StaticArrays
 
+2.20.0
+------
+c0aea523b009b31ff9e0fa22abbae88c1c4f4bde
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 2.6.0
+RecursiveArrayTools 0.13.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.5.0
+NLsolve
+ForwardDiff 0.7.0
+StaticArrays
+Reexport
+RandomNumbers
+MuladdMacro
+DiffEqDiffTools 0.2.0
+
 2.2.1
 -----
 9e160da798d88e201b16d0a6b814136c58ac49d8
 julia 0.5
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.2.0
+RecursiveArrayTools 0.2.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -681,7 +704,7 @@ ae69ef4f5cd80e2c7d36f479e59a57ec4d6e8e22
 julia 0.6.0-pre
 Parameters 0.5.0
 DiffEqBase 1.2.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -697,7 +720,7 @@ b682c1e3d1f12388989d537d99b1129234d0fe94
 julia 0.6.0-pre
 Parameters 0.5.0
 DiffEqBase 1.10.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -713,7 +736,7 @@ StaticArrays
 julia 0.6.0-pre
 Parameters 0.5.0
 DiffEqBase 1.10.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -730,7 +753,7 @@ bd0516b2db2a189267bdf1e0ab0cb6603e8486fe
 julia 0.6.0-pre
 Parameters 0.5.0
 DiffEqBase 1.10.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -747,7 +770,7 @@ Reexport
 julia 0.6.0-pre
 Parameters 0.5.0
 DiffEqBase 1.10.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -764,7 +787,7 @@ Reexport
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.13.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -782,7 +805,7 @@ RandomNumbers
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.13.0 1.15.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -800,7 +823,7 @@ ea3f1ae97f522f5c6bf74c48327efc26afb15593
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.15.0 1.16.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -818,7 +841,7 @@ RandomNumbers
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.15.0 1.16.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
@@ -836,7 +859,7 @@ RandomNumbers
 julia 0.6.0
 Parameters 0.5.0
 DiffEqBase 1.15.0 1.16.0
-RecursiveArrayTools 0.8.0
+RecursiveArrayTools 0.8.0 0.13.0
 DataStructures 0.4.6
 Juno 0.2.5
 Roots
