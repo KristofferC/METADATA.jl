@@ -38,6 +38,12 @@ DataFrames 0.0.0 0.11.0
 DataArrays 0.0.0 0.7.0
 Datetime
 
+0.11.0
+------
+e7c79bd45e555825e8b39cec4444d39a4a2062ba
+julia 0.6
+RecipesBase 0.2.3
+
 0.1.2
 -----
 07491c39d3b819f65f36ec57e3892238644afed5

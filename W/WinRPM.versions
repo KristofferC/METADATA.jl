@@ -395,3 +395,15 @@ LibExpat 0.2.8
 Libz
 BinDeps 0.3
 SHA
+
+0.3.1
+-----
+d7c9262c5bfe346fe9005112e1ef7ea95b97bc3d
+julia 0.6
+Compat 0.30.0
+URIParser 0.0.3
+@unix HTTPClient 0.0.0
+LibExpat 0.2.8
+Libz
+BinDeps 0.3
+SHA

@@ -345,3 +345,14 @@ BinDeps 0.3.21
 Graphics 0.1
 @osx Homebrew
 @windows WinRPM
+
+0.4.0
+-----
+10913a18895481fd49ec661ff6c7a5730814e962
+julia 0.5
+Compat 0.39.0
+Colors
+BinDeps 0.3.21
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM

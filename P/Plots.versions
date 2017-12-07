@@ -275,6 +275,24 @@ NaNMath
 Requires
 Contour
 
+0.14.0
+------
+acfb14a1f55da9122f8b0e949bdf963c61ab4dcb
+julia 0.6
+RecipesBase 0.2.3
+PlotUtils 0.4.1
+PlotThemes 0.1.3
+Reexport
+StaticArrays 0.5
+FixedPointNumbers 0.3
+Measures
+Showoff
+StatsBase 0.14.0
+JSON
+NaNMath
+Requires
+Contour
+
 0.2.0
 -----
 22fd25b30f48b95bd6dff22b560e9a5554507cfe
