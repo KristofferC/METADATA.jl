@@ -90,3 +90,11 @@ julia 0.6
 FactCheck
 Nettle 0.2
 HTTP
+
+0.6.1
+-----
+bdfe2c9d0bd14b1bb70a7691d2238523cae7de2e
+julia 0.6
+FactCheck
+Nettle 0.2
+HTTP

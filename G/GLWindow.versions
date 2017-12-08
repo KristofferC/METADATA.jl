@@ -279,3 +279,17 @@ ColorTypes 0.3.1
 StaticArrays # FieldVector
 GLFW 1.4.0 # version with fullscreen support
 FileIO
+
+0.7.1
+-----
+7e00292a889a374ad29b99e7470a9ed1a3c32f0d
+julia 0.6
+Reactive 0.5.2
+GLAbstraction 0.5
+GeometryTypes 0.4.1
+ModernGL 0.1.0
+FixedPointNumbers 0.3.0
+ColorTypes 0.3.1
+StaticArrays # FieldVector
+GLFW 1.4.0 # version with fullscreen support
+FileIO

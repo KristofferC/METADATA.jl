@@ -41,3 +41,12 @@ JavaCall 0.5.0
 Requires
 Compat 0.17
 DBAPI
+
+0.2.1
+-----
+bee945293b2798ae605594ba5ab87fc1743e319e
+julia 0.5
+JavaCall 0.5.0
+Requires
+Compat 0.17
+DBAPI

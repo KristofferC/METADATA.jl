@@ -1,0 +1,8 @@
+https://github.com/lanl-ansi/Juniper.jl.git
+
+0.1.0
+-----
+3632fff922519d6599c46a4a893a44e9c8b71a30
+julia 0.5
+MathProgBase 0.6 0.7-
+JuMP 0.17 0.19-
