@@ -6,3 +6,10 @@ https://github.com/SimonDanisch/PackageCompiler.jl.git
 julia 0.6
 SnoopCompile
 @windows WinRPM
+
+0.2.0
+-----
+be291ccf5da92d9320878aebffa5a60421666d82
+julia 0.6
+SnoopCompile
+@windows WinRPM

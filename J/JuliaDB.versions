@@ -275,3 +275,19 @@ PooledArrays 0.0.2
 OnlineStats v0.13.0
 StatsBase
 DataValues
+
+0.4.3
+-----
+726b09adbf6cc21571b3d58e6abfb10ef9a6d20a
+julia 0.6
+IndexedTables 0.4.2
+NamedTuples 4.0.0
+TextParse 0.3.0
+MemPool
+Dagger 0.4.0
+Glob 1.1.1
+OnlineStats 0.13.0
+PooledArrays 0.0.2
+OnlineStats v0.13.0
+StatsBase
+DataValues

@@ -61,3 +61,11 @@ julia 0.6
 GeometryTypes 0.4
 ColorTypes
 FileIO
+
+0.1.1
+-----
+e145c9f11f15048859d2485ad4849932d66eea5b
+julia 0.6
+GeometryTypes 0.4
+ColorTypes
+FileIO
