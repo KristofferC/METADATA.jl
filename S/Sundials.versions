@@ -119,6 +119,16 @@ BinDeps 0.4.3
 DiffEqBase 1.5.1
 Reexport
 
+0.17.0
+------
+19caaf8c5025d65a9994dbab6fc21e3de7f93452
+julia 0.6.0
+BinDeps 0.4.3
+DiffEqBase 1.5.1
+Reexport
+DataStructures
+Roots
+
 0.2.0
 -----
 209b3b84a3f5e9e7455eac75d70ac220f4826c2c
