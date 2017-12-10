@@ -17,3 +17,12 @@ BinDeps 0.4.3
 Compat 0.17.0
 Parameters 0.5.0
 DiffEqBase 0.15.0
+
+0.2.0
+-----
+a725621f49f45639353686ae7aa626361d05a855
+julia 0.6
+BinDeps 0.4.3
+Compat 0.17.0
+Parameters 0.5.0
+DiffEqBase 1.5.1
