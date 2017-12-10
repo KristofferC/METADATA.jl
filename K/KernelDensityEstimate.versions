@@ -117,3 +117,10 @@ Colors
 Compose
 Distributions
 Compat 0.18
+
+0.3.0
+-----
+bf999459c928c4c9bb3089043c836b48fa1ad8df
+julia 0.6
+Distributions
+Compat 0.18

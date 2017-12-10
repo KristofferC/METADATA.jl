@@ -1,0 +1,12 @@
+https://github.com/dehann/KernelDensityEstimatePlotting.jl.git
+
+0.0.1
+-----
+94b0ee57f475d52238620ea2fd346d66db4a7292
+julia 0.6
+KernelDensityEstimate
+Cairo
+Fontconfig
+Gadfly
+Colors
+Compose
