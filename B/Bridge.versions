@@ -26,3 +26,13 @@ Polynomials
 Distributions 0.11.1
 StaticArrays 0.6.1
 Compat 0.28.0
+
+0.7.0
+-----
+ed79aad8c8a54b1aaefe4ac925cf5fe3fb7259b5
+julia 0.6
+Polynomials
+Distributions 0.11.1
+StaticArrays 0.6.3
+Compat 0.28.0
+RecipesBase

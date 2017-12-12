@@ -85,3 +85,13 @@ Matcha 0.1.1 # for fixing matchreplace
 DataStructures
 Compat 0.17.0
 StaticArrays 0.3.0
+
+0.4.2
+-----
+afa3da222b3b3eb1df3fe1be76b4d892e91c9d98
+julia 0.6
+MacroTools
+Matcha 0.1.1 # for fixing matchreplace
+DataStructures
+Compat 0.17.0
+StaticArrays 0.3.0
