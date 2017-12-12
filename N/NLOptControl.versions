@@ -21,3 +21,16 @@ JuMP
 DataFrames 0.0.0 0.11.0
 Ranges
 Ipopt
+
+0.1.4
+-----
+fcb6e8f3ea78c8b84d69edb3755d1d27d09f4701
+julia 0.6
+FastGaussQuadrature
+JuMP
+DataFrames
+Ranges
+Ipopt
+KNITRO
+Interpolations
+MathProgBase

@@ -4,3 +4,8 @@ https://github.com/JuliaCollections/IterTools.jl.git
 -----
 6b847ab8e23c37f0ed1c6d7007ec01dc41328381
 julia 0.4
+
+0.2.0
+-----
+f7dbe509d201098e65c6fc2be18547047d10eeb2
+julia 0.6
