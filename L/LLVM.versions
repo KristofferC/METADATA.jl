@@ -131,3 +131,9 @@ Compat 0.33.0
 fb17dad3da6cc28a9b99756c5b19788dc42346f7
 julia 0.7.0-DEV.2576
 Compat 0.39.0
+
+0.9.3
+-----
+d867e47816fcfb1c3a841bbb802377951b1619fd
+julia 0.7.0-DEV.2576
+Compat 0.39.0
