@@ -1,0 +1,8 @@
+https://github.com/JuliaGeometry/EarCut.jl.git
+
+1.0.0
+-----
+0af110e698c450998f26b6ec809283b932fcf73f
+julia 0.6
+GeometryTypes
+@windows WinRPM

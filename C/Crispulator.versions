@@ -1,0 +1,16 @@
+https://github.com/tlnagy/Crispulator.jl.git
+
+0.2.0
+-----
+d048e2b13705038ffb9803a6ff4ac9cb5862c24d
+julia 0.6
+StatsBase
+Distributions
+DataFrames
+HypothesisTests
+IterTools
+ColorBrewer
+Gadfly
+ArgParse
+Compat v0.17.0
+YAML
