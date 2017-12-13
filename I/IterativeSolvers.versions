@@ -68,3 +68,12 @@ UnicodePlots
 RecipesBase
 SugarBLAS
 LinearMaps
+
+0.4.2
+-----
+46b05250aa1c7dd1d399d64b8a323d7db37f26ea
+julia 0.6
+UnicodePlots
+RecipesBase
+SugarBLAS
+LinearMaps

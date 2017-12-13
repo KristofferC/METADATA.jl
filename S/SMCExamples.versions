@@ -1,0 +1,9 @@
+https://github.com/awllee/SMCExamples.jl.git
+
+0.0.1
+-----
+91254176c298844ace3ec39a454497531e21aa9a
+julia 0.6
+SequentialMonteCarlo
+StaticArrays
+KernelDensity

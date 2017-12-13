@@ -111,3 +111,13 @@ BinDeps 0.4.5
 Compat 0.9.5
 Nemo 0.6.0
 ReadableNumbers 0.0.3
+
+0.3.0
+-----
+c50e3d29b6b38c83bfc279aaa5e8ee8c06c994ee
+julia 0.7.0-
+BinDeps 0.4.5
+Compat 0.9.5
+Nemo 0.7.0
+ReadableNumbers 0.0.3
+# SpecialFunctions 0.3.5 wait for stability
