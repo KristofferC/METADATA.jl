@@ -61,3 +61,20 @@ FunctionWrappers
 Dierckx 0.2.1
 ForwardDiff 0.4
 PositiveFactorizations
+
+0.2.1
+-----
+5ccb3ea7d8cbad801994c97054ef2e077b340878
+julia 0.6
+PyCall
+StaticArrays
+Optim 0.10
+LineSearches
+Calculus
+PyAMG
+JSON
+Reexport
+FunctionWrappers
+Dierckx 0.2.1
+ForwardDiff 0.4
+PositiveFactorizations
