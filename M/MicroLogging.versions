@@ -6,3 +6,10 @@ f8d43d1bc7e26d22e18d42c66d2e973f7e7022e5
 julia 0.6
 Compat 0.25.0
 FastClosures
+
+0.2.0
+-----
+6a2f79e9bba88e10f06dcaae2ed6d5a2bf58e7d1
+julia 0.6
+Compat 0.33.0
+FastClosures

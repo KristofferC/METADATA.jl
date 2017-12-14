@@ -15,3 +15,11 @@ julia 0.5
 Compat 0.17.0
 LIBLINEAR 0.2.1
 ScikitLearnBase
+
+0.1.1
+-----
+68cf7c483c678417acb0eaa3bbc6ff7486228393
+julia 0.5
+Compat 0.17.0
+LIBLINEAR 0.2.1
+ScikitLearnBase

@@ -1,0 +1,7 @@
+https://github.com/tpapp/MCMCDiagnostics.jl.git
+
+0.1.0
+-----
+2a97575b131b4e24060e0eed71d740a60a5e8ff7
+julia 0.6
+StatsBase

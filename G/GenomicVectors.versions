@@ -59,3 +59,13 @@ AxisArrays 0.1.3
 RLEVectors 0.3.2
 DataTables 0.0.3
 RCall 0.7.4
+
+0.2.1
+-----
+f126624d51434062f2365086dfa847a2849a24bf
+julia 0.6
+GenomicFeatures 0.2.0
+AxisArrays 0.1.3
+RLEVectors 0.3.2
+DataFrames 0.0.1
+RCall 0.7.4
