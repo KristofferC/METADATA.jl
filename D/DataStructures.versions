@@ -3,11 +3,12 @@ git://github.com/JuliaCollections/DataStructures.jl.git
 0.0.0
 -----
 e952559198dbed694d74adabad9795e7b8ea646b
+julia 0.0.0 0.5.0
 
 0.2.0
 -----
 a934b9ca03db47657f0206b02ae7d9ce85a77162
-julia 0.2-
+julia 0.2- 0.5.0
 
 0.2.10
 ------
@@ -42,12 +43,12 @@ julia 0.2- 0.4.0
 0.2.2
 -----
 043ed242e608aee9f83823c547e67c730f2cb99a
-julia 0.2-
+julia 0.2- 0.5.0
 
 0.2.3
 -----
 043ed242e608aee9f83823c547e67c730f2cb99a
-julia 0.2-
+julia 0.2- 0.5.0
 
 0.2.4
 -----
@@ -92,35 +93,35 @@ julia 0.3- 0.4.0
 0.3.10
 ------
 2f25f0679d26b159629c33ad3418e6619aa79393
-julia 0.3
+julia 0.3 0.5.0
 Compat
 Docile
 
 0.3.11
 ------
 27f9c9291230064f07f3183a3c8f7ad4335f602f
-julia 0.3
+julia 0.3 0.5.0
 Compat
 Docile
 
 0.3.12
 ------
 631824366e269cf415e2fdaeb79d7c35266d0ac1
-julia 0.3
+julia 0.3 0.5.0
 Compat
 Docile
 
 0.3.13
 ------
 49561fa79d39caf8c92d584e88750c1666a10480
-julia 0.3
+julia 0.3 0.6.0
 Compat 0.7.1
 Docile
 
 0.3.14
 ------
 1b3edeb01a2dac87790596f782fda37a096a3ef0
-julia 0.3
+julia 0.3 0.6.0
 Compat 0.7.1
 Docile
 
@@ -153,110 +154,110 @@ Compat
 0.3.7
 -----
 9081d6260207b5a09a190c4faa95837595345c3f
-julia 0.3-
+julia 0.3- 0.5.0
 Compat
 Docile
 
 0.3.8
 -----
 c1cbcb3ad62dab29e7765089c4eef2f3afc1a344
-julia 0.3-
+julia 0.3- 0.5.0
 Compat
 Docile
 
 0.3.9
 -----
 79e517b1a41659290c18be31c0d25ec96578c7c7
-julia 0.3-
+julia 0.3- 0.5.0
 Compat
 Docile
 
 0.4.0
 -----
 789cf00848723b3ac67ac5f4f0f27c3dfc4c7304
-julia 0.4
+julia 0.4 0.6.0
 
 0.4.1
 -----
 118622617ea4db1b55e8e0c7249c41500d871073
-julia 0.4
+julia 0.4 0.6.0
 
 0.4.2
 -----
 fcc643ae32378a4c76672560e4f39661f8194998
-julia 0.4
+julia 0.4 0.6.0
 
 0.4.3
 -----
 151958999e51866d814561e1a71f2d1a2dde8757
-julia 0.4
+julia 0.4 0.5.0
 
 0.4.4
 -----
 f67dc0b144d1fcc83eb48a7beddca746d4841f9e
-julia 0.4
+julia 0.4 0.6.0
 
 0.4.5
 -----
 06792b4667f3dd3990a22a8affff8aeb087f6dec
-julia 0.4
+julia 0.4 0.6.0
 
 0.4.6
 -----
 52615e84024f2ac666469fb8f2af95a6194ad84c
-julia 0.4
+julia 0.4 0.6.0
 Compat 0.8.5
 
 0.5.0
 -----
 3afb7a24c304c67a0b3d432af89a2550333eb071
-julia 0.4
+julia 0.4 0.6.0
 Compat 0.9.4
 
 0.5.1
 -----
 7086f3a1fd28fef2b1a979c11ffefbd3f9daf251
-julia 0.4
+julia 0.4 0.6.0
 Compat 0.9.4
 
 0.5.2
 -----
 402a6d45cc016408888db299c94821538ecb55e1
-julia 0.4
+julia 0.4 0.7.0-DEV.1676
 Compat 0.9.4
 
 0.5.3
 -----
 63038135479f953ade6571662f4638d9953ebb82
-julia 0.4
+julia 0.4 0.7.0-DEV.1676
 Compat 0.17.0
 
 0.6.0
 -----
 ba696672be809f812dfef079819564b6065ffd36
-julia 0.5
+julia 0.5 0.7.0-DEV.1676
 Compat 0.17.0
 
 0.6.1
 -----
 c3059a99d867b681fce562c1c463968428226737
-julia 0.5
+julia 0.5 0.7.0-DEV.1676
 Compat 0.17.0
 
 0.7.0
 -----
 4b8de289604760b99d9a85691027710a74bc46a9
-julia 0.6
+julia 0.6 0.7.0-DEV.1676
 
 0.7.1
 -----
 08683b47824957bd057d0db448d3efdfdc632cf7
-julia 0.6
+julia 0.6 0.7.0-DEV.1676
 
 0.7.2
 -----
 880480f06b674dd0c1f00103ed3d69cd4ebb6d4d
-julia 0.6
+julia 0.6 0.7.0-DEV.2722
 
 0.7.3
 -----
