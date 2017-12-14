@@ -110,3 +110,13 @@ DataTables 0.0.1
 StatsBase 0.6.0
 AxisArrays 0.1.0
 RCall 0.7.4
+
+0.5.0
+-----
+ff21ff3e4fa35487e82cce6d721f82199fc5f86d
+julia 0.6
+DataFrames 0.0.1
+DataTables 0.0.1
+StatsBase 0.6.0
+AxisArrays 0.1.0
+RCall 0.7.4

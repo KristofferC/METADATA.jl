@@ -21,3 +21,14 @@ MLLabelUtils
 LightGraphs
 SimpleWeightedGraphs
 Distances
+
+0.0.3
+-----
+761bb6c5ce5800471ff1f9538efcd9a24b4256fe
+julia 0.6
+LearnBase
+MLDataPattern
+MLLabelUtils
+LightGraphs
+SimpleWeightedGraphs
+Distances
