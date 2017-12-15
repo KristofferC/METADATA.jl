@@ -18,3 +18,11 @@ ProtoBuf
 @windows WinRPM
 GZip
 JLD2
+
+0.0.3
+-----
+ce29ef184779873c3ceba6688710536aa2f3caf0
+julia 0.6
+GZip
+JLD2
+@windows WinRPM

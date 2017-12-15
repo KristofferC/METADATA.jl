@@ -53,3 +53,11 @@ julia 0.5
 Compat 0.17.0
 JSON 0.8
 Mocking 0.3
+
+0.4.0
+-----
+9957111ec03dbe2e258b9ba06ae22e1df72f80ad
+julia 0.6
+Compat 0.37.0
+Syslogs 0.0.1
+JSON 0.16.1

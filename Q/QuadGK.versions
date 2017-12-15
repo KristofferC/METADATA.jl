@@ -22,3 +22,10 @@ DataStructures 0.5.0
 fc047a40918f9b5b8a4758da2b35fd819426b8ca
 julia 0.4
 DataStructures 0.5.0
+
+0.2.0
+-----
+064d2f01a0c3ab825c24a0a38b2b454c7b43ca5e
+julia 0.6
+Compat 0.30.0
+DataStructures 0.5.0

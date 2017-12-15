@@ -1,0 +1,10 @@
+https://github.com/jonathanBieler/BlackBoxOptimizationBenchmarking.jl.git
+
+0.0.1
+-----
+88111bffb7ee46cf6dc51cdc9354fdff13843b2b
+julia 0.6
+Compat
+Memoize
+Distributions
+Optim

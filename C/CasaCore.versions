@@ -36,3 +36,10 @@ julia 0.5
 3a5691ab4b3de285dd83e9275b0e40bbcb722514
 julia 0.6
 Unitful 0.0.3
+
+0.2.1
+-----
+36c92bb4f746ac45ae0ebee05c2454ea9be23ccf
+julia 0.6
+StaticArrays
+Unitful 0.0.3
