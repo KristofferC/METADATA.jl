@@ -39,3 +39,11 @@ julia 0.6
 DataFrames 0.11
 StatsBase 0.19.2
 Compat 0.33.0
+
+0.2.1
+-----
+5896a9f3bcdaa40ccc8a18e668bbd823e6cf63ee
+julia 0.6
+DataFrames 0.11
+StatsBase 0.19.2
+Compat 0.33.0
