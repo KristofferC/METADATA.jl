@@ -75,3 +75,9 @@ MbedTLS 0.4.0
 julia 0.6
 MbedTLS 0.4.0
 Compat 0.37.0
+
+0.5.7
+-----
+8768b45b6e8cc97d38eb0ea4f9ded3059b1af04d
+julia 0.6
+MbedTLS 0.4.0
