@@ -66,3 +66,14 @@ FilePaths 0.2.0
 Mocking
 Compat 0.17.0
 Memento
+
+0.4.0
+-----
+63c97241542187c5cf22050f1224c2343646a0f2
+julia 0.6
+ArgParse 0.5.0
+YAML 0.2.1
+FilePaths 0.3.0
+Mocking 0.3.4
+Compat 0.17.0
+Memento 0.2.0
