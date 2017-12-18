@@ -26,3 +26,9 @@ julia 0.6
 julia 0.6
 Requires
 @windows WinRPM
+
+0.2.1
+-----
+980c76824455003c4d179336cf65180a2ed925f8
+julia 0.6
+Requires
