@@ -21,3 +21,11 @@ DataFrames 0.0.0 0.11.0
 DataTables
 BinDeps
 @windows WinRPM
+
+0.2.0
+-----
+0a03afeb0858277253db484cc1810899510fdd84
+julia 0.6
+DataValues 0.3.0
+BinDeps
+@windows WinRPM

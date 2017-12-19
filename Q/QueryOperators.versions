@@ -34,3 +34,11 @@ julia 0.6
 DataStructures 0.4.5
 NamedTuples 3.0.2
 IteratorInterfaceExtensions 0.0.1
+
+0.2.0
+-----
+3f99898151d433b1600e7486e9c2076b5a691183
+julia 0.6
+DataStructures 0.4.5
+NamedTuples 3.0.2
+IteratorInterfaceExtensions 0.0.1
