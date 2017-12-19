@@ -1,0 +1,14 @@
+https://github.com/JuliaDynamics/DynamicalSystemsBase.jl.git
+
+0.1.0
+-----
+020890d73ecc896b46cd197e7eb0887a58703313
+julia 0.6
+OrdinaryDiffEq 2.17.0
+ForwardDiff 0.5
+Requires 0.4.3
+StaticArrays 0.5.0
+StatsBase 0.8.2
+IterTools
+NearestNeighbors
+LsqFit

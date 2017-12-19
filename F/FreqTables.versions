@@ -31,3 +31,11 @@ julia 0.6
 NamedArrays
 CategoricalArrays 0.3.0
 DataFrames 0.11.0
+
+0.2.1
+-----
+0d70f4a9396af9f99aad3bbb453f4650a9f29a88
+julia 0.6
+NamedArrays
+CategoricalArrays 0.3.0
+DataFrames 0.11.0

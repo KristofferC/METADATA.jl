@@ -4,7 +4,7 @@ https://github.com/davidanthoff/StatFiles.jl.git
 -----
 94fad8c025ec09643176563cee8f9e55e63e08f9
 julia 0.6-pre
-ReadStat 0.1.1
+ReadStat 0.1.1 0.2.0
 IterableTables 0.2.0 0.5.0
 DataValues 0.1.0
 DataFrames 0.10.0 0.11.0
@@ -14,7 +14,7 @@ FileIO 0.4.0
 -----
 556a73a59c949314160a097e16873bd33c4324b4
 julia 0.6-pre
-ReadStat 0.1.1
+ReadStat 0.1.1 0.2.0
 IterableTables 0.2.0 0.5.0
 DataValues 0.1.0
 DataFrames 0.10.0 0.11.0
@@ -25,7 +25,7 @@ FileIO 0.4.0
 4d6549db9cca9bf54388df1d19fdd2c83453cf7e
 julia 0.6
 TableTraits 0.0.1
-ReadStat 0.1.1
+ReadStat 0.1.1 0.2.0
 IterableTables 0.5.0
 DataValues 0.1.0
 DataFrames 0.10.0 0.11.0
@@ -36,7 +36,7 @@ FileIO 0.4.0
 a7d0cd6324abba2b20931fe45caf608db1c37beb
 julia 0.6
 TableTraits 0.0.1
-ReadStat 0.1.1
+ReadStat 0.1.1 0.2.0
 IterableTables 0.5.0
 DataValues 0.1.0
 DataFrames 0.10.0 0.11.0

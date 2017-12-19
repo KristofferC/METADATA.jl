@@ -43,3 +43,9 @@ Compat 0.17.0
 URIParser 0.1.8
 Glob 1.1.1
 Humanize 0.4.1
+
+0.4.0
+-----
+150b24eaf5961c7715f5f6db9365e2217891ec11
+julia 0.5
+Compat 0.17.0

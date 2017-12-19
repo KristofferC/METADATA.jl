@@ -92,28 +92,28 @@ Parameters
 -----
 5979facd949db19a0e5b66d24aa142f703578880
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 
 3.0.1
 -----
 c8caed81cbe0093134e042dacca8a72082e01bde
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 
 3.1.0
 -----
 675f5b5a17d70ea9e68295fe4d065bbc5821e1ed
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 
 3.2.0
 -----
 56155bdb64d660452c1f014eac3d51e8e3608c71
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 NaNMath
 
@@ -121,7 +121,7 @@ NaNMath
 -----
 5cd79f4b48814ab39abdefbc81cb25dc6b83b4a4
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 NaNMath
 
@@ -129,7 +129,7 @@ NaNMath
 -----
 deb45fbddfab3eac415e5a87a91fb1fd1872e23e
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 NaNMath
 
@@ -137,6 +137,6 @@ NaNMath
 -----
 0990b553e96f7ba0da51eea21cce78c083749606
 julia 0.6
-NLSolversBase 3.0 4.0
+NLSolversBase 3.0
 Parameters
 NaNMath
