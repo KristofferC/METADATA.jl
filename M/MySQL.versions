@@ -31,3 +31,10 @@ julia 0.5
 DataFrames 0.0.0 0.11.0
 Compat 0.17.0
 ConfParser
+
+0.3.0
+-----
+5fa2ad2d8653f53ed4293a1b612c99f300144231
+julia 0.6
+DataFrames 0.11
+Compat 0.39.0
