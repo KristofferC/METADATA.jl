@@ -13,3 +13,10 @@ Reexport
 julia 0.6
 StructIO 0.2
 Reexport
+
+0.1.3
+-----
+76b59ecd0b67464ca3055d0c0de49b3423b02e84
+julia 0.6
+StructIO 0.2
+Reexport
