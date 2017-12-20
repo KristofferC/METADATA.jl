@@ -203,3 +203,16 @@ IterableTables 0.5.0
 DataValues 0.0.2
 MacroTools 0.3.7
 QueryOperators 0.0.1
+
+0.9.0
+-----
+68cc983dea9f9f39b56eaa2c27405d819293a64a
+julia 0.6.0
+TableTraits 0.0.1
+NamedTuples 3.0.2
+Requires 0.4.3
+Documenter 0.9.0
+IterableTables 0.5.0
+DataValues 0.3.1
+MacroTools 0.3.7
+QueryOperators 0.0.1
