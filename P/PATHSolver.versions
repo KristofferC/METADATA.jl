@@ -55,3 +55,11 @@ BinDeps
 julia 0.5
 ForwardDiff 0.2
 BinDeps
+
+0.3.0
+-----
+685be2f43d2e5486ce0df3da58b548e9f2145cf7
+julia 0.5
+ForwardDiff 0.2
+BinDeps
+FunctionWrappers 0.1
