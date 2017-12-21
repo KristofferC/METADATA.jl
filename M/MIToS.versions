@@ -172,3 +172,25 @@ PkgBenchmark
 NamedArrays
 JLD
 RecipesBase
+
+2.1.1
+-----
+964bb6bfde0ec4f6563df7820159cdb24f492987
+julia 0.6
+LightXML
+GZip
+AutoHashEquals
+DataStructures
+Formatting
+PairwiseListMatrices
+ArgParse
+ROCAnalysis
+Clustering
+StaticArrays
+FastaIO
+Requests
+PkgBenchmark
+NamedArrays
+JLD
+RecipesBase
+ProgressMeter
