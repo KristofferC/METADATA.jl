@@ -72,3 +72,9 @@ DataStructures
 bba3dd267b61dbb9ec8b578b305f410e9ef02f38
 julia 0.6
 DataStructures
+
+0.2.0
+-----
+ea5457d98c692f234200be6b8afed1444aab337e
+julia 0.7.0-DEV.2359
+DataStructures
