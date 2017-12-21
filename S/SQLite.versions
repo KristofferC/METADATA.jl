@@ -1,4 +1,4 @@
-git://github.com/JuliaDB/SQLite.jl.git
+git://github.com/JuliaDatabases/SQLite.jl.git
 
 0.1.0
 -----
