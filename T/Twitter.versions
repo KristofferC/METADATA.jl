@@ -76,3 +76,11 @@ julia 0.4
 DataFrames 0.0.0 0.11.0
 OAuth
 Compat
+
+0.4.0
+-----
+d4b5b25817243f3879aed2c69bf5262b060f7d3d
+julia 0.6
+DataFrames 0.11
+OAuth
+JSON

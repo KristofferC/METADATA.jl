@@ -4,3 +4,9 @@ https://github.com/awllee/SequentialMonteCarlo.jl.git
 -----
 a399adf1105e0db2c844c8aa859c9de40bb66aad
 julia 0.6
+
+0.0.2
+-----
+04e230201060357cdce24aaea4246775f403884e
+julia 0.6
+Compat 0.38

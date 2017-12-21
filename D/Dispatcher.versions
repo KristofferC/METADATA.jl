@@ -62,3 +62,16 @@ DataStructures 0.5.0
 AutoHashEquals 0.1.2
 Memento 0.1.0
 ResultTypes
+
+0.4.1
+-----
+2fd623b5b6a3b7a1a768b7ccafa9ae751dd0bac6
+julia 0.6
+Compat 0.30.0
+IterTools 0.1.0
+LightGraphs 0.7.0
+DeferredFutures 0.5.0
+DataStructures 0.5.0
+AutoHashEquals 0.1.2
+Memento 0.3.2
+ResultTypes

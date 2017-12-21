@@ -30,3 +30,11 @@ julia 0.5
 Compat 0.18.0
 Distributions 0.12.2
 DataStructures 0.4.3
+
+0.2.0
+-----
+3593e96719ebdc071086d442eb0bc805c0ad6c0e
+julia 0.6
+Distributions 0.12.2
+DataStructures 0.4.3
+Tokenize 0.1.0
