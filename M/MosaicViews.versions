@@ -1,0 +1,8 @@
+https://github.com/JuliaArrays/MosaicViews.jl.git
+
+0.0.1
+-----
+159f024e7f840701d93d2ee52c1c27c31d458498
+julia 0.6
+ImageCore 0.5
+PaddedViews 0.2

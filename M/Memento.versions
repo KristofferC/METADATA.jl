@@ -61,3 +61,11 @@ julia 0.6
 Compat 0.37.0
 Syslogs 0.0.1
 JSON 0.16.1
+
+0.5.0
+-----
+57ce5c92824a388d5cdcf6e9813c6ae0b935cec1
+julia 0.6
+Compat 0.37.0
+Syslogs 0.0.1
+JSON 0.16.1

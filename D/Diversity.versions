@@ -99,3 +99,10 @@ f0a356e135055b008cb6ffaf978997f1d471511c
 julia 0.5
 Compat 0.18.0
 DataFrames 0.9.0 0.11.0
+
+0.4.0
+-----
+8ccd5c140ec4c782fb916731d7764836e4958a80
+julia 0.6
+DataFrames 0.9.0
+Phylo 0.2.0
