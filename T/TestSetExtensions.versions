@@ -17,3 +17,10 @@ BaseTestNext
 5ff61be824011fecdee667eee4caf06292544114
 julia 0.6.0-pre
 DeepDiffs
+
+1.1.1
+-----
+eda235d4fe4aa538d4bf1d6c3a9b5843d2259bba
+julia 0.6.0
+Compat 0.33
+DeepDiffs

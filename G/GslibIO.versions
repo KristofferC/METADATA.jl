@@ -17,3 +17,9 @@ FileIO
 1028c48de8bd7f6c2e9d0c4fc324ff944d1b2138
 julia 0.6
 FileIO
+
+0.1.2
+-----
+b89ad8b53b5e73ac2f1b7408b6bcca4ccf354b54
+julia 0.6
+FileIO
