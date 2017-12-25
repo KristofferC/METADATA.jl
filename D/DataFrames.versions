@@ -77,6 +77,20 @@ DataStreams 0.3.0
 CodecZlib 0.4
 Compat 0.36.0
 
+0.11.3
+------
+f24817da5fa7b62aa7836b8ae839e7244449d7be
+julia 0.6
+Missings 0.2.3
+CategoricalArrays 0.3.2
+StatsBase 0.11.0
+SortingAlgorithms
+Reexport
+WeakRefStrings 0.4.0
+DataStreams 0.3.0
+CodecZlib 0.4
+Compat 0.40.0
+
 0.2.0
 -----
 b5f0fe945459e268939c653dfceafac5c13d393d
