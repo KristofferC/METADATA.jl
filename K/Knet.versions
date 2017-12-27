@@ -96,3 +96,14 @@ AutoGrad 0.0.9
 # Images  # for vgg
 # MAT     # for vgg
 # Compat  # for mnist,vgg,charlm
+
+0.9.0
+-----
+ab1ae23baef74f4feab6f455f90b1d36204674fb
+julia 0.6
+AutoGrad 0.0.9
+Compat 0.33.0
+# The following are used by the build script if installed.
+# CUDAapi, CUDAdrv, Documenter
+# We need the following for some examples. They get automatically installed when needed.
+# ArgParse, JLD, JLD2, Images, GZip, MAT, PyCall, JSON, IJulia, BenchmarkTools, Distributions

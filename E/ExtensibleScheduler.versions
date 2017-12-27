@@ -1,0 +1,9 @@
+https://github.com/scls19fr/ExtensibleScheduler.jl.git
+
+0.0.1
+-----
+437c4ba79b6e34886e7731e0b1971fcfbf88afd9
+julia 0.6
+DataStructures
+TimeFrames
+TimeZones
