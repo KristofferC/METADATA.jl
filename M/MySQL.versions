@@ -38,3 +38,12 @@ ConfParser
 julia 0.6
 DataFrames 0.11
 Compat 0.39.0
+
+0.4.0
+-----
+9df77e9aec4923340bcfa90f8048e03232967a72
+julia 0.6
+DataStreams
+Compat 0.39.0
+Missings
+DecFP
