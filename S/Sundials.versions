@@ -179,6 +179,16 @@ Reexport
 DataStructures
 Roots
 
+0.19.0
+------
+4361454b9e2d2d33fd1f9a4b202fcbeb95e3b0aa
+julia 0.6.0
+BinDeps 0.4.3
+DiffEqBase 2.8.0
+Reexport
+DataStructures
+Roots
+
 0.2.0
 -----
 209b3b84a3f5e9e7455eac75d70ac220f4826c2c
