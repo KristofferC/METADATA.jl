@@ -11,3 +11,15 @@ JuMP 0.14
 6dce01ba91fe34d08452ad09ed9dcd25bef9d923
 julia 0.5
 JuMP 0.16
+
+0.0.3
+-----
+bdf1af180ba4d661ae1aed650593812b5cb195df
+julia 0.6
+JuMP 0.16
+
+0.1.0
+-----
+bdf1af180ba4d661ae1aed650593812b5cb195df
+julia 0.6
+JuMP 0.16
