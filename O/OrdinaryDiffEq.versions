@@ -1350,6 +1350,25 @@ Compat 0.18.0
 StaticArrays
 DiffEqDiffTools 0.0.0 0.1.0
 
+2.32.0
+------
+5f415aea370918a9d4dd41c7d574efcb596e9a94
+julia 0.6.0
+DiffEqBase 2.8.0
+Parameters 0.5.0
+ForwardDiff 0.7.0
+GenericSVD 0.0.2
+NLsolve 0.12.1
+RecursiveArrayTools 0.13.0
+Juno 0.2.5
+DiffEqDiffTools 0.2.0
+Roots 0.2.1
+DataStructures 0.4.6
+Compat 0.18.0
+Reexport
+MuladdMacro 0.0.2
+StaticArrays
+
 2.4.0
 -----
 0a36dd322f82ff4bc51683d2c2ad347fa760007e
