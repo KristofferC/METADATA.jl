@@ -894,3 +894,15 @@ Compat 0.19.0
 Requires
 LinearMaps
 FunctionWrappers
+
+2.8.1
+-----
+38ef291e544715ffc98c906fd8ab1e27aa6941a8
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.12.3
+SimpleTraits 0.1.1
+Compat 0.19.0
+Requires
+LinearMaps
+FunctionWrappers
