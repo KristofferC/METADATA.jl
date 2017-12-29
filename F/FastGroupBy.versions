@@ -1,0 +1,11 @@
+https://github.com/xiaodaigh/FastGroupBy.jl.git
+
+0.1.0
+-----
+1ccd65d8658deccaf8878d7403f9105cc1edc759
+julia 0.6
+SortingAlgorithms
+DataFrames
+IndexedTables
+PooledArrays
+CategoricalArrays
