@@ -5,3 +5,10 @@ https://github.com/v-i-s-h/MAB.jl.git
 743dba23afc0a4695020e494b5097371d99c84ed
 julia 0.6
 Distributions
+
+0.0.2
+-----
+7fe6e8845b269c23cc200ac3d3e855e0869cfae3
+julia 0.6
+Distributions
+Requires

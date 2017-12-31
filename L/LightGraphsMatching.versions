@@ -1,0 +1,11 @@
+https://github.com/JuliaGraphs/LightGraphsMatching.jl.git
+
+0.0.1
+-----
+ae1da325f9e9795a72550c11085d5e817c19bc7c
+julia 0.6
+LightGraphs 0.9.0
+JuMP 0.13.2
+MatrixDepot
+BlossomV 0.1
+GLPKMathProgInterface 0.3.2

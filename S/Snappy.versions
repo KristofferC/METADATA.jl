@@ -21,3 +21,9 @@ BinDeps
 julia 0.5
 BinDeps
 @osx Homebrew
+
+0.2.0
+-----
+79f0ae8e319ca5dbfb530fe2ec99ca23160540e4
+julia 0.6
+BinaryProvider 0.1.1
