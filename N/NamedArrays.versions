@@ -115,3 +115,11 @@ julia 0.5
 Combinatorics 0.2.1
 DataStructures 0.4.4
 Compat 0.18
+
+0.7.0
+-----
+41d7c452e858f55ef6671f5e449019adfd1a5d93
+julia 0.6
+Combinatorics 0.2.1
+DataStructures 0.4.4
+Compat 0.18
