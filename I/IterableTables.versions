@@ -97,3 +97,12 @@ NamedTuples 4.0.0
 Requires 0.4.3
 DataValues 0.0.3
 TableTraits 0.0.1
+
+0.6.1
+-----
+14742ae2a2ba9da311c1a351dff2c45aa8c32e02
+julia 0.6.0
+NamedTuples 4.0.0
+Requires 0.4.3
+DataValues 0.0.3
+TableTraits 0.0.1
