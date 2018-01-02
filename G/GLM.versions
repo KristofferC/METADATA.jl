@@ -7,6 +7,17 @@ DataFrames 0.0.0 0.11.0
 Distributions
 StatsBase 0.0.0 0.8.3
 
+0.10.0
+------
+83f1e4c5540774109ee4f75008a6db3739028916
+julia 0.6
+Compat 0.33.0
+Distributions 0.10.0
+StatsBase 0.12.0
+StatsFuns 0.3.0
+StatsModels 0.2.0
+SpecialFunctions 0.1.0
+
 0.2.0
 -----
 d4e951dbfce965fa4a8dca4897fd6eadbacf40ab
