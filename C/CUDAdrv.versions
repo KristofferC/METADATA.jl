@@ -95,39 +95,46 @@ Compat 0.18.0
 fc18bbad0c2286cbd42b2bc8b101663b18df38c5
 julia 0.5
 Compat 0.18.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
 
 0.5.4
 -----
 fd6bcf0ce096e19ab4317d0b412b3f1244eb509f
 julia 0.5
 Compat 0.18.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
 
 0.6.0
 -----
 eddd27ac3b6a28fb1e78e94ab868082f9db80a99
 julia 0.6
 Compat 0.33.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
 
 0.6.1
 -----
 dccdaa0f39477e9570b5c24d0b15ac849e93582f
 julia 0.6
 Compat 0.33.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
 
 0.7.0
 -----
 9dc229600e70223b4ab4cfab7bc23e4b36da7bf0
 julia 0.6
 Compat 0.33.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
 
 0.7.1
 -----
 c8badc7cb74a293563dda87dc0990843300e91ce
 julia 0.6
 Compat 0.39.0
-CUDAapi 0.1.1
+CUDAapi 0.1.1 0.3.0
+
+0.7.2
+-----
+a8b2e3ca93a3a2be5b525f3bdf09425363b823c9
+julia 0.6
+Compat 0.39.0
+CUDAapi 0.3.0
