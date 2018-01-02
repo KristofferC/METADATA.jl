@@ -1,0 +1,8 @@
+https://github.com/xiaodaigh/fstformat.jl.git
+
+0.0.2
+-----
+0325069b7c171b0db189c69c5636596505ab3e43
+julia 0.6
+RCall
+DataFrames
