@@ -202,3 +202,14 @@ OnlineStats v0.13.0
 PooledArrays
 TableTraits 0.0.1
 TableTraitsUtils 0.0.1
+
+0.5.0
+-----
+ccd3d529dea15f1726065ae838333b71215b6bb7
+julia 0.6
+Compat 0.19
+NamedTuples 2.1.0
+OnlineStats v0.13.0
+PooledArrays
+TableTraits 0.0.1
+TableTraitsUtils 0.0.1
