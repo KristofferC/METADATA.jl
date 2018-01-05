@@ -1,0 +1,11 @@
+https://github.com/davidanthoff/DataVoyager.jl.git
+
+0.0.1
+-----
+63b76a2d08052bceb9b6b3e88c303b6cf515f82d
+julia 0.6
+Blink 0.6.0
+IteratorInterfaceExtensions 0.0.2
+TableTraits 0.0.3
+IterableTables 0.6.1
+DataValues 0.3.0
