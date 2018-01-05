@@ -290,3 +290,10 @@ Compat 0.17.0
 julia 0.5
 ForwardDiff 0.2.0
 Compat 0.17.0
+
+0.4.3
+-----
+ec3880e688aeba77869e9df3a9d3f249f8aa3d8b
+julia 0.5
+ForwardDiff 0.2.0
+Compat 0.17.0

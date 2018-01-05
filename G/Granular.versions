@@ -31,3 +31,12 @@ Compat 0.9.1
 BinDeps 0.3
 @osx Homebrew 0.0.4-
 @windows WinRPM
+
+0.3.0
+-----
+8865827dedc7decf65a8434242e8e5a0e9c62a93
+julia 0.6
+WriteVTK
+NetCDF
+Documenter
+Compat 0.9.1

@@ -5,3 +5,9 @@ git://github.com/rawls238/Bandits.jl.git
 9faa9033c8972fb3a6b1035a2d1c75947a07e404
 julia 0.6
 Distributions 0.14.2
+
+0.1.0
+-----
+e95fca0247d37fc9d6d10a3465d610fbf69e05ce
+julia 0.6
+Distributions 0.14.2

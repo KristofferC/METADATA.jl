@@ -23,3 +23,15 @@ Gadfly 0.6
 JLD 0.8
 Measures 0.1
 StatsBase 0.18
+
+0.3.0
+-----
+3c0c5351a40362d183ce318ba0c156b3ea3392eb
+julia 0.6 0.7-
+Clustering 0.5
+Distances 0.2.1
+FileIO 0.3
+Gadfly 0.6.4
+JLD 0.6.10
+Measures 0.0.1
+StatsBase 0.15

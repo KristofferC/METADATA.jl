@@ -35,3 +35,15 @@ Memoize
 Blosc
 Libz
 EMIRT
+
+0.6.1
+-----
+a6344ebf578c27f29946af1581c0bd2a71f77b98
+julia 0.6
+JSON
+#HDF5
+Memoize
+#ImageMagick
+Blosc
+Libz
+EMIRT

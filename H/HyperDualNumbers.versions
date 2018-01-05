@@ -60,9 +60,23 @@ julia 0.5.2
 Compat
 SpecialFunctions
 
+1.1.1
+-----
+2ed701fa3b1bf24897c9b309a59d774208b5a98b
+julia 0.5.2
+Compat
+SpecialFunctions
+
 2.0.0
 -----
 f6f75ce6062e2e2eea6dd0465d77a83e35f14c6e
+julia 0.7-
+Compat
+SpecialFunctions
+
+2.0.1
+-----
+78b86749b7129d7034d7b2044cde78ded40e1b3c
 julia 0.7-
 Compat
 SpecialFunctions
