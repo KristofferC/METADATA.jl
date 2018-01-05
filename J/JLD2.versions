@@ -31,3 +31,12 @@ julia 0.6
 DataStructures
 Libz
 FileIO 0.5.0
+
+0.0.5
+-----
+996f4c8744c58e8166d7c9da8cb4c57725521f30
+julia 0.6
+DataStructures
+Libz
+FileIO 0.5.0
+Compat 0.33

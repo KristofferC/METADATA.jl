@@ -13,3 +13,17 @@ e777aa7b4d71af843be1639bbc20d6198f3fdaee
 julia 0.5
 BinDeps
 Compat 0.9.1
+
+0.1.1
+-----
+a430c60a2115069889f56b2b1637ccb5907236c4
+julia 0.5
+BinDeps
+Compat 0.9.1
+
+0.2.0
+-----
+5eb7d11a4a042607b7b83bbe859b8aa6206053b5
+julia 0.5
+BinDeps
+Compat 0.9.1

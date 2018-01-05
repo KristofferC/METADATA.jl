@@ -177,9 +177,31 @@ BinDeps 0.4.3
 Compat 0.17
 @osx Homebrew 0.4.0
 
+2.0.2
+-----
+d58a4b2ed802cb367b7275ec177a4844978d5ee4
+julia 0.6.0
+Documenter 0.10.0
+#Mamba 0.10
+#Gadfly 0.5.2
+BinDeps 0.4.3
+Compat 0.17
+@osx Homebrew 0.4.0
+
 3.0.0
 -----
 fcda5485b13c328e7dfeded604dd1d1e6249874a
+julia 0.7-
+Documenter 0.10.0
+#Mamba 0.10
+#Gadfly 0.5.2
+BinDeps 0.4.3
+Compat 0.17
+@osx Homebrew 0.4.0
+
+3.0.1
+-----
+076736fd395103011c9a73e4588aac78e97beb41
 julia 0.7-
 Documenter 0.10.0
 #Mamba 0.10
