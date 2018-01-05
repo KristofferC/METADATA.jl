@@ -758,6 +758,26 @@ RandomNumbers
 MuladdMacro
 DiffEqDiffTools 0.2.0
 
+2.23.0
+------
+89a3f660a21787edd6ea5701eb85e3d109800183
+julia 0.6.0
+Parameters 0.5.0
+DiffEqBase 2.8.0
+RecursiveArrayTools 0.13.0
+DataStructures 0.4.6
+Juno 0.2.5
+Roots
+Compat 0.17.0
+DiffEqNoiseProcess 0.5.0
+NLsolve
+ForwardDiff 0.7.0
+StaticArrays
+Reexport
+RandomNumbers
+MuladdMacro
+DiffEqDiffTools 0.2.0
+
 2.3.0
 -----
 ae69ef4f5cd80e2c7d36f479e59a57ec4d6e8e22

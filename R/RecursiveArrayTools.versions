@@ -134,6 +134,14 @@ Requires
 RecipesBase 0.1.0
 StaticArrays
 
+0.14.1
+------
+b6a1411807f6d1916dd4523cccdcd37837b0d0f8
+julia 0.6
+Requires
+RecipesBase 0.1.0
+StaticArrays
+
 0.2.0
 -----
 0c3431dd08ba840ad1d807c835e42d2360d9b411
