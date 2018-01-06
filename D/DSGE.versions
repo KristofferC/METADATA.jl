@@ -62,7 +62,7 @@ DataStructures
 Distributions
 FredData
 HDF5
-Optim 0.5
+Optim 0.5 0.7
 QuantEcon
 Roots
 DataFrames 0.0.0 0.11.0
@@ -76,7 +76,7 @@ DataStructures
 Distributions
 FredData
 HDF5
-Optim 0.7
+Optim 0.7 0.12
 QuantEcon
 Roots
 DataFrames 0.0.0 0.11.0
@@ -92,7 +92,7 @@ Distributions
 FredData
 HDF5
 JLD
-Optim 0.7
+Optim 0.7 0.12
 QuantEcon
 Roots
 StateSpaceRoutines
@@ -108,7 +108,7 @@ Distributions
 FredData
 HDF5
 JLD
-Optim 0.7
+Optim 0.7 0.12
 QuantEcon
 Roots
 StateSpaceRoutines
@@ -124,7 +124,7 @@ Distributions
 FredData
 HDF5
 JLD
-Optim 0.7
+Optim 0.7 0.12
 QuantEcon
 Roots
 StateSpaceRoutines
@@ -140,7 +140,7 @@ Distributions
 FredData
 HDF5
 JLD
-Optim 0.7
+Optim 0.7 0.12
 QuantEcon
 Plots
 Roots
