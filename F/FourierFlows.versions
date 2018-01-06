@@ -1,0 +1,8 @@
+https://github.com/navidcy/FourierFlows.jl.git
+
+0.0.1
+-----
+4fd3a525bc19cdcd86d836af03eedcc6e45e96f1
+julia 0.6
+JLD2 0.0.4
+SpecialFunctions 0.3.6

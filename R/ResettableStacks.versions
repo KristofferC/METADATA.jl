@@ -14,3 +14,9 @@ julia 0.5
 -----
 a736e8ed3794e6175ee3dfa44efb62ac9c395478
 julia 0.5
+
+0.3.0
+-----
+7957112385732861634c1cb127df4f45e6a6b711
+julia 0.6
+StaticArrays
