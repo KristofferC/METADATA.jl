@@ -1,0 +1,8 @@
+https://github.com/JuliaGraphs/LightGraphsFlows.jl.git
+
+0.0.1
+-----
+1856a5bd281b7f1eedc726ef0e1ac9bf4b90fdfc
+julia 0.6
+LightGraphs
+SimpleTraits
