@@ -38,3 +38,16 @@ StatsBase 0.8.2
 IterTools
 NearestNeighbors
 LsqFit
+
+0.3.0
+-----
+ba571c23b18f3513a08598e791e1769c2f80fab6
+julia 0.6
+OrdinaryDiffEq 2.17.0
+ForwardDiff 0.5
+Requires 0.4.3
+StaticArrays 0.5.0
+StatsBase 0.8.2
+IterTools
+NearestNeighbors
+LsqFit

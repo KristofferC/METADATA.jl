@@ -4,7 +4,7 @@ https://github.com/JuliaDynamics/ChaosTools.jl.git
 -----
 89a00c30c6ac386fe8c1ac7ef58423de1bea178b
 julia 0.6
-DynamicalSystemsBase 0.1.0
+DynamicalSystemsBase 0.1.0 0.1.1
 OrdinaryDiffEq 2.17.0
 ForwardDiff 0.5
 Requires 0.4.3
@@ -21,7 +21,7 @@ Reexport
 -----
 175f05a40eb0280597f62e25b3ae9828b9d0f48d
 julia 0.6
-DynamicalSystemsBase 0.2.0
+DynamicalSystemsBase 0.2.0 0.2.1
 OrdinaryDiffEq 2.17.0
 ForwardDiff 0.5
 Requires 0.4.3
@@ -38,7 +38,7 @@ Reexport
 -----
 8d3d0adce198ab19c0b76c50a3d7392f5ac9b617
 julia 0.6
-DynamicalSystemsBase 0.2.0
+DynamicalSystemsBase 0.2.0 0.2.1
 OrdinaryDiffEq 2.17.0
 ForwardDiff 0.5
 Requires 0.4.3
@@ -55,7 +55,7 @@ Reexport
 -----
 5cf6b944bb5f2ba2e4e3632b8ffc808e3a996ae6
 julia 0.6
-DynamicalSystemsBase 0.2.1
+DynamicalSystemsBase 0.2.1 0.2.2
 OrdinaryDiffEq 2.17.0
 ForwardDiff 0.5
 Requires 0.4.3
