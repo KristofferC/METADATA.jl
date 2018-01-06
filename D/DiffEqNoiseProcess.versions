@@ -148,3 +148,15 @@ DiffEqBase 1.13.0
 RecipesBase
 RecursiveArrayTools
 RandomNumbers
+
+0.8.0
+-----
+bc1c36f68e896aa78e5eb6dd48b4cc75a428b67b
+julia 0.6
+ResettableStacks 0.2.0
+DataStructures
+DiffEqBase 1.13.0
+RecipesBase
+RecursiveArrayTools
+RandomNumbers
+StaticArrays
