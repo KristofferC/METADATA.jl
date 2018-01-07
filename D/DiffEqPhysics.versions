@@ -34,3 +34,15 @@ ForwardDiff 0.5.0
 StaticArrays
 RecursiveArrayTools
 RecipesBase
+
+0.3.0
+-----
+692c2fc00e5eff13a36eb442fde224f2083ba814
+julia 0.6
+DiffEqBase 1.15.0
+OrdinaryDiffEq 2.33.0
+Reexport
+ForwardDiff 0.5.0
+StaticArrays
+RecursiveArrayTools
+RecipesBase
