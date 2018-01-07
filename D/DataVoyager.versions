@@ -20,3 +20,14 @@ TableTraits 0.0.3
 IterableTables 0.6.1
 DataValues 0.3.0
 JSON 0.9.1
+
+0.0.3
+-----
+16d583662c336af16f29816c804e8ac05e6685d2
+julia 0.6
+Blink 0.6.0
+IteratorInterfaceExtensions 0.0.2
+TableTraits 0.0.3
+IterableTables 0.6.1
+DataValues 0.3.0
+JSON 0.9.1

@@ -163,3 +163,16 @@ Mustache
 Documenter
 YAML
 Compat 0.25.0
+
+0.5.1
+-----
+eead8f24a85fbe7354bc704e1f9ed71701470fc0
+julia 0.6
+JLD2
+FileIO
+JSON
+Highlights
+Mustache
+Documenter
+YAML
+Compat 0.25.0

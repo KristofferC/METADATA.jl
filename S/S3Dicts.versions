@@ -10,3 +10,26 @@ JSON
 Retry
 Libz
 Memoize
+
+0.6.0
+-----
+c5739bff841ac818a26b7f3c3f2016d6a2dec9c0
+julia 0.6
+AWSCore
+AWSS3
+BigArrays
+JSON
+Retry
+Libz
+Memoize
+
+0.6.1
+-----
+897f5aad2a1945c6aa859e2d4700a53388cc4b31
+julia 0.6
+AWSCore
+AWSS3
+BigArrays
+JSON
+Retry
+Memoize

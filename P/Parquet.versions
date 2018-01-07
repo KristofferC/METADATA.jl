@@ -1,0 +1,12 @@
+https://github.com/JuliaComputing/Parquet.jl.git
+
+0.1.0
+-----
+a1b614f6502cff635028cba19df624c0d30e2cf4
+julia 0.6
+Thrift 0.0.1
+ProtoBuf 0.0.1
+Snappy 0.2.0
+Libz 0.2.4
+MemPool 0.0.1
+Compat 0.17.0

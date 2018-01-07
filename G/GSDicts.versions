@@ -7,3 +7,12 @@ julia 0.5
 JSON
 # BigArrays
 GoogleCloud
+
+0.6.0
+-----
+7333a9a854e09d430bfddd5a3cbb7b861411d041
+julia 0.6
+BigArrays
+JSON
+GoogleCloud
+Libz
