@@ -55,3 +55,13 @@ Distributions 0.11.0
 ForwardDiff
 Mamba
 ProgressMeter
+
+0.4.0
+-----
+3d1d8db25b51a95e32a4f55eb019589d83b611d0
+julia 0.6
+Stan
+Distributions 0.11.0
+ForwardDiff
+Mamba
+ProgressMeter
