@@ -159,3 +159,11 @@ b0f9b09e294609e45864544729e4f7373a15d2eb
 julia 0.6
 DynamicalSystemsBase 0.1.0
 ChaosTools 0.1.0
+
+0.9.0
+-----
+91a2d75cae42131348c08c0f5413a12ad588e95e
+julia 0.6
+DynamicalSystemsBase 0.3.1
+ChaosTools 0.4.0
+Reexport
