@@ -1,0 +1,17 @@
+https://github.com/mbesancon/WebFuncs.jl.git
+
+0.0.1
+-----
+ef1c292da107847d9bc518c72250d04e7ed83a29
+julia 0.6
+HttpServer
+JSON
+Unmarshal
+
+0.1.0
+-----
+a3292a748c58300d8ed92ce6cae4a5b0bb53b31e
+julia 0.6
+HttpServer
+JSON
+Unmarshal

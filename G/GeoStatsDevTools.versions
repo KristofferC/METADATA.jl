@@ -56,3 +56,12 @@ GeoStatsBase 0.0.5
 DataFrames 0.11.0
 CSV 0.2.0
 Parameters 0.7.3
+
+0.0.8
+-----
+40d0754ddda531b0255896f304cc58bd1610443e
+julia 0.6
+GeoStatsBase 0.0.5
+DataFrames 0.11.0
+CSV 0.2.0
+Parameters 0.7.3

@@ -6,3 +6,11 @@ https://github.com/sisl/ExprOptimization.jl.git
 julia 0.6
 Reexport
 ExprRules
+
+0.1.1
+-----
+01437f68fe724172d4ef8038c44f8d88a39941f3
+julia 0.6
+Reexport
+Discretizers
+ExprRules
