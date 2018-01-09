@@ -1,0 +1,11 @@
+https://github.com/tkluck/PolynomialRings.jl.git
+
+0.1.0
+-----
+9fe68f39dcd046205b9efb6077ef7e7529749a99
+julia 0.6
+Iterators
+DataStructures
+Documenter
+Combinatorics
+Nulls

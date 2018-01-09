@@ -71,3 +71,9 @@ BusinessDays
 5ea65308d3e069e4c21fee3115faf6ab3cd89cec
 julia 0.5
 BusinessDays
+
+0.2.0
+-----
+957e95d79c3d9cb2088ae6624511c112df397fea
+julia 0.6
+BusinessDays
