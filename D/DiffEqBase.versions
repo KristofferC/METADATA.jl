@@ -751,6 +751,18 @@ Requires
 LinearMaps
 FunctionWrappers
 
+2.10.1
+------
+e344bc17e7b5b7ea0fc25299686d73f175d5df12
+julia 0.6
+RecipesBase 0.1.0
+RecursiveArrayTools 0.12.3
+SimpleTraits 0.1.1
+Compat 0.19.0
+Requires
+LinearMaps
+FunctionWrappers
+
 2.2.0
 -----
 158eecc43c61b05e4062778d074e2c6f03074fc8
