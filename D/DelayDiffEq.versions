@@ -311,7 +311,7 @@ DiffEqDiffTools 0.2.0
 0427380909b1eedde2e8f6caeea52a3633d753d9
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.31.0
+OrdinaryDiffEq 2.31.0 2.35.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport
@@ -326,7 +326,7 @@ DiffEqDiffTools 0.2.0
 66c1cf2771196a7c2757471e9e5204d7c19f1746
 julia 0.6
 DiffEqBase 2.0.0
-OrdinaryDiffEq 2.31.0
+OrdinaryDiffEq 2.31.0 2.35.0
 DataStructures 0.4.6
 RecursiveArrayTools 0.2.0
 Reexport
