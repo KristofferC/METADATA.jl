@@ -162,3 +162,13 @@ DataStreams 0.3.0
 DataFrames 0.11.0
 WeakRefStrings 0.4.0
 CategoricalArrays 0.3.0
+
+0.2.1
+-----
+982d5751d128172be43973552d1ce981060283fd
+julia 0.6
+DataStreams 0.3.0
+DataFrames 0.11.0
+WeakRefStrings 0.4.0
+CategoricalArrays 0.3.0
+Compat 0.41.0
