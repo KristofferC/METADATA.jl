@@ -103,3 +103,14 @@ RecursiveArrayTools
 DataStructures
 RecipesBase
 StaticArrays
+
+0.7.0
+-----
+4427686559d34971626f87b7ca8d3ff35c8ab2c2
+julia 0.6.0
+DiffEqBase 2.10.0
+OrdinaryDiffEq 2.34.0
+RecursiveArrayTools
+DataStructures
+RecipesBase
+StaticArrays
