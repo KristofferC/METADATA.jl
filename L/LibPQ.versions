@@ -20,3 +20,19 @@ DataStreams 0.3.1
 DocStringExtensions
 Missings 0.2.1
 Memento 0.3
+
+0.1.0
+-----
+2c32639cecd86496ea7f8eb0588de39267c2a7f5
+julia 0.6
+BinDeps 0.6
+Compat 0.37
+DataStreams 0.3.1
+DocStringExtensions
+Decimals 0.2.1
+IterTools
+LayerDicts
+Missings 0.2.1
+Memento 0.3
+OffsetArrays
+TimeZones
