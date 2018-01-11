@@ -207,6 +207,36 @@ ForwardDiff
 NLsolve
 Roots
 
+1.10.0
+------
+897ff29ff04918f1d2a62f4a0f29d335472887b6
+julia 0.6
+DiffEqBase 2.8.0
+OrdinaryDiffEq 2.31.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Reexport
+MuladdMacro
+ForwardDiff
+NLsolve
+Roots
+DiffEqDiffTools 0.2.0
+
+1.11.0
+------
+ebac81e0b9dfb20aa9dddb05fe4e2049ab84bc0b
+julia 0.6
+DiffEqBase 2.8.0
+OrdinaryDiffEq 2.35.0
+DataStructures 0.4.6
+RecursiveArrayTools 0.2.0
+Reexport
+MuladdMacro
+ForwardDiff
+NLsolve
+Roots
+DiffEqDiffTools 0.2.0
+
 1.2.0
 -----
 746d81fec06f594ad4c069daa90de9cdad7d8849
